@@ -79076,8 +79076,17 @@
 <li>Minimum 3-6 years of experience in R&amp;D / Engineering.</li>
 <li>Must have worked with electrical rotating machines design.</li>
 <li>Exposure in electrical rotating machines with R&amp;D/Engineering.</li>
-<li>Solid technical profi</li>
-</ul>]]></description>
+<li>Solid technical proficiency in Electrical motor design, e.g. Induction motor, testing and validation testing, Insulation system, electromagnetics, etc. FEA will be added advantage</li>
+</ul>
+<ul>
+<li>A solution-focused approach and strong written and spoken communication skills</li>
+</ul>
+<p>##</p>
+<h3><b>More about us:</b></h3>
+<p>The IEC Low Voltage Division is a technology leader delivering a full range of energy-efficient low voltage motors, including ultra-efficient solutions such as IE5 SynRM (synchronous reluctance motors). Through a global footprint, domain expertise and rugged designs, the Division provides reliable technology that improves efficiency and productivity even in the most demanding applications.</p>
+<p>#ABBCareers #RunwithABB #Runwhatrunstheworld</p>
+<p>Building a cleaner, smarter future takes all kinds of minds: the curious, the courageous, and the creative. We welcome people from all backgrounds and experiences.</p>
+<p>Ready to make an impact? Apply today or visit www.abb.com to learn more about the impact of our solutions across the globe.</p>]]></description>
     <url><![CDATA[https://sourceo.io/jobs/6a9f07d1ec77c68f318002d9]]></url>
     <location><![CDATA[Bangalore, Karnataka]]></location>
     <country><![CDATA[IN]]></country>
@@ -88816,8 +88825,40 @@
 <li>Support validation activities, design reviews, and engineering changes for new and existing products.</li>
 <li>Evaluate technologies, materials, and design approaches that strengthen product competitiveness.</li>
 <li>Support field and service teams with technical expertise and issue resolution when needed.</li>
-<li>Mentor team members and build engineering capab</li>
-</ul>]]></description>
+<li>Mentor team members and build engineering capability through coaching, review, and feedback.</li>
+</ul>
+<h3>How You Will Do It</h3>
+<ul>
+<li>You will take ownership of outcomes with accountability, safety, and integrity, ensuring engineering decisions are practical, traceable, and aligned to quality expectations.</li>
+<li>You will stay close to the work by engaging with design, manufacturing, and service teams early, so issues are identified and removed before they affect customers.</li>
+<li>You will use structured product development methods such as stage-gate thinking, DFMEA, and DVP&amp;R to keep programs disciplined and well controlled.</li>
+<li>You will encourage clear feedback, root-cause problem solving, and continuous improvement across product design, testing, and release activities.</li>
+<li>You will win as one team by collaborating across functions, building trust with stakeholders, and valuing diverse technical perspectives.</li>
+<li>You will keep documentation current and precise, including drawings, specifications, change records, and engineering deliverables.</li>
+<li>You will balance technical depth with practical execution, ensuring designs are ready for production and supportable in the field.</li>
+</ul>
+<h3>Qualifications</h3>
+<ul>
+<li>Bachelor’s or Master’s degree in Mechanical Engineering.</li>
+<li>10&amp;#43; years of experience in industrial refrigeration or chiller product design and development.</li>
+<li>At least 3 years of experience in a leadership or managerial role.</li>
+<li>Strong knowledge of thermodynamics, heat transfer, and refrigeration cycles.</li>
+<li>Proficiency in CAD tools such as AutoCAD and Creo.</li>
+<li>Experience with product development processes including DFMEA, DVP&amp;R, and stage-gate methodologies.</li>
+<li>Experience creating and reviewing engineering drawings, BOMs, and technical documentation.</li>
+<li>Excellent communication, project management, and team leadership skills.</li>
+</ul>
+<h3>Nice to Have</h3>
+<ul>
+<li>Experience with ASHRAE, ISO, PED, ASME, or API requirements in product development or compliance work.</li>
+<li>Exposure to pressure vessel and heat exchanger design for industrial refrigeration applications.</li>
+<li>Experience supporting manufacturing, procurement, or field issue resolution in a product development environment.</li>
+<li>Familiarity with continuous improvement practices in an engineering or manufacturing setting.</li>
+</ul>
+<h3>Why Join Us</h3>
+<p>Join a collaborative team where your engineering leadership can directly influence product performance, reliability, and customer outcomes. You will have the opportunity to work across disciplines, support meaningful product improvements, and contribute to a culture that values safety, development, and practical innovation.</p>
+<p>If you are ready to lead chiller product development and make an impact, we invite you to apply.</p>
+<p>Regenerate job description</p>]]></description>
     <url><![CDATA[https://sourceo.io/jobs/6a9b1027e54d1ecb38ed123e]]></url>
     <location><![CDATA[Pune, Maharashtra]]></location>
     <country><![CDATA[IN]]></country>
@@ -92664,97 +92705,6 @@
     <date><![CDATA[2026-09-03T19:16:54.912Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6a99c7a65e7caf25670532f2]]></id>
-    <title><![CDATA[ID - Rack Lifecycle Tech , Rack Lifecycle Team]]></title>
-    <description><![CDATA[<p>AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we’re the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain — and we’re looking for talented people who want to help.</p>
-<p>You’ll join a diverse team of software, hardware, and network engineers, supply chain specialists, security experts, operations managers, and other vital roles. You’ll collaborate with people across AWS to help us deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers. And you’ll experience an inclusive culture that welcomes bold ideas and empowers you to own them to completion.</p>
-<h3>Job Summary</h3>
-<p>We are looking for a detail-oriented, technically skilled Rack Lifecycle Tech to join our Rack Lifecycle Team within AWS Infrastructure Operations. In this individual contributor role, you will be a hands-on executor responsible for the physical installation, cabling, handoff, and decommissioning of racks across your assigned data center site. You are the person on the floor who turns capacity plans into operational reality.</p>
-<p>As a Rack Lifecycle Tech, you will execute structured cabling, rack installation, and decommission activities with precision and to standard — following established SOPs, escalating deviations to your team lead, and ensuring every rack you touch is installed correctly, cabled to specification, fully documented, and handed off with zero blockers. This is an individual contributor role with no people management responsibilities. Your work is foundational to AWS’s ability to deliver infrastructure capacity to customers reliably, safely, and at the lowest possible cost.</p>
-<p>Key job responsibilities 🔷 Rack Installation &amp; Cabling</p>
-<ul>
-<li>Execute rack installations including physical placement, power connections, grounding, and cable management per AWS standards and MOPs</li>
-<li>Perform structured cabling including fiber/copper terminations, patch panel connections, labeling, and dressing to specification</li>
-<li>Complete OTDR and power testing; validate results against acceptance thresholds; escalate failures to team lead promptly rather than self-resolving outside approved procedures</li>
-<li>Follow all EHS protocols, lockout/tagout (LOTO) procedures, and safe work practices during installation activities</li>
-</ul>
-<p>🔷 Rack Lifecycle Operations</p>
-<ul>
-<li>Execute work orders and tasks assigned by the Rack Lifecycle Team Manager under direct manager direction, maintaining accurate status updates in workflow management tools (e.g., Boost, MARS)</li>
-<li>Perform quality checks on completed cabling work including port map verification, label accuracy, and as-built documentation updates in CMDB/DCIM</li>
-<li>Identify and escalate issues, blockers, or deviations from SOPs encountered during task execution to the team lead or manager promptly; do not self-resolve outside approved procedures</li>
-<li>Support deployment wave readiness by participating in pre-work site walks, material staging, and tool preparation</li>
-</ul>
-<p>🔷 Material Handling &amp; Supply Chain Support</p>
-<ul>
-<li>Receive, verify, and stage incoming rack, cable, optics, and hardware deliveries; validate against BOM and flag discrepancies</li>
-<li>Maintain accurate site inventory records for cables, optics, patch cords, and consumables used during deployments</li>
-<li>Support cycle count activities and assist in identifying inventory shortfalls that may impact deployment timelines</li>
-</ul>
-<p>🔷 Handover &amp; Documentation</p>
-<ul>
-<li>Complete all required as-built documentation, port maps, test result records, and workflow sign-offs before handoff to Data Center Operations</li>
-<li>Update CMDB/DCIM and IPAM records accurately following rack installation or decommission activities</li>
-<li>Ensure handoffs are clean and fully documented with zero open blockers, enabling smooth transition to the next lifecycle phase</li>
-</ul>
-<p>🔷 Rack Decommissioning</p>
-<ul>
-<li>Execute physical decommission activities per assigned MOPs — including cable removal, power disconnects, asset de-tagging, and rack extraction</li>
-<li>Perform device wipe and media destruction in compliance with AWS Secure Media Destruction and EHS policies</li>
-<li>Sort, label, and stage recovered assets (optics, cables, PDUs, hardware) for RMA, redeployment, or secure disposal per AWS Reverse Logistics policy</li>
-<li>Update DCIM/CMDB, IPAM, and port maps post-decom to ensure accurate space, power, and circuit records</li>
-<li>Validate that reclaimed U-space, power, and cooling capacity is accurately recorded in the available pool</li>
-</ul>
-<p>🔷 Quality, Safety &amp; Compliance</p>
-<ul>
-<li>Adhere to all site-level SOPs, quality standards, and governance frameworks for cabling, installation, and decommission activities</li>
-<li>Complete all required safety training and certifications; participate in regular EHS audits and team safety briefings</li>
-<li>Contribute to continuous improvement by identifying recurring quality issues, suggesting process improvements, and sharing feedback with the Rack Lifecycle Team Manager</li>
-<li>Use Rack Lifecycle Team tooling (e.g., Boost, MARS, ALM/DCLM) accurately to record work, track assets, and maintain data integrity</li>
-</ul>
-<p>🔷 Cross-Team Coordination</p>
-<ul>
-<li>Support coordination with DCO, DCEO, Network Engineering, and facilities teams during active deployment or decom activities under manager guidance to ensure smooth execution</li>
-<li>Participate in daily stand-ups and pre-work briefings; communicate clearly on task status, blockers, and schedule adherence</li>
-<li>Provide accurate, timely updates on task completion and flag risks or delays to the team lead immediately</li>
-</ul>
-<p>🔷 Continuous Learning &amp; Development</p>
-<ul>
-<li>Maintain and develop technical proficiency in structured cabling, fiber optics, rack installation, and data center physical infrastructure</li>
-<li>Complete required certifications and training modules including EHS, LOTO, and any Rack Lifecycle Team-specific technical programs</li>
-<li>Proactively seek feedback from leads and managers to improve personal performance and output quality</li>
-<li>Support the onboarding and training of new team members; share knowledge and best practices with peers to build overall team capability and quality standards</li>
-<li>Stay current on AWS infrastructure tooling, cabling standards, and process updates communicated by the Rack Lifecycle Team</li>
-</ul>
-<p>A day in the life As a Rack Lifecycle Tech, your day is on the data center floor. You might start the morning by reviewing your assigned work orders in Boost, checking in with your team lead on priorities, and staging cables and optics for a rack installation wave. By midday, you could be terminating fiber runs at a patch panel, running OTDR tests to validate loss results against acceptance thresholds, or labeling and dressing a freshly installed rack. In the afternoon, you might be updating CMDB records for completed work orders, de-tagging and staging recovered assets from an EOL decom, or helping onboard a new technician by walking them through the SOP. If you encounter a deviation from the approved MOP, you escalate it to your team lead immediately — you don't improvise. Your role is hands-on, technical, and precise — you execute the work that keeps AWS capacity on track.</p>
-<p>About the team Diverse Experiences Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.</p>
-<p>Why AWS Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.</p>
-<p>Work/Life Balance We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve.</p>
-<p>Inclusive Team Culture AWS values curiosity and connection. Our employee-led and company-sponsored affinity groups promote inclusion and empower our people to take pride in what makes us unique. Our inclusion events foster stronger, more collaborative teams. Our continual innovation is fueled by the bold ideas, fresh perspectives, and passionate voices our teams bring to everything we do.</p>
-<p>Mentorship and Career Growth We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.</p>
-<h3>Basic Qualifications</h3>
-<ul>
-<li>2+ years of computer hardware troubleshooting and repair experience</li>
-<li>1+ years of computer networking experience</li>
-<li>High school or equivalent diploma</li>
-</ul>
-<h3>Preferred Qualifications</h3>
-<ul>
-<li>Experience dealing effectively with customers during problem resolution and operating efficiently under pressure</li>
-<li>Familiarity with rack decommissioning including device wipe, media destruction, and asset recovery procedures</li>
-</ul>
-<p>Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit [https://amazon.jobs/content/en/how-we-hire/accommodations](https://amazon.jobs/content/en/how-we-hire/accommodations) for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a99c7a65e7caf25670532f2]]></url>
-    <location><![CDATA[Mumbai, Maharashtra]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Amazon Web Services]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-03T19:16:54.896Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6a99c7a6853d6af6a3e6a3ae]]></id>
     <title><![CDATA[ID-LB Cabling Infrastructure Tech, Data Center Operations]]></title>
     <description><![CDATA[<p>AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we’re the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain — and we’re looking for talented people who want to help.</p>
@@ -92820,97 +92770,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-03T19:16:54.846Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6a99c7a63f542372e9fe6543]]></id>
-    <title><![CDATA[ID - Rack Lifecycle Tech , Rack Lifecycle Team]]></title>
-    <description><![CDATA[<p>AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we’re the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain — and we’re looking for talented people who want to help.</p>
-<p>You’ll join a diverse team of software, hardware, and network engineers, supply chain specialists, security experts, operations managers, and other vital roles. You’ll collaborate with people across AWS to help us deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers. And you’ll experience an inclusive culture that welcomes bold ideas and empowers you to own them to completion.</p>
-<h3>Job Summary</h3>
-<p>We are looking for a detail-oriented, technically skilled Rack Lifecycle Tech to join our Rack Lifecycle Team within AWS Infrastructure Operations. In this individual contributor role, you will be a hands-on executor responsible for the physical installation, cabling, handoff, and decommissioning of racks across your assigned data center site. You are the person on the floor who turns capacity plans into operational reality.</p>
-<p>As a Rack Lifecycle Tech, you will execute structured cabling, rack installation, and decommission activities with precision and to standard — following established SOPs, escalating deviations to your team lead, and ensuring every rack you touch is installed correctly, cabled to specification, fully documented, and handed off with zero blockers. This is an individual contributor role with no people management responsibilities. Your work is foundational to AWS’s ability to deliver infrastructure capacity to customers reliably, safely, and at the lowest possible cost.</p>
-<p>Key job responsibilities 🔷 Rack Installation &amp; Cabling</p>
-<ul>
-<li>Execute rack installations including physical placement, power connections, grounding, and cable management per AWS standards and MOPs</li>
-<li>Perform structured cabling including fiber/copper terminations, patch panel connections, labeling, and dressing to specification</li>
-<li>Complete OTDR and power testing; validate results against acceptance thresholds; escalate failures to team lead promptly rather than self-resolving outside approved procedures</li>
-<li>Follow all EHS protocols, lockout/tagout (LOTO) procedures, and safe work practices during installation activities</li>
-</ul>
-<p>🔷 Rack Lifecycle Operations</p>
-<ul>
-<li>Execute work orders and tasks assigned by the Rack Lifecycle Team Manager under direct manager direction, maintaining accurate status updates in workflow management tools (e.g., Boost, MARS)</li>
-<li>Perform quality checks on completed cabling work including port map verification, label accuracy, and as-built documentation updates in CMDB/DCIM</li>
-<li>Identify and escalate issues, blockers, or deviations from SOPs encountered during task execution to the team lead or manager promptly; do not self-resolve outside approved procedures</li>
-<li>Support deployment wave readiness by participating in pre-work site walks, material staging, and tool preparation</li>
-</ul>
-<p>🔷 Material Handling &amp; Supply Chain Support</p>
-<ul>
-<li>Receive, verify, and stage incoming rack, cable, optics, and hardware deliveries; validate against BOM and flag discrepancies</li>
-<li>Maintain accurate site inventory records for cables, optics, patch cords, and consumables used during deployments</li>
-<li>Support cycle count activities and assist in identifying inventory shortfalls that may impact deployment timelines</li>
-</ul>
-<p>🔷 Handover &amp; Documentation</p>
-<ul>
-<li>Complete all required as-built documentation, port maps, test result records, and workflow sign-offs before handoff to Data Center Operations</li>
-<li>Update CMDB/DCIM and IPAM records accurately following rack installation or decommission activities</li>
-<li>Ensure handoffs are clean and fully documented with zero open blockers, enabling smooth transition to the next lifecycle phase</li>
-</ul>
-<p>🔷 Rack Decommissioning</p>
-<ul>
-<li>Execute physical decommission activities per assigned MOPs — including cable removal, power disconnects, asset de-tagging, and rack extraction</li>
-<li>Perform device wipe and media destruction in compliance with AWS Secure Media Destruction and EHS policies</li>
-<li>Sort, label, and stage recovered assets (optics, cables, PDUs, hardware) for RMA, redeployment, or secure disposal per AWS Reverse Logistics policy</li>
-<li>Update DCIM/CMDB, IPAM, and port maps post-decom to ensure accurate space, power, and circuit records</li>
-<li>Validate that reclaimed U-space, power, and cooling capacity is accurately recorded in the available pool</li>
-</ul>
-<p>🔷 Quality, Safety &amp; Compliance</p>
-<ul>
-<li>Adhere to all site-level SOPs, quality standards, and governance frameworks for cabling, installation, and decommission activities</li>
-<li>Complete all required safety training and certifications; participate in regular EHS audits and team safety briefings</li>
-<li>Contribute to continuous improvement by identifying recurring quality issues, suggesting process improvements, and sharing feedback with the Rack Lifecycle Team Manager</li>
-<li>Use Rack Lifecycle Team tooling (e.g., Boost, MARS, ALM/DCLM) accurately to record work, track assets, and maintain data integrity</li>
-</ul>
-<p>🔷 Cross-Team Coordination</p>
-<ul>
-<li>Support coordination with DCO, DCEO, Network Engineering, and facilities teams during active deployment or decom activities under manager guidance to ensure smooth execution</li>
-<li>Participate in daily stand-ups and pre-work briefings; communicate clearly on task status, blockers, and schedule adherence</li>
-<li>Provide accurate, timely updates on task completion and flag risks or delays to the team lead immediately</li>
-</ul>
-<p>🔷 Continuous Learning &amp; Development</p>
-<ul>
-<li>Maintain and develop technical proficiency in structured cabling, fiber optics, rack installation, and data center physical infrastructure</li>
-<li>Complete required certifications and training modules including EHS, LOTO, and any Rack Lifecycle Team-specific technical programs</li>
-<li>Proactively seek feedback from leads and managers to improve personal performance and output quality</li>
-<li>Support the onboarding and training of new team members; share knowledge and best practices with peers to build overall team capability and quality standards</li>
-<li>Stay current on AWS infrastructure tooling, cabling standards, and process updates communicated by the Rack Lifecycle Team</li>
-</ul>
-<p>A day in the life As a Rack Lifecycle Tech, your day is on the data center floor. You might start the morning by reviewing your assigned work orders in Boost, checking in with your team lead on priorities, and staging cables and optics for a rack installation wave. By midday, you could be terminating fiber runs at a patch panel, running OTDR tests to validate loss results against acceptance thresholds, or labeling and dressing a freshly installed rack. In the afternoon, you might be updating CMDB records for completed work orders, de-tagging and staging recovered assets from an EOL decom, or helping onboard a new technician by walking them through the SOP. If you encounter a deviation from the approved MOP, you escalate it to your team lead immediately — you don't improvise. Your role is hands-on, technical, and precise — you execute the work that keeps AWS capacity on track.</p>
-<p>About the team Diverse Experiences Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.</p>
-<p>Why AWS Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.</p>
-<p>Work/Life Balance We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve.</p>
-<p>Inclusive Team Culture AWS values curiosity and connection. Our employee-led and company-sponsored affinity groups promote inclusion and empower our people to take pride in what makes us unique. Our inclusion events foster stronger, more collaborative teams. Our continual innovation is fueled by the bold ideas, fresh perspectives, and passionate voices our teams bring to everything we do.</p>
-<p>Mentorship and Career Growth We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.</p>
-<h3>Basic Qualifications</h3>
-<ul>
-<li>2+ years of computer hardware troubleshooting and repair experience</li>
-<li>1+ years of computer networking experience</li>
-<li>High school or equivalent diploma</li>
-</ul>
-<h3>Preferred Qualifications</h3>
-<ul>
-<li>Experience dealing effectively with customers during problem resolution and operating efficiently under pressure</li>
-<li>Familiarity with rack decommissioning including device wipe, media destruction, and asset recovery procedures</li>
-</ul>
-<p>Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit [https://amazon.jobs/content/en/how-we-hire/accommodations](https://amazon.jobs/content/en/how-we-hire/accommodations) for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a99c7a63f542372e9fe6543]]></url>
-    <location><![CDATA[Mumbai, Maharashtra]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Amazon Web Services]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-03T19:16:54.839Z]]></date>
   </job>
   <job>
     <id><![CDATA[6a99c7a650256ccd68fa0f18]]></id>
@@ -93144,77 +93003,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-03T19:11:31.522Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6a99c6637b679bbc3f8eaf54]]></id>
-    <title><![CDATA[Senior Business Development Sales Specialist]]></title>
-    <description><![CDATA[<h3>Employment Type</h3>
-<p>Permanent</p>
-<h3>Closing Date</h3>
-<p>10 Sept 2026 11:59pm</p>
-<h3>Job Title</h3>
-<p>Senior Business Development Sales Specialist</p>
-<h3>Job Summary</h3>
-<h3>Job Description</h3>
-<p>We're an iconic Aussie brand with a global footprint. Our purpose is to build a connected future so everyone can thrive. We're all about providing the best experience and delivering the best tech on the best network.</p>
-<p>This includes making Telstra the place you want to work. For you, that means a having career that grows with you and working with a team powered by human connection that prioritises wellbeing and choice</p>
-<p><b>Focus of the Role</b></p>
-<p>As a <b>Senior Business Development Sales Specialist</b> in our secure networks team, you'll work with some of our largest customers to identify, shape and close Data &amp; Connectivity (DAC) and Managed Data Network (MDN) opportunities that help businesses transform, grow and stay competitive. As Telstra execute on our Connected Future 30 strategy, Secure Networks will be a key growth engine for Telstra Enterprise. This role will be at the forefront of delivering some of our most strategic and transformative customer engagements, helping shape the future of connectivity, security, and digital innovation across Australia.</p>
-<h3>What we offer</h3>
-<p>Performance-related pay Access to thousands of learning programs so you can level-up Global presence across 22 countries; opportunities to work where we do business.</p>
-<p>Purchased annual leave scheme</p>
-<p>Additional Telstra day off</p>
-<p>Additional 30% off Telstra products and services</p>
-<p>Toolkit provided (laptop &amp;#43; mobile phone &amp;#43; plan paid for)</p>
-<p>We're looking for a relationship-focused sales professional to help grow our Data and Connectivity business across some of our largest AMLR (Agribusiness, Manufacturing, Logistics and Retail) customers as well as our exciting Media, Entertainment, Gaming and Sports (MEGS) portfolio.</p>
-<p>This role is ideal for someone who enjoys building trusted customer relationships, identifying growth opportunities and leading strategic sales conversations. Your primary focus will be driving Data and Connectivity (DAC) and Managed Data Network (MDN) outcomes, helping customers modernise and transform their network environments.</p>
-<p>While the role is centred on DAC and network sales, it also provides an excellent pathway into broader technology solution selling. You'll work alongside specialists across cloud, security, collaboration, professional services and managed services, giving you the opportunity to continually expand your knowledge and career.</p>
-<p><b><i>Preference will be given to Melbourne-based candidates, as the role primarily works with Melbourne-based customers.</b></i></p>
-<p><b>What You'll Be Doing:</b></p>
-<ul>
-<li>Growing Data and Connectivity sales across a portfolio of strategic AMLR and MEGS customers</li>
-<li>Leading customer conversations around network transformation, managed networks and connectivity outcomes.</li>
-<li>Building trusted relationships with customer stakeholders and becoming a valued advisor.</li>
-<li>Identifying opportunities to retain, grow and expand existing customer engagements.</li>
-<li>Working collaboratively with Client Partners, Specialists, Presales and Delivery teams.</li>
-<li>Developing account and opportunity strategies that deliver long-term customer value.</li>
-<li>Leading commercial negotiations and contributing to major bids, tenders and complex sales opportunities.</li>
-<li>Maintaining a healthy pipeline and delivering accurate forecasting.</li>
-</ul>
-<p><b>What Success Looks Like:</b></p>
-<p>You'll be successful in this role if you:</p>
-<ul>
-<li>Build strong relationships with customers and internal stakeholders.</li>
-<li>Consistently identify and convert DAC and MDN opportunities.</li>
-<li>Grow your portfolio through strategic account planning and proactive opportunity development.</li>
-<li>Become a trusted advisor to customers on network and connectivity outcomes.</li>
-<li>Continue developing your broader technology sales capability over time.</li>
-</ul>
-<h3>What We're Looking For</h3>
-<ul>
-<li>Enterprise sales, business development, or account management experience, preferably within telecommunications, networking, managed services, or technology solutions.</li>
-<li>Proven ability to build strong customer relationships, identify growth opportunities, and drive commercial outcomes.</li>
-<li>Strong customer engagement, stakeholder management, and relationship-building skills.</li>
-<li>Commercial acumen with experience navigating complex sales cycles and strategic customer engagements.</li>
-<li>A proactive, results-driven, and growth-oriented mindset.</li>
-<li>Experience with Data and Connectivity solutions, including enterprise networking and managed services.</li>
-<li>Exposure to managed network, infrastructure, or technology sales.</li>
-<li>Experience working with large enterprise customers across industries such as retail, logistics, manufacturing, or related sectors.</li>
-<li>Experience participating in RFPs, tenders, and strategic pursuits.</li>
-<li>Knowledge of broader technology domains, including cloud, cyber security, and professional services.</li>
-</ul>
-<p><b><i>If you are looking to take the next step in your career, we want to hear from you! </b></i></p>
-<p><i>As part of your application with Telstra, you may receive communications from us on &amp;#43;61 440 135 548 (for job applications in Australia).</i></p>
-<p><i>When you join our team, you become part of a welcoming and inclusive community where everyone is respected, valued and celebrated. We actively seek individuals from various backgrounds, ethnicities, genders and disabilities because we know that diversity not only strengthens our team but also enriches our work. We have zero tolerance for harassment of any kind, and we prioritise creating a workplace culture where everyone is safe and can thrive. </i></p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a99c6637b679bbc3f8eaf54]]></url>
-    <location><![CDATA[Australia (Flexible), AU]]></location>
-    <country><![CDATA[AU]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Telstra]]></company>
-    <category>3</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-03T19:11:31.503Z]]></date>
   </job>
   <job>
     <id><![CDATA[6a99c6632a33d4d94114b919]]></id>
@@ -94731,33 +94519,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-03T18:43:37.458Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6a99bfcecdc1d274772450f0]]></id>
-    <title><![CDATA[Copyright Operations Specialist, YouTube Trust and Safety]]></title>
-    <description><![CDATA[<h3>About the job</h3>
-<p>Fast-paced, dynamic, and proactive, YouTube’s Trust &amp; Safety team is dedicated to making YouTube a safe place for users, viewers, and content creators around the world to create, and express themselves. Whether understanding and solving their online content concerns, navigating within global legal frameworks, or writing and enforcing worldwide policy, the Trust &amp; Safety team is on the frontlines of enhancing the YouTube experience, building internet safety, and protecting free speech in our ever-evolving digital world.</p>
-<p>Global online platforms like YouTube face a complex balancing act in the digital age: protecting copyright while safeguarding freedom of expression—a challenge further amplified by the rise of Generative AI.</p>
-<p>As a Copyright Operations Specialist, you will partner with cross-functional technical and legal teams to address the most dynamic challenges in digital policy and intellectual property. You will design and implement operational strategies for emerging areas such as GenAI, scale complex workflows, and navigate novel legal questions at the forefront of copyright law.</p>
-<p>In this role, you will bring a proactive approach to developing technical skills and leveraging data to solve ambiguous problems. Striking a balance between global regulatory mandates and the needs of YouTube's creators, partners, and advertisers, you will be passionate about curbing platform abuse while protecting a vibrant, creative ecosystem. At YouTube, we believe that everyone deserves to have a voice, and that the world is a better place when we listen, share, and build community through our stories. We work together to give everyone the power to share their story, explore what they love, and connect with one another in the process. Working at the intersection of cutting-edge technology and boundless creativity, we move at the speed of culture with a shared goal to show people the world. We explore new ideas, solve real problems, and have fun — and we do it all together.</p>
-<h3>Responsibilities</h3>
-<ul>
-<li>Serve as the subject matter expert and primary point of contact across key copyright domain areas, including GenAI content.</li>
-<li>Drive, review, and continuously improve escalation processes for complex, high-impact legal matters with minimal oversight.</li>
-<li>Partner across teams on process and policy outreach, maintaining feedback loops with stakeholders to identify friction points and drive continuous improvement.</li>
-<li>Identify operational gaps and separately implement high-impact solutions beyond standard operating procedures.</li>
-<li>Review, manage, and improve escalation processes and other legal matters of high impact, risk, and complexity with limited oversight.</li>
-</ul>
-<p>Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google's [Applicant and Candidate Privacy Policy](./privacy-policy).</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a99bfcecdc1d274772450f0]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Google (Data Centers)]]></company>
-    <category>12</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-03T18:43:26.088Z]]></date>
   </job>
   <job>
     <id><![CDATA[6a99bfcd28d1fe74d2683bfa]]></id>
@@ -96689,55 +96450,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-03T18:13:28.284Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6a99b8c7712e25967ec98dc8]]></id>
-    <title><![CDATA[Senior Engineer GET, Bangalore]]></title>
-    <description><![CDATA[<h3>Job Description</h3>
-<p><b>Your Work Shapes the World at Caterpillar Inc.</b></p>
-<p>When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.</p>
-<h3>Role Definition</h3>
-<p>The Senior Design Engineer is responsible for the design, development, validation, and continuous improvement of Motor Grader Ground Engaging Tools, including cutting edges, end bits, ripper points, and associated wear components. The role applies advanced engineering principles, virtual product development tools, performance simulation, wear modeling, and validation methodologies to deliver solutions that improve customer productivity, wear life, durability, manufacturability, and total owning and operating costs.</p>
-<h3>Key Technical Responsibilities</h3>
-<ul>
-<li>Lead design and development of Motor Grader Ground Engaging Tool (GET) components including cutting edges, end bits, ripper points, shank protection systems and wear packages.</li>
-<li>Develop solutions that improve machine productivity, penetration performance, wear life, serviceability and customer value.</li>
-<li>Perform structural, fatigue, performance, and wear simulations to support design decisions and reduce physical validation cycles.</li>
-<li>Utilize Virtual Product Development (VPD) tools to predict stress, durability, material behavior, and wear characteristics under various customer applications.</li>
-<li>Develop and validate wear-performance models using field data, laboratory testing, and simulation results.</li>
-<li>Analyze system interactions between blade, cutting edge, moldboard and ripper systems to optimize performance and life-cycle cost.</li>
-<li>Evaluate alternative materials, heat treatments, casting, forging and wear technologies to improve product performance.</li>
-<li>Support prototype builds, laboratory testing, field validation and production implementation.</li>
-<li>Lead root-cause investigations for field issues using analytical, simulation and test data.</li>
-</ul>
-<p><b>Skill Descriptors</b>:</p>
-<p><b>Analytical Thinking &amp; AI Uses:</b></p>
-<p>Knowledge of analytical techniques, engineering tools, simulation methods, and AI-assisted technologies that promote effective problem solving; ability to identify root causes of design and performance issues and develop multiple solutions that optimize customer value, durability, manufacturability, and cost.</p>
-<p><b>Effective Communications:</b></p>
-<p>Understanding of effective communication concepts, tools and techniques; ability to effectively transmit, receive, and accurately interpret ideas, information, and needs through the application of appropriate communication behaviors.</p>
-<p><b>Managing Multiple Priorities:</b></p>
-<p>Knowledge of effective self-management practices; ability to manage multiple concurrent objectives, projects, groups, or activities, making effective judgments as to prioritizing and time allocation.</p>
-<p><b>Technical Excellence &amp; Innovation</b>:</p>
-<p>Knowledge of mining applications, Ground Engaging Tool (GET) systems, wear technologies, and engineering methodologies; ability to develop innovative solutions to complex technical challenges while improving customer value, product performance, durability, and cost competitiveness.</p>
-<p><b>Computer-Aided Design &amp; Engineering:</b></p>
-<p>Knowledge of engineering tools (Creo, Teamcenter, ANSYS, DEM, Wear Simulation) and techniques of parametric design, simulation, and knowledge-based engineering; ability to design, analyze, simulate, validate, and optimize Ground Engaging Tool (GET) systems throughout the product development lifecycle.</p>
-<p><b>Product Design and Development:</b></p>
-<p>Knowledge of product features; ability to design, build, and develop a new product, technology, or service from concept through to production.</p>
-<p>This position requires working onsite five days a week.</p>
-<p>Relocation is available for this position.</p>
-<p>Visa Sponsorship is not available for this position.</p>
-<p><b>Posting Dates:</b></p>
-<p>September 3, 2026 - September 10, 2026</p>
-<p>Caterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a99b8c7712e25967ec98dc8]]></url>
-    <location><![CDATA[Bangalore, Karnataka]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Caterpillar]]></company>
-    <category>5</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-03T18:13:27.463Z]]></date>
   </job>
   <job>
     <id><![CDATA[6a99b8c79431a456accf93f2]]></id>
@@ -112156,34 +111868,6 @@
     <date><![CDATA[2026-09-01T07:52:59.018Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6a96845a4137a10e8c57177b]]></id>
-    <title><![CDATA[Product Manager, Photos Core Monetization and Growth]]></title>
-    <description><![CDATA[<h3>About the job</h3>
-<p>At Google, we put our users first. The world is always changing, so we need Product Managers who are continuously adapting and excited to work on products that affect millions of people every day.</p>
-<p>In this role, you will work cross-functionally to guide products from conception to launch by connecting the technical and business worlds. You can break down complex problems into steps that drive product development.</p>
-<p>One of the many reasons Google consistently brings innovative, world-changing products to market is because of the collaborative work we do in Product Management. Our team works closely with creative engineers, designers, marketers, etc. to help design and develop technologies that improve access to the world's information. We're responsible for guiding products throughout the execution cycle, focusing specifically on analyzing, positioning, packaging, promoting, and tailoring our solutions to our users.</p>
-<p>In this role, you will own the engine that drives user growth and engagement across Google Photos. You will be the architect of the systems and surfaces that deliver the right experience to the right user. You will be building tools, understanding the users and designing the core interventions that guide them through their entire lifecycle with Photos. You will be unlocking new growth channels for users across the business. You will be connecting technical systems to business outcomes.</p>
-<p><i>*</i>*</p>
-<h3>Responsibilities</h3>
-<ul>
-<li>Define the goal, strategy, and roadmap for the systems and experiences that drive user growth, engagement, and business generation.</li>
-<li>Serve as the product leader and partner for the engineering teams, translating problems into a prioritized backlog.</li>
-<li>Partner with other product teams to understand their needs, build the core capabilities that unlock new growth channels for their user, while ensuring a quality experience for users.</li>
-<li>Own the framework for personalization and experimentation that can be leveraged across the Photos app, with a point of view on what experience is served to which person and how order to maximize user value and business impact.</li>
-<li>Define and analyze key metrics to measure the impact of the work on user acquisition, engagement, and business generation, and communicate progress to stakeholders.</li>
-</ul>
-<p>Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google's [Applicant and Candidate Privacy Policy](./privacy-policy).</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a96845a4137a10e8c57177b]]></url>
-    <location><![CDATA[Sydney, New South Wales]]></location>
-    <country><![CDATA[AU]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Google (Data Centers)]]></company>
-    <category>18</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-01T07:52:58.882Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6a9684503963b91423ae1687]]></id>
     <title><![CDATA[Senior Software Engineer, Consumer Payments Growth]]></title>
     <description><![CDATA[<h3>About the job</h3>
@@ -112286,30 +111970,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-01T07:52:47.919Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6a96830e416860886a998b83]]></id>
-    <title><![CDATA[Senior Software Engineer, Mobile (Android), Wallet]]></title>
-    <description><![CDATA[<h3>About the job</h3>
-<p>Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.</p>
-<p>In this role, you will join the Google Wallet team in Singapore and help shape the future of digital wallets globally. You will be a passionate and skilled Software Engineer to design, develop, and launch innovative features Google Wallet. You will have end-to-end responsibility for key areas, from design to deployment, directly impacting how millions of users digitize and use their everyday essentials.Whether it is paying online with Autofill, using tap and pay in stores, or using the Google Pay app, the Payments team at Google is focused on making payments simple, seamless, and secure. In addition to consumer payment technologies, the Payments team also powers the money movement between Google and its consumers and businesses.</p>
-<h3>Responsibilities</h3>
-<ul>
-<li>Build new features and a platform for Google Wallet on Android: the user's digital "file system" of credentials for use across Google and in the real world.</li>
-<li>Partner with PMs and UXers on building new features and enhancing existing features within the Google Wallet Android app, help new integrators into Wallet make sure their data fits smoothly into the platform.</li>
-<li>Maintain and evolve the Wallet app's deep integration with both Google Play Services and the underlying Android platform, accommodate Wallet's growing scale and take advantage of the newest Android features.</li>
-<li>Set the technical direction for the organization by building common abstractions, setting best practices, and work with the client infrastructure team to ensure harmonious growth and scaling.</li>
-</ul>
-<p>Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google's [Applicant and Candidate Privacy Policy](./privacy-policy).</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a96830e416860886a998b83]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Google (Data Centers)]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-01T07:47:26.671Z]]></date>
   </job>
   <job>
     <id><![CDATA[6a9682ff905acae04caa2ce6]]></id>
@@ -186836,7 +186496,36 @@
 <p>We're looking for someone who is:</p>
 <ul>
 <li>Genuinely interested in building a career in Air Conditioning and Refrigeration.</li>
-</ul>]]></description>
+<li>Hands-on and enjoys working with tools and equipment.</li>
+<li>Reliable, punctual and committed to completing their apprenticeship.</li>
+<li>Willing to learn and take direction from experienced technicians.</li>
+<li>Safety-conscious and committed to doing things the right way.</li>
+<li>A good communicator who works well as part of a team.</li>
+<li>Customer-focused and professional.</li>
+<li>Able to demonstrate good problem-solving and attention to detail.</li>
+<li>Willing to travel to customer sites as required.</li>
+<li>Eligible to work in Australia.</li>
+<li>Holding a current driver's licence, or willing to obtain one as required.</li>
+</ul>
+<p><b>Why Join Carrier?</b></p>
+<p>At Carrier, you'll be joining a global leader in intelligent climate and energy solutions while building valuable skills for a long-term career.</p>
+<p>You'll have the opportunity to:</p>
+<ul>
+<li>Complete a formal HVAC apprenticeship with TAFE support.</li>
+<li>Learn from experienced and qualified technicians.</li>
+<li>Gain hands-on experience across a diverse range of HVAC equipment and applications.</li>
+<li>Develop highly valued technical and diagnostic skills.</li>
+<li>Work with industry-leading technology and equipment.</li>
+<li>Build a long-term career with a globally recognised organisation.</li>
+<li>Work within a supportive team environment that values safety, quality and continuous development.</li>
+</ul>
+<p><b>Our commitment to you</b></p>
+<p>Our greatest assets are the expertise, creativity and passion of our employees. We strive to provide a great place to work that attracts, develops and retains the best talent, promotes employee engagement, fosters teamwork and ultimately drives innovation for the benefit of our customers. We strive to create an environment where you feel that you belong, with diversity and inclusion as the engine to growth and innovation. We develop and deploy best-in-class programs and practices, providing enriching career opportunities, listening to employee feedback and always challenging ourselves to do better. This is <i>The Carrier Way</i>.</p>
+<p>Join us and make a difference.</p>
+<p>Apply Now!</p>
+<p><b>Carrier is An Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status, age or any other federally protected class.</b></p>
+<p><b>Job Applicant's Privacy Notice:</b></p>
+<p>Click on this [link](https://www.corporate.carrier.com/legal/privacy-notice-job-applicant/) to read the Job Applicant's Privacy Notice</p>]]></description>
     <url><![CDATA[https://sourceo.io/jobs/6a8ddbac06fa567dc5d9e1ea]]></url>
     <location><![CDATA[Queanbeyan, New South Wales]]></location>
     <country><![CDATA[AU]]></country>
@@ -214207,80 +213896,6 @@
     <date><![CDATA[2026-08-24T08:52:02.806Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6a8c062a04ba4dea5e1ca764]]></id>
-    <title><![CDATA[Sales Manager-Centrifugal Chillers/Pumps]]></title>
-    <description><![CDATA[<p><b>Role:</b> Sales Manager - Centrifugal Chillers/Pumps</p>
-<p><b>Location:</b> Ahmedabad, India</p>
-<p><b>Full/ Part-time:</b> Full time</p>
-<p><b>Build a career with confidence</b></p>
-<p>Carrier Global Corporation, global leader in intelligent climate and energy solutions, is committed to creating solutions that matter for people and our planet for generations to come. From the beginning, we've led in inventing new technologies and entirely new industries. Today, we continue to lead because we have a world-class, diverse workforce that puts the customer at the center of everything we do.</p>
-<p><b>About the role: </b>Looking for energized sales professionals handling large-value projects and complex sales cycles with experience into HVAC - Centrifugal chillers sales OR Solar OR semi-conductor sales OR Pumps Sales.</p>
-<p><b>Key Roles &amp; Responsibilities:</b></p>
-<ul>
-<li>Drive business development and sales growth for large project opportunities within assigned territories and customer segments.</li>
-<li>Identify, qualify, and develop new project opportunities from inception through order closure.</li>
-<li>Build and maintain strong relationships with End User, EPC contractors, consultants, , PMCs, government agencies, and key decision-makers.</li>
-<li>Influence product specifications and secure approvals in strategic projects.</li>
-<li>Monitor project pipelines and provide accurate sales forecasts and market intelligence.</li>
-<li>Conduct regular customer visits, project reviews, and business presentations.</li>
-<li>Maintain CRM records and provide periodic reports on sales performance, project status, and market developments.</li>
-</ul>
-<h3>Role Purpose</h3>
-<ul>
-<li>Drive revenue growth by developing and converting large project opportunities within the assigned territory and market segments.</li>
-<li>Build and maintain strategic relationships with key stakeholders, including consultants, developers, contractors, EPCs, PMCs, and end customers.</li>
-<li>Identify, qualify, and manage project pipelines from concept stage through order closure and execution.</li>
-<li>Achieve sales, order booking, profitability, and market share targets for the Large Projects business.</li>
-<li>Influence product specifications and secure approvals in key projects to enhance business opportunities.</li>
-<li>Contribute to long-term business growth by developing sustainable customer relationships and expanding the project sales portfolio.</li>
-</ul>
-<h3>Minimum Requirements</h3>
-<ul>
-<li>Bachelor's Degree in Engineering, Business Administration, Marketing, or a related discipline.</li>
-<li><b>8-12 years of professional experience in B2B sales, project sales, or key account management.</b></li>
-</ul>
-<ul>
-<li><b>Minimum 5 years of experience handling large-value projects and complex sales cycles with experience into HVAC,-Centrifigual chillers sales OR Solar OR semi-conductor sales OR Pumps Sales.</b></li>
-</ul>
-<ul>
-<li>Proven track record of achieving or exceeding sales and revenue targets.</li>
-<li>Experience in working with consultants, contractors, developers, EPCs, PMCs, and institutional customers.</li>
-<li>Strong understanding of project sales processes, tendering, bidding, and contract management.</li>
-<li>Excellent negotiation, presentation, and stakeholder management skills.</li>
-<li>Excellent verbal and written communication skills.</li>
-<li>Ability to work cross-functionally with engineering, operations, finance, and customer service teams.</li>
-<li>Willingness to travel extensively based on project and customer requirements.</li>
-<li>Self-motivated, result-oriented, and capable of working in a fast-paced business environment.</li>
-</ul>
-<h3>Benefits</h3>
-<p>We are committed to offering competitive benefits programs for all our employees and enhancing our programs when necessary.</p>
-<ul>
-<li>Make yourself a priority with flexible schedules, parental leave</li>
-</ul>
-<ul>
-<li>Drive forward your career through professional development opportunities</li>
-</ul>
-<ul>
-<li>Achieve your personal goals with our Employee Assistance Programme</li>
-</ul>
-<p><b>Our commitment to you</b></p>
-<p>Our greatest assets are the expertise, creativity and passion of our employees. We strive to provide a great place to work that attracts, develops and retains the best talent, promotes employee engagement, fosters teamwork and ultimately drives innovation for the benefit of our customers. We strive to create an environment where you feel that you belong, with diversity and inclusion as the engine to growth and innovation. We develop and deploy best-in-class programs and practices, providing enriching career opportunities, listening to employee feedback and always challenging ourselves to do better. This is <i>The Carrier Way</i>.</p>
-<p>Join us and make a difference.</p>
-<p><b>Apply Now!</b></p>
-<p><b>Carrier is An Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status, age or any other federally protected class.</b></p>
-<p><b>Job Applicant's Privacy Notice:</b></p>
-<p>Click on this [link](https://www.corporate.carrier.com/legal/privacy-notice-job-applicant/) to read the Job Applicant's Privacy Notice</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a8c062a04ba4dea5e1ca764]]></url>
-    <location><![CDATA[Ahmedabad, Gujarat]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Carrier]]></company>
-    <category>5</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-08-24T08:51:54.410Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6a8c062aec28c99d7c14c5b1]]></id>
     <title><![CDATA[Manager, AI & Data Engineering]]></title>
     <description><![CDATA[<p><b>Role:</b> Manager, AI &amp; Data Engineering</p>
@@ -219410,5 +219025,524 @@
     <contract_type>contract</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-08-24T08:29:35.872Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8c00ef0f326186d237cc15]]></id>
+    <title><![CDATA[Senior Assistant, Administration (2-years Contract)]]></title>
+    <description><![CDATA[<h3>About Us</h3>
+<p>Headquartered and listed in Singapore in 2021, CapitaLand Investment Limited (CLI) is a leading global real asset manager with a strong Asia foothold. As at 5 November 2025, CLI had S$120 billion of funds under management. CLI holds stakes in eight listed real estate investment trusts and a suite of private real asset vehicles that invest in demographics, disruption and digitalisation-theme strategies. Its diversified real asset classes include retail, office, lodging, industrial, logistics, business parks, wellness, self-storage, data centres and private credit.</p>
+<h3>Job Description</h3>
+<p>You will be part of the Commercial Operations team and reporting to the Manager, Property Management.</p>
+<p><b>Job Responsibilities:</b></p>
+<p>General Administration</p>
+<ul>
+<li>Provide administrative support to the site team as assigned such as e-filing of documents</li>
+</ul>
+<ul>
+<li>Responsible for recording and updating staff leave</li>
+</ul>
+<ul>
+<li>Responsible for the petty cash float</li>
+</ul>
+<ul>
+<li>Prepare and distribute invoices to tenants</li>
+</ul>
+<ul>
+<li>Liaise closely with Finance department on matters relating to procurement, arrears management, banks and payment</li>
+</ul>
+<ul>
+<li>Requisite stationery and pantry refreshment</li>
+</ul>
+<ul>
+<li>Ensure that cheques and cash collections (if any) are banked in promptly</li>
+</ul>
+<ul>
+<li>Perform required functions in SAP &amp; Simplicity like accrual, perform good receipts for term contracts and ad-hoc purchase orders, non-rental revenue items billing.</li>
+</ul>
+<p>Tenancy Matters</p>
+<ul>
+<li>Update tenants’ records to the buildings as assigned</li>
+</ul>
+<ul>
+<li>Compile and submit additional charges form for services rendered to tenants</li>
+</ul>
+<p>Carpark Operations</p>
+<ul>
+<li>Coordinate complimentary parking or reservation of parking lots for VIPs</li>
+</ul>
+<ul>
+<li>Manage Season and hourly parking sales, revenue collection and refunds through JustPark system</li>
+</ul>
+<ul>
+<li>Ensure prompt and effective car park operation and compliance with car park SOPs</li>
+</ul>
+<p>Others</p>
+<ul>
+<li>Attend enquiries/ complaints from tenants and general public at buildings as assigned and ensure prompt follow up</li>
+</ul>
+<ul>
+<li>Any other duties as and when assigned</li>
+</ul>
+<h3>Job Requirements</h3>
+<ul>
+<li>Minimum GCE ‘O’ level with 3 to 5 years of related experience</li>
+</ul>
+<ul>
+<li>Proactive and able to multi-task with minimum supervision</li>
+</ul>
+<ul>
+<li>Proficient in MS office</li>
+</ul>
+<ul>
+<li>Systematic with good organizational skills and enjoy interacting with people</li>
+</ul>
+<h3>Benefits</h3>
+<ul>
+<li>Comprehensive medical coverage</li>
+<li>Training and development opportunities</li>
+<li>Subsidised rates at Ascott serviced residences</li>
+<li>Strong advocate of staff volunteerism</li>
+<li>Wellness programmes</li>
+</ul>
+<p><b>Closing Statement:</b></p>
+<p>At CapitaLand, we advocate fair employment practices, and recruit talents based on merit and fit with our Corporate values. We provide equal opportunity for all qualified persons and build an inclusive workplace regardless of race, gender, age, religious belief or nationality.</p>
+<p>Only shortlisted candidates will be notified.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8c00ef0f326186d237cc15]]></url>
+    <location><![CDATA[Singapore]]></location>
+    <country><![CDATA[SG]]></country>
+    <remote>0</remote>
+    <company><![CDATA[CapitaLand (Data Centres)]]></company>
+    <category>13</category>
+    <contract_type>contract</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-24T08:29:35.847Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8c00ef51e7cf54f5dd0e88]]></id>
+    <title><![CDATA[Senior Administrative Assistant, Administrative Assistant, Singapore (2-Years Contract) - Plaza Singapura]]></title>
+    <description><![CDATA[<h3>About Us</h3>
+<p>Headquartered and listed in Singapore in 2021, CapitaLand Investment Limited (CLI) is a leading global real asset manager with a strong Asia foothold. As at 5 November 2025, CLI had S$120 billion of funds under management. CLI holds stakes in eight listed real estate investment trusts and a suite of private real asset vehicles that invest in demographics, disruption and digitalisation-theme strategies. Its diversified real asset classes include retail, office, lodging, industrial, logistics, business parks, wellness, self-storage, data centres and private credit.</p>
+<h3>Job Description</h3>
+<h3>Responsibilities</h3>
+<ul>
+<li>To provide administrative support to the Operations team to ensure that the department is maintained in an effective, updated and accurate manner</li>
+<li>To carry out sourcing and purchasing duties</li>
+<li>To prepare invoices, data key-in and submission of regularly scheduled reports</li>
+<li>To coordinate paperwork relating to meter reading, carpark system, M&amp;E services and other operational processes</li>
+<li>To assist in the documentation for handling of renovation works and reinstatement cases</li>
+<li>To assist in the dealings and correspondences with tenants</li>
+<li>To perform general administrative and clerical duties</li>
+</ul>
+<h3>Requirements</h3>
+<ul>
+<li>Diploma in Business Studies or equivalent</li>
+<li>Good communications and interpersonal skills</li>
+<li>Good command of spoken and written English</li>
+<li>Knowledge of Microsoft Office application is required</li>
+<li>Systematic, organized and meticulous</li>
+</ul>
+<h3>Benefits</h3>
+<ul>
+<li>Comprehensive medical coverage</li>
+<li>Training and development opportunities</li>
+<li>Subsidised rates at Ascott serviced residences</li>
+<li>Strong advocate of staff volunteerism</li>
+<li>Wellness programmes</li>
+</ul>
+<p><b>Closing Statement:</b></p>
+<p>At CapitaLand, we advocate fair employment practices, and recruit talents based on merit and fit with our Corporate values. We provide equal opportunity for all qualified persons and build an inclusive workplace regardless of race, gender, age, religious belief or nationality.</p>
+<p>Only shortlisted candidates will be notified.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8c00ef51e7cf54f5dd0e88]]></url>
+    <location><![CDATA[Singapore]]></location>
+    <country><![CDATA[SG]]></country>
+    <remote>0</remote>
+    <company><![CDATA[CapitaLand (Data Centres)]]></company>
+    <category>13</category>
+    <contract_type>contract</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-24T08:29:35.845Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8c00eff31af1a0524107be]]></id>
+    <title><![CDATA[Tenant Relations Specialist (2-years Contract)]]></title>
+    <description><![CDATA[<h3>About Us</h3>
+<p>Headquartered and listed in Singapore in 2021, CapitaLand Investment Limited (CLI) is a leading global real asset manager with a strong Asia foothold. As at 5 November 2025, CLI had S$120 billion of funds under management. CLI holds stakes in eight listed real estate investment trusts and a suite of private real asset vehicles that invest in demographics, disruption and digitalisation-theme strategies. Its diversified real asset classes include retail, office, lodging, industrial, logistics, business parks, wellness, self-storage, data centres and private credit.</p>
+<h3>Job Description</h3>
+<p>You will be part of the Commercial Operations team and reporting to the Centre Manager.</p>
+<h3>Responsibilities</h3>
+<p><i>Customer Experience</i></p>
+<ul>
+<li>Facilitate key actions involving tenants, e.g. meetings with tenants’ C-suites and/or representatives regarding experiences during their tenure at our buildings as assigned</li>
+</ul>
+<ul>
+<li>Execute agreed standards of customer service, e.g. onboarding, prospecting and service feedback processes</li>
+</ul>
+<ul>
+<li>Monitor and respond to feedback and customer queries in a timely manner</li>
+</ul>
+<ul>
+<li>Manage service recovery when tenants have been inconvenienced, e.g. lift breakdown</li>
+</ul>
+<ul>
+<li>Be familiar with the community of the buildings as assigned</li>
+</ul>
+<ul>
+<li>Provide lobby presence during peak hours to greet and assist tenants and visitors</li>
+</ul>
+<ul>
+<li>Update information about buildings as well as nearby amenities for introduction (refer to onboarding process) and to help first time visitors</li>
+</ul>
+<ul>
+<li>Lead visits to property and shared spaces within the buildings as assigned</li>
+</ul>
+<ul>
+<li>Introduce buildings as assigned as well as CapitaLand's differentiated and shared spaces</li>
+</ul>
+<ul>
+<li>Remain well-groomed as the &amp;#34;face&amp;#34; of the building</li>
+</ul>
+<ul>
+<li>Any other related duties</li>
+</ul>
+<p><i>Community Management</i></p>
+<ul>
+<li>You will be part of a team to perform engagements, communication and contributing to a vibrant community and eventually, ensure tenant retention within the CapitaLand office portfolio</li>
+</ul>
+<ul>
+<li>Facilitate and participate in activities to inspire and build community</li>
+</ul>
+<ul>
+<li>Build relationships with tenants, prospects and industry professionals to facilitate programming efforts</li>
+</ul>
+<h3>Job Requirements</h3>
+<ul>
+<li>Minimum Diploma in any discipline with at least 5 years working experience relating to customer service/concierge</li>
+</ul>
+<ul>
+<li>Prior working experience in airlines or hospitality industry preferred</li>
+</ul>
+<ul>
+<li>Excellent interpersonal skills with high level of empathy for others</li>
+</ul>
+<ul>
+<li>Able to articulate and communicate clearly both verbally and written</li>
+</ul>
+<ul>
+<li>Event management and project coordination skills preferred</li>
+</ul>
+<ul>
+<li>Confident, cheerful and energetic disposition while maintaining professionalism</li>
+</ul>
+<ul>
+<li>Able to multi-task with a strong sense of responsibility to see through all task</li>
+</ul>
+<h3>Benefits</h3>
+<ul>
+<li>Comprehensive medical coverage</li>
+<li>Training and development opportunities</li>
+<li>Subsidised rates at Ascott serviced residences</li>
+<li>Strong advocate of staff volunteerism</li>
+<li>Wellness programmes</li>
+</ul>
+<p><b>Closing Statement:</b></p>
+<p>At CapitaLand, we advocate fair employment practices, and recruit talents based on merit and fit with our Corporate values. We provide equal opportunity for all qualified persons and build an inclusive workplace regardless of race, gender, age, religious belief or nationality.</p>
+<p>Only shortlisted candidates will be notified.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8c00eff31af1a0524107be]]></url>
+    <location><![CDATA[Singapore]]></location>
+    <country><![CDATA[SG]]></country>
+    <remote>0</remote>
+    <company><![CDATA[CapitaLand (Data Centres)]]></company>
+    <category>11</category>
+    <contract_type>contract</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-24T08:29:35.687Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8c00ef1fc236a120e52c6d]]></id>
+    <title><![CDATA[Manager, Marketing, Singapore]]></title>
+    <description><![CDATA[<h3>About Us</h3>
+<p>Headquartered and listed in Singapore in 2021, CapitaLand Investment Limited (CLI) is a leading global real asset manager with a strong Asia foothold. As at 5 November 2025, CLI had S$120 billion of funds under management. CLI holds stakes in eight listed real estate investment trusts and a suite of private real asset vehicles that invest in demographics, disruption and digitalisation-theme strategies. Its diversified real asset classes include retail, office, lodging, industrial, logistics, business parks, wellness, self-storage, data centres and private credit.</p>
+<h3>Job Description</h3>
+<h3>Responsibilities</h3>
+<ul>
+<li>Responsible for conceptualizing, planning, implementing, and managing overall advertising and promotional activities for the CapitaLand portfolio of shopping malls to achieve desired KPIs and unified shopping experience.</li>
+<li>Form strategic partnerships, source for sponsorships and opportunities to host unique marketing activations and identify publicity opportunities for the portfolio of malls.</li>
+<li>Proactively engage tenants to market their products through portfolio-wide initiatives to enhance their sales and shoppers’ experience.</li>
+<li>Conduct post-promotional campaign or event reviews to assess the effectiveness of the promotions / events in terms of shopper traffic and campaign GTO and prepare monthly reports for internal analysis.</li>
+<li>Develop exciting marketing strategies to actively engage communities within the portfolio of malls.</li>
+<li>Analyse competitors, market trends, and identify opportunities to drive sales and footfall.</li>
+</ul>
+<h3>Requirements</h3>
+<ul>
+<li>Degree in Mass Communications, Marketing, or a related field</li>
+<li>Minimum 5 years’ relevant experience in retail / hospitality industry</li>
+<li>Creative, dynamic, and resourceful with good media and relevant promotional partners’ contacts</li>
+<li>Good interpersonal skills and excellent in customer relationship management</li>
+<li>Excellent written and verbal communications skills</li>
+<li>Computer literate with strong proficiency in Microsoft Word, Excel &amp; PowerPoint</li>
+<li>Fast and independent with strong organizational skills</li>
+<li>Meticulous, self-motivated, able to multi-task and work under pressure</li>
+<li>Results-oriented and able to meet tight deadlines.</li>
+</ul>
+<h3>Benefits</h3>
+<ul>
+<li>Flexible benefits with comprehensive medical coverage for self and family</li>
+<li>Training and development opportunities</li>
+<li>Subsidised rates at Ascott serviced residences-</li>
+<li>Strong advocate of staff volunteerism</li>
+<li>Wellness programmes</li>
+</ul>
+<p><b>Closing Statement:</b></p>
+<p>At CapitaLand, we advocate fair employment practices, and recruit talents based on merit and fit with our Corporate values. We provide equal opportunity for all qualified persons and build an inclusive workplace regardless of race, gender, age, religious belief or nationality.</p>
+<p>Only shortlisted candidates will be notified.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8c00ef1fc236a120e52c6d]]></url>
+    <location><![CDATA[Singapore]]></location>
+    <country><![CDATA[SG]]></country>
+    <remote>0</remote>
+    <company><![CDATA[CapitaLand (Data Centres)]]></company>
+    <category>11</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-24T08:29:35.676Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8c00efca4a826df1dbfb7a]]></id>
+    <title><![CDATA[Assistant Manager, Executive, Operations, Singapore (2 Years Contract)]]></title>
+    <description><![CDATA[<h3>About Us</h3>
+<p>Headquartered and listed in Singapore in 2021, CapitaLand Investment Limited (CLI) is a leading global real asset manager with a strong Asia foothold. As at 5 November 2025, CLI had S$120 billion of funds under management. CLI holds stakes in eight listed real estate investment trusts and a suite of private real asset vehicles that invest in demographics, disruption and digitalisation-theme strategies. Its diversified real asset classes include retail, office, lodging, industrial, logistics, business parks, wellness, self-storage, data centres and private credit.</p>
+<h3>Job Description</h3>
+<h3>Responsibilities</h3>
+<ul>
+<li>You will support the Operations Manager in managing effective operations and maintenance of our retail mall.</li>
+<li>Coordinate operation programs and execute maintenance works to ensure the mall operates at optimum level</li>
+<li>Prepare annual budget, manage and administer all maintenance contracts and supervise expense for the operational needs of the mall</li>
+<li>Assist in the implementation of the Asset Enhancement Initiatives, renovation works carried out by tenants and operational support for the promotional activities of the mall</li>
+<li>Liaise with Contract &amp; Procurement team, manage and execute specific/adhoc procurement of equipment cyclical replacement &amp; enhancement works in the mall</li>
+<li>Manage and attend to all feedback and service requests in a timely manner</li>
+<li>Lead the technicians and manage vendor services to achieve the required professional standards in day-to-day operations</li>
+<li>Part of Company Emergency Response Team (i.e. Site Incident Controller, First Aider, etc),</li>
+<li>Part of Environmental Health Safety (EHS) team for review &amp; approval of permit to work (PTWs), risk assessment, safety checks/audits of the mall.</li>
+</ul>
+<h3>Requirements</h3>
+<ul>
+<li>Degree in Engineering (Mechanical/Electrical) / Real Estate / Facilities / Building / Estate Management</li>
+<li>Graduates with relevant degree but no prior relevant experience are welcome to apply</li>
+<li>Exhibit strong initiative, leadership, and interpersonal skills</li>
+<li>Able to work within tight timelines, resourceful and systematic in resolving problems</li>
+<li>Good communication skills</li>
+<li>Willing to work beyond standard operating hours, when required</li>
+<li>Willing to learn and open to possible lateral movements between asset classes in the future (based on business needs)</li>
+</ul>
+<h3>Benefits</h3>
+<ul>
+<li>Comprehensive medical coverage</li>
+<li>Training and development opportunities</li>
+<li>Subsidised rates at Ascott serviced residences</li>
+<li>Strong advocate of staff volunteerism</li>
+<li>Wellness programmes</li>
+</ul>
+<p><b>Closing Statement:</b></p>
+<p>At CapitaLand, we advocate fair employment practices, and recruit talents based on merit and fit with our Corporate values. We provide equal opportunity for all qualified persons and build an inclusive workplace regardless of race, gender, age, religious belief or nationality.</p>
+<p>Only shortlisted candidates will be notified.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8c00efca4a826df1dbfb7a]]></url>
+    <location><![CDATA[Singapore]]></location>
+    <country><![CDATA[SG]]></country>
+    <remote>0</remote>
+    <company><![CDATA[CapitaLand (Data Centres)]]></company>
+    <category>5</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-24T08:29:35.673Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8c00ef984d154a35327445]]></id>
+    <title><![CDATA[Intern, Human Resources]]></title>
+    <description><![CDATA[<h3>About Us</h3>
+<p>CapitaLand Group (CapitaLand) is one of Asia’s largest diversified real estate groups. Headquartered in Singapore, CapitaLand’s portfolio focuses on real estate investment management and real estate development, and spans across more than 270 cities in over 45 countries.</p>
+<h3>Job Description</h3>
+<p>As a Human Resources Intern at CapitaLand Development (CLD), you'll gain hands-on experience in the world of people and culture. You'll play a key role in attracting, retaining, and developing talent, contributing to the success of some of Asia's most iconic real estate projects.</p>
+<p>You will get to work closely with various teams across different business units, gaining exposure to a wide range of HR functions. This includes talent acquisition, employee engagement, and learning and development. You will also have the opportunity to support large-scale HR initiatives, building strong professional connections along the way.</p>
+<p>This internship will help you build a strong portfolio, develop strategic thinking, and deepen your understanding of how HR supports a leading real estate company in a regional context.</p>
+<p><b>What You Will Get to Do</b></p>
+<ul>
+<li>Collaborate with the team to craft and deliver engaging internal communications. This includes designing creative electronic direct mails (eDMs), updating the intranet with new content, and more</li>
+</ul>
+<ul>
+<li>Assist in planning and executing employee programs and initiatives that enhance the organizational culture and employee experience</li>
+</ul>
+<ul>
+<li>Conduct research on industry best practices, trends and emerging technologies. The insights will help turn innovative ideas to actions</li>
+</ul>
+<ul>
+<li>Collaborate with the team to design and develop training programmes</li>
+</ul>
+<ul>
+<li>Provide support for training activities, including scheduling, setup, and participant communication</li>
+</ul>
+<ul>
+<li>Participate in employer branding initiatives and internship programme management</li>
+</ul>
+<h3>What We Are Looking For</h3>
+<ul>
+<li>Positive, proactive attitude and passion for HR and people management</li>
+</ul>
+<ul>
+<li>Excellent multitasking and time management abilities to juggle multiple projects</li>
+</ul>
+<ul>
+<li>Strong communication skills to liaise with various stakeholders</li>
+</ul>
+<ul>
+<li>Bonus points if you have design, video editing, or other digital media skills to bring visually engaging content to life</li>
+</ul>
+<p><b>Closing Statement:</b></p>
+<p>At CapitaLand, we advocate fair employment practices, and recruit talents based on merit and fit with our Corporate values. We provide equal opportunity for all qualified persons and build an inclusive workplace regardless of race, gender, age, religious belief or nationality.</p>
+<p>Only shortlisted candidates will be notified.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8c00ef984d154a35327445]]></url>
+    <location><![CDATA[Singapore]]></location>
+    <country><![CDATA[SG]]></country>
+    <remote>0</remote>
+    <company><![CDATA[CapitaLand (Data Centres)]]></company>
+    <category>6</category>
+    <contract_type>contract</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-24T08:29:35.599Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8c00efb2ec82f733c1132f]]></id>
+    <title><![CDATA[Assistant Manager, Executive, Property Management (2-Years Contract)]]></title>
+    <description><![CDATA[<h3>About Us</h3>
+<p>Headquartered and listed in Singapore in 2021, CapitaLand Investment Limited (CLI) is a leading global real asset manager with a strong Asia foothold. As at 5 November 2025, CLI had S$120 billion of funds under management. CLI holds stakes in eight listed real estate investment trusts and a suite of private real asset vehicles that invest in demographics, disruption and digitalisation-theme strategies. Its diversified real asset classes include retail, office, lodging, industrial, logistics, business parks, wellness, self-storage, data centres and private credit.</p>
+<h3>Job Description</h3>
+<h3>Responsibilities</h3>
+<ul>
+<li>Handle and take over premises to / from tenants / purchasers</li>
+<li>Plan and implement preventive maintenance schedule of the Company’s properties</li>
+<li>Supervise and liaise with contractors for any maintenance repairs and renovation works</li>
+<li>Maintain buildings especially in the areas of security and cleanliness</li>
+<li>Manage and attend to all complaints, feedback and service requests in a timely manner</li>
+<li>Promote good relations with our partners and tenants</li>
+<li>Part of Company Emergency Response Team (i.e. SIC, ERT and First Aider)</li>
+<li>Perform any other duties as assigned by the manager</li>
+<li>Manage site project works</li>
+</ul>
+<h3>Requirements</h3>
+<ul>
+<li>Degree / Diploma in Engineering (Mechanical/Electrical) / Real Estate / Facilities / Building / Estate Management)</li>
+<li>Possess Fire Safety Manager and SCEM certification will be added advantage</li>
+<li>WSQ Trained in SIC and ERT will be added advantage</li>
+<li>A self-driven team player with good planning, organizing, communication and interpersonal skills</li>
+<li>Able to work independently and under tight deadlines</li>
+<li>Proficient in Microsoft Office applications</li>
+</ul>
+<h3>Benefits</h3>
+<ul>
+<li>Comprehensive medical coverage</li>
+<li>Training and development opportunities</li>
+<li>Subsidised rates at Ascott serviced residences</li>
+<li>Strong advocate of staff volunteerism</li>
+<li>Wellness programmes</li>
+</ul>
+<p><b>Closing Statement:</b></p>
+<p>At CapitaLand, we advocate fair employment practices, and recruit talents based on merit and fit with our Corporate values. We provide equal opportunity for all qualified persons and build an inclusive workplace regardless of race, gender, age, religious belief or nationality.</p>
+<p>Only shortlisted candidates will be notified.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8c00efb2ec82f733c1132f]]></url>
+    <location><![CDATA[Singapore]]></location>
+    <country><![CDATA[SG]]></country>
+    <remote>0</remote>
+    <company><![CDATA[CapitaLand (Data Centres)]]></company>
+    <category>5</category>
+    <contract_type>contract</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-24T08:29:35.586Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8c00effd73b1caea2d2223]]></id>
+    <title><![CDATA[Manager, Cluster Revenue Management, Singapore]]></title>
+    <description><![CDATA[<h3>About Us</h3>
+<p>CapitaLand Group (CapitaLand) is one of Asia’s largest diversified real estate groups. Headquartered in Singapore, CapitaLand’s portfolio focuses on real estate investment management and real estate development, and spans across 270 cities in 45 countries.</p>
+<h3>Job Description</h3>
+<p>The Manager, Cluster Revenue Management, Singapore is responsible for maximising the revenue of a defined cluster of Ascott serviced residences and hotels in Singapore. By analysing trends like market demand and the booking pace, he or she shall implement revenue optimising strategies and grow the property’s market shares through effective pricing, business mixes and sales channel management. He or she will report to the Country Director, Revenue Management and Area Manager, lyf.</p>
+<ul>
+<li>Yield optimum revenue and RevPAR with a regular business review of managed properties, including assessing rates, inventory, sales strategies, competitor set performance and booking pace.</li>
+<li>Provide regular analysis of market trends and market positioning to identify opportunities and implement initiatives to ensure optimal revenue generation and market share growth, which eventually contributes to increased profit margins.</li>
+<li>Actively manage and evaluate decisions from the IDeaS revenue management system for selected properties.</li>
+<li>Improve the property’s direct booking performance.</li>
+<li>Manage and oversee the online distribution strategy for all online sales channels.</li>
+<li>Provide and update monthly revenue forecasts for managed properties.</li>
+<li>Participate in annual budget and rate rationalisation exercises.</li>
+<li>Provide timely advice to the Sales Team on sales quotations.</li>
+<li>Ensure property’s rate parity and rate competitiveness.</li>
+<li>Prepare and chair the Revenue Meeting for each property (ie; Frequency of meetings will be dependent on each property’s needs).</li>
+<li>Liaise and meet up quarterly with partners to keep abreast of market changes and developments within the industry.</li>
+<li>Participate in pre-opening processes to ensure activation of distribution channels before a property’s opening.</li>
+<li>Contribute to the growth of the Revenue Management culture within the organisation.</li>
+<li>Closely communicate with related departments, such as Sales, Marketing, Reservations, and Operations on specific tasks.</li>
+</ul>
+<p>The Company may assign portfolios or roles in addition to those above and/or vary the scope of responsibilities according to business requirements.</p>
+<h3>Benefits</h3>
+<ul>
+<li>Flexible benefits with comprehensive medical coverage for self and family</li>
+<li>Training and development opportunities</li>
+<li>Subsidised rates at Ascott serviced residences-</li>
+<li>Strong advocate of staff volunteerism</li>
+<li>Wellness programmes</li>
+</ul>
+<p><b>Closing Statement:</b></p>
+<p>At CapitaLand, we advocate fair employment practices, and recruit talents based on merit and fit with our Corporate values. We provide equal opportunity for all qualified persons and build an inclusive workplace regardless of race, gender, age, religious belief or nationality.</p>
+<p>Only shortlisted candidates will be notified.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8c00effd73b1caea2d2223]]></url>
+    <location><![CDATA[Singapore]]></location>
+    <country><![CDATA[SG]]></country>
+    <remote>0</remote>
+    <company><![CDATA[CapitaLand (Data Centres)]]></company>
+    <category>3</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-24T08:29:35.585Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8c00ef6b81f54c30740b14]]></id>
+    <title><![CDATA[Technician, Engineering]]></title>
+    <description><![CDATA[<h3>About Us</h3>
+<p>CapitaLand Group (CapitaLand) is one of Asia’s largest diversified real estate groups. Headquartered in Singapore, CapitaLand’s portfolio focuses on real estate investment management and real estate development, and spans across 270 cities in 45 countries.</p>
+<h3>Job Description</h3>
+<p>The Technician, Engineering is responsible for the general maintenance and/or minor repairs of equipment, facilities in the Serviced Residence, and to perform repairs etc, as required. Close co-operation with various departments including Housekeeping and Guest Service ensures the smooth stay of our guests at all times. The job responsibilities include the following but are not limited to:</p>
+<ul>
+<li>Maintaining the physical conditions of the building and ensure that the building has adequate heating, lightings and ventilation etc and that they are in good working condition</li>
+<li>General maintenance and repair works such as, painting, patching walls, plumbing facilities, aircon servicing, and electrical switches and other fixtures and equipment to ensure smooth operations</li>
+<li>Perform routine preventive maintenance program</li>
+<li>Check and inspect the building's machinery and equipment</li>
+<li>Respond and prioritise maintenance requisitions (MWO) and guests' requests to ensure our guests receive quality service and furnishings</li>
+</ul>
+<h3>Job Requirements</h3>
+<ul>
+<li>At least a Professional Certificate/NITEC in Electrical / Mechanical / Aircon Maintenance or an equivalent</li>
+<li>Preferably 1 year of related working experience in the hospitality industry</li>
+<li>Ability to communicate in English</li>
+<li>Ability to work well in teams and independently</li>
+<li>Responsible and self-motivated</li>
+<li>Ability to perform rotating shift duties</li>
+</ul>
+<h3>Benefits</h3>
+<ul>
+<li>Flexible benefits with comprehensive medical coverage for self and family</li>
+<li>Training and development opportunities</li>
+<li>Subsidised rates at Ascott serviced residences-</li>
+<li>Strong advocate of staff volunteerism</li>
+<li>Wellness programmes</li>
+</ul>
+<p><b>Closing Statement:</b></p>
+<p>At CapitaLand, we advocate fair employment practices, and recruit talents based on merit and fit with our Corporate values. We provide equal opportunity for all qualified persons and build an inclusive workplace regardless of race, gender, age, religious belief or nationality.</p>
+<p>Only shortlisted candidates will be notified.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8c00ef6b81f54c30740b14]]></url>
+    <location><![CDATA[Singapore]]></location>
+    <country><![CDATA[SG]]></country>
+    <remote>0</remote>
+    <company><![CDATA[CapitaLand (Data Centres)]]></company>
+    <category>2</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-24T08:29:35.578Z]]></date>
   </job>
 </jobs>
