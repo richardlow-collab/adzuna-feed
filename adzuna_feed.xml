@@ -1,6 +1,894 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <jobs>
   <job>
+    <id><![CDATA[6aa701fc11e59aa8f8927129]]></id>
+    <title><![CDATA[Lead DNS Engineer]]></title>
+    <description><![CDATA[<h3>About the role</h3>
+<p>Optus is seeking a Lead DNS Engineer to provide hands-on technical leadership across our carrier-grade DNS environment.</p>
+<p>This is a DNS-first senior individual contributor role responsible for the technical integrity, design, and implementation of DNS services across authoritative DNS, resolver DNS, cache DNS, DNS security controls, observability, and lifecycle uplift.</p>
+<p>The successful candidate will operate as the senior engineering lead for DNS, combining architecture and standards with practical implementation. This role is expected to design solutions, build and improve configurations and automation, lead complex technical change, and materially reduce service risk across current and future DNS platforms.</p>
+<p>The position is for an engineer who can move between strategy and execution — someone who can define the right design and then help implement it in production.</p>
+<p><i>*</i>*</p>
+<p><b>What You’ll Do</b></p>
+<p><i>*</i>*</p>
+<p><b>DNS architecture, design, and implementation</b></p>
+<ul>
+<li>Design and implement solutions across authoritative DNS, recursive DNS, cache DNS, DNS policy services, and DNS control plane functions.</li>
+<li>Define and maintain target-state architecture and engineering patterns for Consumer, Enterprise, and Internal DNS services.</li>
+<li>Produce practical designs that can be implemented safely in production, including migration patterns, coexistence models, failover design, and rollback strategy.</li>
+<li>Build and improve DNS configurations, service patterns, and deployment approaches across current and future DNS platforms.</li>
+</ul>
+<p><b>DNS platform engineering and change delivery</b></p>
+<ul>
+<li>Lead hands-on implementation of complex DNS changes, upgrades, migrations, and resilience improvements.</li>
+<li>Improve DNS automation, validation, and deployment workflows to reduce manual risk and increase repeatability.</li>
+<li>Work through deep technical details of zone management, zone publication, policy distribution, hidden master operation, and service cutover.</li>
+<li>Support and technically lead platform transition programs, ensuring design intent is carried through into implementation.</li>
+</ul>
+<p><b>Lifecycle uplift and technical risk reduction</b></p>
+<ul>
+<li>Identify DNS lifecycle exposure across software, supporting components, and service dependencies, and drive practical remediation plans.</li>
+<li>Reduce technical debt and simplify brittle service patterns through engineering change, not just documentation.</li>
+<li>Improve service resilience, recovery readiness, and observability through targeted implementation work and design correction.</li>
+<li>Support technology refresh and service modernisation by taking designs through to deployable outcomes.</li>
+</ul>
+<p><b>DNS security, service correctness, and resilience</b></p>
+<ul>
+<li>Design and implement improvements to DNS security controls including DNSSEC, TSIG, access control, RPZ policy handling, secure administration, and auditability.</li>
+<li>Improve service correctness across authoritative, resolver, and cache paths, including failover behaviour, propagation behaviour, and dependency management.</li>
+<li>Define and implement guardrails for safe DNS change, including validation, rollback expectations, and production-readiness checks.</li>
+<li>Support major incidents, root cause analysis, and recurring issue elimination with a strong engineering focus on prevention.</li>
+</ul>
+<p><b>Engineering leadership and cross-functional execution</b></p>
+<ul>
+<li>Work closely with platform engineering, network engineering, security, operations, and vendor teams to turn DNS service requirements into deployable and supportable solutions.</li>
+<li>Provide senior technical leadership during design, implementation, and stabilisation of DNS changes.</li>
+<li>Improve engineering documentation, build standards, implementation patterns, runbooks, and migration artefacts.</li>
+<li>Mentor engineers and contribute to lifting practical DNS engineering capability across the organisation.</li>
+</ul>
+<p><i>*</i>*</p>
+<p><b>What makes you the right fit for the role?</b></p>
+<ul>
+<li>Deep hands-on expertise in DNS engineering across authoritative DNS, recursive DNS, cache DNS, and DNS service operations.</li>
+<li>Strong understanding of DNS protocols, record types, zone design, split-horizon or split-view DNS, recursion behaviour, forwarding, and cache behaviour.</li>
+<li>Proven experience designing and implementing production DNS services in large-scale enterprise, ISP, carrier, or service provider environments.</li>
+<li>Strong knowledge of DNS security concepts including DNSSEC, TSIG, response policy mechanisms, access control, and service hardening.</li>
+<li>Experience implementing resilient DNS designs including hidden masters, secondaries, anycast-based service delivery, failover patterns, and control/data plane separation.</li>
+<li>Strong problem-solving capability across complex service incidents, technical debt, lifecycle uplift, and architectural remediation.</li>
+<li>Experience building or improving DNS automation, validation, deployment, or migration workflows.</li>
+<li>Experience producing high-quality engineering documentation such as design documents, standards, runbooks, migration plans, and risk assessments.</li>
+<li>Strong communication skills with the ability to explain complex DNS concepts to engineering operations, architecture, and leadership audiences.</li>
+</ul>
+<p><b><i> </b></i></p>
+<p><b>Leadership attributes</b></p>
+<ul>
+<li>Strong engineering judgement</li>
+</ul>
+<ul>
+<li>Structured and pragmatic problem solving</li>
+</ul>
+<ul>
+<li>Ownership mindset for service quality and technical integrity</li>
+</ul>
+<ul>
+<li>Ability to balance immediate operational realities with long-term design direction</li>
+</ul>
+<ul>
+<li>Calm, credible presence during major incidents and critical changes</li>
+</ul>
+<ul>
+<li>Collaborative approach across service, platform, and operations teams</li>
+</ul>
+<p><i>*</i>*</p>
+<p><b>Essential experience and capability</b></p>
+<ul>
+<li>Deep hands-on expertise in DNS engineering across authoritative DNS, recursive DNS, cache DNS, and DNS service operations.</li>
+<li>Strong understanding of DNS protocols, record types, zone design, split-horizon or split-view DNS, recursion behaviour, forwarding, and cache behaviour.</li>
+<li>Proven experience designing and implementing production DNS services in large-scale enterprise, ISP, carrier, or service provider environments.</li>
+<li>Strong knowledge of DNS security concepts including DNSSEC, TSIG, response policy mechanisms, access control, and service hardening.</li>
+<li>Experience implementing resilient DNS designs including hidden masters, secondaries, anycast-based service delivery, failover patterns, and control/data plane separation.</li>
+<li>Strong problem-solving capability across complex service incidents, technical debt, lifecycle uplift, and architectural remediation.</li>
+<li>Experience building or improving DNS automation, validation, deployment, or migration workflows.</li>
+<li>Experience producing high-quality engineering documentation such as design documents, standards, runbooks, migration plans, and risk assessments.</li>
+<li>Strong communication skills with the ability to explain complex DNS concepts to engineering operations, architecture, and leadership audiences.</li>
+</ul>
+<p><b>Desirable experience and capability</b></p>
+<ul>
+<li>Strong systems and platform engineering capability across Linux-based infrastructure, service hardening, observability, and lifecycle management.</li>
+<li>Working knowledge of server, OS, virtualisation, and platform operations relevant to carrier-grade DNS environments.</li>
+<li>Familiarity with network and traffic engineering constructs such as BGP anycast, load balancing, routing daemons, HA clustering, and service advertisement models.</li>
+<li>Experience with DNS platforms and products such as BIND, Unbound, Power DNS, F5 BIG-IP DNS or similar.</li>
+<li>Exposure to automation and infrastructure tooling used to manage DNS at scale, including APIs, scripting, CI/CD, infrastructure-as-code, configuration management, and service onboarding workflows.</li>
+<li>Experience with service observability platforms, telemetry pipelines, logging, SNMP-based monitoring, and performance analysis.</li>
+<li>Experience working in regulated or highly available production environments where uptime, auditability, and service correctness are critical.</li>
+<li>Ability to work effectively with platform, infrastructure, and operations teams to translate service requirements into deployable runtime patterns.</li>
+</ul>
+<p><i>*</i>*</p>
+<p><b>The good stuff….</b></p>
+<ul>
+<li>Competitive remuneration and colleague discounts. Make life easier (and more affordable) with $80 monthly credit and 25% off Optus products and outstanding shopping discounts with our retail partners.</li>
+<li>Flexible working arrangements with opportunities to work three days in the office, two days remote or home.</li>
+<li>Vibrant and collaborative office campus that includes cafes, a convenience store, chill-out zones, GP, post office, gym, and on-site childcare centre.</li>
+<li>Competitive leave policies, including additional 'Connected’ days to focus on culture, family, health, community, or whatever’s important to you.</li>
+<li>We support growing families with inclusive, carer-neutral paid Parental Leave of up to 16 weeks.</li>
+<li>Build meaningful connections through colleague-led networks and diversity initiatives including Culture Connect, Elevate Women, Disability Network, and Express Yourself (LGBTQIA+).</li>
+<li>Put your wellbeing first with free access to counselling and support services, 24/7 — in-person, by phone, SMS, or video.</li>
+<li>Free Optus bus from Macquarie University Metro Station (every 6-8 minutes); morning and afternoon.</li>
+</ul>
+<p>At Optus, we are strengthened by others and that means valuing diversity and saying ‘yes’ to embracing individual differences. We are committed to ensuring that our application process provides an equal employment opportunity to all job seekers, including individuals from diverse gender, cultural and linguistic backgrounds, individuals with a disability, individuals identifying as being part of the LGBTQIA+ community, individuals who may have served in the armed forces or who identify as Aboriginal and/or Torres Strait Islander. We also want to do our best to make our recruitment process inclusive. If you require any adjustments or accessibility support to participate fairly and equitably in the recruitment process, please email [AccessibleRecruitment@optus.com.au](mailto:accessiblerecruitment@optus.com.au) or call 1800 309 170.</p>
+<p>For more information on Diversity, Inclusion &amp; Belonging at Optus, please visit [https://www.optus.com.au/about/inclusion-diversity](https://www.optus.com.au/about/inclusion-diversity)</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6aa701fc11e59aa8f8927129]]></url>
+    <location><![CDATA[Sydney, New South Wales]]></location>
+    <country><![CDATA[AU]]></country>
+    <remote>1</remote>
+    <company><![CDATA[Singtel Digital InfraCo]]></company>
+    <category>12</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-09-13T20:05:16.346Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6aa6e81146fceec6a7979486]]></id>
+    <title><![CDATA[Sr. Manager - NA Service]]></title>
+    <description><![CDATA[<p><b>Role:</b> Sr. Manager - NA Service</p>
+<p><b>Location:</b> Kolkata</p>
+<p><b>Full/ Part-time:</b> Full time</p>
+<p><b>About Carrier:</b></p>
+<p>Carrier Global Corporation, global leader in intelligent climate and energy solutions, is committed to creating innovations that bring comfort, safety and sustainability to life. Through cutting-edge advancements in climate solutions such as temperature control, air quality and transportation, we improve lives, empower critical industries and ensure safe transport of food, life-saving medicines and more. Since inventing modern air conditioning in 1902, we lead with purpose: enhancing the lives we live and the world we share. We continue to lead because of our world-class, inclusive workforce that puts the customer at the centre of everything we do. For more information, visit [corporate.carrier.com](https://www.carrier.com/) or follow Carrier on social media at &amp;#64;Carrier.</p>
+<h3>About the role</h3>
+<p>The role involves managing dealer service operations, service delivery, and coordinating with the revenue team to maintain system data and dealer submissions. The candidate will handle BOQ (Bill of Quantity) and finance-related activities.The role also includes managing key accounts while collaborating with other team members.</p>
+<p><b>Role Responsibilities:</b></p>
+<ul>
+<li>Financials - Ensure to achieve the branch revenue numbers, maintain desired margin percentage, Receivable management to ensure overall desired growth for the branch.</li>
+<li>Service Delivery - Call Management - Regular review of branch calls with relevant stakeholders to ensure minimum 85% in TAT Closure.</li>
+<li>Service Delivery - PM Management - Regular review of with relevant stakeholders to ensure 100% PM Call closure within defined timeline both in field and system.</li>
+<li>Service Delivery - Spare Part Management - Ensure branch and dealer based MSL. Regular connect with Spare Parts team to ensure timely spare delivery to create customer delight.</li>
+<li>Service Delivery - Dealer Management - Continuous engagement with dealers, do RECO and closure of issues with them to motivate them for better services.</li>
+<li>Service Delivery - Customer Management - Periodic in person meetings, reply on mails within reasonable time.</li>
+<li>Employees - Retain and promote good talent. Skill development of teams to ensure productivity gains.</li>
+<li>Values - Ensure to follow Ethics and Compliance policies of the organization.</li>
+<li>EH&amp;S - Promote and practice EH&amp;S culture within and outside organization.</li>
+</ul>
+<h3>Role Purpose</h3>
+<ul>
+<li>The candidate will work as branch service manager for National Account customers which will give experience to handle branch P&amp;L with BTB customer handling experience.</li>
+<li>The job role includes managing the state of West Bengal &amp; Sikkim for all NA customers.</li>
+<li>A team of 1 person will report as of now.</li>
+</ul>
+<h3>Minimum Requirements</h3>
+<ul>
+<li>BE / B-TECH Degree is preferred.</li>
+<li>10 years' experience in field service.</li>
+<li>Proficiency in MS Office.</li>
+</ul>
+<h3>Benefits</h3>
+<p>We offer a competitive total rewards package that may include other benefits and well‑being programs. Offerings vary by role and location and are designed to support employees’ health, security, and success.</p>
+<p><b>Equal Treatment and Non-Discrimination</b></p>
+<p>Carrier is committed to equal treatment and non-discrimination principles. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, or disability, or any other applicable protected class.</p>
+<p><b>Job Applicant Privacy Notice</b></p>
+<p>Please review Carrier’s [<b>Job Applicant Privacy Notice</b>](https://www.corporate.carrier.com/legal/privacy-notice-job-applicant/) ,</p>
+<p><b>Use of AI in Recruitment</b></p>
+<p>Technology enabled tools may support parts of the recruitment process, with oversight by people.</p>
+<p><b>Apply Now!</b></p>
+<p><b>Carrier is An Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status, age or any other federally protected class.</b></p>
+<p><b>Job Applicant's Privacy Notice:</b></p>
+<p>Click on this [link](https://www.corporate.carrier.com/legal/privacy-notice-job-applicant/) to read the Job Applicant's Privacy Notice</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6aa6e81146fceec6a7979486]]></url>
+    <location><![CDATA[Kolkata, West Bengal]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Carrier]]></company>
+    <category>18</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-09-13T18:14:41.531Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6aa6e74fa23e954fc00ceae9]]></id>
+    <title><![CDATA[Manufacturing Technician]]></title>
+    <description><![CDATA[<h3>Job Description</h3>
+<p><b>Your Work Shapes the World at Caterpillar Inc.</b></p>
+<p>When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.</p>
+<p><b>Role Definition</b></p>
+<p>To develop and maintain sales model product compatibility in the ERP based business process. ERP supports the worldwide sales of the Machines. This position is for an experienced, individual contributing on assignments that are complex and challenging and begin to become strategic in nature.</p>
+<p><b>Key responsibilities of this assignment are:</b></p>
+<p>Comply with standards developed by Technical Analyst for a product configuration in ERP.</p>
+<p>Develop/maintain sales model product compatibility in ERP System.</p>
+<p>Interact with Engineering personnel to ascertain accurate and clearly defined feature or part number compatibility.</p>
+<p>Interact with Pricing personnel to ensure the feature code assignment is accurate</p>
+<p>Meet regular schedules for introducing the product compatibility changes to External/internal users relying on configuration to meet their ordering needs.</p>
+<p>Provide timely response to Local Change Coordinators / Material Master Owners in coordinating changes resulting from Bill of Material synchronization and other engineering change notices.</p>
+<p>The position manages the completion of its own work assignments and coordinates work with others.</p>
+<p><b>Qualification:</b></p>
+<p>The position requires thorough, detailed knowledge of company products and product applications. A detailed understanding of ERP is essential. Must have analytical ability and initiative, be results oriented, and have strong written and verbal communication skills. Written and spoken fluency in English is a requirement, other languages are also an asset. Three months of training and on the job experience as a Product Configuration Analyst are typically required. The position typically requires a four-year college degree in Mechanical/Production/Manufacturing stream. Incumbent initiates communication with others outside the immediate work group to work on new ideas and counsel others. The ability to listen and guide others is critical to the success of this job. The incumbent must have multiple application experience or the equivalent work knowledge.</p>
+<p>Typical internal customers include various contacts throughout the Caterpillar worldwide and its subsidiaries. These contacts include Engineering, Product Group, Pricing, and NPI groups.</p>
+<p><b>Skill Descriptors</b> <b>Data Gathering &amp; Analysis:</b> Knowledge of data gathering and analysis tools, techniques, and processes; ability to collect and synthesize data from a variety of stakeholders and sources in an objective manner to reach a conclusion, goal, or judgment. <b>Level Extensive Experience:</b></p>
+<ul>
+<li>Advises on advanced data gathering and analysis methodologies and technologies.</li>
+<li>Oversees data gathering and analysis activities within the organization.</li>
+<li>Documents sources and validates the accuracy of data analysis by evaluating the pros and cons of data analysis methods used.</li>
+<li>Implements procedures and policies within a data processing function.</li>
+</ul>
+<p><b>Planning: Tactical, Strategic:</b> Knowledge of effective planning techniques and ability to contribute to operational (short term), tactical (1-2 years) and strategic (3-5 years) planning in support of the overall business plan. <b>Level Working Knowledge:</b></p>
+<ul>
+<li>Contributes to short-term operational plans.</li>
+<li>Anticipates and adapts to plan changes.</li>
+<li>Monitors progress of work against plan as required to meet objectives.</li>
+<li>Reports variances and makes agreed-upon corrections.</li>
+</ul>
+<p><b>Analytical Thinking:</b> Knowledge of techniques and tools that promote effective analysis; ability to determine the root cause of organizational problems and create alternative solutions that resolve these problems. <b>Level Extensive Experience:</b></p>
+<ul>
+<li>Seeks discrepancies and inconsistencies in available information; explains variances.</li>
+<li>Organizes and prioritizes the sequence of steps to be taken to remedy the situation.</li>
+<li>Identifies many possible causes for a problem based on prior experience and current research.</li>
+<li>Quantifies the costs, benefits, risks and chances for success before recommending a course of action.</li>
+<li>Approaches a complex problem by breaking it down into its component parts.</li>
+</ul>
+<p><b>Effective Communications:</b> Understanding of effective communication concepts, tools and techniques; ability to effectively transmit, receive, and accurately interpret ideas, information, and needs through the application of appropriate communication behaviours. <b>Level Working Knowledge:</b></p>
+<ul>
+<li>Delivers helpful feedback that focuses on behaviours without offending the recipient.</li>
+<li>Listens to feedback without defensiveness and uses it for own communication effectiveness.</li>
+<li>Makes oral presentations and writes reports needed for own work.</li>
+<li>Avoids technical jargon when inappropriate.</li>
+</ul>
+<p><b>Problem Solving:</b> Knowledge of approaches, tools, techniques for recognizing, anticipating, and resolving organizational, operational or process problems; ability to apply knowledge of problem solving appropriately to diverse situations. <b>Level Working Knowledge:</b></p>
+<ul>
+<li>Identifies and documents specific problems and resolution alternatives.</li>
+<li>Examines a specific problem and understands the perspective of each involved stakeholder.</li>
+<li>Develops alternative techniques for assessing accuracy and relevance of information.</li>
+</ul>
+<p>This position requires working onsite five days a week.</p>
+<p>Relocation is available for this position.</p>
+<p>Visa Sponsorship is not available for this position.</p>
+<p><b>Posting Dates:</b></p>
+<p>September 11, 2026 - September 22, 2026</p>
+<p>Caterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6aa6e74fa23e954fc00ceae9]]></url>
+    <location><![CDATA[Chennai, Tamil Nadu]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Caterpillar]]></company>
+    <category>5</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-09-13T18:11:27.651Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6aa5b4c523e66aa03de5efd6]]></id>
+    <title><![CDATA[Community and Social Impact Manager]]></title>
+    <description><![CDATA[<h3>About us</h3>
+<p>Established in 2007, CDC Data Centres is Australia's leading operator of sovereign, secure, world-class data centre facilities.</p>
+<p>Headquartered in Canberra with multiple facilities in the ACT, NSW, VIC and New Zealand, CDC's diversified operations provide secure data centre configurations that support co-location, containerised and hyperscale compute environments with all campuses interconnected with high-speed carrier grade networks.</p>
+<p>At CDC we are passionate about creating an inclusive workplace that promotes and values diversity. We believe that everyone's unique experiences enable us to deliver meaningful benefits for our people, our clients and communities. Our mission is to attract, retain and grow the world's best data centre team.</p>
+<p>Our people are committed, tenacious and meticulous in supporting our customers. Together, we configure the landscape to meet the security, reliability, connectivity and sustainability needs for today and tomorrow.</p>
+<h3>About the Role</h3>
+<p>The Community Engagement Specialist is CDC’s on-the-ground presence across metropolitan and regional areas. The role supports the relationship between CDC and the communities that host our campuses through planning, approvals, construction and operations.</p>
+<h3>Responsibilities</h3>
+<ul>
+<li>Act as CDC’s local, visible point of contact for host communities across metropolitan and regional areas, building trusted relationships with residents, community groups, councils, Traditional Owners, elected representatives and local stakeholders.</li>
+<li>Run listening, consultation and two-way feedback in line with the IAP2 spectrum, using a closed-loop system that captures concerns, acts on them and shows communities what changed through ‘you said, we did’ updates.</li>
+<li>Gather community intelligence through direct engagement, local media and social monitoring, council-minute scanning and surveys, and feed it into CDC’s traffic-light sentiment view.</li>
+<li>- Contribute frontline insight to CDC’s community engagement strategy, standards, tools and assurance, keeping the enterprise approach practical and grounded in community experience.</li>
+<li>Help build and continuously improve CDC’s repeatable engagement and benefit-sharing approach so each new site starts from proven practice.</li>
+</ul>
+<p><b>What's in it for you:</b></p>
+<p>CDC offers excellent employment conditions and benefits such as:</p>
+<ul>
+<li><b>CDC Academy</b> -Make your mark by enhancing your professional development with the CDC Academy. Enrol in specialised training courses that will help you develop skills and ensure you thrive in your chosen career.</li>
+<li><b>CDC Day</b> - An additional day of paid leave dedicated to nurturing your health and wellbeing.</li>
+<li><b>Parental Leave</b> - Inclusive and above legislative tenure of parental leave entitlements to help you start, grow and care for your family.</li>
+<li><b>Volunteer Leave</b> - Make a meaningful difference with 2 days of volunteering leave for any cause or charity of your choice.</li>
+<li><b>Employment Assistance Program</b> - Be confident that you and your family are supported with access to our comprehensive Employee Assistance Program.</li>
+<li><b>CDC Social Events</b> - CDC's offers staff and their family's inclusive events that nurtures relationships, connection and friendships across the business. CDC hosts BBQs, family picnics and community events, bringing together CDC staff in different settings.</li>
+</ul>
+<h3>About You</h3>
+<ul>
+<li>5+ years’ experience in community engagement, stakeholder relations, social impact or external affairs, including hands-on delivery in host communities.</li>
+<li>Experience delivering community or stakeholder engagement for major projects in infrastructure, property, energy, utilities, renewables or another complex, asset-intensive or regulated sector.</li>
+<li>Practical command of engagement practice and frameworks such as the IAP2 spectrum, consultation, complaints handling and closed-loop feedback.</li>
+<li>Understanding of the planning and approvals environment and how community sentiment affects development application and consenting outcomes.</li>
+<li>Experience working alongside delivery partners and agencies to deliver local engagement.</li>
+<li>A current driver’s licence and willingness to travel and work across metropolitan and regional areas, including occasional after-hours community events.</li>
+</ul>
+<p><b>Essential: </b>Australian Citizenship with ability to obtain and maintain a NV1 Security Clearance.</p>
+<p><b>How to Apply:</b></p>
+<p>If you are looking for an opportunity to play a vital role in a fast-growing Australian Technology company and be part of our amazing team, please submit your resume and cover letter by clicking Apply.</p>
+<p>We are committed to fostering a diverse and inclusive workplace where all individuals are valued and respected. We believe that diversity of backgrounds, perspectives, and experiences leads to innovation and success. We actively promote equality and strive to create a welcoming environment for all employees. We are dedicated to building a team that reflects the diversity of our community and encourages everyone to bring their authentic selves to work.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6aa5b4c523e66aa03de5efd6]]></url>
+    <location><![CDATA[Canberra, Australian Capital Territory]]></location>
+    <country><![CDATA[AU]]></country>
+    <remote>0</remote>
+    <company><![CDATA[CDC]]></company>
+    <category>18</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-09-12T20:23:33.199Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6aa5a75bc853addb6b2d5d72]]></id>
+    <title><![CDATA[ID - Rack Lifecycle Tech , Rack Lifecycle Team]]></title>
+    <description><![CDATA[<p>AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we’re the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain — and we’re looking for talented people who want to help.</p>
+<p>You’ll join a diverse team of software, hardware, and network engineers, supply chain specialists, security experts, operations managers, and other vital roles. You’ll collaborate with people across AWS to help us deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers. And you’ll experience an inclusive culture that welcomes bold ideas and empowers you to own them to completion.</p>
+<h3>Job Summary</h3>
+<p>We are looking for a detail-oriented, technically skilled Rack Lifecycle Tech to join our Rack Lifecycle Team within AWS Infrastructure Operations. In this individual contributor role, you will be a hands-on executor responsible for the physical installation, cabling, handoff, and decommissioning of racks across your assigned data center site. You are the person on the floor who turns capacity plans into operational reality.</p>
+<p>As a Rack Lifecycle Tech, you will execute structured cabling, rack installation, and decommission activities with precision and to standard — following established SOPs, escalating deviations to your team lead, and ensuring every rack you touch is installed correctly, cabled to specification, fully documented, and handed off with zero blockers. This is an individual contributor role with no people management responsibilities. Your work is foundational to AWS’s ability to deliver infrastructure capacity to customers reliably, safely, and at the lowest possible cost.</p>
+<p>Key job responsibilities 🔷 Rack Installation &amp; Cabling</p>
+<ul>
+<li>Execute rack installations including physical placement, power connections, grounding, and cable management per AWS standards and MOPs</li>
+<li>Perform structured cabling including fiber/copper terminations, patch panel connections, labeling, and dressing to specification</li>
+<li>Complete OTDR and power testing; validate results against acceptance thresholds; escalate failures to team lead promptly rather than self-resolving outside approved procedures</li>
+<li>Follow all EHS protocols, lockout/tagout (LOTO) procedures, and safe work practices during installation activities</li>
+</ul>
+<p>🔷 Rack Lifecycle Operations</p>
+<ul>
+<li>Execute work orders and tasks assigned by the Rack Lifecycle Team Manager under direct manager direction, maintaining accurate status updates in workflow management tools (e.g., Boost, MARS)</li>
+<li>Perform quality checks on completed cabling work including port map verification, label accuracy, and as-built documentation updates in CMDB/DCIM</li>
+<li>Identify and escalate issues, blockers, or deviations from SOPs encountered during task execution to the team lead or manager promptly; do not self-resolve outside approved procedures</li>
+<li>Support deployment wave readiness by participating in pre-work site walks, material staging, and tool preparation</li>
+</ul>
+<p>🔷 Material Handling &amp; Supply Chain Support</p>
+<ul>
+<li>Receive, verify, and stage incoming rack, cable, optics, and hardware deliveries; validate against BOM and flag discrepancies</li>
+<li>Maintain accurate site inventory records for cables, optics, patch cords, and consumables used during deployments</li>
+<li>Support cycle count activities and assist in identifying inventory shortfalls that may impact deployment timelines</li>
+</ul>
+<p>🔷 Handover &amp; Documentation</p>
+<ul>
+<li>Complete all required as-built documentation, port maps, test result records, and workflow sign-offs before handoff to Data Center Operations</li>
+<li>Update CMDB/DCIM and IPAM records accurately following rack installation or decommission activities</li>
+<li>Ensure handoffs are clean and fully documented with zero open blockers, enabling smooth transition to the next lifecycle phase</li>
+</ul>
+<p>🔷 Rack Decommissioning</p>
+<ul>
+<li>Execute physical decommission activities per assigned MOPs — including cable removal, power disconnects, asset de-tagging, and rack extraction</li>
+<li>Perform device wipe and media destruction in compliance with AWS Secure Media Destruction and EHS policies</li>
+<li>Sort, label, and stage recovered assets (optics, cables, PDUs, hardware) for RMA, redeployment, or secure disposal per AWS Reverse Logistics policy</li>
+<li>Update DCIM/CMDB, IPAM, and port maps post-decom to ensure accurate space, power, and circuit records</li>
+<li>Validate that reclaimed U-space, power, and cooling capacity is accurately recorded in the available pool</li>
+</ul>
+<p>🔷 Quality, Safety &amp; Compliance</p>
+<ul>
+<li>Adhere to all site-level SOPs, quality standards, and governance frameworks for cabling, installation, and decommission activities</li>
+<li>Complete all required safety training and certifications; participate in regular EHS audits and team safety briefings</li>
+<li>Contribute to continuous improvement by identifying recurring quality issues, suggesting process improvements, and sharing feedback with the Rack Lifecycle Team Manager</li>
+<li>Use Rack Lifecycle Team tooling (e.g., Boost, MARS, ALM/DCLM) accurately to record work, track assets, and maintain data integrity</li>
+</ul>
+<p>🔷 Cross-Team Coordination</p>
+<ul>
+<li>Support coordination with DCO, DCEO, Network Engineering, and facilities teams during active deployment or decom activities under manager guidance to ensure smooth execution</li>
+<li>Participate in daily stand-ups and pre-work briefings; communicate clearly on task status, blockers, and schedule adherence</li>
+<li>Provide accurate, timely updates on task completion and flag risks or delays to the team lead immediately</li>
+</ul>
+<p>🔷 Continuous Learning &amp; Development</p>
+<ul>
+<li>Maintain and develop technical proficiency in structured cabling, fiber optics, rack installation, and data center physical infrastructure</li>
+<li>Complete required certifications and training modules including EHS, LOTO, and any Rack Lifecycle Team-specific technical programs</li>
+<li>Proactively seek feedback from leads and managers to improve personal performance and output quality</li>
+<li>Support the onboarding and training of new team members; share knowledge and best practices with peers to build overall team capability and quality standards</li>
+<li>Stay current on AWS infrastructure tooling, cabling standards, and process updates communicated by the Rack Lifecycle Team</li>
+</ul>
+<p>A day in the life As a Rack Lifecycle Tech, your day is on the data center floor. You might start the morning by reviewing your assigned work orders in Boost, checking in with your team lead on priorities, and staging cables and optics for a rack installation wave. By midday, you could be terminating fiber runs at a patch panel, running OTDR tests to validate loss results against acceptance thresholds, or labeling and dressing a freshly installed rack. In the afternoon, you might be updating CMDB records for completed work orders, de-tagging and staging recovered assets from an EOL decom, or helping onboard a new technician by walking them through the SOP. If you encounter a deviation from the approved MOP, you escalate it to your team lead immediately — you don't improvise. Your role is hands-on, technical, and precise — you execute the work that keeps AWS capacity on track.</p>
+<p>About the team Diverse Experiences Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.</p>
+<p>Why AWS Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.</p>
+<p>Work/Life Balance We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve.</p>
+<p>Inclusive Team Culture AWS values curiosity and connection. Our employee-led and company-sponsored affinity groups promote inclusion and empower our people to take pride in what makes us unique. Our inclusion events foster stronger, more collaborative teams. Our continual innovation is fueled by the bold ideas, fresh perspectives, and passionate voices our teams bring to everything we do.</p>
+<p>Mentorship and Career Growth We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.</p>
+<h3>Basic Qualifications</h3>
+<ul>
+<li>2+ years of computer hardware troubleshooting and repair experience</li>
+<li>1+ years of computer networking experience</li>
+<li>High school or equivalent diploma</li>
+</ul>
+<h3>Preferred Qualifications</h3>
+<ul>
+<li>Experience dealing effectively with customers during problem resolution and operating efficiently under pressure</li>
+<li>Familiarity with rack decommissioning including device wipe, media destruction, and asset recovery procedures</li>
+</ul>
+<p>Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit [https://amazon.jobs/content/en/how-we-hire/accommodations](https://amazon.jobs/content/en/how-we-hire/accommodations) for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6aa5a75bc853addb6b2d5d72]]></url>
+    <location><![CDATA[Mumbai, Maharashtra]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Amazon Web Services]]></company>
+    <category>2</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-09-12T19:26:19.327Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6aa5a73b2230be3318332b67]]></id>
+    <title><![CDATA[Portfolio Manager, Portfolio Management, Strategic Portfolio Management]]></title>
+    <description><![CDATA[<p>AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we’re the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain — and we’re looking for talented people who want to help.</p>
+<p>You’ll join a diverse team of software, hardware, and network engineers, supply chain specialists, security experts, operations managers, and other vital roles. You’ll collaborate with people across AWS to help us deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers. And you’ll experience an inclusive culture that welcomes bold ideas and empowers you to own them to completion.</p>
+<p>Amazon Web Service (AWS) is a comprehensive, evolving, and growing business unit within Amazon.com which provides cloud services. Since early 2006, AWS has provided a highly reliable, scalable, low-cost infrastructure platform that powers hundreds of thousands of businesses in 190 countries around the world. If you are interested in a career working in a high growth, fast paced and Customer focused work environment then AWS may be the right fit for you.</p>
+<p>The AWS Global Data Center Supply Solutions Team is looking for an experienced professional based in India (Mumbai). In this role, you will be a key member of the Strategic Portfolio Management (SPM) team responsible for mitigating financial and contractual risks for our expanding portfolio in Asia Pacific, Japan and China region. Managers work closely with lessors/vendors and internal partner teams to ensure accurate and timely payment of our rent obligations while ensuring contractual compliance.</p>
+<p>The ideal candidate is detail oriented and a strong communicator that can work independently in an extremely fast-paced environment with a high demand with a high degree of ambiguity.</p>
+<p>Key job responsibilities</p>
+<ul>
+<li>Independently manage a portfolio of complex leases and contracts end-to-end — including abstraction, verification, and integration into lease management systems. Interpret contractual nuances and identify cost optimization opportunities.</li>
+<li>Oversee payment processes, audit invoices against contractual obligations, and monitor compliance of internal and external stakeholders. Support regulatory audit requirements.</li>
+<li>Lead the review of contract abstractions against source documents; establish and refine QC standards for the team.</li>
+<li>Maintain accurate site-level data across contract administration systems to support financial reporting, planning, and leadership decision-making. Produce team performance metrics.</li>
+<li>Maintain effective relationships with vendors, landlords, and internal teams (Accounting, Finance, Business Development, Legal). Proactively identify relationship improvement opportunities.</li>
+<li>Track renewals, escalations, and notices to maintain compliance and operational continuity.</li>
+</ul>
+<p>Identify portfolio risks and potential blockers; manage escalations independently and escalate to senior leaders when required.</p>
+<ul>
+<li>Guide and mentor junior team members; share best practices and contribute to team capability development.</li>
+<li>Improve operations and audit processes to bolster team efficacy. Drive scalable solutions that enhance efficiency and stakeholder experience.</li>
+</ul>
+<h3>Basic Qualifications</h3>
+<ul>
+<li>5+ years of property management, asset management, portfolio management and/or real estate financial analysis experience</li>
+<li>Bachelor's degree in Business, Management, Real Estate, or another related field</li>
+<li>Experience in commercial real estate or lease administration within an industrial, commercial, and/or data center environment</li>
+<li>Experience with Landlord and Tenant codes, commercial law and service charge</li>
+</ul>
+<h3>Preferred Qualifications</h3>
+<ul>
+<li>Experience reading and interpreting lease language, managing critical lease dates, and conducting lease negotiations</li>
+<li>Experience utilizing commercial real estate software platforms such as Tango, Yardi, or MRI</li>
+<li>Experience with lease administration processes</li>
+<li>Master's degree or above in enginnering or equivalent, or 3+ years of vendor management experience</li>
+<li>Experience with project management, or experience developing or delivering training programs across multiple sites or regions</li>
+<li>Experience prioritizing and handling multiple assignments at any given time while maintaining commitment to deadlines</li>
+<li>Strong written and verbal communication skills with the ability to present to leadership teams and external stakeholders</li>
+</ul>
+<p>Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit [https://amazon.jobs/content/en/how-we-hire/accommodations](https://amazon.jobs/content/en/how-we-hire/accommodations) for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6aa5a73b2230be3318332b67]]></url>
+    <location><![CDATA[Singapore]]></location>
+    <country><![CDATA[SG]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Amazon Web Services]]></company>
+    <category>18</category>
+    <contract_type>contract</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-09-12T19:25:47.162Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6aa5a73b72e961887b347dde]]></id>
+    <title><![CDATA[Senior Security Solution Architect, APJC Customer Security, APJC Customer Security]]></title>
+    <description><![CDATA[<p>Amazon Web Services (AWS) is seeking a Senior Secure AI Solution Architect to join our APJC Customer Security team. This is a builder's role. Customers across the region are moving fast on AI and seeking guidance on challenges they have not faced before — how to give autonomous agents an identity, how to defend against prompt injection, how to govern the AI development lifecycle, and how to produce the governance evidence a regulator will trust. You are the architect who helps them get there, working hands-on in their environment to build the prototypes and proofs of concept that turn ambition into validated proof — often in days.</p>
+<p>You operate at the frontier, where the path forward is still being defined. Customers have a clear objective: put agentic AI into production while managing risk, regulatory, and data-residency obligations. Your role is to design the way there — creating new approaches where no established pattern exists and applying judgment about each customer's operational context and regulatory environment. You are technically self-sufficient: you write the code, deploy it with IaC, harden it, and demonstrate it live against real data.</p>
+<p>Depth alone is not the job — scale is. The hardest problems you solve with one customer should lift the whole field. You independently dive deep on complex, novel Secure AI challenges, produce original technical content (reference architectures, working code, patterns, workshops), and share it so a pattern proven with one customer becomes something every area can reuse. You own the relationship with AWS service teams (Bedrock, AgentCore, SageMaker) — you are the voice of the field that shapes the product roadmap, and the voice of the product that shapes field guidance.</p>
+<p>Security and governance are what let customers say yes to AI with confidence. You give the CISO the frameworks, evidence, and tooling to move quickly and safely, and you give the CIO/CTO confidence that governance won't slow delivery. You are the proof that AWS is the best place to build securely with AI.</p>
+<p>Key job responsibilities Key job responsibilities</p>
+<ul>
+<li>Build working prototypes and proofs of concept in customer sandbox environments — using AWS AI services (Bedrock, AgentCore, SageMaker), AI-augmented development tooling, and IaC (CDK, Terraform) — that prove a Secure AI control works against the customer's data and risk model, in days rather than quarters.</li>
+<li>Implement directly to unblock decisions: stand up agentic-identity, prompt-injection-defence, AI development lifecycle, guardrail, and audit/evidence patterns that validate what conversations alone cannot.</li>
+<li>Stay engaged through implementation so the design holds against reality; exercise judgment on when to revise the approach based on what you learn.</li>
+</ul>
+<p>Partner with the Bedrock, AgentCore, and SageMaker service teams — you are the voice of APJC field security requirements that shapes what ships, and the voice of the product that shapes what the field advises.</p>
+<ul>
+<li>Feed customer voices back through feature requests and direct engagement, staying current with a threat and regulatory landscape that moves in hours.</li>
+<li>Translate service-team roadmap into field-ready guidance, ensuring it gets packaged at scale.</li>
+<li>Produce original technical content — reference architectures, working code, patterns, blog posts, and workshops — that peers and customers adopt, turning a single customer win into reusable regional IP.</li>
+<li>Mentor and develop others — area-based Solutions Architects and the wider field community — raising the Secure AI technical bar across the region and growing the next set of specialists.</li>
+<li>Hand proven patterns to the content and enablement team so guidance reaches the field without requiring your presence.</li>
+</ul>
+<p>A day in the life You start the morning in a customer's sandbox, not a slide deck. A financial-services customer wants to launch an agentic application on Bedrock, and overnight the identity and audit controls you built produced exactly the evidence their CISO needed. You tidy the code, capture the pattern, and prep a short summary naming the two guardrail settings that gave them confidence to proceed.</p>
+<p>Mid-morning you join your Security Sales partner and the area account team with a manufacturer who wants to build with Bedrock and needs guidance on governing data residency and PII. It is a genuinely new problem — no established pattern exists — so you design the way forward: you whiteboard an agentic-identity and data-residency approach, then commit to prototyping the non-human-identity pattern their builder team will adopt.</p>
+<p>After lunch you go heads-down and build it — hands on keyboard, deploying to a sandbox, hardening it — then run a working session with a customer's platform team on prompt-injection defence for a coding-assistant rollout.</p>
+<p>You close the day scaling beyond yourself: you package this week's FSI win into a reference architecture the other areas can reuse, hand it to the content team to turn into a workshop, share a write-up with the field, and file a feature request for the AgentCore team based on what you learned. No two days look the same, but the thread is consistent: you help a customer accelerate securely, then turn what you built into something the whole region benefits from.</p>
+<p>About the team APJC Customer Security helps customers across the region adopt AI on AWS with confidence — ensuring security, risk, and regulation accelerate AI adoption rather than slow it down. We run two coupled programmes: Secure AI (making AWS the best place to build securely with AI) and AI for Security (using AI to help customers defend themselves). As a Senior Secure AI Solution Architect, you are the deep technical expertise brought directly to where customers need it. You define the approach on novel problems, prove it hands-on, then hand the pattern to the content team and the field to scale. You will have a clear development path, a peer community of specialists, direct leadership visibility, and the autonomy to set technical direction in one of the most consequential areas in the industry.</p>
+<h3>Basic Qualifications</h3>
+<ul>
+<li>8+ years of specific technology domain areas (e.g. software development, cloud computing, systems engineering, infrastructure, security, networking, data &amp; analytics) experience</li>
+<li>3+ years of design, implementation, or consulting in applications and infrastructures experience</li>
+<li>10+ years of IT development or implementation/consulting in the software or Internet industries experience</li>
+</ul>
+<h3>Preferred Qualifications</h3>
+<ul>
+<li>5+ years of infrastructure architecture, database architecture and networking experience</li>
+<li>Experience within specific technology domain areas (e.g. software development, cloud computing, systems engineering, infrastructure, security, networking, data &amp; analytics).</li>
+<li>Knowledge and skills in Securing Generative AI Applications</li>
+</ul>
+<p>Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit [https://amazon.jobs/content/en/how-we-hire/accommodations](https://amazon.jobs/content/en/how-we-hire/accommodations) for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6aa5a73b72e961887b347dde]]></url>
+    <location><![CDATA[Singapore]]></location>
+    <country><![CDATA[SG]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Amazon Web Services]]></company>
+    <category>2</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-09-12T19:25:47.107Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6aa5a02c0357937ef156737a]]></id>
+    <title><![CDATA[Integrated Solutions Systems Tech 3]]></title>
+    <description><![CDATA[<p>Johnson Controls, a global leader in thermal management, mission-critical building systems, energy efficiency, and decarbonization, helps customers use energy more productively, reduce carbon emissions, and operate with the precision and resilience required in rapidly expanding industries such as data centers, healthcare, pharmaceuticals, advanced manufacturing, and higher education.</p>
+<p>For more than 140 years, Johnson Controls has delivered performance where it really matters. Backed by advanced technology, lifecycle services and an industry-leading field organization, we elevate customer performance, turn goals into real-world results and help move society forward</p>
+<p>J<b>ob Title:</b> Project Manager - Data Center (BMS) <b>Location:</b> Mumbai <b>Department:</b> Building Technologies &amp; Solutions (BT&amp;S)</p>
+<h3>Role Summary</h3>
+<p>We are seeking an experienced <b>Project Manager</b> to lead the execution and delivery of <b>Data Center projects</b>, with a strong focus on <b>Building Management Systems (BMS)</b> and integrated building solutions. The incumbent will be responsible for managing end-to-end project execution, including planning, installation, commissioning, stakeholder management, and project closure while ensuring adherence to quality, safety, cost, and timeline objectives.</p>
+<h3>Key Responsibilities</h3>
+<ul>
+<li>Manage the complete lifecycle of Data Center BMS projects from kick-off to handover.</li>
+<li>Lead project planning, execution, monitoring, and control activities.</li>
+<li>Coordinate installation, testing, commissioning, and integration of:Building Management Systems (BMS)</li>
+<li>HVAC Controls</li>
+<li>Electrical Monitoring Systems</li>
+<li>CCTV Systems</li>
+<li>Access Control Systems (ACS)</li>
+<li>Fire Alarm &amp; Life Safety Systems</li>
+</ul>
+<p>Manage project budgets, schedules, resources, and risk mitigation plans.Coordinate with customers, consultants, contractors, vendors, and internal teams.Monitor project KPIs and ensure timely delivery within contractual commitments.Conduct project review meetings and provide progress reports to stakeholders.Ensure compliance with EHS, quality, and company standards.Handle customer escalations and drive resolution.Support project documentation, billing milestones, and project closure activities.</p>
+<h3>Qualifications</h3>
+<ul>
+<li>Bachelor's Degree in Electrical, Electronics, Instrumentation, Mechanical, or related Engineering discipline.</li>
+<li>PMP/Project Management certification will be an added advantage.</li>
+</ul>
+<h3>Experience</h3>
+<ul>
+<li><b>8 to 15 years</b> of relevant experience in project execution and project management.</li>
+<li>Strong experience in <b>Data Center projects</b>.</li>
+<li>Experience managing <b>BMS, HVAC Controls, ELV Systems, CCTV, ACS, and Fire Alarm Systems</b>.</li>
+<li>Proven experience in handling large-scale critical infrastructure or mission-critical facilities.</li>
+<li>Experience managing subcontractors, site teams, and multiple stakeholders.</li>
+</ul>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6aa5a02c0357937ef156737a]]></url>
+    <location><![CDATA[Mumbai, Maharashtra]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Johnson Controls]]></company>
+    <category>2</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-09-12T18:55:40.241Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6aa59bff884baaa441cddba8]]></id>
+    <title><![CDATA[Software Developer 3]]></title>
+    <description><![CDATA[<h3>Job Description</h3>
+<p>Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.</p>
+<h3>Responsibilities</h3>
+<p>As a member of the software engineering division, you will assist in defining and developing software for tasks associated with the developing, debugging or designing of software applications or operating systems. Provide technical leadership to other software developers. Specify, design and implement modest changes to existing software architecture to meet changing needs.</p>
+<h3>Qualifications</h3>
+<p>Career Level - IC3</p>
+<h3>About Us</h3>
+<p>Only Oracle brings together the data, infrastructure, applications, and expertise to power everything from industry innovations to life-saving care. And with AI embedded across our products and services, we help customers turn that promise into a better future for all. Discover your potential at a company leading the way in AI and cloud solutions that impact billions of lives.</p>
+<p>True innovation starts when everyone is empowered to contribute. That’s why we’re committed to growing a workforce that promotes opportunities for all with competitive benefits that support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.</p>
+<p>We’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing [accommodation-request\_mb@oracle.com](mailto:accommodation-request_mb@oracle.com) or by calling 1-888-404-2494 in the United States.</p>
+<p>Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6aa59bff884baaa441cddba8]]></url>
+    <location><![CDATA[Singapore]]></location>
+    <country><![CDATA[SG]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Oracle (OCI)]]></company>
+    <category>2</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-09-12T18:37:51.385Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6aa595ccb22048ea50338f4e]]></id>
+    <title><![CDATA[Territory Manager]]></title>
+    <description><![CDATA[<h3>Job Description</h3>
+<p><b>Your Work Shapes the World at Caterpillar Inc.</b></p>
+<p>When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.</p>
+<h3>Job Description</h3>
+<p><b>About Caterpillar</b></p>
+<p>Caterpillar Inc. is the world’s leading manufacturer of construction and mining equipment, off-highway diesel and natural gas engines, industrial gas turbines and diesel-electric locomotives. For nearly 100 years, we’ve been helping customers build a better, more sustainable world and are committed to and contributing to a reduced-carbon future. Our innovative products and services, backed by our global dealer network, provide exceptional value that helps customers succeed.</p>
+<p><b>Your Impact Shapes the World at Caterpillar Inc</b></p>
+<p>When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.</p>
+<h3>Job Summary</h3>
+<p>We are seeking a skilled<b> Territory Manager</b> <b>to</b> join<b> Caterpillar Financial Services India Private Limited</b></p>
+<p>The preference for this role is to be based out of <b>Mumbai-India</b></p>
+<h3>What you will do</h3>
+<ul>
+<li>Manages dealers' relationships to market company products and services and assists in the development of dealer sales capability.</li>
+<li>Understanding of business model and acting within the business process guidance on review and approval for variance programs and commercial actions.</li>
+<li>Designing and assisting dealers on the forecast, sales/rental/used strategy planning, and sales techniques; supporting the rollout of new products.</li>
+<li>Performing regular sales performance reviews with dealers and ensuring implementation of corrective actions where needed.</li>
+<li>Presenting products or services for stakeholders, answering any customer questions, and addressing their needs.</li>
+</ul>
+<p><b> What you will have</b></p>
+<ul>
+<li>Degree or equivalent experience desired</li>
+</ul>
+<ul>
+<li><b>The position requires all 5 days work from office.</b></li>
+</ul>
+<p><b>Skills desired:</b></p>
+<p><b>Customer Focus</b>: Knowledge of the values and practices that align customer needs and satisfaction as primary considerations in all business decisions and ability to leverage that information in creating customized customer solutions. Level Working Knowledge:</p>
+<ul>
+<li>Communicates the importance of customer needs/expectations and commits to resolving them.</li>
+<li>Researches and verifies customer needs and expectations.</li>
+<li>Solicits customer satisfaction feedback and acts on improvement opportunities.</li>
+<li>Helps link organizational objectives to customer needs and expectations.</li>
+<li>Meets regularly with customers to understand their wants, needs and expectations.</li>
+</ul>
+<p><b>Products and Services: </b>Knowledge of major products and services and product and service groups; ability to apply knowledge of product and service appropriately to diverse situations. Level Working Knowledge:</p>
+<ul>
+<li>Obtains information about product and service linkages with other products and services elsewhere in organization.</li>
+<li>Researches the target market and how the product and services are sold and delivered.</li>
+<li>Explains current status, delivery alternatives and announced updates to products and services.</li>
+<li>Summarizes key features of major products or services in own unit.</li>
+<li>Assesses own unit's product alternatives, costs, and pricing.</li>
+</ul>
+<p><b>Decision Making and Critical Thinking</b>: Knowledge of the decision-making process and associated tools and techniques; ability to accurately analyze situations and reach productive decisions based on informed judgment. Level Working Knowledge:</p>
+<ul>
+<li>Applies an assigned technique for critical thinking in a decision-making process.</li>
+<li>Identifies, obtains, and organizes relevant data and ideas.</li>
+<li>Participates in documenting data, ideas, players, stakeholders, and processes.</li>
+<li>Recognizes, clarifies, and prioritizes concerns.</li>
+<li>Assists in assessing risks, benefits and consideration of alternatives.</li>
+</ul>
+<p><b>Effective Communications</b>: Understanding of effective communication concepts, tools and techniques; ability to effectively transmit, receive, and accurately interpret ideas, information, and needs through the application of appropriate communication behaviors. Level Basic Understanding:</p>
+<ul>
+<li>Describes non-verbal behaviors that influence the interpretation of the message.</li>
+<li>Cites examples of effective and ineffective communications.</li>
+<li>Explains the importance of effective business communication.</li>
+<li>Speaks/writes using correct language, mechanics, and gestures.</li>
+</ul>
+<p><b>Negotiating</b>: Knowledge of successful negotiation concepts and techniques; ability to negotiate successfully across the organization and with external vendors and clients in a constructive and collaborative manner. Level Basic Understanding:</p>
+<ul>
+<li>Describes qualities of effective and ineffective negotiations.</li>
+<li>Explains the basic concepts of negotiating.</li>
+<li>Accesses organizational policies and practices for negotiating.</li>
+<li>Utilizes techniques for establishing rapport and building trust.</li>
+</ul>
+<p><b>Problem Solving: </b>Knowledge of approaches, tools, techniques for recognizing, anticipating, and resolving organizational, operational or process problems; ability to apply knowledge of problem solving appropriately to diverse situations. Level Working Knowledge:</p>
+<ul>
+<li>Identifies and documents specific problems and resolution alternatives.</li>
+<li>Examines a specific problem and understands the perspective of each involved stakeholder.</li>
+<li>Develops alternative techniques for assessing accuracy and relevance of information.</li>
+<li>Helps to analyze risks and benefits of alternative approaches and obtain decision on resolution.</li>
+<li>Uses fact-finding techniques and diagnostic tools to identify problems<b>.</b></li>
+</ul>
+<p><b>Relationship Management: </b>Knowledge of relationship management techniques; ability to establish and maintain healthy working relationships with clients, vendors, and peers. Level Working Knowledge:</p>
+<ul>
+<li>Provides prompt and effective responses to client requests and interactions.</li>
+<li>Monitors client satisfaction levels on a regular basis.</li>
+<li>Alerts own team to problems in client satisfaction.</li>
+<li>Differentiates the roles and responsibilities in a business relationship.</li>
+<li>Works with clients to address critical issues and resolve major problems.</li>
+</ul>
+<p><b>Value Selling: </b>Knowledge of the principles and practices for selling products, technology and services; ability to provide overall product/service 'value' and to differentiate support offerings that address clearly understood customer needs. Level Basic Understanding:</p>
+<ul>
+<li>Presents product, technology or service costs and benefits in reaction to prospect or customer requests.</li>
+<li>Describes general concepts, practices and benefits of value-based versus product selling.</li>
+<li>Documents proposed product/service solutions to be presented to potential customers.</li>
+<li>Pursues additional 'value selling' education or training to enhance traditional sales practices.</li>
+</ul>
+<p><b>What you will get:</b></p>
+<ul>
+<li>Work Life Harmony</li>
+</ul>
+<ul>
+<li>Earned and medical leave.</li>
+<li>Relocation assistance</li>
+</ul>
+<p><b>Holistic Development</b></p>
+<ul>
+<li>Personal and professional development through Caterpillar ‘s employee resource groups across the globe</li>
+</ul>
+<ul>
+<li>Career developments opportunities with global prospects</li>
+</ul>
+<p><b>Health and Wellness</b></p>
+<ul>
+<li>Medical coverage -Medical, life and personal accident coverage</li>
+</ul>
+<ul>
+<li>Employee mental wellness assistance program</li>
+</ul>
+<p><b>Financial Wellness</b></p>
+<ul>
+<li>Employee investment plan</li>
+</ul>
+<ul>
+<li>Pay for performance -Annual incentive Bonus plan.</li>
+</ul>
+<p><b>Additional Information:</b></p>
+<p>Caterpillar is not currently hiring individuals for this position who now or in the future require sponsorship for employment visa status; however, as a global company, Caterpillar offers many job opportunities outside of the U.S. which can be found through our employment website at [www.caterpillar.com/careers](http://www.caterpillar.com/careers)</p>
+<p><b>Posting Dates:</b></p>
+<p>Caterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6aa595ccb22048ea50338f4e]]></url>
+    <location><![CDATA[Mumbai, Maharashtra]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Caterpillar]]></company>
+    <category>18</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-09-12T18:11:24.735Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6aa595c83494f637bce95544]]></id>
+    <title><![CDATA[Senior Data Specialist (Senior Web app & Data Engg )]]></title>
+    <description><![CDATA[<h3>Job Description</h3>
+<p><b>Your Work Shapes the World at Caterpillar Inc.</b></p>
+<p>When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.</p>
+<p><b>About Caterpillar</b></p>
+<p>Caterpillar Inc. is the world’s leading manufacturer of construction and mining equipment, off-highway diesel and natural gas engines, industrial gas turbines and diesel-electric locomotives.</p>
+<p>For nearly 100 years, we’ve been helping customers build a better, more sustainable world and are committed and contributing to a reduced-carbon future. Our innovative products and services, backed by our global dealer network, provide exceptional value that helps customers succeed.</p>
+<p><b>Your Impact Shapes the World at Caterpillar Inc</b></p>
+<p>When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.</p>
+<p>We are seeking a skilled Senior Data Specialist (Senior Web app &amp; Data Engg ) <b>to</b> join our <b>Financial Systems Tech Support </b>-<b>CAT IT Division Bangalore Team.</b></p>
+<p>The preference for this role is to be based out of <b>Bangalore PSN Office, KA-India</b></p>
+<h3>What you will do</h3>
+<p>We are seeking a highly skilled Technical Lead to drive technical strategy and execution for modern, scalable web applications. This role combines hands-on development with leadership responsibilities, ensuring architectural integrity, security, and performance across the stack. The ideal candidate will lead technical initiatives, mentor team members, and collaborate with stakeholders to align technology solutions with business objectives.</p>
+<h3>Key Responsibilities</h3>
+<p><b>Technical Leadership &amp; Architecture</b></p>
+<ul>
+<li>Lead engineering teams by providing technical direction, architectural guidance, and design reviews.</li>
+<li>Define and drive application and integration architecture aligned with scalability, security, and enterprise standards.</li>
+<li>Act as the technical point of contact for complex solutions involving systems, tools, platforms, and AI-enabled components.</li>
+<li>Support cloud adoption, modernization, and re-architecture initiatives.</li>
+</ul>
+<p><b>Development &amp; Code Stabilization</b></p>
+<ul>
+<li>Maintain strong involvement in development using Python and modern web application frameworks.</li>
+<li>Design, develop, and maintain web applications, backend services, and integration components.</li>
+<li>Own code stabilization efforts, including refactoring, performance tuning, and reduction of technical debt.</li>
+<li>Perform deep debugging, root cause analysis, and resolution of complex engineering issues.</li>
+<li>Apply optimization techniques to improve performance, scalability, and reliability.</li>
+</ul>
+<p><b>Integration, APIs &amp; Security</b></p>
+<ul>
+<li>Design and implement RESTful APIs and integration services across applications and platforms.</li>
+<li>Implement and guide authentication and authorization mechanisms (token-based auth, OAuth, etc.).</li>
+<li>Ensure reliable system-to-system integrations across internal tools, cloud services, and AI platforms.</li>
+<li>Work closely with data and platform teams to ensure robust end-to-end flows<b>.</b></li>
+</ul>
+<p><b>Cloud, DevOps &amp; CI/CD</b></p>
+<ul>
+<li>Architect, deploy, and manage applications on AWS, leveraging appropriate cloud services.</li>
+<li>Drive cloud-native best practices, reliability, security, and cost optimization.</li>
+<li>Design, implement, and maintain CI/CD pipelines using Git-based workflows and AWS CI/CD services.</li>
+<li>Lead usage of Docker and container-based deployment strategies.</li>
+<li>Apply DevOps practices, including automation, monitoring, logging, and deployment strategies.</li>
+</ul>
+<p><b>AI &amp; Emerging Technologies</b></p>
+<ul>
+<li>Evaluate and guide adoption of AI tools, GenAI capabilities, and emerging technologies.</li>
+<li>Lead proof-of-concepts (PoCs) and technical assessments for new tools, frameworks, and platforms.</li>
+<li>Provide recommendations on technology fit, scalability, and enterprise readiness.</li>
+</ul>
+<p><b>Team Leadership &amp; Mentoring</b></p>
+<ul>
+<li>Lead, mentor, and coach engineers to build strong technical and problem-solving capabilities.</li>
+<li>Conduct code reviews, design discussions, and knowledge-sharing sessions.</li>
+<li>Establish and enforce engineering standards, best practices, and quality guidelines.</li>
+<li>Foster a culture of accountability, continuous improvement, and engineering excellence.</li>
+</ul>
+<p><b>What you will have</b></p>
+<ul>
+<li>Strong hands-on experience with Python and backend development.</li>
+<li>Proven experience building and supporting web applications.</li>
+<li>Strong experience with AWS cloud services and cloud adoption strategies.</li>
+<li>Expertise in system integration, APIs, and distributed architectures.</li>
+<li>Solid knowledge of REST APIs, authentication, and authorization mechanisms.</li>
+<li>Strong understanding of databases (relational and/or NoSQL).</li>
+<li>Experience with Git, version control strategies, and CI/CD pipelines in AWS.</li>
+<li>Hands-on experience with Docker and containerized applications.</li>
+<li>Strong DevOps knowledge and experience implementing automation practices.</li>
+<li>Excellent debugging, troubleshooting, and optimization skills.</li>
+<li>Proven ability to lead and mentor teams in enterprise environments.</li>
+<li><b>Work Timings: 01:00 Noon -10:00PM IST</b></li>
+<li><b>This position requires the employee to work a 5-day-a-week schedule in the office.</b></li>
+</ul>
+<h3>Nice to Have</h3>
+<ul>
+<li>Experience in large-scale enterprise integrations or cloud modernization programs.</li>
+<li>Exposure to monitoring, observability, and reliability engineering practices.</li>
+<li>Knowledge of security best practices in cloud and web development.</li>
+<li>Agile/Scrum experience.</li>
+<li>Prior experience in leading technical projects or teams.</li>
+<li>Experience working with AI / GenAI tools and platforms.</li>
+</ul>
+<p><b>Role Level</b></p>
+<ul>
+<li>Senior / Technical Lead</li>
+<li>Hands-on Architect &amp;#43; Engineering Leader</li>
+</ul>
+<p><b>Skill Descriptors</b></p>
+<p><b>Value Realization:</b> Knowledge of value realization methods; ability to plan, execute, monitor and manage business activities and resources to determine and achieve the actual value from a business initiative as estimated in an associated business case. Level Basic Understanding:</p>
+<ul>
+<li>Describes the importance of Value Realization milestones for long-term projects.</li>
+<li>Assists in measuring and attaining post-project implementation value.</li>
+<li>Identifies process changes or business value integration in change initiative plans and activities.</li>
+<li>Contributes to project team communication regarding the linkage of a change initiative to its associated business goals and case.</li>
+</ul>
+<p><b>Communicating Complex Concepts:</b> Knowledge of effective presentation tools and techniques to ensure clear understanding; ability to use summarization and simplification techniques to explain complex technical concepts in simple, clear language appropriate to the audience. Level Working Knowledge:</p>
+<ul>
+<li>Uses comparisons to familiar ideas when introducing a technical or novel feature.</li>
+<li>Separates fundamental concepts from supporting details in explaining a product or service.</li>
+<li>Explains products and services with little or no use of technical jargon or advanced vocabulary.</li>
+<li>Emphasizes the most important facts or features of a product or service.</li>
+<li>Perceives lack of audience comprehension; further simplifies explanation when needed.</li>
+</ul>
+<p><b>Agile Development:</b> Knowledge of agile methodologies and the agile development lifecycle; ability to utilize formal agile methodologies, disciplines, practices and techniques for the delivery of new and enhanced applications. Level Working Knowledge:</p>
+<ul>
+<li>Explains a specific agile process and its associated checkpoints and deliverables.</li>
+<li>Works with a specific agile development methodology.</li>
+<li>Interprets metrics used to measure progress and effectiveness.</li>
+<li>Defines key selection and qualifying criteria for projects suitable for agile development.</li>
+<li>Applies major tools and techniques associated with the specific methodology.</li>
+</ul>
+<p><b>Cloud Computing</b>: Knowledge of cloud-based solutions and their applications; ability to design, implement, and manage cloud-based solutions to meet business needs and improve operational efficiency. Level Working Knowledge:</p>
+<ul>
+<li>Designs and implements a cloud-based solution to meet a specific business need or requirement.</li>
+<li>Configures and deploys cloud-based infrastructure, such as virtual machines, storage, and networks.</li>
+<li>Migrates applications and data to a cloud-based environment, including data migration and integration.</li>
+<li>Implements cloud-based security measures, such as access controls, encryption, and firewalls.</li>
+<li>Troubleshoots and resolves common cloud-based issues, such as connectivity problems and performance degradation.</li>
+</ul>
+<p>Database Design (Physical): Knowledge of database systems; ability to establish a data model for designing an organization's database that runs effectively and efficiently for better business outcome. Level Working Knowledge:</p>
+<ul>
+<li>Researches relationships between different business data sets.</li>
+<li>Participates in the establishment of data structures based on their relationships.</li>
+<li>Adheres to an organization's database design policies.</li>
+<li>Utilizes database design tools and techniques.</li>
+<li>Tests the effectiveness of the database before its release for business use.</li>
+</ul>
+<p><b>ETL Process:</b> Knowledge of the extraction, transformation and loading (ETL) process; ability to develop a database through the ETL process. Level Working Knowledge:</p>
+<ul>
+<li>Ensures the accuracy and effectiveness of data provided for the warehouse.</li>
+<li>Loads selected data into the warehouse on a regular basis.</li>
+<li>Derives necessary business or technical information from original data.</li>
+<li>Acquires a large amount of data from different sources/systems.</li>
+<li>Solves technical and administrative problems during the ETL process.</li>
+</ul>
+<p><b>Information Management</b>: Knowledge of an organization's existing and planned Information Architecture and Information Management (IM) methodology; ability to collect and manage information from different sources, and distribute this information to enhance operational efficiency. Level Extensive Experience:</p>
+<ul>
+<li>Directs the implementation of information processing and operation standards to protect and manage information assets.</li>
+<li>Develops capabilities, features and uses for major IM platforms.</li>
+<li>Coaches others on issues and considerations for managing structured vs. unstructured data.</li>
+<li>Advises on improvement plans for existing and forecasted information architecture.</li>
+<li>Consults on all major information management platforms and practices.</li>
+<li>Consults on information architecture concepts, disciplines and practices.</li>
+</ul>
+<p><b>Modeling: Data, Process, Events, Objects</b>: Knowledge of data, process and events; ability to use tools and techniques for analyzing and documenting logical relationships among data, processes or events. Level Working Knowledge:</p>
+<ul>
+<li>Defines common types of data, processes or event models.</li>
+<li>Participates in model reviews and walkthroughs.</li>
+<li>Explains existing models to clients and describes their associated business processes.</li>
+<li>Focuses on modifying Data Structure, Access and Entity Relationship Diagrams.</li>
+<li>Prepares reports to recap current findings and issues in data, processes or event models.</li>
+</ul>
+<p><b>What you will get</b>:</p>
+<ul>
+<li>Work Life Harmony</li>
+<li>Earned and medical leave.</li>
+<li>Relocation assistance</li>
+</ul>
+<p><b>Holistic Development</b></p>
+<ul>
+<li>Personal and professional development through Caterpillar ‘s employee resource groups across the globe</li>
+<li>Career developments opportunities with global prospects</li>
+</ul>
+<p><b>Health and Wellness</b></p>
+<ul>
+<li>Medical coverage -Medical, life and personal accident coverage</li>
+<li>Employee mental wellness assistance program</li>
+</ul>
+<p><b>Financial Wellness</b></p>
+<ul>
+<li>Employee investment plan</li>
+<li>Pay for performance -Annual incentive Bonus plan.</li>
+</ul>
+<p><b>Additional Information:</b></p>
+<p>Caterpillar is not currently hiring individuals for this position who now or in the future require sponsorship for employment visa status; however, as a global company, Caterpillar offers many job opportunities outside of the U.S. which can be found through our employment website at [www.caterpillar.com/careers](http://www.caterpillar.com/careers)</p>
+<p><b>Caterpillar is an Equal Opportunity Employer (EEO)</b> EEO/AA Employer. All qualified individuals, including minorities, females, veterans and individuals with disabilities - are encouraged to apply.</p>
+<p>To update</p>
+<p>This position requires working onsite five days a week.</p>
+<p>Visa Sponsorship is not available for this position.</p>
+<p><b>Posting Dates:</b></p>
+<p>Caterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6aa595c83494f637bce95544]]></url>
+    <location><![CDATA[Bangalore, Karnataka]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Caterpillar]]></company>
+    <category>29</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-09-12T18:11:20.617Z]]></date>
+  </job>
+  <job>
     <id><![CDATA[6aa4783ef314bbf0cde1dd10]]></id>
     <title><![CDATA[Senior Product Manager]]></title>
     <description><![CDATA[<h3>Job Summary</h3>
@@ -6135,7 +7023,7 @@
 <p>Ready to make an impact?</p>
 <p>Apply today or visit [<b>https://www.abb.com</b>](https://www.abb.com) to learn more about the impact of our solutions across the globe.</p>]]></description>
     <url><![CDATA[https://sourceo.io/jobs/6aa458399f440066e1eed621]]></url>
-    <location><![CDATA[Brisbane, Queensland]]></location>
+    <location><![CDATA[Darra, Queensland]]></location>
     <country><![CDATA[AU]]></country>
     <remote>0</remote>
     <company><![CDATA[ABB]]></company>
@@ -6180,7 +7068,7 @@
 <p>Ready to make an impact?</p>
 <p>Apply today or visit [<b>https://www.abb.com</b>](https://www.abb.com) to learn more about the impact of our solutions across the globe.</p>]]></description>
     <url><![CDATA[https://sourceo.io/jobs/6aa45839ba7db1fc7e765b72]]></url>
-    <location><![CDATA[Brisbane, Queensland]]></location>
+    <location><![CDATA[Fortitude Valley, Queensland]]></location>
     <country><![CDATA[AU]]></country>
     <remote>1</remote>
     <company><![CDATA[ABB]]></company>
@@ -22713,7 +23601,7 @@
     <country><![CDATA[IN]]></country>
     <remote>0</remote>
     <company><![CDATA[ABB]]></company>
-    <category>1</category>
+    <category>13</category>
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-10T19:23:46.063Z]]></date>
@@ -65945,7 +66833,7 @@
     <country><![CDATA[IN]]></country>
     <remote>0</remote>
     <company><![CDATA[ABB]]></company>
-    <category>5</category>
+    <category>1</category>
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-09T19:16:48.723Z]]></date>
@@ -66374,7 +67262,7 @@
     <country><![CDATA[NZ]]></country>
     <remote>0</remote>
     <company><![CDATA[ABB]]></company>
-    <category>13</category>
+    <category>29</category>
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-09T19:16:43.662Z]]></date>
@@ -66898,7 +67786,7 @@
 <p><b>You have the opportunity. You have the voice. You belong at Johnson Controls.</b></p>
 <p>#LI-JS4</p>]]></description>
     <url><![CDATA[https://sourceo.io/jobs/6aa1ae35a651270e737ca661]]></url>
-    <location><![CDATA[Brisbane, Queensland]]></location>
+    <location><![CDATA[Melbourne, Queensland]]></location>
     <country><![CDATA[AU]]></country>
     <remote>0</remote>
     <company><![CDATA[Johnson Controls]]></company>
@@ -79374,7 +80262,7 @@
     <country><![CDATA[IN]]></country>
     <remote>1</remote>
     <company><![CDATA[ABB]]></company>
-    <category>2</category>
+    <category>12</category>
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-09T01:15:10.549Z]]></date>
@@ -83528,112 +84416,6 @@
     <date><![CDATA[2026-09-07T20:06:36.389Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6a9f15c2b25d3a157e411010]]></id>
-    <title><![CDATA[Technical Lead - Network Transformation Engineering]]></title>
-    <description><![CDATA[<h3>What you will do</h3>
-<ul>
-<li>Data Discovery, Analysis and visualization w.r.t Network Planning of transformation programs having multi-technology and multi-era telecommunication platforms with alignment and governance of Colt Engineering guidelines.</li>
-<li>Drive city strategy discussions, come up with agreements and follow through on identified opportunities in preparation of business cases, setting the financial justification and obtaining approval from the key stakeholders</li>
-</ul>
-<ul>
-<li>Network Analytics, technical design and implementation for network transformation programs e.g.</li>
-<li>Node programme, Network Life Cycle, EoL, Migrations etc.</li>
-<li>Deliver Network discovery and service analytics methods and database, aligned with network life cycle management for longer term Network strategy</li>
-</ul>
-<ul>
-<li>Deliver Business case supporting documentation e.g. BOM, MOP etc.</li>
-<li>Provide regular delivery progress reporting as per project and programme requirements</li>
-</ul>
-<ul>
-<li>Drive development of migration approaches aligned to technologies and specific network sites.</li>
-<li>Produce planned and updated project and summary reports, including cost breakdowns and summaries</li>
-</ul>
-<ul>
-<li>Manage workflows for technical migration planning and execution of migration activities, covering network infrastructure and customer service migrations</li>
-</ul>
-<ul>
-<li>Process development</li>
-</ul>
-<h3>What we're looking for</h3>
-<ul>
-<li>10-15 years’ experience in a telco service provider environment,planning/configuring/documenting network assets and inventory.</li>
-<li>Demonstrate awareness/exposure to vendor equipment: WDM (Ciena/Nokia/Infinera/ADVA), Ethernet, IP(Cisco/Ciena/Nokia/Juniper).</li>
-<li>Experience of planning and delivering network service migrations within a live network environment</li>
-</ul>
-<ul>
-<li>Domain expertise (Networks – Optical &amp; IP). Knowledge of the key technologies and architectures deployed in the Colt network (LDN, NSN MSP, M-MSP, IP etc.)</li>
-</ul>
-<ul>
-<li>Experience in planning, deployment and migration of large-scale network projects like – Optical WDM technology, GPON/FTTH network, IP-MPLS Network and Fiber network etc.</li>
-<li>Proficient in MS-Excel, MS-Power Point and MS-Visio.</li>
-<li>Ability to collect the Network data from various network &amp; data base tools like – OHS, ARM, Seibel, CNMT, CEOS, Helix and other OSS/BSS tools and streamline the Network &amp; services information to collect the – customer terminating services, internal services, passthrough traffic &amp; drop extended services.</li>
-<li>Hands on experience on physical device/Rack installation &amp; commissioning.</li>
-<li>Should know about non-IT component use to build a Telecom site like – Rack, ODF, CTP Panel, Fiber Panel, Optical Patch Cords, Network cabling, Power cabling, lager, cable tries, Power &amp; Cooling requirements, Rack layout designing etc.</li>
-<li>Should know about the physical site layout, power requirements, Fiber laying &amp; planning &amp; other infra requirement to build a Telecom site like – MSC/NSE, Data centres, Pop, ILA/LDN.</li>
-<li>Sound knowledge of Colt’s product portfolios and how services are delivered end to end</li>
-</ul>
-<ul>
-<li>Added advantage if hands on VBA, Power BI, Python, Qlik etc.</li>
-<li>Experience of writing business cases and preparing cost calculations for big transformation projects like node exits, city strategies</li>
-</ul>
-<ul>
-<li>Innovative and motivated – ability to think “out of the box”</li>
-</ul>
-<ul>
-<li>Conversant with project management methods, tools and performance measures</li>
-</ul>
-<ul>
-<li>Desirable: Knowledge of Colt’s internal processes and systems used for change management, delivery and network inventory management</li>
-</ul>
-<ul>
-<li>Desirable: Experience of writing business cases and preparing cost calculations for big projects like node exits</li>
-</ul>
-<h3>What we offer you:</h3>
-<h3><b>Looking to make a mark?</b></h3>
-<p>At Colt, you’ll make a difference. Because around here, we empower people. We don’t tell you what to do.</p>
-<p>Instead, we employ people we trust, who come together across the globe to create intelligent solutions.</p>
-<p>Our global teams are full of ambitious, driven people, all working together towards one shared purpose: to put the power of the digital universe in the hands of our customers wherever, whenever and however they want.</p>
-<p>We give our people the opportunity to inspire and lead teams, and work on projects that connect people, cities, businesses, and ideas. We want you to help us change the world, for the better.</p>
-<h3><b>Diversity and inclusion</b></h3>
-<ul>
-<li>Inclusion and valuing diversity of thought and experience are at the heart of our culture here at Colt. From day one, you’ll be encouraged to be yourself because we believe that’s what helps our people to thrive. We welcome people with diverse backgrounds and experiences, regardless of their gender identity or expression, sexual orientation, race, religion, disability, neurodiversity, age, marital status, pregnancy status, or place of birth.</li>
-</ul>
-<p>Most recently we have:</p>
-<ul>
-<li>Signed the UN Women Empowerment Principles which guide our Gender Action Plan</li>
-</ul>
-<ul>
-<li>Trained 60 (and growing) Colties to be Mental Health First Aiders</li>
-</ul>
-<ul>
-<li>Please speak with a member of our recruitment team if you require adjustments to our recruitment process to support you. For more information about our Inclusion and Diversity agenda, visit our [DEI pages](https://www.colt.net/about/inclusion-diversity/).</li>
-</ul>
-<h3>Benefits</h3>
-<p>Our benefits support you through all parts of life, for both physical and mental health.</p>
-<ul>
-<li>Flexible working hours and the option to work from home.</li>
-<li>Extensive induction program with experienced mentors and buddies.</li>
-<li>Opportunities for further development and educational opportunities.</li>
-<li>Global Family Leave Policy.</li>
-<li>Employee Assistance Program.</li>
-<li>Internal inclusion &amp; diversity employee networks.</li>
-</ul>
-<h3><b>A global network</b></h3>
-<ul>
-<li>When you join Colt you become part of our global network. We are proud of our colleagues and the stories and experience they bring – take a look at ‘Our People’ site including our Empowered Women in Tech.</li>
-</ul>
-<p><b>Job Segment:</b> Data Center, Network, Telecom, Telecommunications, Wireless, Technology</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a9f15c2b25d3a157e411010]]></url>
-    <location><![CDATA[Gurugram, Haryana]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>1</remote>
-    <company><![CDATA[Colt DCS]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-07T19:51:30.726Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6a9f15c01613ad07902f7c4c]]></id>
     <title><![CDATA[Senior Engineer, GCA Transmission Services]]></title>
     <description><![CDATA[<h3>What you will do</h3>
@@ -86045,7 +86827,7 @@
 <p>Ready to make an impact?</p>
 <p>Apply today or visit [<b>https://www.abb.com</b>](https://www.abb.com) to learn more about the impact of our solutions across the globe.</p>]]></description>
     <url><![CDATA[https://sourceo.io/jobs/6a9f07d62c7719fd92714870]]></url>
-    <location><![CDATA[Notting Hill, Victoria]]></location>
+    <location><![CDATA[Melbourne, Victoria]]></location>
     <country><![CDATA[AU]]></country>
     <remote>1</remote>
     <company><![CDATA[ABB]]></company>
@@ -86093,7 +86875,7 @@
     <country><![CDATA[IN]]></country>
     <remote>0</remote>
     <company><![CDATA[ABB]]></company>
-    <category>5</category>
+    <category>12</category>
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-07T18:52:02.848Z]]></date>
@@ -86520,7 +87302,7 @@
     <country><![CDATA[IN]]></country>
     <remote>0</remote>
     <company><![CDATA[ABB]]></company>
-    <category>5</category>
+    <category>1</category>
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-07T18:51:55.572Z]]></date>
@@ -86596,7 +87378,7 @@
     <country><![CDATA[IN]]></country>
     <remote>0</remote>
     <company><![CDATA[ABB]]></company>
-    <category>5</category>
+    <category>1</category>
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-07T18:51:55.383Z]]></date>
@@ -94098,7 +94880,7 @@
     <country><![CDATA[IN]]></country>
     <remote>1</remote>
     <company><![CDATA[ABB]]></company>
-    <category>1</category>
+    <category>2</category>
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-04T18:57:44.007Z]]></date>
@@ -99696,8 +100478,29 @@
 <ul>
 <li>Define and implement scalable, high-performance software architectures using .NET (C#) and Angular. Provide technical direction and mentorship to development teams, ensuring adherence to best coding and design practices.</li>
 <li>Architect and optimize microservices-based solutions, ensuring modularity, performance, and maintainability. Drive innovation by identifying and implementing AI-powered automation tools for software development and testing.</li>
-<li>Write clean, maintainab</li>
-</ul>]]></description>
+<li>Write clean, maintainable, and well-documented code, following SOLID principles. Design and develop applications that integrate with industrial automation systems (SCADA, MES, OPC UA, PLCs, IoT platforms).</li>
+<li>Ensure seamless real-time data processing and communication between IT and OT systems. Define standards for system reliability, fault tolerance, and high availability in mission-critical industrial environments. Actively participate in Agile (Scrum/Kanban) sprints, ensuring timely delivery of features. Ensure frontend and backend integration through well-structured RESTful APIs and WebSocket's</li>
+</ul>
+<p>#</p>
+<h3><b>Qualifications for the role:</b></h3>
+<ul>
+<li>Bachelor's or Master's degree in Computer Science, Engineering, or a related technical field.</li>
+<li>3&amp;#43; years of extensive experience in .NET and Angular to lead the development of cutting-edge software solutions for the Process Automation Industry.</li>
+<li>Backend: .NET Core, C#, ASP.NET, Web APIs, Entity Framework &amp; Frontend: Angular, TypeScript, RxJS, NgRx</li>
+</ul>
+<ul>
+<li>Database: SQL Server, PostgreSQL, or NoSQL databases &amp; Cloud &amp; DevOps: Azure/AWS, Docker, Kubernetes, CI/CD Pipelines</li>
+</ul>
+<ul>
+<li>Automation &amp; Industrial Protocols: OPC UA, MQTT, SCADA, MES &amp; Testing &amp; Security: Unit testing, security best practices, OWASP</li>
+</ul>
+<ul>
+<li>Good knowledge of containerization using K8s / K3s / Docker &amp; Experience of working with virtual environments(Vmware / Hyperview / Azure)</li>
+</ul>
+<h3><b>More about us</b></h3>
+<p>ABB a provides a comprehensive range of integrated automation, electrical and digital systems and services for customers in the process, hybrid and maritime industries. These offerings, coupled with deep domain knowledge in each end market, help to optimize productivity, energy efficiency, sustainability and safety of industrial processes and operations.</p>
+<p>Building a cleaner, smarter future takes all kinds of minds: the curious, the courageous, and the creative. We welcome people from all backgrounds and experiences.</p>
+<p>Ready to make an impact? Apply today or visit www.abb.com to learn more about the impact of our solutions across the globe.</p>]]></description>
     <url><![CDATA[https://sourceo.io/jobs/6a99c14605c3680749e8f76a]]></url>
     <location><![CDATA[Bangalore, Karnataka]]></location>
     <country><![CDATA[IN]]></country>
@@ -167355,7 +168158,7 @@
 <p><i>Applicants must have full Australian working rights. Pre-employment medical, criminal history, and drug &amp; alcohol screening requirements apply.</i></p>
 <p>#LI-JS4</p>]]></description>
     <url><![CDATA[https://sourceo.io/jobs/6a8e710dd434842987d402c4]]></url>
-    <location><![CDATA[Melbourne, Victoria]]></location>
+    <location><![CDATA[Scoresby, Victoria]]></location>
     <country><![CDATA[AU]]></country>
     <remote>1</remote>
     <company><![CDATA[Johnson Controls]]></company>
@@ -176036,7 +176839,7 @@
     <country><![CDATA[IN]]></country>
     <remote>0</remote>
     <company><![CDATA[Johnson Controls]]></company>
-    <category>5</category>
+    <category>2</category>
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-08-26T04:51:16.410Z]]></date>
@@ -176084,7 +176887,7 @@
     <country><![CDATA[IN]]></country>
     <remote>0</remote>
     <company><![CDATA[Johnson Controls]]></company>
-    <category>5</category>
+    <category>2</category>
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-08-26T04:51:16.003Z]]></date>
@@ -176290,7 +177093,7 @@
     <country><![CDATA[IN]]></country>
     <remote>0</remote>
     <company><![CDATA[Johnson Controls]]></company>
-    <category>5</category>
+    <category>2</category>
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-08-26T04:51:15.171Z]]></date>
@@ -176341,7 +177144,7 @@
     <country><![CDATA[IN]]></country>
     <remote>0</remote>
     <company><![CDATA[Johnson Controls]]></company>
-    <category>5</category>
+    <category>2</category>
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-08-26T04:51:14.988Z]]></date>
@@ -182288,7 +183091,7 @@
 <p>Johnson Controls is an equal employment opportunity and affirmative action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, protected veteran status, status as a qualified individual with a disability, or any other characteristic protected by law. For more information, please view EEO is the Law. If you are an individual with a disability and you require an accommodation during the application process, please visit [www.johnsoncontrols.com/tomorrowneedsyou](http://www.johnsoncontrols.com/tomorrowneedsyou).</p>
 <p><b>Application Engineer (Hardware Design) – Datacenter</b></p>]]></description>
     <url><![CDATA[https://sourceo.io/jobs/6a8e6cee9a547f3726941a8a]]></url>
-    <location><![CDATA[Bangalore, Maharashtra]]></location>
+    <location><![CDATA[Bengaluru, Maharashtra]]></location>
     <country><![CDATA[IN]]></country>
     <remote>0</remote>
     <company><![CDATA[Johnson Controls]]></company>
@@ -195982,7 +196785,7 @@
     <country><![CDATA[IN]]></country>
     <remote>0</remote>
     <company><![CDATA[ABB]]></company>
-    <category>1</category>
+    <category>5</category>
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-08-25T03:43:05.322Z]]></date>
@@ -196395,7 +197198,7 @@
 <p>At ABB, we welcome people from all backgrounds and believe that diverse perspectives help us build a cleaner, smarter future.</p>
 <p>Apply today or visit [https://www.abb.com](https://www.abb.com) to learn more about how we help run what runs the world.</p>]]></description>
     <url><![CDATA[https://sourceo.io/jobs/6a8d0f357f4554503561b220]]></url>
-    <location><![CDATA[Bangalore Rural, Karnataka]]></location>
+    <location><![CDATA[Bangalore, Karnataka]]></location>
     <country><![CDATA[IN]]></country>
     <remote>0</remote>
     <company><![CDATA[ABB]]></company>
@@ -197140,7 +197943,7 @@
     <country><![CDATA[IN]]></country>
     <remote>0</remote>
     <company><![CDATA[ABB]]></company>
-    <category>29</category>
+    <category>1</category>
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-08-25T03:41:27.475Z]]></date>
@@ -197186,48 +197989,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-08-25T03:41:25.400Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6a8d0ee4f722ba03e8cbe05f]]></id>
-    <title><![CDATA[Field Service Engineer]]></title>
-    <description><![CDATA[<p>At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world.</p>
-<p>This Position reports to:</p>
-<p>Service Team Leader ###</p>
-<p><b>Your role and responsibilities:</b></p>
-<p>In this role, you will have the opportunity to execute service work of medium to high complexity in accordance with ABB work instructions, quality standards, and safety guidelines. Each day, you will deliver reliable customer service, ensure customer satisfaction, and identify opportunities for service business development. You will also contribute by coaching junior engineers and technicians during complex site activities.</p>
-<p><b>This role contributes to the Measurement &amp; Analytics Business Area in the West region.</b></p>
-<p>Main stakeholders include: Customers, Service Team Leader, Sales, and Product Support Teams.</p>
-<p><b>You will be mainly accountable for:</b></p>
-<ul>
-<li>Perform routine preventive maintenance, breakdown maintenance, and troubleshooting of analytical systems including Gas Chromatographs, continuous gas analyzers, and water analyzers to ensure maximum uptime and reliability.</li>
-<li>Serve as the on-site technical focal point, providing prompt support, monitoring analyzer performance, and ensuring seamless day-to-day operation of installed systems.</li>
-<li>Plan and execute maintenance schedules, maintain spare parts inventory coordination, and prepare accurate service reports and documentation for effective communication and closure of activities.</li>
-<li>Promote operational excellence by identifying improvement opportunities, optimizing maintenance practices, and collaborating with cross-functional teams to enhance customer satisfaction.</li>
-</ul>
-<p><b>Our team dynamics:</b></p>
-<p>You will join a technically proficient, customer-focused, and collaborative team, where you will be able to thrive and further enhance your technical skills.</p>
-<p><b>Qualifications for the role:</b></p>
-<ul>
-<li>Diploma / B.E. in Electronics &amp; Instrumentation Engineering from a recognized university.</li>
-<li>5–10 years of hands-on experience in Analytical products, specifically Gas Chromatographs, continuous gas analyzers, and water analyzers.</li>
-<li>Strong diagnostic and analytical troubleshooting skills with a proactive, customer-focused approach.</li>
-<li>Experience in service planning, documentation, and effective communication with customers and internal stakeholders.</li>
-<li>Willing to travel across the West region for service-related work.</li>
-<li>Fluent in English with strong technical communication skills.</li>
-</ul>
-<p><b>More about us:</b></p>
-<p>ABB's Measurement &amp; Analytics division is among the top manufacturers and suppliers of smart instrumentation and analyzers. With thousands of experts around the world and high-performance digital technology, ABB's team is committed to making measurement easy for its industrial and energy customers to let them operate more efficiently and profitably.</p>
-<p>Building a cleaner, smarter future takes all kinds of minds: the curious, the courageous, and the creative. We welcome people from all backgrounds and experiences.</p>
-<p>Ready to make an impact? Apply today or visit www.abb.com to learn more about the impact of our solutions across the globe.</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a8d0ee4f722ba03e8cbe05f]]></url>
-    <location><![CDATA[Mumbai, Gujarat]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[ABB]]></company>
-    <category>12</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-08-25T03:41:24.136Z]]></date>
   </job>
   <job>
     <id><![CDATA[6a8d0ee3c56c24265957a8e6]]></id>
@@ -204897,7 +205658,7 @@
     <country><![CDATA[IN]]></country>
     <remote>0</remote>
     <company><![CDATA[ABB]]></company>
-    <category>3</category>
+    <category>11</category>
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-08-25T02:53:04.880Z]]></date>
@@ -217353,73 +218114,6 @@
     <date><![CDATA[2026-08-24T08:54:07.170Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6a8c064908251c52c0481715]]></id>
-    <title><![CDATA[Lead AI/ML Engineer]]></title>
-    <description><![CDATA[<p><b>Role:</b> Lead AI/ML Engineer</p>
-<p><b>Location:</b> Hyderabad</p>
-<p><b>Full/ Part-time:</b> Full time</p>
-<p><b>About Carrier</b></p>
-<p>Carrier Global Corporation, global leader in intelligent climate and energy solutions, is committed to creating innovations that bring comfort, safety and sustainability to life. Through cutting-edge advancements in climate solutions such as temperature control, air quality and transportation, we improve lives, empower critical industries and ensure safe transport of food, life-saving medicines and more. Since inventing modern air conditioning in 1902, we lead with purpose: enhancing the lives we live and the world we share. We continue to lead because of our world-class, inclusive workforce that puts the customer at the center of everything we do. For more information, visit [corporate.carrier.com](https://www.carrier.com/) or follow Carrier on social media at &amp;#64;Carrier.</p>
-<p><b>About the role</b>: We are seeking an experienced <b>Senior AI Developer / AI Engineer</b> with <b>6&amp;#43; years of experience</b> in Artificial Intelligence (AI), Machine Learning (ML), and Generative AI to design, develop, and deploy innovative AI-driven solutions. This role will focus on intelligent automation, document intelligence, knowledge management, and enterprise-scale AI applications that drive operational efficiency and business value across the organization.</p>
-<h3>Key Responsibilities</h3>
-<ul>
-<li>Design, develop, and implement AI/ML and Generative AI solutions for enterprise business applications.</li>
-<li>Build and deploy applications leveraging <b>Large Language Models (LLMs)</b>, <b>Retrieval-Augmented Generation (RAG)</b> architectures, <b>vector databases</b>, and <b>agent-based frameworks</b>.</li>
-<li>Develop AI-powered solutions for document processing, information extraction, knowledge management, recommendation systems, virtual assistants, and conversational AI applications.</li>
-<li>Integrate AI applications with APIs, databases, cloud platforms, and enterprise systems.</li>
-<li>Collaborate closely with business stakeholders, domain experts, and engineering teams to translate business requirements into scalable AI solutions.</li>
-<li>Support the deployment, optimization, monitoring, and continuous improvement of AI applications in production environments.</li>
-<li>Stay current with emerging AI technologies and industry best practices to drive innovation and adoption across the organization.</li>
-</ul>
-<h3>Required Qualifications</h3>
-<ul>
-<li>Bachelor's or Master's degree in Computer Science, Artificial Intelligence, Data Science, Mechanical Engineering, or a related field.</li>
-<li>Minimum of <b>6 years</b> of experience in software development, AI/ML, or related technical disciplines.</li>
-<li>Strong proficiency in <b>Python</b>, <b>Machine Learning</b>, <b>Natural Language Processing (NLP)</b>, and <b>Generative AI</b> technologies.</li>
-<li>Hands-on experience with frameworks and platforms such as <b>OpenAI</b>, <b>Google Gemini</b>, <b>LangChain</b>, <b>LangGraph</b>, <b>LlamaIndex</b>, and vector databases including <b>FAISS</b>, <b>Pinecone</b>, <b>ChromaDB</b>, or similar technologies.</li>
-<li>Experience developing applications using <b>FastAPI</b>, <b>RESTful APIs</b>, <b>SQL</b>, and cloud platforms such as <b>Azure</b>, <b>AWS</b>, or <b>Google Cloud Platform (GCP)</b>.</li>
-<li>Strong understanding of <b>RAG</b> architectures, <b>embeddings</b>, <b>semantic search</b>, <b>AI agents</b>, and agent orchestration frameworks.</li>
-<li>Experience with AI solution deployment, model evaluation, monitoring, and performance optimization.</li>
-</ul>
-<h3>Preferred Qualifications</h3>
-<ul>
-<li>Degree in <b>Mechanical Engineering</b> or experience within the <b>HVAC</b>, <b>refrigeration</b>, or <b>industrial engineering</b> domains.</li>
-<li>Familiarity with engineering systems and components such as <b>Compressors</b>, <b>Motors</b>, <b>Heat Exchangers</b>, <b>Valves</b>, and related technical products.</li>
-<li>Experience working with engineering data, <b>Bills of Materials (BOMs)</b>, product structures, technical documentation, and <b>product lifecycle management (PLM)</b> systems.</li>
-<li>Experience developing AI solutions for engineering, manufacturing, product development, or digital transformation initiatives.</li>
-</ul>
-<p><b>Desired Competencies</b></p>
-<ul>
-<li>Strong problem-solving and analytical skills.</li>
-<li>Excellent communication and stakeholder management abilities.</li>
-<li>Ability to work independently while collaborating effectively across global teams.</li>
-<li>Passion for innovation and applying AI technologies to solve complex business challenges.</li>
-<li>Experience mentoring junior developers and contributing to technical leadership initiatives.</li>
-</ul>
-<h3>Benefits</h3>
-<p>We offer a competitive total rewards package that may include other benefits and well‑being programs. Offerings vary by role and location and are designed to support employees’ health, security, and success.</p>
-<p><b>Equal Treatment and Non-Discrimination</b></p>
-<p>Carrier is committed to equal treatment and non-discrimination principles. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, or disability, or any other applicable protected class.</p>
-<p>If you require a reasonable accommodation to complete the application process, participate in an interview, or otherwise engage in the hiring process, please contact us at [Carrier.Recruiting&amp;#64;carrier.com](mailto:Carrier.Recruiting&amp;#64;carrier.com).We will make every effort to meet your needs in accordance with applicable laws.</p>
-<p><b>Job Applicant Privacy Notice</b></p>
-<p>Please review Carrier’s [<b>Job Applicant Privacy Notice</b>](https://www.corporate.carrier.com/legal/privacy-notice-job-applicant/) ,</p>
-<p><b>Use of AI in Recruitment</b></p>
-<p>Technology enabled tools may support parts of the recruitment process, with oversight by people.</p>
-<p><b>Apply Now!</b></p>
-<p><b>Carrier is An Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status, age or any other federally protected class.</b></p>
-<p><b>Job Applicant's Privacy Notice:</b></p>
-<p>Click on this [link](https://www.corporate.carrier.com/legal/privacy-notice-job-applicant/) to read the Job Applicant's Privacy Notice</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a8c064908251c52c0481715]]></url>
-    <location><![CDATA[Hyderabad, Telangana]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Carrier]]></company>
-    <category>12</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-08-24T08:52:25.787Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6a8c06497cb298c56d652794]]></id>
     <title><![CDATA[Asst. Manager/ Application Engineering]]></title>
     <description><![CDATA[<p><b>Ro</b><b>le:</b> <b>Asst. Manager/ Application Engineering</b></p>
@@ -217770,62 +218464,6 @@
     <date><![CDATA[2026-08-24T08:52:11.875Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6a8c0632ed98bf0f83be59aa]]></id>
-    <title><![CDATA[Lead Engineer - Backend]]></title>
-    <description><![CDATA[<h3><b>Job Title – Lead Engineer – Backend Developer</b></h3>
-<h3><b>Preferred Location - Hyderabad, India</b></h3>
-<h3><b>Full time/Part Time - Full Time</b></h3>
-<p>###</p>
-<p>###</p>
-<h3><b>Build a career with confidence Carrier Global Corporation, global leader in intelligent climate and energy solutions is committed to creating solutions that matter for people and our planet for generations to come. From the beginning, we've led in inventing new technologies and entirely new industries. Today, we continue to lead because we have a world-class, diverse workforce that puts the customer at the center of everything we do.</b></h3>
-<p>###</p>
-<p>###</p>
-<h3>Summary</h3>
-<p>###</p>
-<p>###</p>
-<h3><b>Seasoned Software Engineering professional, working independently. Conducts moderately complex tests and debugs control and diagnostic systems. Undertakes multidisciplinary research, and works on system capabilities analysis to determine end user needs.</b></h3>
-<p>###</p>
-<p>###</p>
-<h3>Job Description</h3>
-<ul>
-<li>### <b>Conducts and coordinates moderately complex tests for control and diagnostic systems that contain logical and mathematical solutions.</b></li>
-<li>### <b>Conducts multidisciplinary research in assisting equipment designers in the planning, design, development, and utilization of electronic data processing systems for product and commercial software to develop software engineering activities.</b></li>
-<li>### <b>Analyzes system capabilities and determines end user needs to resolve problems on program intent, output requirements and input data acquisition to ensure current and future needs of the business are met.</b></li>
-<li>### <b>Backend Developer with Python &amp; Cloud expertise.</b></li>
-</ul>
-<p>###</p>
-<h3>Minimum Requirements</h3>
-<p>### **Requires advanced to expert knowledge obtained through advanced education, combined with experience Substantial knowledge of Carrier organization, programs or systems to make enhancements within job area University Degree or equivalent A minimum of 6 years prior relevant experience OR An advanced degree in a related field and a minimum of 3 years experience**</p>
-<p>###</p>
-<h3>Benefits</h3>
-<ul>
-<li>### <b>We are committed to offering competitive benefits programs for all of our employees, and enhancing our programs when necessary.</b></li>
-<li>### <b>Have peace of mind and body with our health insurance</b></li>
-<li>### <b>Make yourself a priority with flexible schedules and leave Policy</b></li>
-<li>### <b>Drive forward your career through professional development opportunities Achieve your personal goals with our Employee Assistance Program.</b></li>
-</ul>
-<p>###</p>
-<h3><b>Our commitment to you Our greatest assets are the expertise, creativity and passion of our employees. We strive to provide a great place to work that attracts, develops and retains the best talent, promotes employee engagement, fosters teamwork and ultimately drives innovation for the benefit of our customers. We strive to create an environment where you feel that you belong, with diversity and inclusion as the engine to growth and innovation. We develop and deploy best-in-class programs and practices, providing enriching career opportunities, listening to employee feedback and always challenging ourselves to do better. This is The Carrier Way.</b></h3>
-<p>###</p>
-<h3><b>Join us and make a difference.</b></h3>
-<p>###</p>
-<p>###</p>
-<h3><b>Apply Now !</b></h3>
-<p>###</p>
-<p><b>Carrier is An Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status, age or any other federally protected class.</b></p>
-<p><b>Job Applicant's Privacy Notice:</b></p>
-<p>Click on this [link](https://www.corporate.carrier.com/legal/privacy-notice-job-applicant/) to read the Job Applicant's Privacy Notice</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a8c0632ed98bf0f83be59aa]]></url>
-    <location><![CDATA[Hyderabad, Telangana]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Carrier]]></company>
-    <category>12</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-08-24T08:52:02.875Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6a8c06321754871f4ff5bf86]]></id>
     <title><![CDATA[Lead SAP TAX Consultant]]></title>
     <description><![CDATA[<h3>Primary Responsibilities</h3>
@@ -218024,192 +218662,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-08-24T08:51:54.386Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6a8c062a4aef2bc801976193]]></id>
-    <title><![CDATA[Model Maker]]></title>
-    <description><![CDATA[<p><b>About Carrier</b></p>
-<p>Carrier Global Corporation, global leader in intelligent climate and energy solutions, is committed to creating innovations that bring comfort, safety and sustainability to life. Through cutting-edge advancements in climate solutions such as temperature control, air quality and transportation, we improve lives, empower critical industries and ensure safe transport of food, lifesaving medicines and more. Since inventing modern air conditioning in 1902, we lead with purpose: enhancing the lives we live and the world we share. We continue to lead because of our world-class, inclusive workforce that puts the customer at the center of everything we do. For more information, visit [corporate.carrier.com](https://www.carrier.com/) or follow on Carrier social media at &amp;#64;Carrier.</p>
-<h3>About the Role</h3>
-<p>We are seeking a hands-on <b>Model Maker</b> to support HVAC engineering development through the fabrication, modification, and testing of prototype equipment. This position plays a critical role in bringing new product designs to life by building and refining prototype HVAC units in collaboration with engineering teams.</p>
-<p>This role is 100% onsite in Indianapolis, IN</p>
-<h3>Key Responsibilities</h3>
-<ul>
-<li>Fabricate HVAC prototypes, tooling, and test fixtures to support engineering development projects</li>
-</ul>
-<ul>
-<li>Read and interpret work orders, engineering drawings, and technical documentation</li>
-</ul>
-<ul>
-<li>Perform fabrication processes including:</li>
-</ul>
-<ul>
-<li>Brazing (copper and aluminum)</li>
-</ul>
-<ul>
-<li>Welding</li>
-</ul>
-<ul>
-<li>Bending and stamping</li>
-</ul>
-<ul>
-<li>General sheet metal fabrication</li>
-</ul>
-<ul>
-<li>Modify HVAC units based on engineering direction and specifications</li>
-</ul>
-<ul>
-<li>Charge and discharge refrigerant from HVAC systems</li>
-</ul>
-<ul>
-<li>Install instrumentation components such as thermocouples, pressure taps, and sensors</li>
-</ul>
-<ul>
-<li>Program and operate automated equipment including:</li>
-</ul>
-<ul>
-<li>3D printers</li>
-</ul>
-<ul>
-<li>Water jet cutters</li>
-</ul>
-<ul>
-<li>Brake presses</li>
-</ul>
-<ul>
-<li>Collaborate with engineers to clarify requirements, troubleshoot issues, and complete builds</li>
-</ul>
-<ul>
-<li>Maintain a safe and organized work environment in compliance with EH&amp;S policies</li>
-</ul>
-<p><b>Minimum Qualifications</b></p>
-<ul>
-<li>High School Diploma or GED</li>
-</ul>
-<ul>
-<li>Minimum of 2 years of experience in one of the following</li>
-</ul>
-<ul>
-<li>HVAC Technology</li>
-</ul>
-<ul>
-<li>Mechanical Engineering Technology</li>
-</ul>
-<ul>
-<li>Industrial Maintenance</li>
-</ul>
-<ul>
-<li>Building Automation / Controls</li>
-</ul>
-<ul>
-<li>Electrical or Electromechanical Technology</li>
-</ul>
-<h3>Preferred Qualifications</h3>
-<ul>
-<li>EPA Certification</li>
-</ul>
-<ul>
-<li>Working knowledge of residential HVAC systems (air conditioners, heat pumps, air handlers, gas furnaces)</li>
-</ul>
-<ul>
-<li>Experience fabricating sheet metal components</li>
-</ul>
-<ul>
-<li>Ability to read and interpret blueprints and engineering drawings</li>
-</ul>
-<ul>
-<li>Experience brazing similar and dissimilar materials (copper and aluminum)</li>
-</ul>
-<ul>
-<li>Experience with machine shop and fabrication equipment (press brake, shear, punch, welder, band saw, etc.)</li>
-</ul>
-<ul>
-<li>Basic proficiency with Microsoft Office and Outlook; comfortable with digital communication tools</li>
-</ul>
-<ul>
-<li>Experience with or ability to learn CAD/CAM software</li>
-</ul>
-<ul>
-<li>Electrical aptitude, including ability to read wiring diagrams and use testing tools (e.g., volt/ohm meter)</li>
-</ul>
-<ul>
-<li>Experience with:</li>
-</ul>
-<ul>
-<li>Industrial 3D printing</li>
-</ul>
-<ul>
-<li>CNC or automated fabrication equipment (water jet, turret press, tube bending, etc.)</li>
-</ul>
-<ul>
-<li>Conventional and/or CNC machining</li>
-</ul>
-<p><b>Additional Requirements</b></p>
-<ul>
-<li>Ability to lift and move up to 35 lbs without assistance</li>
-</ul>
-<ul>
-<li>Ability to work first shift (Monday–Friday, 40 hours per week)</li>
-</ul>
-<ul>
-<li>Strong attention to detail and ability to manage multiple priorities</li>
-</ul>
-<ul>
-<li>Ability to work effectively in a team and matrixed environment</li>
-</ul>
-<ul>
-<li>Self-motivated with the ability to learn quickly and take initiative</li>
-</ul>
-<ul>
-<li>Ability to understand and follow EH&amp;S and ethics policies</li>
-</ul>
-<p>Must be Permanent US Resident, sponsorship not available</p>
-<h3>Pay Range</h3>
-<p>The annual salary for this position is between $53,000.00 - $106,000.00 annually. Factors which may affect pay within this range include, but are not limited to, skills, education, experience, and other unique qualifications of the successful candidate.</p>
-<p><b>Other Compensation</b></p>
-<p>This position may be entitled to short-term cash incentives, subject to plan requirements.</p>
-<h3>Benefits</h3>
-<p>Employees are eligible for benefits, including:</p>
-<ul>
-<li><b>Health Care Benefits</b>: Medical, Dental, Vision; Wellness incentives</li>
-</ul>
-<ul>
-<li><b>Retirement Benefits</b></li>
-</ul>
-<ul>
-<li><b>Time off and Leave</b>: Paid vacation days, up to 15 days; paid sick days, up to 5 days; paid personal leave, up to 5 days; paid holidays, up to 13 days; birth and adoption leave; parental leave; family and medical leave; bereavement leave; jury duty leave; military leave; purchased vacation</li>
-</ul>
-<ul>
-<li><b>Disability</b>: Short-term and long-term disability</li>
-</ul>
-<ul>
-<li><b>Life Insurance and Accidental Death and Dismemberment</b></li>
-</ul>
-<ul>
-<li><b>Tax-Advantaged Accounts:</b> Health Savings Account; Health Care Spending Account; Dependent Care Spending Account</li>
-</ul>
-<ul>
-<li><b>Tuition Assistance</b></li>
-</ul>
-<p><b>To learn more about our benefits offering, please click here </b>[<b>Work with us | Carrier Corporate</b>](https://www.corporate.carrier.com/careers/work-with-us/)<b>. </b>The specific benefits available to any employee may vary depending on state and local laws and eligibility factors, such as date of hire and the applicability of collective bargaining agreements.</p>
-<p><b>Carrier EEO Statement and Accommodations Process</b></p>
-<p>Carrier is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability or veteran status or any other applicable state or federal protected class. Carrier provides affirmative action in employment for qualified individuals with a Disability and Protected Veterans in compliance with section 503 of Rehabilitation Act and the Vietnam Era Veterans' Readjustment Assistance Act.</p>
-<p>If you require a reasonable accommodation to complete the application process, participate in an interview, or otherwise engage in the hiring process, please contact us at [Carrier.Recruiting&amp;#64;carrier.com](mailto:Carrier.Recruiting&amp;#64;carrier.com). We will make every effort to meet your needs in accordance with applicable laws.</p>
-<p><b>Application Deadline</b></p>
-<p>Applications will be accepted for at least 3  days from Job Posting Date: 21 August 2026</p>
-<p><b>Job Applicant's Privacy Notice</b></p>
-<p>Please click on the link to review the [Job Applicant Privacy Notice](https://www.corporate.carrier.com/legal/privacy-notice-job-applicant/).</p>
-<p><b>Use of AI</b></p>
-<p>Technology-enabled tools may support parts of the recruitment process, with oversight by people.</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a8c062a4aef2bc801976193]]></url>
-    <location><![CDATA[Indianapolis, Indiana]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Carrier]]></company>
-    <category>5</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-08-24T08:51:54.380Z]]></date>
   </job>
   <job>
     <id><![CDATA[6a8c062218fe761b7967a01f]]></id>
@@ -222345,428 +222797,5 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-08-24T08:29:36.096Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6a8c00f09fc4309b8303b691]]></id>
-    <title><![CDATA[Executive / Senior Assistant, Lease Management (2-Years Contract)]]></title>
-    <description><![CDATA[<h3>About Us</h3>
-<p>Headquartered and listed in Singapore in 2021, CapitaLand Investment Limited (CLI) is a leading global real asset manager with a strong Asia foothold. As at 5 November 2025, CLI had S$120 billion of funds under management. CLI holds stakes in eight listed real estate investment trusts and a suite of private real asset vehicles that invest in demographics, disruption and digitalisation-theme strategies. Its diversified real asset classes include retail, office, lodging, industrial, logistics, business parks, wellness, self-storage, data centres and private credit.</p>
-<h3>Job Description</h3>
-<h3>Responsibilities</h3>
-<ul>
-<li>Support leasing administrative activities and ensure accurate and complete lease documentation</li>
-</ul>
-<ul>
-<li>Prepare and track various lease documentation such as Tenancy, Extension of Tenancy, and License Agreements</li>
-</ul>
-<ul>
-<li>Enter information and maintain the lease database, monitoring the status of lease documents and ensuring all data is entered correctly and updated promptly.</li>
-<li>Liaise with tenants, lawyers, and other stakeholders on tenancy agreements, pre-termination, novation of leases, and compliance matters</li>
-</ul>
-<ul>
-<li>Coordinate with the Tenancy Management team and other departments to ensure timely execution and return of tenancy documents</li>
-</ul>
-<ul>
-<li>Implement standard real estate practices to ensure accurate completion of paperwork</li>
-</ul>
-<h3>Requirements</h3>
-<ul>
-<li>Minimum Diploma in Estate Management, Building or equivalent</li>
-</ul>
-<ul>
-<li>2 years of relevant experience in a similar role with a sound understanding of the real estate industry.</li>
-<li>High level of accuracy in all work, with a commitment to maintaining quality standards.</li>
-<li>Able to work under pressure in a fast-paced environment and meet tight deadlines while maintaining high accuracy.</li>
-<li>Self-motivated with the ability to work independently and as part of a team, taking initiative to ensure tasks are completed accurately and on time.</li>
-<li>Proficient in Microsoft Office (MS Word / Excel).</li>
-<li>Strong communication and interpersonal skills to effectively convey information and collaborate with team members.</li>
-<li>Relevant experience in Simplicity application will be an advantage.</li>
-</ul>
-<h3>Benefits</h3>
-<ul>
-<li>Comprehensive medical coverage</li>
-<li>Training and development opportunities</li>
-<li>Subsidised rates at Ascott serviced residences</li>
-<li>Strong advocate of staff volunteerism</li>
-<li>Wellness programmes</li>
-</ul>
-<p><b>Closing Statement:</b></p>
-<p>At CapitaLand, we advocate fair employment practices, and recruit talents based on merit and fit with our Corporate values. We provide equal opportunity for all qualified persons and build an inclusive workplace regardless of race, gender, age, religious belief or nationality.</p>
-<p>Only shortlisted candidates will be notified.</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a8c00f09fc4309b8303b691]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>0</remote>
-    <company><![CDATA[CapitaLand (Data Centres)]]></company>
-    <category>13</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-08-24T08:29:36.071Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6a8c00efb4cf3d9b1f36cb11]]></id>
-    <title><![CDATA[Assistant Manager/Executive, Business Development and Account Management, Digital Platforms]]></title>
-    <description><![CDATA[<h3>About Us</h3>
-<p>Headquartered and listed in Singapore in 2021, CapitaLand Investment Limited (CLI) is a leading global real asset manager with a strong Asia foothold. As at 5 November 2025, CLI had S$120 billion of funds under management. CLI holds stakes in eight listed real estate investment trusts and a suite of private real asset vehicles that invest in demographics, disruption and digitalisation-theme strategies. Its diversified real asset classes include retail, office, lodging, industrial, logistics, business parks, wellness, self-storage, data centres and private credit.</p>
-<h3>Job Description</h3>
-<p>Be at the forefront driving the evolution, digitalization and transformation of retail and workspace landscape with us. The Digital Platforms team manages key platform programs, mainly: CapitaStar, CapitaStar for Business, CapitaVoucher, CapitaCard and CapitaStar&amp;#64;Work. The team focuses on driving business sustainability through profitability and value whilst injecting innovation &amp; creation of seamless customers’ experiences for CapitaLand’s commercial, retail businesses, shopping malls, merchant and partner networks.</p>
-<p>This is a great opportunity for a high caliber Business Development professional experienced in propagating interesting solutions and products to retailers and enterprises; this individual will assist in solutions consulting &amp; business advisory with a large untapped market to go after. This role will report to the Team Lead of Business Development.</p>
-<p><i>Office Location: 25 Ubi Road 4, #05-01, UBIX, Singapore 408621 </i></p>
-<h3>Responsibilities</h3>
-<ul>
-<li>Achieve and exceed monthly/quarterly sales targets by selling solutioning products to partners and retailers</li>
-</ul>
-<ul>
-<li>Pipeline development through a combination of cold-calling, email campaigns and market sector knowledge/intelligence</li>
-</ul>
-<ul>
-<li>Seek out and develop long-term relationships with potential, new and existing strategic partners and retailers</li>
-</ul>
-<ul>
-<li>Structure and negotiate commercial deals that contribute to positive and sustainable business outcomes for Digital Platforms</li>
-</ul>
-<ul>
-<li>Drive key business development initiatives from creation of new revenue streams to implementation of new solutions</li>
-</ul>
-<ul>
-<li>Manage multiple project timelines to implement campaigns for partners and retailers</li>
-</ul>
-<ul>
-<li>Work cross-functionally with internal stakeholders including product, tech, analytics, legal, marketing, operations and finance to launch partner and retailer campaigns</li>
-</ul>
-<ul>
-<li>Provide end-to-end partner and retailer support by being the main point of contact and proactively resolving any business or technical issues</li>
-</ul>
-<ul>
-<li>Track, analyse and communicate key quantitative trends related to the business</li>
-</ul>
-<ul>
-<li>Initiate reviews with partners and retailers, and strategise on how to further optimize results and outcomes</li>
-</ul>
-<h3>Requirements</h3>
-<ul>
-<li>Degree in Business, Marketing, Sales or a related field</li>
-</ul>
-<ul>
-<li>At least 4 to 5 years of relevant experience in Business Development, Strategic Partnerships, Account Management, selling Merchant Solutions or Media Advertising Solutions</li>
-</ul>
-<ul>
-<li>Possess strong analytical, problem-solving, negotiation and communication (written and verbal) skills</li>
-</ul>
-<ul>
-<li>Demonstrated ability to build strong business relationships and think creatively about partnership opportunities</li>
-</ul>
-<ul>
-<li>Target-driven and proven self-starter with the ability to deliver targets in a fast-paced environment</li>
-</ul>
-<ul>
-<li>Possess strong interpersonal skills, high tenacity, and is comfortable with working in a collaborative and dynamic environment</li>
-</ul>
-<ul>
-<li>Proven ability to juggle multiple accounts and projects at a time, while maintaining attention to detail</li>
-</ul>
-<ul>
-<li>Passionate about technology trends, retail solutions and experiences</li>
-</ul>
-<h3>Benefits</h3>
-<ul>
-<li>Flexible benefits with comprehensive medical coverage for self and family</li>
-<li>Training and development opportunities</li>
-<li>Subsidised rates at Ascott serviced residences-</li>
-<li>Strong advocate of staff volunteerism</li>
-<li>Wellness programmes</li>
-</ul>
-<p><b>Closing Statement:</b></p>
-<p>At CapitaLand, we advocate fair employment practices, and recruit talents based on merit and fit with our Corporate values. We provide equal opportunity for all qualified persons and build an inclusive workplace regardless of race, gender, age, religious belief or nationality.</p>
-<p>Only shortlisted candidates will be notified.</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a8c00efb4cf3d9b1f36cb11]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>0</remote>
-    <company><![CDATA[CapitaLand (Data Centres)]]></company>
-    <category>3</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-08-24T08:29:35.999Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6a8c00eff78d1ac0253b0b73]]></id>
-    <title><![CDATA[Director, Associate Director, Group Rewards]]></title>
-    <description><![CDATA[<h3>About Us</h3>
-<p>Headquartered and listed in Singapore in 2021, CapitaLand Investment Limited (CLI) is a leading global real asset manager with a strong Asia foothold. As at 5 November 2025, CLI had S$120 billion of funds under management. CLI holds stakes in eight listed real estate investment trusts and a suite of private real asset vehicles that invest in demographics, disruption and digitalisation-theme strategies. Its diversified real asset classes include retail, office, lodging, industrial, logistics, business parks, wellness, self-storage, data centres and private credit.</p>
-<h3>Job Description</h3>
-<p>Reporting to the Head, Group Rewards, the incumbent will be a key member of the Group Rewards team, with primary responsibility for Group performance management and asset-management compensation, with particular emphasis on private-markets businesses.</p>
-<p>The role will focus on:</p>
-<ul>
-<li>Developing, implementing and operating a Group performance-management framework that enables a diverse portfolio of businesses to be assessed against a consistent performance standard, supported by modular criteria that reflect the objectives and characteristics of each business; and</li>
-<li>Designing, implementing and managing compensation and incentive programmes that attract, retain and motivate employees, while aligning employee outcomes with business performance, the Group’s strategic objectives and relevant market practices.</li>
-</ul>
-<p><b>Performance Management</b></p>
-<ul>
-<li>Develop, implement and operate the organisation-wide performance-management policy, framework and processes to support objective performance assessment and effective pay-for-performance differentiation.</li>
-<li>Establish a consistent Group performance standard while developing modular performance criteria that appropriately reflect the objectives, operating models and performance drivers of the Group’s different businesses.</li>
-<li>Review and enhance performance-management policies, processes, rating methodologies and governance to ensure that they remain robust, objective and consistently applied.</li>
-<li>Partner with senior management, HR business partners and business leaders to translate business objectives into relevant performance measures and assessment criteria.</li>
-<li>Support performance calibration and moderation processes, including the development of management analytics, decision materials and recommendations.</li>
-<li>Analyse performance outcomes across businesses, functions, employee segments and geographies to identify inconsistencies, risks and opportunities for improvement.</li>
-</ul>
-<p><b>Asset-Management Compensation and Incentives</b></p>
-<ul>
-<li>Develop and implement compensation strategies covering base pay, annual incentives, long-term incentives, equity-based awards and other financial rewards.</li>
-<li>Conduct market analysis and compensation benchmarking using appropriate asset-management, private-markets, financial-services and corporate comparators.</li>
-<li>Advise senior management and HR business partners on compensation structures, market positioning, retention arrangements and incentive-plan design.</li>
-<li>Develop and refine carried-interest and employee co-investment programmes across different fund strategies, including real estate, credit, open-end funds and other private-markets strategies.</li>
-<li>Develop, implement and review policies relating to carried interest, employee co-investment and other asset-management incentive arrangements.</li>
-<li>Support the development and review of capital-raising incentives and other business-specific incentive programmes, ensuring alignment between individual contribution, commercial outcomes and the economics of the underlying business.</li>
-<li>Undertake financial modelling and analysis to assess programme costs, potential employee outcomes, affordability, dilution, vesting and alignment with fund and Group performance.</li>
-<li>Partner with Legal, Finance, Tax and relevant business teams to structure incentive programmes and related documentation in compliance with applicable legal, tax, accounting and regulatory requirements.</li>
-<li>Coordinate with external advisers, service providers and system vendors on programme implementation, administration, system enhancements and the maintenance of accurate participant records.</li>
-<li>Develop employee communications, programme materials and briefing presentations for fund teams, senior management and other stakeholders.</li>
-</ul>
-<p><b>Broader Group Rewards and Transaction Support</b></p>
-<ul>
-<li>Support the annual compensation cycle, including salary review, bonus-pool analysis, incentive allocation, retention assessment and management reporting.</li>
-<li>Ensure compensation and incentive programmes within the role’s remit comply with applicable statutory, regulatory and governance requirements.</li>
-<li>Support the review of benefits and non-monetary reward programmes where required, including relevant market benchmarking.</li>
-<li>Participate in compensation and benefits due diligence for mergers, acquisitions, joint ventures and other corporate transactions.</li>
-<li>Assess the target company’s reward programmes, employee liabilities, retention risks and potential integration implications.</li>
-<li>Support the transition and integration of employees into the Group’s performance, compensation and benefits programmes, ensuring clear communication and minimal disruption.</li>
-</ul>
-<h3>Requirements</h3>
-<ul>
-<li>Bachelor’s degree in Human Resources, Business Administration, Finance, Economics or a related discipline.</li>
-<li>At least 7 years of relevant experience in compensation and benefits, performance management, executive rewards or a related field, including at least three to five years of experience in asset management, private markets or the broader financial-services sector.</li>
-<li>Strong understanding of the asset-management industry, preferably with experience in alternatives, private markets or private equity.</li>
-<li>Sound knowledge of asset-management compensation and incentive arrangements, particularly carried interest, employee co-investment, capital-raising incentives, deferred compensation and long-term incentive programmes.</li>
-<li>Relevant experience designing, implementing or administering carried-interest, employee co-investment or other private-markets incentive programmes.</li>
-<li>Experience developing and operating enterprise performance-management frameworks across multiple businesses, functions or geographies.</li>
-<li>Experience supporting mergers and acquisitions, compensation and benefits due diligence, or post-transaction integration is advantageous.</li>
-<li>Strong analytical and quantitative capabilities, with the ability to interpret complex financial, compensation and employee data and translate the analysis into practical recommendations.</li>
-<li>In-depth knowledge of compensation, performance management and incentive-design principles, practices and governance requirements.</li>
-<li>Strong project-management skills, with the ability to manage multiple programmes, stakeholders and deadlines concurrently.</li>
-<li>Excellent written and verbal communication skills, with the ability to explain complex performance and incentive arrangements clearly.</li>
-<li>Strong judgement, attention to detail and the ability to influence and collaborate effectively with senior management, HR business partners, investment professionals and corporate functions.</li>
-</ul>
-<h3>Benefits</h3>
-<ul>
-<li>Flexible benefits with comprehensive medical coverage for self and family</li>
-<li>Training and development opportunities</li>
-<li>Subsidised rates at Ascott serviced residences-</li>
-<li>Strong advocate of staff volunteerism</li>
-<li>Wellness programmes</li>
-</ul>
-<p><b>Closing Statement:</b></p>
-<p>At CapitaLand, we advocate fair employment practices, and recruit talents based on merit and fit with our Corporate values. We provide equal opportunity for all qualified persons and build an inclusive workplace regardless of race, gender, age, religious belief or nationality.</p>
-<p>Only shortlisted candidates will be notified.</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a8c00eff78d1ac0253b0b73]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>0</remote>
-    <company><![CDATA[CapitaLand (Data Centres)]]></company>
-    <category>1</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-08-24T08:29:35.930Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6a8c00ef6530b1f0e15a4d04]]></id>
-    <title><![CDATA[Senior Manager/Manager, Legal]]></title>
-    <description><![CDATA[<h3>About Us</h3>
-<p>CapitaLand Group (CapitaLand) is one of Asia’s largest diversified real estate groups. Headquartered in Singapore, CapitaLand’s portfolio focuses on real estate investment management and real estate development, and spans across 270 cities in 45 countries.</p>
-<h3>Job Description</h3>
-<p>As a member of the CapitaLand Development in-house legal team, you will be working on several complex transactions involving real estate acquisitions, development and divestments. This would involve structuring based on legal requirements and to achieve tax efficiency, M&amp;A transactions, joint ventures, and general advisory work. Our in-house counsels provide legal expertise and a seamless integrated service across our offices in Singapore and other countries (e.g. China, Indonesia, Malaysia, Vietnam, India). You will counsel and strategically collaborate with our business partners in Singapore and overseas to minimize risk, creatively solve problems, contribute to cost-saving initiatives and resolve disputes, while achieving the company’s business goals.</p>
-<h3>Responsibilities</h3>
-<p>Reporting to the General Counsel, your key responsibilities will include the following:</p>
-<ul>
-<li>Provide legal support and advice to the various departments and business units of the company, including country operations, finance, sales, human resources, and the project design, development and construction teams, on all real estate, development and construction-related legal matters.</li>
-<li>Negotiate, draft and review a wide range of real estate agreements, purchase and sale agreements, leases, employment contracts, financing and mortgage/security agreements, vendor agreements, service agreements, NDAs, and more.</li>
-<li>Negotiate and minimize risk in joint venture agreements with partners.</li>
-<li>Assist in the creation of processes for managing legal issues from all business areas and help provide training, create templates, and manage workflows to allow business units to move quickly while addressing key risks.</li>
-<li>Work with external counsel as necessary on litigation, disputes, and other matters.</li>
-<li>Manage external counsel on transactions to ensure high quality, commercially focused, and cost-effective legal advice.</li>
-<li>Work with senior executives to design efficient and effective general controls.</li>
-<li>Assist in the drafting of policies, guidelines, legal templates and other documents to ensure best practices.</li>
-<li>Assist in corporate secretarial matters.</li>
-</ul>
-<h3>Qualifications</h3>
-<ul>
-<li>Minimally, you should hold a Bachelor’s degree in Law and have at least 6 years PQE in a law firm or as an in-house counsel with a corporate real estate focus.</li>
-<li>Good academic history and proven legal skills, combined with a strong reputation for providing commercial solutions, excellent transactional and management skills.</li>
-<li>Strong background in general corporate work, probably gained from practice in a law firm or as an in-house counsel.</li>
-<li>Able to work confidently with our stakeholders, as well as create workable bespoke solutions to facilitate our stakeholders’ objectives.</li>
-<li>Experienced in advising on complex international transactions and in organising and managing transactions, including cross border transactions.</li>
-<li>Excellent document drafting skills, strong communication and analytical skills along with a high level of commercial awareness.</li>
-<li>You must be able to thrive in a team with high professional standards and have a flexible client-friendly commercial approach.</li>
-<li>Exceptional judgment and ability to act decisively in situations requiring quick but thorough analysis and decision-making while understanding when and how to escalate issues appropriately.</li>
-</ul>
-<h3>Benefits</h3>
-<ul>
-<li>Flexible benefits with comprehensive medical coverage for self and family</li>
-<li>Training and development opportunities</li>
-<li>Subsidised rates at Ascott serviced residences-</li>
-<li>Strong advocate of staff volunteerism</li>
-<li>Wellness programmes</li>
-</ul>
-<p><b>Closing Statement:</b></p>
-<p>At CapitaLand, we advocate fair employment practices, and recruit talents based on merit and fit with our Corporate values. We provide equal opportunity for all qualified persons and build an inclusive workplace regardless of race, gender, age, religious belief or nationality.</p>
-<p>Only shortlisted candidates will be notified.</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a8c00ef6530b1f0e15a4d04]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>0</remote>
-    <company><![CDATA[CapitaLand (Data Centres)]]></company>
-    <category>14</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-08-24T08:29:35.927Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6a8c00ef2b84e27cd5c1d718]]></id>
-    <title><![CDATA[Executive, Leasing (Commercial)]]></title>
-    <description><![CDATA[<h3>About Us</h3>
-<p>Headquartered and listed in Singapore in 2021, CapitaLand Investment Limited (CLI) is a leading global real asset manager with a strong Asia foothold. As at 5 November 2025, CLI had S$120 billion of funds under management. CLI holds stakes in eight listed real estate investment trusts and a suite of private real asset vehicles that invest in demographics, disruption and digitalisation-theme strategies. Its diversified real asset classes include retail, office, lodging, industrial, logistics, business parks, wellness, self-storage, data centres and private credit.</p>
-<h3>Job Description</h3>
-<ul>
-<li>Part of Commercial leasing team based in Singapore responsible for leasing activities; formulating and executing leasing strategies for commercial properties within the Company’s portfolio.</li>
-<li>Support the Leasing team in a fast-paced, team-oriented environment which requires partnering with brokers, research, marketing, finance and coordinators to help in the overall success of the leasing strategies.</li>
-<li>Role provides exposure to all aspects of the business in an excelling market with high visibility and the opportunity to be an integral part of the dynamic Commercial Leasing team.</li>
-</ul>
-<h3>Responsibilities</h3>
-<ul>
-<li>Attend to leasing enquiries received and work with Leasing team to provide work space solutions for consideration by prospects.</li>
-<li>Engage tenants together with Leasing team to understand and formulate work space solutioning for tenants and maintain good landlord-tenant relationships.</li>
-<li>Support leasing managers with leasing related activities below which include but not limited to:</li>
-</ul>
-<p>o Formulate, develop, and implement leasing strategies o Customize marketing materials o Manage deal transactions o Attend to tenancy-related matters and work with relevant department to resolve and address tenant concern. o Establish and build networking channels with tenants and agents o Provide monthly and quarterly reporting to stakeholders, yearly budgeting, forecast with respect to income arising from Leasing activities. o Provide general administrative support</p>
-<p><b>Requirement</b></p>
-<ul>
-<li>Diploma or Degree in Estate Management, Building, Business Administration, Marketing or equivalent</li>
-</ul>
-<ul>
-<li>Candidates who are real estate salesperson (RES) registered with the Council for Estate Agencies will be favorably considered</li>
-</ul>
-<ul>
-<li>Strong interpersonal, communication, negotiation, presentation skills and collaboration skills</li>
-</ul>
-<ul>
-<li>Possess positive disposition, resourcefulness and is a team player</li>
-</ul>
-<ul>
-<li>Sound understanding of the real estate</li>
-</ul>
-<ul>
-<li>Self-motivated and able to work under pressure with tight deadline</li>
-</ul>
-<h3>Benefits</h3>
-<ul>
-<li>Flexible benefits with comprehensive medical coverage for self and family</li>
-<li>Training and development opportunities</li>
-<li>Subsidised rates at Ascott serviced residences-</li>
-<li>Strong advocate of staff volunteerism</li>
-<li>Wellness programmes</li>
-</ul>
-<p><b>Closing Statement:</b></p>
-<p>At CapitaLand, we advocate fair employment practices, and recruit talents based on merit and fit with our Corporate values. We provide equal opportunity for all qualified persons and build an inclusive workplace regardless of race, gender, age, religious belief or nationality.</p>
-<p>Only shortlisted candidates will be notified.</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a8c00ef2b84e27cd5c1d718]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>0</remote>
-    <company><![CDATA[CapitaLand (Data Centres)]]></company>
-    <category>3</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-08-24T08:29:35.906Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6a8c00ef0f326186d237cc15]]></id>
-    <title><![CDATA[Senior Assistant, Administration (2-years Contract)]]></title>
-    <description><![CDATA[<h3>About Us</h3>
-<p>Headquartered and listed in Singapore in 2021, CapitaLand Investment Limited (CLI) is a leading global real asset manager with a strong Asia foothold. As at 5 November 2025, CLI had S$120 billion of funds under management. CLI holds stakes in eight listed real estate investment trusts and a suite of private real asset vehicles that invest in demographics, disruption and digitalisation-theme strategies. Its diversified real asset classes include retail, office, lodging, industrial, logistics, business parks, wellness, self-storage, data centres and private credit.</p>
-<h3>Job Description</h3>
-<p>You will be part of the Commercial Operations team and reporting to the Manager, Property Management.</p>
-<p><b>Job Responsibilities:</b></p>
-<p>General Administration</p>
-<ul>
-<li>Provide administrative support to the site team as assigned such as e-filing of documents</li>
-</ul>
-<ul>
-<li>Responsible for recording and updating staff leave</li>
-</ul>
-<ul>
-<li>Responsible for the petty cash float</li>
-</ul>
-<ul>
-<li>Prepare and distribute invoices to tenants</li>
-</ul>
-<ul>
-<li>Liaise closely with Finance department on matters relating to procurement, arrears management, banks and payment</li>
-</ul>
-<ul>
-<li>Requisite stationery and pantry refreshment</li>
-</ul>
-<ul>
-<li>Ensure that cheques and cash collections (if any) are banked in promptly</li>
-</ul>
-<ul>
-<li>Perform required functions in SAP &amp; Simplicity like accrual, perform good receipts for term contracts and ad-hoc purchase orders, non-rental revenue items billing.</li>
-</ul>
-<p>Tenancy Matters</p>
-<ul>
-<li>Update tenants’ records to the buildings as assigned</li>
-</ul>
-<ul>
-<li>Compile and submit additional charges form for services rendered to tenants</li>
-</ul>
-<p>Carpark Operations</p>
-<ul>
-<li>Coordinate complimentary parking or reservation of parking lots for VIPs</li>
-</ul>
-<ul>
-<li>Manage Season and hourly parking sales, revenue collection and refunds through JustPark system</li>
-</ul>
-<ul>
-<li>Ensure prompt and effective car park operation and compliance with car park SOPs</li>
-</ul>
-<p>Others</p>
-<ul>
-<li>Attend enquiries/ complaints from tenants and general public at buildings as assigned and ensure prompt follow up</li>
-</ul>
-<ul>
-<li>Any other duties as and when assigned</li>
-</ul>
-<h3>Job Requirements</h3>
-<ul>
-<li>Minimum GCE ‘O’ level with 3 to 5 years of related experience</li>
-</ul>
-<ul>
-<li>Proactive and able to multi-task with minimum supervision</li>
-</ul>
-<ul>
-<li>Proficient in MS office</li>
-</ul>
-<ul>
-<li>Systematic with good organizational skills and enjoy interacting with people</li>
-</ul>
-<h3>Benefits</h3>
-<ul>
-<li>Comprehensive medical coverage</li>
-<li>Training and development opportunities</li>
-<li>Subsidised rates at Ascott serviced residences</li>
-<li>Strong advocate of staff volunteerism</li>
-<li>Wellness programmes</li>
-</ul>
-<p><b>Closing Statement:</b></p>
-<p>At CapitaLand, we advocate fair employment practices, and recruit talents based on merit and fit with our Corporate values. We provide equal opportunity for all qualified persons and build an inclusive workplace regardless of race, gender, age, religious belief or nationality.</p>
-<p>Only shortlisted candidates will be notified.</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a8c00ef0f326186d237cc15]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>0</remote>
-    <company><![CDATA[CapitaLand (Data Centres)]]></company>
-    <category>13</category>
-    <contract_type>contract</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-08-24T08:29:35.847Z]]></date>
   </job>
 </jobs>
