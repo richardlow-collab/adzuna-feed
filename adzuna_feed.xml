@@ -13620,90 +13620,6 @@
     <date><![CDATA[2026-09-16T19:24:04.500Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6aaaecd4dd5a0eb41f7afc33]]></id>
-    <title><![CDATA[Application Engineer]]></title>
-    <description><![CDATA[<p><b>Build your best future with the Johnson Controls team</b></p>
-<p>As a global leader in smart, healthy and sustainable buildings, our mission is to reimagine the performance of buildings to serve people, places and the planet. Join a winning team that enables you to build your best future! Our teams are uniquely positioned to support a multitude of industries across the globe. You will have the opportunity to develop yourself through meaningful work projects and learning opportunities. We strive to provide our employees with an experience, focused on supporting their physical, financial, and emotional wellbeing.</p>
-<p>We are a <b>Great Place To Work-Certified</b> organization. Become a member of the Johnson Controls family and thrive in an empowering company culture where your voice and ideas will be heard – your next great opportunity is just a few clicks away!</p>
-<h3>What we offer</h3>
-<ul>
-<li>Competitive salary</li>
-</ul>
-<ul>
-<li>Paid vacation/holidays/sick time</li>
-</ul>
-<ul>
-<li>On the job/cross training opportunities</li>
-</ul>
-<ul>
-<li>Encouraging and collaborative team environment</li>
-</ul>
-<ul>
-<li>Dedication to safety through our Zero Harm policy</li>
-</ul>
-<h3><b>Job Title: Application Engineer – Security Design &amp; Estimation</b></h3>
-<h3>Role Summary</h3>
-<p>We are looking for an Application Engineer to support security system design and estimation for UK &amp; Ireland presales projects. The role requires strong technical understanding, attention to detail, and a proactive approach.</p>
-<h3>Key Responsibilities</h3>
-<ul>
-<li>Design security systems (Access Control, CCTV, Intrusion Alarm)</li>
-</ul>
-<ul>
-<li>Prepare BOQ and cost estimations</li>
-</ul>
-<ul>
-<li>Analyse drawings, specifications, and tender documents</li>
-</ul>
-<ul>
-<li>Ensure accurate and timely submission of designs and estimates</li>
-</ul>
-<ul>
-<li>Coordinate with internal teams to clarify requirements</li>
-</ul>
-<ul>
-<li>Maintain quality and minimise rework</li>
-</ul>
-<h3><b>Required Skills &amp; Experience</b></h3>
-<ul>
-<li>Experience in security system design and estimation</li>
-</ul>
-<ul>
-<li>Minimum Experience 5 to 10 Year</li>
-</ul>
-<ul>
-<li>Good understanding of technical drawings and specifications</li>
-</ul>
-<ul>
-<li>Strong attention to detail</li>
-</ul>
-<ul>
-<li>Good communication and coordination skills</li>
-</ul>
-<ul>
-<li>Ability to work in a fast-paced environment</li>
-</ul>
-<h3>What We Are Looking For</h3>
-<ul>
-<li>Ownership mindset</li>
-</ul>
-<ul>
-<li>Positive attitude and willingness to learn</li>
-</ul>
-<ul>
-<li>Focus on quality and timely delivery</li>
-</ul>
-<p>Johnson Controls is an equal employment opportunity and affirmative action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, protected veteran status, status as a qualified individual with a disability, or any other characteristic protected by law. For more information, please view EEO is the Law. If you are an individual with a disability and you require an accommodation during the application process, please visit [www.johnsoncontrols.com/tomorrowneedsyou](http://www.johnsoncontrols.com/tomorrowneedsyou).</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aaaecd4dd5a0eb41f7afc33]]></url>
-    <location><![CDATA[Bangalore-Karnataka-India, Karnataka]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Johnson Controls]]></company>
-    <category>12</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-16T19:24:04.053Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6aaaecd3e4b7b49416d5eb20]]></id>
     <title><![CDATA[Application Engineer II]]></title>
     <description><![CDATA[<h3>Job Description</h3>
@@ -13936,56 +13852,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-16T19:24:02.518Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6aaaecd25aacf71c57c3439f]]></id>
-    <title><![CDATA[Service Now Senior Admin]]></title>
-    <description><![CDATA[<p><b>Job Title: ServiceNow Senior Administrator</b></p>
-<h3>About the Role</h3>
-<p>We are looking for a ServiceNow Senior Administrator to manage the day‑to‑day health, stability, and configuration of our ServiceNow platform. This role requires strong hands‑on experience with ITSM and ITAM, solid understanding of platform architecture, and the ability to support enhancements, troubleshoot issues, and guide junior team members. You will work closely with developers, process owners, and platform stakeholders to ensure the system runs smoothly and follows best practices.</p>
-<h3>Key Responsibilities</h3>
-<ul>
-<li>Oversee daily administration of the ServiceNow platform, including user management, roles, groups, and access controls.</li>
-<li>Maintain and improve core modules such as ITSM and CMDB; experience with ITAM, ITOM, HRSD, or SecOps is a plus.</li>
-<li>Configure and manage forms, fields, lists, UI policies, UI actions, and basic workflow or Flow Designer logic.</li>
-<li>Support platform upgrades, patches, regression testing, and general maintenance activities.</li>
-<li>Monitor data quality across key tables, including CMDB, ITSM, SAM/HAM, and ITOM‑related records.</li>
-<li>Troubleshoot complex issues, perform root‑cause analysis, and implement long‑term fixes.</li>
-<li>Assist with catalog items, record producers, notifications, and workflow automation.</li>
-<li>Work with cross‑functional teams to understand requirements and translate them into configuration tasks.</li>
-<li>Maintain clear documentation for configuration changes, processes, and platform updates.</li>
-<li>Provide guidance to junior admins and support teams on platform standards and best practices.</li>
-</ul>
-<p><b>Core Skills &amp; Technical Knowledge</b></p>
-<ul>
-<li>Strong understanding of ServiceNow platform architecture, tables, forms, ACLs, and role‑based access.</li>
-<li>Hands‑on experience with ITSM and ITAM (required).</li>
-<li>Working knowledge of Business Rules, Client Scripts, UI Policies, UI Actions, and Flow Designer.</li>
-<li>Familiarity with Script Includes, Glide APIs, and basic scripting (JavaScript).</li>
-<li>Understanding of integrations, Scripted REST APIs, and data exchange concepts.</li>
-<li>Good awareness of CMDB relationships, data models, and data quality practices.</li>
-<li>Experience with Service Portal or UI customization is helpful.</li>
-<li>Understanding of ITIL processes and how they map to ServiceNow.</li>
-</ul>
-<h3>Qualifications</h3>
-<ul>
-<li>4–6&amp;#43; years of hands‑on experience administering or developing in ServiceNow.</li>
-<li>Bachelor’s degree in IT or related field (or equivalent experience).</li>
-<li>Experience supporting upgrades, maintenance, and platform improvements.</li>
-<li>Background working in Agile or hybrid delivery environments.</li>
-<li>ServiceNow CSA certification required or in progress; additional certifications (ITSM, CMDB, HRSD, ITAM) are a plus.</li>
-<li>Strong communication skills and ability to work with both technical and business teams.</li>
-<li>Ability to mentor junior team members and support platform governance.</li>
-</ul>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aaaecd25aacf71c57c3439f]]></url>
-    <location><![CDATA[Johnson Controls India COEE1, Maharashtra]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>1</remote>
-    <company><![CDATA[Johnson Controls]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-16T19:24:02.309Z]]></date>
   </job>
   <job>
     <id><![CDATA[6aaaecd2596a19c47bc47998]]></id>
@@ -30585,49 +30451,6 @@
     <date><![CDATA[2026-09-15T19:41:37.661Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6aa99f710af76f3ed5d4e878]]></id>
-    <title><![CDATA[Automation Engineer]]></title>
-    <description><![CDATA[<p>At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world.</p>
-<p>This Position reports to:</p>
-<p>Regional Customer Support Manager ###</p>
-<p><b>Your role and responsibilities</b></p>
-<p>In this role, you will have the opportunity to act as a design authority for an engineering discipline with low to medium complexity. Each day, you will complete assignments on small projects or portions of larger projects in a cost-effective manner. You will also showcase your skills by applying basic design thinking/design best practices concepts in projects.</p>
-<p>The work model for the role is: #LI - Onsite</p>
-<p>This role is contributing to the machine automation within ABB's Automation division in Pune/Ahmedabad-India region. Main stakeholders include Customers, Application Engineers, Sales Teams, Engineering Teams, Global Product Support/HQ Teams, Training Participants, Project Teams, and OEM/Manufacturing Customers.</p>
-<p><b>You will be mainly accountable for:</b></p>
-<ul>
-<li>Providing pre-sales and post-sales technical support to customers and application engineers, resolving product, software, and application-related issues through remote support channels.</li>
-<li>Identifying and diagnosing automation system challenges, delivering timely solutions to ensure optimal system performance and customer satisfaction.</li>
-<li>Building and maintaining positive customer relationships by facilitating effective communication and coordinating with internal and external stakeholders.</li>
-<li>Planning and executing technical support activities, including issue escalation, problem resolution, and collaboration with global teams to implement innovative solutions and best practices.</li>
-<li>Developing skills in automation products and real-time software applications while supporting knowledge sharing, continuous improvement, and technical excellence.</li>
-<li>Delivering technical training and application engineering support, including software development, commissioning, documentation, and reporting of technical activities</li>
-</ul>
-<p><b>Qualifications for the role:</b></p>
-<ul>
-<li>Bachelor’s degree in Engineering (Electrical, Electronics, Electrical &amp; Electronics, Mechatronics, Instrumentation, or a related discipline).</li>
-<li>1-5 years of experience in application development, commissioning, and technical support within industrial automation environments, with experience in multinational organizations.</li>
-<li>Solid knowledge of Industrial Automation systems, including PLCs, HMIs, Servo Drives, Motion Control, Motors, Robotics, and integrated machine automation solutions.</li>
-<li>Practical experience in application engineering, problem solving, customer support, commissioning, and deployment of automation solutions.</li>
-<li>Good understanding of control theory, structured programming, and software development practices, with proficiency in C/ST programming preferred.</li>
-<li>Knowledge of electronics, mechanics, and applied mathematics, with experience supporting industries such as Food &amp; Beverage (F&amp;B), CPG, and Consumer Goods.</li>
-<li>Excellent communication, customer engagement, and training skills, with the ability to collaborate effectively in cross-functional and customer-focused environments.</li>
-</ul>
-<p><b>More about us:</b></p>
-<p>B&amp;R Industrial Automation is a manufacturer of automation technology and ABB's global center for machine and factory automation. B&amp;R was founded in 1979 by Erwin Bernecker and Josef Rainer and has its headquarters in Eggelsberg, Upper Austria. Today, B&amp;R is a leading global solution provider for automating machines and factories and is responsible for machine automation in ABB's Robotics &amp; Discrete Automation division.</p>
-<p>Building a cleaner, smarter future takes all kinds of minds: the curious, the courageous, and the creative. We welcome people from all backgrounds and experiences.</p>
-<p>Ready to make an impact? Apply today or visit www.abb.com to learn more about the impact of our solutions across the globe.</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aa99f710af76f3ed5d4e878]]></url>
-    <location><![CDATA[Pune, Maharashtra]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>1</remote>
-    <company><![CDATA[ABB]]></company>
-    <category>12</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-15T19:41:37.391Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6aa99f704f94eb6b67a59477]]></id>
     <title><![CDATA[Sales specialist Panel builder]]></title>
     <description><![CDATA[<p>At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world.</p>
@@ -31019,61 +30842,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-15T19:02:44.667Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6aa99535b874edb971a787d1]]></id>
-    <title><![CDATA[Data Center Technicians]]></title>
-    <description><![CDATA[<h3>Overview</h3>
-<p>As a Microsoft Data Center Technician (DCT), you will stage, set up and perform hardware deployments. In addition, you will also perform troubleshooting and diagnostics on equipment, as well as perform hardware decommissions for simple changes and refreshes following Standard Operating Procedures. This opportunity will allow you to deepen your understanding of Data Center standard processes and procedures, develop mentoring skills while providing guidance to peers, familiarizing yourself with security and data management procedures, and accelerate your career growth in the process.</p>
-<p>Microsoft’s Cloud Operations &amp; Innovation (CO+I) is the engine that powers our cloud services. As a CO+I DCT, you will perform a key role in delivering the core infrastructure and foundational technologies for Microsoft's online services including Bing, Office 365, Xbox, OneDrive, and the Microsoft Azure platform. As a group, CO+I is focused on the personal and professional development of all employees and offers training and growth opportunities including Career Rotation Programs, Diversity &amp; Inclusion training and events, and professional certifications.</p>
-<p>Our infrastructure is comprised of a large global portfolio of more than 200 Data Centers in 32 countries and millions of servers. Our foundation is built upon and managed by a team of subject matter experts working to support services for more than 1 billion customers and 20 million businesses in over 90 countries worldwide.</p>
-<p>With environmental sustainability and optimization at the forefront of our data center design and operations, we continue to grow and evolve as we meet the ever-changing business demands that hold Microsoft as a world-class cloud provider.</p>
-<p>Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.</p>
-<h3>Responsibilities</h3>
-<ul>
-<li>Performs diagnostics and troubleshooting following standard procedures, quickly identifies the cause(s) of issues, and replaces faulty components with minimal customer and business disruption.</li>
-<li>Performs post-execution quality checks and verifies that grounding, staging, labeling, and cabling are set up properly according to safety protocols, deployment standards, and planned Network Design Tasks (NDTs).</li>
-<li>Decommissions hardware for simple changes and refreshes (e.g., memory upgrades, rebuilds) following standard procedures with minimal guidance.</li>
-<li>Follows procedures to communicate, report, and escalate incidents to appropriate Microsoft data center operations management units, Technician Leads, and engineering specialists.</li>
-<li>Assists and provides guidance to other technicians to complete challenging or complex tasks.</li>
-<li>Completes required training aligned to the role and workload; observes more experienced technicians to gain hands-on experience and relevant on-the-job training.</li>
-<li>Contributes to a positive and effective team environment by sharing information with others, contributing to regular team meetings, asking questions, and staying apprised of the status of others' work.</li>
-<li>Has pride and a sense of accountability for the service quality, completeness, and resulting user experience; displays accountability and ownership of the data center facilities.</li>
-<li>Embodies our [culture](https://apply.careers.microsoft.com/careers/job/%5C%22https://careers.microsoft.com/us/en/culture) and [values](https://apply.careers.microsoft.com/careers/job/%5C%22https://www.microsoft.com/en-us/about/corporate-values).</li>
-</ul>
-<h3>Qualifications</h3>
-<p><b>Required Qualifications</b><b>:</b></p>
-<ul>
-<li>High school diploma, GED, or equivalent and basic knowledge of computer hardware and components AND experience supporting IT equipment or related technology.</li>
-</ul>
-<p>While not required, we also look for the following<b>_Preferred Qualifications:_</b></p>
-<ul>
-<li>Experience supporting IT equipment or related technology.</li>
-<li>Applicable certifications: CompTIA (A+, Server+, Network+), Basic Structure Cabling (BSC).</li>
-</ul>
-<p><b>Background Check Requirements:</b></p>
-<p>Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:</p>
-<ul>
-<li>Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.</li>
-</ul>
-<p>Data Center Technicians ATR-C - The typical base pay range for this role across United Kingdom is £ 36,300.00 - £ 50,100.00 per year. Certain roles may be eligible for benefits and other compensation.</p>
-<p>Find additional benefits and pay information here:</p>
-<p>Data Center Technicians ATR-B - The typical base pay range for this role across United Kingdom is £ 34,400.00 - £ 43,300.00 per year. Certain roles may be eligible for benefits and other compensation.</p>
-<p>Find additional benefits and pay information here:</p>
-<p>This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.</p>
-<ul>
-<li><i> </i></li>
-</ul>
-<p>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about [<b>requesting accommodations.</b>](https://careers.microsoft.com/v2/global/en/accessibility.html)</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aa99535b874edb971a787d1]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Microsoft (Datacenters)]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-15T18:57:57.830Z]]></date>
   </job>
   <job>
     <id><![CDATA[6aa9952709f31a29034a75d1]]></id>
@@ -35690,38 +35458,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-15T05:57:19.894Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6aa8de3f160dc18459df646c]]></id>
-    <title><![CDATA[Deputy Manager - Finance & Accounts]]></title>
-    <description><![CDATA[<h3>Qualifications</h3>
-<p><b>Qualifications &amp; Experience</b></p>
-<ul>
-<li>Chartered Accountant (CA) – Mandatory.</li>
-</ul>
-<ul>
-<li>Bachelor’s degree in finance, Accounting, or related discipline.</li>
-</ul>
-<ul>
-<li>5–8 years of relevant experience in financial management, with strong exposure to:</li>
-</ul>
-<p>Large scale capex project finance</p>
-<ul>
-<li>Procurement finance and commercial negotiations</li>
-</ul>
-<ul>
-<li>Financial controls, audits, and governance</li>
-</ul>
-<p>Proven experience in managing financial oversight for capex intensive industries (infrastructure, manufacturing, energy, logistics, etc.). Strong expertise in financial modeling, budgeting, forecasting, and cash flow management, Presentation. Enabler of automation with group, Power BI, MIS</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aa8de3f160dc18459df646c]]></url>
-    <location><![CDATA[Ahmedabad, Gujarat]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[AdaniConneX]]></company>
-    <category>1</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-15T05:57:19.591Z]]></date>
   </job>
   <job>
     <id><![CDATA[6aa8de3fd921bf394981a6c4]]></id>
@@ -81627,72 +81363,6 @@
     <date><![CDATA[2026-09-11T20:07:31.110Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6aa45f82e6733a9c41fdb826]]></id>
-    <title><![CDATA[Account Manager (TBTC Bundall QLD)]]></title>
-    <description><![CDATA[<h3>Employment Type</h3>
-<p>Permanent</p>
-<h3>Closing Date</h3>
-<p>18 Sept 2026 11:59pm</p>
-<h3>Job Title</h3>
-<p>Account Manager (TBTC Bundall QLD)</p>
-<h3>Job Summary</h3>
-<h3>Job Description</h3>
-<p><b>About the team</b></p>
-<p>Telstra Business - Telstra Business Technology Centers provides IT and business support to Telstra's business customers.</p>
-<p>Telstra Business Technology Centres provides Communications and ICT solutions to small and medium Telstra business customers. The TBTC network is part of a fully branded Telstra channel designed to provide professional services to support business customers to integrate tailored tech solutions. That means less time troubleshooting tech, and more time taking care of business.</p>
-<p><b>FY27 Is the year of growth and as a team we have a laser sharp focus on four pillars:</b></p>
-<ul>
-<li>Brilliant people and partnerships</li>
-<li>Customer obsession</li>
-<li>Execution excellence</li>
-<li>Responsible growth and returns</li>
-</ul>
-<h3>About the role</h3>
-<p>As an <b>Account Manager</b>, you use your excellent customer service and acquisition skills to deliver against the following responsibilities:</p>
-<ul>
-<li>Take ownership for managing relevant customer relationships to support ongoing development, drive customer satisfaction, and achieve revenue and sales objectives for the defined portfolio.</li>
-<li>Contribute to implementing the segment and portfolio strategy with a strong emphasis on outbound campaigns to win back and acquire new customers.</li>
-<li>Take accountability for managing inbound/outbound customer sales and service contracts, exploring sales opportunities, responding to queries and escalating complaints and leads to more experienced team members as required, to ensure timely remediation and positive customer experiences.</li>
-<li>Authentically collaborate with peers, team members and key stakeholders across the TBTC channel (e.g. Field Sales Team and internal Telstra team and partners) to support the identification and qualification of leads.</li>
-<li>Participate in customer initiatives such as developing and maintaining relevant account and portfolio plans that support ongoing relationship development and contribute to the achievement of financial and customer targets (revenue, profitability, NPS) &amp; exceptional customer data quality.</li>
-<li>Meet individual and team sales and performance KPIs with a focus on acquisition metrics.</li>
-<li>Continue to upskill and develop capability and knowledge across Telstra’s portfolio of products and business solutions.</li>
-<li>Identify areas of improvement and actively embrace change and technology to better support our business customers.</li>
-</ul>
-<p><b>Work Location:</b> 2/22 Crombie Avenue, Bundall QLD 4217 (<b>on-site</b>)</p>
-<p><i>*</i>*</p>
-<p><b>To be successful in the role, you'll bring skills and experience in:</b></p>
-<ul>
-<li>An excellent communicator with strong interpersonal, engagement and presentation skills who can present to the executives or the willingness to learn these skills</li>
-<li>Strategic thinking with the ability to adapt to change</li>
-<li>Able to make an impact on the TBTCs performance and team engagement and culture.</li>
-<li>Demonstrated commitment to relationship building and working in partnership with key stakeholders is desirable</li>
-</ul>
-<p><b>Skills that will be favored but not essential:</b></p>
-<ul>
-<li>Understand the business plus and Telstra SMB customer base.</li>
-<li>Understand the day-to-day operations and what to expect in a TBTC</li>
-<li>Sound knowledge of how channels work and a strong understanding of the market</li>
-<li>Experience in Cisco and Microsoft products and solutions.</li>
-</ul>
-<p><b>If this opportunity sounds like a perfect fit for you, we'd encourage you to apply!</b></p>
-<p><b><i>Please attach your CV when applying.    </b><b></i></b></p>
-<p><i>---------------------------------</i></p>
-<p><i>As part of your application with Telstra, you may receive communications from us on &amp;#43;61 440 135 548 (for job applications in Australia).</i></p>
-<p><i>When you join our team, you become part of a welcoming and inclusive community where everyone is respected, valued and celebrated. We actively seek individuals from various backgrounds, ethnicities, genders and disabilities because we know that diversity not only strengthens our team but also enriches our work. We have zero tolerance for harassment of any kind, and we prioritize creating a workplace culture where everyone is safe and can thrive. </i></p>
-<p><i>As part of the hiring process, all identified candidates will undergo a background check, and the results will play a role in the final decision regarding your application.</i></p>
-<p><i>We are aware of the current limitations with our website accessibility and are working towards improving this. Should you experience any issues accessing information or the application form, and require this in an alternate format, please contact our Talent Acquisition team via the contact details found at </i>[www.telstra.com.au/careers/diversity-equity-and-inclusion/disability-employment](https://www.telstra.com.au/careers/diversity-equity-and-inclusion/disability-employment)</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aa45f82e6733a9c41fdb826]]></url>
-    <location><![CDATA[Gold Coast, Queensland]]></location>
-    <country><![CDATA[AU]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Telstra]]></company>
-    <category>3</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-11T20:07:30.375Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6aa45f8237062b094a192e24]]></id>
     <title><![CDATA[Senior Creative Campaign Partner]]></title>
     <description><![CDATA[<h3>Employment Type</h3>
@@ -81923,82 +81593,6 @@
     <contract_type>contract</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-11T19:52:45.871Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6aa45c07059275ac62e34773]]></id>
-    <title><![CDATA[Senior  Manager - Hire to Retire]]></title>
-    <description><![CDATA[<p><b>Hello Visionary!</b></p>
-<p>We empower our people to stay resilient and relevant in a constantly changing world. We’re looking for people who are always searching for creative ways to grow and learn. People who want to make a real impact, now and in the future. Does that sound like you? Then it seems like you’d make a great addition to our vibrant international team.</p>
-<p>We provide our Hire-to-Retire services along the complete lifecycle of an employee from onboarding to pension services and demonstrate our powerful ecosystem of leading external and internal partners and our network of key delivery centers. We believe in the value of industry best-practice standards achieved through evolving technology and digitalization. We focus on employee experience as a key driver of our actions. In doing so, we deliver flexibility, quality and efficiency for the businesses we partner with.</p>
-<h3>Position Overview</h3>
-<p>Lead end-to-end Employee Lifecycle operations across Siemens AG, ensuring seamless delivery of HR Administration and Payroll services with a focus on compliance, employee experience, operational excellence, and continuous improvement. The role is responsible for overseeing employee data management, onboarding, employee changes, offboarding, payroll governance, statutory compliance, service delivery performance, and process transformation initiatives. Partner closely with P&amp;O, business leaders and global stakeholders to drive standardization, automation, risk mitigation, and a high-quality employee experience across the employee lifecycle.</p>
-<h3><b>You’ll make a difference by:</b></h3>
-<p><b>End-to-End Service Delivery Leadership</b></p>
-<ul>
-<li>Own end-to-end Hire-to-Retire operations across ELC and Payroll processes for NAM and UK, ensuring seamless service delivery, compliance, and customer experience.</li>
-<li>Accountable for operational performance, SLA/KPI achievement, payroll accuracy, service quality, employee experience, and regulatory compliance across all supported countries.</li>
-<li>Drive operational stability while ensuring scalability of services to support organizational growth and transformation initiatives.</li>
-<li>Lead service governance forums with Regional HR, Business Leaders, Payroll Providers, Compliance, and Digital HR stakeholders.</li>
-</ul>
-<h3><b>Payroll Operations &amp; Governance</b></h3>
-<ul>
-<li>Provide strategic oversight of Payroll Operations, ensuring accurate and timely processing of payroll, statutory reporting, taxation, benefits administration, and vendor management.</li>
-<li>Drive payroll risk mitigation, audit readiness, SOX and compliance controls, and continuous process reviews.</li>
-<li>Lead resolution of complex payroll escalations, regulatory issues, and cross-functional dependencies impacting payroll delivery.</li>
-</ul>
-<h3><b>Transformation &amp; Continuous Improvement</b></h3>
-<ul>
-<li>Build and execute the H2R transformation roadmap, leveraging automation, AI, analytics, RPA, and self-service solutions to improve efficiency and employee experience.</li>
-<li>Lead standardization and simplification initiatives across countries, reducing process variations and technical debt.</li>
-<li>Drive continuous improvement culture utilizing Lean Six Sigma methodologies, root cause analysis, and data-driven decision-making.</li>
-</ul>
-<h3><b>Stakeholder &amp; Customer Management</b></h3>
-<ul>
-<li>Act as strategic advisor to Regional HR Leadership, fostering trusted partnerships and influencing decisions in a matrix environment.</li>
-<li>Lead governance reviews, operational health assessments, customer satisfaction reviews, and executive service performance reporting.</li>
-<li>Partner with Centers of Excellence, HR Digital, IT, Compliance, Legal, and external vendors to align operational priorities and transformation initiatives.</li>
-</ul>
-<h3><b>Workforce &amp; Capability Development</b></h3>
-<ul>
-<li>Build high-performing teams through talent development, succession planning, capability building, and performance management.</li>
-<li>Establish a culture of accountability, operational excellence, innovation, and customer centricity.</li>
-<li>Drive upskilling of teams in Workday, Payroll platforms, AI-enabled tools, analytics, and digital HR solutions.</li>
-</ul>
-<h3><b>Risk, Compliance &amp; Controls</b></h3>
-<ul>
-<li>Own service risk management framework, ensuring adherence to internal controls, audit requirements, data privacy regulations, and country-specific labor legislation.</li>
-<li>Implement proactive monitoring of operational risks and establish preventive controls to reduce escalations and compliance breaches.</li>
-<li>Lead remediation of audit findings and establish sustainable corrective and preventive action plans.</li>
-</ul>
-<h3><b>Data Analytics &amp; Operational Excellence</b></h3>
-<ul>
-<li>Utilize workforce and operational analytics to identify trends, productivity opportunities, risk areas, and customer pain points.</li>
-<li>Develop executive dashboards providing visibility into service performance, quality, productivity, customer satisfaction, and financial outcomes.</li>
-<li>Drive transaction-based productivity improvements, cost optimization, and service delivery efficiency through data-led insights.</li>
-</ul>
-<h3><b>Your success is grounded in:</b></h3>
-<ul>
-<li>15+ years of experience in HR Operations, Shared Services, Payroll Operations, Service Delivery, or Global Business Services environments.</li>
-<li>Proven experience handling large-scale multi-country H2R and Payroll operations across complex, matrixed organizations.</li>
-<li>Demonstrated success leading operational transformation, process standardization, automation, AI adoption, and digital HR initiatives.</li>
-<li>Strong understanding of global payroll operations, compliance frameworks, controls, and audit requirements.</li>
-<li>Experience handling senior stakeholders and governance forums at executive leadership level.</li>
-<li>Lean Six Sigma, Project Management, Organisational Change, or Digital Transformation certifications preferred.</li>
-<li>Strong commercial foresight with experience handling budgets, productivity targets, and operational cost optimization.</li>
-</ul>
-<p><b>Join us and be yourself!</b></p>
-<p>We value your unique identity and perspective and are fully committed to providing equitable opportunities and building a workplace that reflects the diversity of society. Come bring your authentic self and create a better tomorrow with us.</p>
-<p>This role is based in <b>Bangalore</b>. You’ll also get to visit other locations in India and beyond, so you’ll need to go where this journey takes you. In return, you’ll get the chance to work with teams impacting entire cities, countries – and the shape of things to come.</p>
-<p>We’re Siemens. A collection of over 312,000 minds building the future, one day at a time in over 200 countries. We're dedicated to equality, and we encourage applications that reflect the diversity of the communities we work in. All employment decisions at Siemens are based on qualifications, merit and business need. Bring your curiosity and imagination and help us shape tomorrow.</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aa45c07059275ac62e34773]]></url>
-    <location><![CDATA[Mumbai, Maharashtra]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Siemens]]></company>
-    <category>6</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-11T19:52:39.366Z]]></date>
   </job>
   <job>
     <id><![CDATA[6aa458399f440066e1eed621]]></id>
@@ -82529,92 +82123,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-11T19:27:26.205Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6aa4561dd1525347c7789bd1]]></id>
-    <title><![CDATA[Engineer Service]]></title>
-    <description><![CDATA[<h3>Job Summary</h3>
-<p>We are seeking a skilled and customer-focused HVAC Service Engineer to manage the installation, maintenance, troubleshooting, and repair of HVAC systems. The ideal candidate will have hands-on experience with air conditioning, ventilation, and refrigeration systems, ensuring optimal system performance and customer satisfaction.</p>
-<h3>Key Responsibilities</h3>
-<ul>
-<li>Perform preventive and breakdown maintenance of HVAC systems, including chillers, VRF/VRV systems, AHUs, FCUs, package units, and ventilation equipment.</li>
-<li>Diagnose and rectify faults in HVAC equipment in a timely and efficient manner.</li>
-<li>Conduct installation, commissioning, and testing of HVAC systems at customer sites.</li>
-<li>Ensure compliance with safety standards and operational procedures.</li>
-<li>Attend service calls and provide technical support to customers.</li>
-<li>Prepare service reports, maintenance records, and site documentation.</li>
-<li>Coordinate with customers, vendors, and internal teams to ensure timely resolution of issues.</li>
-<li>Monitor equipment performance and recommend corrective actions or upgrades as required.</li>
-<li>Support AMC (Annual Maintenance Contract) activities and ensure SLA adherence.</li>
-<li>Train customers and site personnel on the proper operation and maintenance of HVAC systems.</li>
-</ul>
-<h3>Qualifications</h3>
-<ul>
-<li>Diploma or Bachelor's Degree in Mechanical Engineering, Electrical Engineering, Refrigeration &amp; Air Conditioning, or a related field.</li>
-<li>HVAC certification or relevant technical training is preferred.</li>
-</ul>
-<h3>Required Skills</h3>
-<ul>
-<li>Strong knowledge of HVAC systems, controls, and refrigeration principles.</li>
-<li>Experience with Chillers, VRF/VRV, DX systems, AHUs, FCUs, and ventilation systems.</li>
-<li>Ability to read technical drawings, schematics, and wiring diagrams.</li>
-<li>Good troubleshooting and fault-finding skills.</li>
-<li>Knowledge of preventive and corrective maintenance practices.</li>
-<li>Familiarity with safety regulations and industry standards.</li>
-<li>Proficiency in MS Office and service reporting tools.</li>
-<li>Strong communication and customer-handling skills.</li>
-</ul>
-<h3>Preferred Skills</h3>
-<ul>
-<li>Experience in commercial, industrial, or facility management environments.</li>
-<li>Knowledge of BMS (Building Management Systems).</li>
-<li>Understanding of energy efficiency and HVAC optimization techniques.</li>
-<li>Experience managing AMC contracts and service schedules.</li>
-</ul>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aa4561dd1525347c7789bd1]]></url>
-    <location><![CDATA[Bengaluru, Karnataka]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Johnson Controls]]></company>
-    <category>12</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-11T19:27:25.246Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6aa4561dc30e07a843b3dc1b]]></id>
-    <title><![CDATA[HR Operations]]></title>
-    <description><![CDATA[<p><b>HR Operations Specialist - Pune</b></p>
-<p><b>Work Mode - 5 days work from Office</b></p>
-<p>Johnson Controls is seeking a highly motivated and experienced HR Operations Specialist. The HR Operations Specialist will play a critical role in supporting day-to-day HR operations and ensuring processing of transactions with high accuracy and attention to detail. Scope involves processing of Hiring, Reference Letters, Personal data changes, Job data changes, Terminations and more. The role will involve transition of processes from offshore locations and hence the incumbent will ensure the learning curve is maintained until self-sufficiency within transition timelines.:</p>
-<h3>Skills &amp; Experience</h3>
-<p>Processing Workday transactions &amp; administration such New Hires, Terminations, Employment Changes, Employment Verification, etc. including follow up with mangers and HRBPs to clarify information, obtain approvals or request corrections.</p>
-<p>Process the transactions accomplishing KPIs defined per process and according to the Case Management Framework and SOX Controls.</p>
-<p>Well versed with EIBs and bulk uploads using Workday or similar HCM.</p>
-<p>Able to independently participate in new process transitions from off-shore locations, handle knowledge transfer within team. Attention to details – being able to audit WD transactions for data accuracy.</p>
-<p>Well versed with data protection principles, knows how to process confidential and sensitive employee information.</p>
-<p>Attention to detail – be able to accurately process transaction.</p>
-<p>Solid understanding of Workday and HR ServiceNow.</p>
-<p>Articulate work instructions and write standard operating procedure (SOPs). Support other team members and new joiners.</p>
-<p>Participate in regional and global projects to support regional HR initiatives.</p>
-<p><b>What we look for</b></p>
-<ul>
-<li>2 - 5 years of work experience in HR Operations.</li>
-<li>Good at multi-tasking and time management to manage the workload efficiently.</li>
-<li>Good excel skills (vlookup, PIVOTs, formatting etc)</li>
-<li>Experience working in a global or multinational company with strong stakeholder management skills.</li>
-<li>Self-motivated and a quick learner, be able to deliver under challenging and dynamic environment to meet changing demands of customers.</li>
-</ul>
-<p>5 days work from office and Flexible to work in shifts.</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aa4561dc30e07a843b3dc1b]]></url>
-    <location><![CDATA[Pune, Maharashtra]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Johnson Controls]]></company>
-    <category>5</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-11T19:27:25.010Z]]></date>
   </job>
   <job>
     <id><![CDATA[6aa4561c9ebcbf3ce794a113]]></id>
@@ -93932,59 +93440,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>part_time</contract_time>
     <date><![CDATA[2026-09-10T19:51:38.657Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6aa30a4a7b1bedb752fd39eb]]></id>
-    <title><![CDATA[Server Engineer]]></title>
-    <description><![CDATA[<h3>Employment Type</h3>
-<p>Permanent</p>
-<h3>Closing Date</h3>
-<p>19 Sept 2026 11:59pm</p>
-<h3>Job Title</h3>
-<p>Server Engineer</p>
-<h3>Job Summary</h3>
-<h3>Job Description</h3>
-<p><b>The Opportunity</b></p>
-<p>As part of a collaborative and highly skilled team, you will work across complex server platforms, contribute to strategic infrastructure initiatives and solve challenging technical problems. You will have the opportunity to deepen your expertise across modern infrastructure technologies while helping to deliver secure, reliable and high-performing services for our customers.</p>
-<p>You can be based<b> either in Canberra, Sydney, Melbourne or Brisbane.</b></p>
-<p><b>A minimum Active NV1 clearance is essential to be considered for this role.</b></p>
-<h3>Key Responsibilities</h3>
-<ul>
-<li>Provide specialist administration, management and support for secure server platforms across enterprise and government customer environments.</li>
-<li>Deliver and support Windows, Linux, VMware, Active Directory, DHCP and related infrastructure technologies.</li>
-<li>Diagnose, restore and resolve complex platform incidents while ensuring service levels and customer commitments are achieved.</li>
-<li>Manage operational activities including incident management, vulnerability remediation, lifecycle maintenance and project delivery.</li>
-<li>Contribute to the design, implementation and continuous improvement of secure platform services and operational processes.</li>
-<li>Apply ITIL-based practices across Incident, Problem, Change and Service Management disciplines.</li>
-<li>Support lifecycle ownership of server platforms, ensuring technology remains secure, compliant and fit for purpose.</li>
-<li>Participate in a rotating on-call roster to provide after-hours support when required.</li>
-<li>Develop and maintain technical documentation, operational procedures and knowledge materials.</li>
-<li>Collaborate with stakeholders, project teams and technical specialists to deliver customer-focused outcomes.</li>
-<li>Champion security, risk management and compliance requirements within highly secure operational environments.</li>
-</ul>
-<h3>About You</h3>
-<p>We're looking for someone who combines strong technical expertise with a customer-focused mindset and a passion for continuous improvement.</p>
-<p>You will ideally bring:</p>
-<ul>
-<li>5&amp;#43; years' experience administering enterprise Windows and Linux server environments.</li>
-<li>Strong experience supporting and administering Microsoft Active Directory platforms.</li>
-<li>Experience across technologies such as VMware, DHCP and Windows Server.</li>
-<li>Demonstrated experience supporting production environments and delivering infrastructure projects.</li>
-<li>Proven ability to troubleshoot and resolve complex technical issues in mission-critical environments.</li>
-<li>Knowledge of ITIL service management practices and operational support processes.</li>
-<li>Strong stakeholder engagement, communication and collaboration skills.</li>
-<li>A proactive approach to continuous improvement, automation and operational excellence.</li>
-<li>A commitment to inclusive teamwork, knowledge sharing and delivering exceptional customer outcomes.</li>
-</ul>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aa30a4a7b1bedb752fd39eb]]></url>
-    <location><![CDATA[Canberra, Australian Capital Territory]]></location>
-    <country><![CDATA[AU]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Telstra]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-10T19:51:38.637Z]]></date>
   </job>
   <job>
     <id><![CDATA[6aa30a4abe4ab8ab742d76d4]]></id>
@@ -127902,84 +127357,6 @@
     <date><![CDATA[2026-09-09T19:06:25.868Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6aa1ae31351382b2ecc535b3]]></id>
-    <title><![CDATA[Service Technician Cum SDA Assistant]]></title>
-    <description><![CDATA[<h3>Job Summary</h3>
-<p>We are seeking a detail-oriented and proactive Service Delivery Assistant to support service delivery operations and ensure a seamless customer experience. The role involves coordinating with internal teams, monitoring service requests, maintaining service records, and ensuring adherence to service-level agreements (SLAs). The ideal candidate should possess strong communication, organizational, and stakeholder management skills.</p>
-<h3>Key Responsibilities</h3>
-<ul>
-<li>Support day-to-day service delivery activities and ensure timely resolution of customer requests.</li>
-<li>Monitor service performance metrics and SLA compliance.</li>
-<li>Coordinate with internal stakeholders and external vendors to ensure smooth service operations.</li>
-<li>Track, maintain, and update service delivery records, reports, and dashboards.</li>
-<li>Assist in incident management, escalation tracking, and issue resolution.</li>
-<li>Prepare periodic service review reports and presentations.</li>
-<li>Ensure adherence to organizational processes, policies, and quality standards.</li>
-<li>Identify process improvement opportunities and contribute to operational efficiency initiatives.</li>
-<li>Respond to customer inquiries and provide timely updates on service requests.</li>
-<li>Support audit and compliance activities related to service delivery operations.</li>
-</ul>
-<h3>Required Qualifications</h3>
-<ul>
-<li>Bachelor's degree in Business Administration, Management, Information Technology, or a related field.</li>
-<li>3-5 years of experience in Service Delivery, Operations Support, Customer Service, or a similar role.</li>
-<li>Strong understanding of service management processes and SLA management.</li>
-<li>Excellent verbal and written communication skills.</li>
-<li>Proficiency in Microsoft Office Suite, especially Excel, PowerPoint, and Outlook.</li>
-<li>Experience working with ticketing or service management tools (ServiceNow, Remedy, Jira, etc.) is preferred.</li>
-<li>Strong analytical and problem-solving abilities.</li>
-<li>Ability to prioritize tasks and work effectively in a fast-paced environment.</li>
-</ul>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aa1ae31351382b2ecc535b3]]></url>
-    <location><![CDATA[Bengaluru, Karnataka]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Johnson Controls]]></company>
-    <category>5</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-09T19:06:25.478Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6aa1ae31f3990ba2d3bf13b1]]></id>
-    <title><![CDATA[Service Delivery Assistant]]></title>
-    <description><![CDATA[<h3>Job Summary</h3>
-<p>We are seeking a detail-oriented and proactive Service Delivery Assistant to support service delivery operations and ensure a seamless customer experience. The role involves coordinating with internal teams, monitoring service requests, maintaining service records, and ensuring adherence to service-level agreements (SLAs). The ideal candidate should possess strong communication, organizational, and stakeholder management skills.</p>
-<h3>Key Responsibilities</h3>
-<ul>
-<li>Support day-to-day service delivery activities and ensure timely resolution of customer requests.</li>
-<li>Monitor service performance metrics and SLA compliance.</li>
-<li>Coordinate with internal stakeholders and external vendors to ensure smooth service operations.</li>
-<li>Track, maintain, and update service delivery records, reports, and dashboards.</li>
-<li>Assist in incident management, escalation tracking, and issue resolution.</li>
-<li>Prepare periodic service review reports and presentations.</li>
-<li>Ensure adherence to organizational processes, policies, and quality standards.</li>
-<li>Identify process improvement opportunities and contribute to operational efficiency initiatives.</li>
-<li>Respond to customer inquiries and provide timely updates on service requests.</li>
-<li>Support audit and compliance activities related to service delivery operations.</li>
-</ul>
-<h3>Required Qualifications</h3>
-<ul>
-<li>Bachelor's degree in Business Administration, Management, Information Technology, or a related field.</li>
-<li>3-5 years of experience in Service Delivery, Operations Support, Customer Service, or a similar role.</li>
-<li>Strong understanding of service management processes and SLA management.</li>
-<li>Excellent verbal and written communication skills.</li>
-<li>Proficiency in Microsoft Office Suite, especially Excel, PowerPoint, and Outlook.</li>
-<li>Experience working with ticketing or service management tools (ServiceNow, Remedy, Jira, etc.) is preferred.</li>
-<li>Strong analytical and problem-solving abilities.</li>
-<li>Ability to prioritize tasks and work effectively in a fast-paced environment.</li>
-</ul>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aa1ae31f3990ba2d3bf13b1]]></url>
-    <location><![CDATA[Bengaluru, Karnataka]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Johnson Controls]]></company>
-    <category>11</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-09T19:06:25.215Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6aa1ae303a005db500c1fb31]]></id>
     <title><![CDATA[QMS Engineer]]></title>
     <description><![CDATA[<p>Job Description</p>
@@ -130869,189 +130246,6 @@
     <contract_type>contract</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-09T10:41:34.749Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6aa137de4ea8e9d5c8b82ffa]]></id>
-    <title><![CDATA[IT Solution Expert ServiceNow]]></title>
-    <description><![CDATA[<p>IT Solution Expert ServiceNow - Job Detail &amp;#124; Careers Marketplace - Siemens</p>
-<p>[ Skip to content ](#main)</p>
-<p>[ Skip to footer ](#footer)</p>
-<p>[</p>
-<p>](https://jobs.siemens.com/en_US/externaljobs)</p>
-<ul>
-<li>[</li>
-</ul>
-<p>Job Search</p>
-<p>](https://jobs.siemens.com/en_US/externaljobs/Home)</p>
-<ul>
-<li>[</li>
-</ul>
-<p>All Jobs</p>
-<p>](https://jobs.siemens.com/en_US/externaljobs/SearchJobs)</p>
-<ul>
-<li>[</li>
-</ul>
-<p>AI Recommendations</p>
-<p>](https://jobs.siemens.com/en_US/externaljobs/AIRecommendations)</p>
-<ul>
-<li>[</li>
-</ul>
-<p>FAQs &amp; Support</p>
-<p>](https://www.siemens.com/global/en/company/jobs/faq.html)</p>
-<ul>
-<li>[</li>
-</ul>
-<p>English</p>
-<p>](#)</p>
-<p>[Deutsch](https://jobs.siemens.com/de_DE/externaljobs/JobDetail/520167)</p>
-<ul>
-<li>[English](https://jobs.siemens.com/en_US/externaljobs/JobDetail/520167)</li>
-<li>[Español](https://jobs.siemens.com/es_ES/externaljobs/JobDetail/520167)</li>
-<li>[Français](https://jobs.siemens.com/fr_FR/externaljobs/JobDetail/520167)</li>
-<li>[Nederlands](https://jobs.siemens.com/nl_NL/externaljobs/JobDetail/520167)</li>
-<li>[Portuguese](https://jobs.siemens.com/pt_PT/externaljobs/JobDetail/520167)</li>
-<li>[Čestina](https://jobs.siemens.com/cs_CZ/externaljobs/JobDetail/520167)</li>
-<li>[中文 (简体)](https://jobs.siemens.com/zh_CN/externaljobs/JobDetail/520167)</li>
-<li>[中文 (繁体)](https://jobs.siemens.com/zh_TW/externaljobs/JobDetail/520167)</li>
-<li>[日本語](https://jobs.siemens.com/ja_JP/externaljobs/JobDetail/520167)</li>
-</ul>
-<ul>
-<li>[</li>
-</ul>
-<p>Login</p>
-<p>](https://jobs.siemens.com/en_US/externaljobs/Login)</p>
-<ul>
-<li>[</li>
-</ul>
-<p>Job Search</p>
-<p>](https://jobs.siemens.com/en_US/externaljobs/Home)</p>
-<ul>
-<li>[</li>
-</ul>
-<p>All Jobs</p>
-<p>](https://jobs.siemens.com/en_US/externaljobs/SearchJobs)</p>
-<ul>
-<li>[</li>
-</ul>
-<p>AI Recommendations</p>
-<p>](https://jobs.siemens.com/en_US/externaljobs/AIRecommendations)</p>
-<ul>
-<li>[</li>
-</ul>
-<p>FAQs &amp; Support</p>
-<p>](https://www.siemens.com/global/en/company/jobs/faq.html)</p>
-<ul>
-<li>[</li>
-</ul>
-<p>Back to search ](https://jobs.siemens.com/en_US/externaljobs/Home)</p>
-<h3>Job details</h3>
-<h3>IT Solution Expert ServiceNow</h3>
-<p>Job ID</p>
-<p>520167</p>
-<p>Posted since</p>
-<p>02-Sep-2026</p>
-<p>Organization</p>
-<p>Information Technology</p>
-<p>Field of work</p>
-<p>Information Technology</p>
-<p>Company</p>
-<p>Siemens Technology and Services Private Limited</p>
-<p>Experience level</p>
-<p>Experienced Professional</p>
-<p>Job type</p>
-<p>Full-time</p>
-<p>Work mode</p>
-<p>Office/Site only</p>
-<p>Employment type</p>
-<p>Permanent</p>
-<p>Location(s)</p>
-<ul>
-<li>Pune - Maharashtra - India</li>
-</ul>
-<p><b>Dear Aspirant!</b></p>
-<p>We empower our people to stay resilient and relevant in a constantly changing world. We’re looking for people who are always searching for creative ways to grow and learn. People who want to make a real impact, now and in the future. Does that sound like you? Then it seems like you’d make a great addition to our vibrant international team.</p>
-<h3><b>We are looking for: ServiceNow Developer</b></h3>
-<p><b>You’ll make an impact by:</b></p>
-<ul>
-<li>Willing to follow AI first approach and utilize ServiceNow build Agent, Anthropic's Claude integration with ServiceNow for all developments</li>
-<li>Designing, developing, configuring, and maintaining ServiceNow ITSM modules and custom applications</li>
-<li>Developing and supporting workflows, Flow Designer solutions, integrations, UI policies, business rules, client scripts, and custom applications.</li>
-<li>Collaborating with Service Owners, Architects, and stakeholders to translate requirements into scalable technical solutions.</li>
-<li>Performing enhancements, bug fixes, and platform optimizations while adhering to ServiceNow best practices.</li>
-<li>Supporting ServiceNow platform upgrades, releases, and testing activities.</li>
-<li>Developing integrations with third-party applications using REST, SOAP APIs, Integration Hub, and MID Server.</li>
-<li>Maintaining CMDB data integrity and supporting CSDM adoption initiatives.</li>
-<li>Participating in code reviews and ensuring compliance with development standards and governance practices.</li>
-<li>Troubleshooting platform issues and providing timely resolution to incidents and service requests.</li>
-<li>Creating and maintaining technical documentation, knowledge articles, and development artifacts.</li>
-</ul>
-<h3><b>You’re excited to build on your existing expertise, including:</b></h3>
-<ul>
-<li><b>3-5 years of experience</b> in ServiceNow development and implementation.</li>
-<li>Hands-on experience with ServiceNow modules such as <b>ITSM, ITOM, CMDB, Service Catalog, Knowledge Management, and Employee Center</b>.</li>
-<li>Strong proficiency in <b>JavaScript, Glide APIs, Client Scripts, Business Rules, Script Includes, UI Actions, and Flow Designer</b>.</li>
-<li>Experience with <b>REST/SOAP integrations</b>, Integration Hub, and MID Server.</li>
-<li>Good understanding of <b>CSDM and CMDB</b> concepts.</li>
-<li>Experience in developing and customizing ServiceNow forms, workflows, portals, and service catalog items.</li>
-<li>Familiarity with Agile methodologies and DevOps practices.</li>
-<li>Understanding of ITIL processes and Service Management concepts.</li>
-<li>ServiceNow Certified System Administrator (<b>CSA</b>) certification / <b>CAD (Certified Application Developer)</b> required</li>
-<li>Strong analytical and troubleshooting skills with a focus on delivering high-quality solutions.</li>
-<li>Ability to work effectively in a global team environment and collaborate with business and technical stakeholders.</li>
-<li>Excellent communication and problem-solving skills.</li>
-</ul>
-<p><b>Create a better #TomorrowWithUs!</b></p>
-<p>This role is based in <b>Pune</b>, where you'll get the chance to work with teams impacting entire cities, countries, and the shape of things to come.</p>
-<p>We value your unique identity and perspective and are fully committed to providing equitable opportunities and building a workplace that reflects the diversity of society. Come bring your authentic self and create a better tomorrow with us.</p>
-<p>We’re Siemens. A collection of over 300,000 minds building the future, one day at a time in over 200 countries. We're dedicated to equality, and we encourage applications that reflect the diversity of the communities we work in. All employment decisions at Siemens are based on qualifications, merit, and business need.</p>
-<p>Bring your curiosity and creativity and help us shape tomorrow.</p>
-<h3><b>Find out more about Siemens careers at:</b> Siemens Careers</h3>
-<p>Skip video slider</p>
-<p>Continue with page content</p>
-<p>[ Apply ](https://jobs.siemens.com/en_US/externaljobs/ApplicationMethods?folderId=520167)</p>
-<p>Share</p>
-<ul>
-<li>[Email](mailto:?subject=IT%20Solution%20Expert%20ServiceNow%20-%20Siemens%20Careers%20Marketplace%20Global&amp;body=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FApplicationMethods%2F520167%3FfolderId%3D520167)</li>
-</ul>
-<ul>
-<li>[WeChat](https://jobs.siemens.com/en_US/externaljobs/wechat/ShareJob?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FApplicationMethods%2F520167%3FfolderId%3D520167)</li>
-</ul>
-<ul>
-<li>[WhatsApp](https://wa.me?text=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FApplicationMethods%2F520167%3FfolderId%3D520167)</li>
-</ul>
-<ul>
-<li>[X](http://twitter.com/intent/tweet?url=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FApplicationMethods%2F520167%3FfolderId%3D520167&amp;text=IT+Solution+Expert+ServiceNow)</li>
-</ul>
-<ul>
-<li>[Facebook](https://www.facebook.com/dialog/share?app_id=27075739128726325&amp;href=https%3A%2F%2Fjobs.siemens.com%2Fen_US%2Fexternaljobs%2FApplicationMethods%2F520167%3FfolderId%3D520167&amp;display=popup)</li>
-</ul>
-<p>|</p>
-<p>Copy link</p>
-<ul>
-<li>[</li>
-</ul>
-<p>Go back to top ](#banner-primary)</p>
-<p>[](https://www.linkedin.com/company/siemens) [](https://www.instagram.com/siemens/) [](https://www.facebook.com/Siemens) [](https://twitter.com/siemens)</p>
-<p>US Only:</p>
-<p>[ Review Accommodations for Disability ](https://www.siemens.com/us/en/company/jobs/search-careers/accommodation-for-disability.html)</p>
-<p>&amp;copy; Siemens 1996 - 2026</p>
-<p>[ FAQs ](https://www.siemens.com/global/en/company/jobs/faq.html)</p>
-<p>[ Corporate information ](https://www.siemens.com/corporate-information)</p>
-<p>[ Privacy notice ](https://www.siemens.com/global/en/general/talent-management/privacy-notice.html)</p>
-<p>[ Cookie notice ](https://www.siemens.com/global/en/general/cookie-notice.html#openCookieManagement)</p>
-<p>[ Terms of use ](https://www.siemens.com/terms-of-use)</p>
-<p>[ Digital ID ](https://www.siemens.com/digital-id)</p>
-<p>[ Whistleblowing ](https://www.siemens.com/whistleblowing)</p>
-<p><b>Important Note:</b> For all job applicants looking to join us, please note Siemens does not ask for fees prior/during/after the application process. We do not ask for banking details or personal financial information in return for the assurance of employment. Similarly, please do not open documents in e-mails that appear to be sent by a Siemens recruiter unless you are sure you are being contacted by one of our professionals for an active application process.</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aa137de4ea8e9d5c8b82ffa]]></url>
-    <location><![CDATA[Mumbai, Maharashtra]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Siemens]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-09T10:41:34.361Z]]></date>
   </job>
   <job>
     <id><![CDATA[6aa137cdf8e5aea506c0cf8c]]></id>
@@ -136041,67 +135235,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>part_time</contract_time>
     <date><![CDATA[2026-09-09T01:17:23.012Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6aa0b398b3456d7c25eaaa0c]]></id>
-    <title><![CDATA[Telstra Retail: Part Time Customer Service & Sales Consultant PLENTY VALLEY]]></title>
-    <description><![CDATA[<h3>Employment Type</h3>
-<p>Permanent</p>
-<h3>Closing Date</h3>
-<p>19 Sept 2026 11:59pm</p>
-<h3>Job Title</h3>
-<p>Telstra Retail: Part Time Customer Service &amp; Sales Consultant PLENTY VALLEY</p>
-<h3>Job Summary</h3>
-<p>As a Retail Consultant, you will provide frontline support by assisting customers with product selection, service activation, and troubleshooting basic issues. You will create positive experiences through effective communication and adherence to retail standards. This role demonstrates foundational autonomy and contributes to customer satisfaction and store performance.</p>
-<h3>Job Description</h3>
-<p><b>Ready to Make a Difference? Join Our Iconic Team at Telstra!</b></p>
-<p>At Telstra, we’re more than just a leading telecommunications company—we’re where passion meets purpose. As a Retail Customer Service &amp; Sales Consultant, you’ll have the opportunity to work for an <b>iconic Aussie brand</b> that’s been connecting Australians for generations. You won’t just be a friendly face in-store—you’ll be the trusted expert who helps customers find tech solutions that enhance their lives. This is your chance to make a meaningful impact by bringing our purpose to life: to build a connected future so everyone can thrive.</p>
-<p><b>What You’ll Be Doing:</b></p>
-<ul>
-<li><b>Deliver Exceptional Customer Experiences:</b> Help customers find the right products and services to suit their needs, ensuring their time at Telstra is a memorable one.</li>
-<li><b>Be the Go-To Tech Expert:</b> Stay up-to-date with the latest gadgets and services, offering informed guidance and solutions.</li>
-<li><b>Achieve and Excel:</b> Use your consultative selling skills to meet and exceed sales targets and KPIs, while keeping customers connected.</li>
-</ul>
-<p><b>Collaborate and Contribute:</b> Work closely with your team to create a welcoming environment where everyone is supported to achieve store goals.</p>
-<p><b>Salary and Benefits:</b></p>
-<ul>
-<li><b>Hourly Rate:</b> <b>$33.33 per hour</b></li>
-</ul>
-<p><i>*Junior rates apply for those under 20 years of age.</i></p>
-<p><b>Penalty rates are as follows:</b> Additional 25% for weekday hours worked after 6 PM, 25% for hours worked on Saturday, 100% for hours worked on Sunday and 150% for hours worked on public holidays.*</p>
-<ul>
-<li><b>Plus 12% Superannuation</b></li>
-</ul>
-<ul>
-<li><b>Generous Discounts:</b> Enjoy <b>30% off Telstra services</b> and exclusive offers with over <b>240 brands and partners</b>.</li>
-<li><b>Leave Options:</b> Take advantage of <b>16 weeks of paid parental leave</b>, the <b>Telstra Extra Day Off</b>, <b>gender affirmation leave</b>, <b>Cultural Leave</b>, <b>Blood Donor Leave</b>, and the ability to purchase up to <b>4 weeks of additional leave</b>.</li>
-<li><b>Training &amp; Career Growth Opportunities:</b> Access over <b>17,000 learning programs</b> with LinkedIn Learning, and develop your career with our <b>Future Ready program</b> designed to build on your skills and prepare you for your next step.</li>
-<li><b>Flexibility:</b> We offer flexible working hours and a supportive approach to parental leave—<b>do it your way!</b></li>
-<li><b>Recognition &amp; Rewards:</b> Benefit from <b> performance rewards</b> and a range of recognition programs to celebrate your success.</li>
-<li><b>Inclusive Culture:</b> Join a diverse and inclusive team where everyone’s unique perspective is valued and respected.</li>
-</ul>
-<p><b>Is it You We’re Looking For?</b></p>
-<ul>
-<li><b>Great Communication Skills:</b> You’re a natural at connecting with people and making their day better.</li>
-<li><b>Solution-Oriented Approach:</b> You enjoy thinking on your feet and tailoring solutions for each customer.</li>
-<li><b>Sales Drive:</b> You’re motivated to achieve (and exceed!) sales targets and KPIs.</li>
-<li><b>Passion for Learning:</b> You’re eager to grow and develop your skills in a dynamic environment.</li>
-<li><b>Resilience and Positivity:</b> You have a can-do attitude, even when things get busy.</li>
-<li><b>Customer-Facing Experience:</b> Previous experience is a plus but not required—bring your enthusiasm and we’ll teach you the rest!</li>
-</ul>
-<p><b><i>How to Apply:</b></i></p>
-<p><i>Ready to kickstart your journey with us? Click &amp;#34;Apply Now&amp;#34; to submit your application! After applying, keep an eye out for an email from our partner, HireVue, to complete the next step in our assessment process.</i></p>
-<p><b><i>Join Us at Telstra Retail:</b></i></p>
-<p><i>When you become part of the Telstra team, you’re joining a brand that celebrates diversity and inclusion. We welcome applications from people of all backgrounds, abilities, and experiences, and we strive to create a workplace where everyone is respected, valued, and can thrive. We can’t wait to see what you’ll bring to our team!</i></p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aa0b398b3456d7c25eaaa0c]]></url>
-    <location><![CDATA[Mernda, Victoria]]></location>
-    <country><![CDATA[AU]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Telstra]]></company>
-    <category>3</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>part_time</contract_time>
-    <date><![CDATA[2026-09-09T01:17:12.046Z]]></date>
   </job>
   <job>
     <id><![CDATA[6aa0b37f7a3507b28288af82]]></id>
@@ -145914,128 +145047,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-07T18:22:51.610Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6a9efe42d433d8845dce494b]]></id>
-    <title><![CDATA[Senior Software Engineer- Dynamics 365 (D365) F&O, Bangalore]]></title>
-    <description><![CDATA[<h3>Job Description</h3>
-<p><b>Your Work Shapes the World at Caterpillar Inc.</b></p>
-<p>When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.</p>
-<h3>Job Summary</h3>
-<p>Caterpillar is seeking a candidate with strong expertise in X&amp;#43;&amp;#43; development, D365 F&amp;O technical architecture, and integration strategies. The successful candidate will confidently engage in technical discussions, implementation strategies and D365 F&amp;O template creations, ensuring seamless implementation, integrations and optimized performance, while mentoring engineers and guiding teams toward delivery excellence.</p>
-<p>This role includes the design, development, and support of Microsoft Dynamics 365 Finance &amp; Operations (F&amp;O) solutions. You will be involved in core development work, SSRS, Power BI &amp; MS Fabric report building, platform upgrades, and supporting code deployments across multiple environments.</p>
-<h3>What You Will Do</h3>
-<p><b>Technical Delivery &amp; Development</b></p>
-<ul>
-<li>Deliver Dynamics 365 F&amp;O implementations, upgrades, integrations, and customizations.</li>
-<li>Own and drive X&amp;#43;&amp;#43; development, customizations, and extensions using best practices.</li>
-<li>Perform customization and extension development using X&amp;#43;&amp;#43;, Visual Studio, and the D365 Extension framework.</li>
-<li>Ensure adherence to Microsoft D365 standards, extensibility framework, and upgrade‑safe customizations.</li>
-<li>Review and optimize code for performance, scalability, and compliance with technical guidelines.</li>
-</ul>
-<p><b>Integration Engineering</b></p>
-<ul>
-<li>Design and implement integrations with third‑party systems using:OData</li>
-<li>REST / SOAP APIs</li>
-<li>AIF / DMF</li>
-<li>Azure Logic Apps, Service Bus, Data Factory</li>
-<li>Dual Write</li>
-<li>Microsoft Fabric</li>
-</ul>
-<p>Collaborate with functional consultants and project teams to align integration solutions with business needs.<b>Data Management, Security &amp; Performance</b></p>
-<ul>
-<li>Support data migration strategies and execution using DMF / Data Management Framework, acting as the primary technical SPOC.</li>
-<li>Configure and manage security roles &amp; privileges, workflows, batch jobs, and performance tuning.</li>
-<li>Review technical designs, code, and deployment strategies to ensure compliance with best practices and security standards.</li>
-</ul>
-<p><b>Technical Assets &amp; Automation</b></p>
-<ul>
-<li>Develop reusable templates, frameworks, and accelerators to standardize solution delivery.</li>
-<li>Drive automation initiatives using Copilot Studio, AI Builder, and AI‑driven workflows.</li>
-<li>Prepare TDD based on the FDD and requirements.</li>
-<li>Prepare python code to perform testing automations.</li>
-<li>Develop Technical Design Documents (TDDs) based on Functional Design Documents (FDDs) and business requirements, ensuring clarity and alignment between functional needs and technical solutions.</li>
-<li>Build and maintain Python scripts to automate testing processes, improving efficiency, accuracy, and repeatability across development and deployment cycles</li>
-</ul>
-<p><b>DevOps &amp; Environment Management</b></p>
-<ul>
-<li>Apply strong knowledge of DevOps pipelines, CI/CD, D365 templates, and environment management for F&amp;O projects.</li>
-<li>Manage build, release, and deployment activities across environments.</li>
-<li>Oversee version control and branching strategies to ensure upgrade‑safe delivery.</li>
-<li>Manage version control and code merges using GitHub repositories, ensuring proper branching strategies, conflict resolution, and upgrade‑safe delivery across environments.</li>
-</ul>
-<p><b>Collaboration &amp; Communication</b></p>
-<ul>
-<li>Confidently engage in technical discussions, implementation strategies, and template creation.</li>
-<li>Provide technical guidance to peers and junior developers to ensure delivery excellence.</li>
-<li>Participate in workshops, demos, and discussions with finance, supply chain, IT, and dealer stakeholders.</li>
-</ul>
-<p><b>Continuous Learning &amp; Improvement</b></p>
-<ul>
-<li>Stay current with Microsoft technologies, Azure services, and industry trends to inform technical decisions.</li>
-<li>Ensure adherence to best practices in software engineering, DevOps, and solution governance.</li>
-</ul>
-<p><b>What You Will Have</b></p>
-<p><b>Technical Expertise</b></p>
-<ul>
-<li>Deep hands‑on experience with Dynamics 365 F&amp;O modules (Finance, Supply Chain, Project Operations).</li>
-<li>Expert‑level knowledge of X&amp;#43;&amp;#43; development, SSRS reporting, and D365 F&amp;O layered architecture.</li>
-<li>Strong understanding of customization, configuration, and upgrade‑safe extensions.</li>
-<li>Skilled in performance tuning, workflows, batch jobs, and security role configuration.</li>
-</ul>
-<p><b>Tools &amp; Frameworks</b></p>
-<ul>
-<li>Proficiency in Visual Studio, D365 Extension framework, and developer workbench tools.</li>
-<li>Skilled in integration strategies using OData, REST/SOAP APIs, AIF/DMF, and Azure services (Logic Apps, Service Bus, Data Factory).</li>
-<li>Experience with Common Data Services (Dual Write) for integration with Dynamics 365 Sales, Field Service, and Project Operations.</li>
-<li>Knowledge of SQL Server Management Studio, DMF tools, and ETL techniques for data migration.</li>
-<li>Hands‑on experience with Copilot Studio, AI Builder, and AI‑driven workflows for automation.</li>
-</ul>
-<p><b>DevOps &amp; Environment Management</b></p>
-<ul>
-<li>Expertise in Azure DevOps: Git, pipelines, CI/CD, release management, and test plans.</li>
-<li>Skilled in environment management, version control (GITHUB), and branching strategies.</li>
-<li>Experience managing build, release, and deployment activities across Dev/UAT/Prod environments.</li>
-<li>Familiarity with Lifecycle Services (LCS) and Power Platform Admin Center (PPAC).</li>
-</ul>
-<p><b>Considerations for Top Candidates</b></p>
-<ul>
-<li><b>Advanced Debugging Skills</b> – Ability to troubleshoot complex X&amp;#43;&amp;#43; code issues, identify root causes, and implement optimized fixes without impacting upgrade safety.</li>
-<li><b>Database Proficiency</b> – Strong knowledge of SQL Server, indexing strategies, query optimization, and handling large transactional datasets within D365 F&amp;O.</li>
-<li><b>Testing Automation</b> – Experience building automated test scripts (e.g., using Python or other frameworks) to validate customizations, integrations, and performance benchmarks.</li>
-<li><b>API Development &amp; Management</b> – Skilled in designing custom APIs, managing authentication/authorization flows, and ensuring secure data exchange between F&amp;O and external systems.</li>
-<li><b>Performance Engineering</b> – Hands‑on expertise in profiling system performance, tuning batch jobs, and optimizing heavy workloads in production environments.</li>
-<li><b>Upgrade &amp; Hotfix Readiness</b> – Ability to assess Microsoft cumulative updates, apply hotfixes, and validate compatibility of customizations during platform upgrades.</li>
-<li><b>Cross‑Module Technical Depth</b> – Practical exposure to Finance, Supply Chain, and Project Operations with the ability to extend functionality across multiple modules.</li>
-<li><b>Code Review &amp; Quality Assurance</b> – Experience conducting peer reviews, enforcing coding standards, and ensuring compliance with Microsoft best practices.</li>
-<li><b>Environment Troubleshooting</b> – Skilled in diagnosing environment issues (Dev/UAT/Prod), resolving deployment failures, and managing dependencies across builds.</li>
-<li><b>Documentation &amp; Knowledge Sharing</b> – Ability to prepare clear technical design documents (TDDs), integration specifications, and reusable developer guides for team adoption.</li>
-<li><b>Integration &amp; Reporting Proficiency – </b>Demonstrated expertise in leveraging <b>Microsoft Fabric</b> and other middleware platforms to design scalable integration pipelines, enable real‑time data exchange, and deliver advanced reporting solutions across Dynamics 365 CE Sales and Field Service.</li>
-<li><b>Test Automation Expertise</b> – Extensive experience with modern testing frameworks and tools for Dynamics 365 F&amp;O applications. Preferred exposure to <b>Leapwork</b>, Azure App Testing, <b>Playwright</b>, with accepted proficiency in JMeter, Ranorex, Selenium, or equivalent platforms to validate customizations, integrations, and performance across Finance, Supply Chain, Retail &amp; Commerce &amp; Project Operations modules.</li>
-</ul>
-<h3>Experience</h3>
-<ul>
-<li>8–10&amp;#43; years of demonstrated work experience in ERP technologies with 6&amp;#43; years in Dynamics 365 F&amp;O/AX technical development.</li>
-<li>Proven experience as a Technical Developer in at least 5 full‑cycle D365 F&amp;O implementations.</li>
-<li>Demonstrated ability to mentor developers and manage technical delivery.</li>
-</ul>
-<p><b>Certifications (Preferred)</b></p>
-<ul>
-<li>MB‑500: Finance &amp; Operations Apps Developer</li>
-<li>Experience with Power Pages (portals) or AI‑powered Copilot Studio</li>
-</ul>
-<p><b>Posting Dates:</b></p>
-<p>September 6, 2026 - September 19, 2026</p>
-<p>Caterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a9efe42d433d8845dce494b]]></url>
-    <location><![CDATA[Bangalore, Karnataka]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Caterpillar]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-07T18:11:14.202Z]]></date>
   </job>
   <job>
     <id><![CDATA[6a9efe14125d1ec910ca9233]]></id>
@@ -184582,78 +183593,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-08-31T07:55:22.937Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6a9533122c4021c88ec29f6a]]></id>
-    <title><![CDATA[Senior AI Engineer- #AIDA]]></title>
-    <description><![CDATA[<p><b>Company:</b> Singtel Group</p>
-<p><b>Powering the Future with AIDA</b></p>
-<p>To lead the next phase of our AI evolution, we’ve launched a new business unit <b>AIDA</b> – <b>_Artificial Intelligence &amp; Data Analytics_</b> – a strategic engine driving our transformation designed to scale our AI ambitions with precision and purpose.This marks a <b>pivotal shift</b> in how we operate, innovate, and serve to embed intelligence into every layer of our business.</p>
-<p>At <b>Singtel</b>, this is more than a technology upgrade. It’s a <b>strategic transformation</b> that redefines how value is created across the enterprise core— <b>augmenting human capabilities</b> and unlocking entirely new potential. It is a transformation journey by aligning <b>people, platforms, and processes</b> under one cohesive strategy. Our mission is to build <b>AI literacy</b>, and foster a culture where <b>intelligence empowers people</b>.</p>
-<p><b>We welcome you to join us</b> on a transformational journey that’s reshaping the telecommunications industry — and redefining what’s possible with AI at its core. <b>Grow with us</b> in a workplace that champions <b>innovation</b>, embraces <b>agility</b>, and puts <b>human potential</b> at the heart of everything we do.</p>
-<p><b>Be a Part of Something BIG!</b></p>
-<p>We are seeking a highly skilled AI Engineer to design, build, and scale AI and Agentic AI solutions that drive real business impact. You will collaborate closely with solution architects and Lead AI Engineers to translate requirements into robust AI-driven systems, ensuring solutions are secure, scalable, and production-ready.</p>
-<p>This role requires a strong balance of applied AI development, full stack (front end/backend) software engineer, R&amp;D curiosity, and operational ownership.</p>
-<p><b>Make an Impact by:</b></p>
-<ul>
-<li>Build end-to-end workflows using AI, software and automation solutions</li>
-<li>Develop and maintain integration of AI solutions with enterprise systems via APIs, MCP, and related frameworks.</li>
-<li>Work with architects to understand requirements and define solution approaches, while partnering with software engineers for system integration.</li>
-<li>Enhance and maintain user interfaces for usability and continuous improvement.</li>
-<li>Design hybrid solutions combining backend, frontend, LLM, prompting, potentially RPA for human-in- the-loop workflows</li>
-<li>Maintain middleware components including SSO, authentication, and authorization mechanisms.</li>
-<li>Monitor production AI solutions, track KPIs, and proactively resolve performance or reliability issues.</li>
-<li>Implement security best practices, establish fallback/backup strategies, and mitigate potential risks in AI solutions.</li>
-<li>Maintain and enhance existing solution with right and relevant AI capabilities across Enterprise, Consumer, IT, Networks and Corporate Functions domain.</li>
-<li>Support and optimize the marketplace recommender system, ensuring updated offers and business rules are integrated smoothly.</li>
-<li>Monitor, troubleshoot, and improve production pipelines, backend and frontend application and AI services for reliability, performance, and scalability.</li>
-<li>Stay up to date with the latest advancements in AI/agentic AI and conduct applied research to enrich internal capabilities.</li>
-<li>Apply software engineering standards, including modular code design, reproducibility, and rigorous testing.</li>
-<li>Faced new problems which does not exist a tested approach and requires some level of R&amp;D</li>
-<li>Balancing between process and approval management vs project timelines</li>
-</ul>
-<p><b>Skills for Success:</b></p>
-<ul>
-<li>Bachelor’s or Master’s degree in Computer Science, Engineering, Data, AI/ML, or related field.</li>
-<li>3-5 years of proven experience developing and deploying software and AI solutions, with exposure to agentic AI frameworks.</li>
-<li>Proficient in Python, and TypeScript/nodejs, SQL, etc</li>
-<li>Hands-on experience with LangChain, LangGraph, or similar AI frameworks.</li>
-<li>Good knowledge in LLM integration and orchestration.</li>
-<li>Knowledge in prompt engineering.</li>
-<li>Experience with API development and integration (RESTful, gRPC, MCP a plus).</li>
-<li>Knowledge of middleware systems, including SSO and access control (OAuth2, JWT, etc.).</li>
-<li>Familiar with version control (GitHub, GitLab, Bitbucket).</li>
-<li>Exposure to cloud platforms (Azure, AWS, GCP preferred).</li>
-<li>Passion for applied R&amp;D, staying ahead of AI advancements, and bringing innovative ideas into production.</li>
-<li>Strong problem-solving ability, attention to detail, and ability to collaborate effectively across teams.</li>
-<li>Comfortable working in a cross-functional team (Software/AI engineers, data platform, business users).</li>
-<li>Experience in building secure, enterprise-grade integrations.</li>
-</ul>
-<p><b>Are you ready to say hello to BIG Possibilities?</b></p>
-<p><b>Take the leap with Singtel to unlock new opportunities and accelerate your growth. Apply now and start your empowering career!</b></p>
-<p>![Open SIEA's AI Recruiting Assistant](https://dokumfe7mps0i.cloudfront.net/oms/000000/image/2023/7/Q7VZXYUX8S_16890788816331286/16890788816331286_-1x-1.png)</p>
-<p>SIEA said, Hi! I'm SIEA, your personal Singtel job assistant. Thank you for your interest. Can you please provide your first and last name?</p>
-<p>![](https://dokumfe7mps0i.cloudfront.net/oms/000000/image/2023/7/Q7VZXYUX8S_16890788816331286/16890788816331286_-1x-1.png) SIEA</p>
-<p>![Singtel logo](https://dokumfe7mps0i.cloudfront.net/oms/000000/image/2023/7/HESIM1P06Z_16890771910370033/16890771910370033_-1x-1.png)</p>
-<p>Aug 31, 2026, 3:53 AM</p>
-<p>![](https://dokumfe7mps0i.cloudfront.net/oms/000000/image/2023/7/Q7VZXYUX8S_16890788816331286/16890788816331286_-1x-1.png)</p>
-<p>Hi! I'm SIEA, your personal Singtel job assistant. Thank you for your interest. Can you please provide your first and last name?</p>
-<p>SIEA said, Hi! I'm SIEA, your personal Singtel job assistant. Thank you for your interest. Can you please provide your first and last name?</p>
-<p>Terms and Conditions</p>
-<p>Decline Accept</p>
-<p>Powered by [Paradox](https://www.paradox.ai/powered-by-paradox)SIEA can make mistakes</p>
-<p>Are you still here?</p>
-<p>Your chat session has expired</p>
-<p>Close</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a9533122c4021c88ec29f6a]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>1</remote>
-    <company><![CDATA[Singtel Digital InfraCo]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-08-31T07:53:54.342Z]]></date>
   </job>
   <job>
     <id><![CDATA[6a953312b0963cbc01149514]]></id>
@@ -236892,5 +235831,978 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-08-25T20:54:30.787Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8df2451515cec2bb2329d6]]></id>
+    <title><![CDATA[Project Manager]]></title>
+    <description><![CDATA[<p>Eaton is an intelligent power management company dedicated to improving the quality of life and protecting the environment for people everywhere. The Power Quality (PQ) division at Eaton Electrical provides power management solutions including uninterruptable power supplies (UPS’s), surge protective devices, power distribution units (PDU’s), remote monitoring, software, power factor correction, airflow management, rack enclosures and services. We strive for continued success in leveraging technical innovation to develop next-generation solutions.</p>
+<p>We're looking for a Commissioning Manager / Field Project Manager to lead the delivery of critical electrical infrastructure projects. This is an opportunity to take ownership of site-based project execution, lead multidisciplinary teams, and deliver complex projects from installation through to commissioning and handover.</p>
+<p>If you enjoy leading from the front, managing complexity, and building strong customer relationships while delivering successful project outcomes, we'd love to hear from you.</p>
+<h3>What you'll do</h3>
+<p>As part of our PMO team, you'll play a critical role in delivering customer projects safely, on time, and within budget. You will:</p>
+<ul>
+<li>Lead site-based project delivery across the full project lifecycle.</li>
+<li>Develop delivery, installation, commissioning, and resource plans to achieve successful project outcomes.</li>
+<li>Coordinate customers, contractors, vendors, subcontractors, and field resources.</li>
+<li>Manage project risks and implement effective mitigation strategies.</li>
+<li>Oversee installation, testing, commissioning, and handover activities.</li>
+<li>Monitor project progress, financial performance, and delivery milestones.</li>
+<li>Build strong customer relationships and provide leadership across complex project environments.</li>
+<li>Drive safe, compliant, and high-quality project outcomes.</li>
+</ul>
+<h3>What we're looking for</h3>
+<p>We're open to candidates from critical power, electrical infrastructure, data centres, utilities, industrial automation, building services, construction, or related industries.</p>
+<p>You may be:</p>
+<ul>
+<li>A Project Manager looking for greater ownership and field leadership responsibility.</li>
+<li>A Commissioning Manager seeking larger and more complex projects.</li>
+<li>A Senior Commissioning Engineer or Site Manager ready to step into broader project leadership.</li>
+</ul>
+<p>You'll bring:</p>
+<ul>
+<li>3+ years' experience delivering electrical infrastructure, commissioning, construction, or critical power projects.</li>
+<li>Experience managing project delivery, contractors, vendors, risk, and site operations.</li>
+<li>Strong stakeholder management and customer relationship skills.</li>
+<li>Excellent communication, leadership, and problem-solving capability.</li>
+<li>The ability to manage competing priorities in complex project environments.</li>
+<li>A qualification in Project Management, Engineering, Electrical Engineering, or a related discipline.</li>
+</ul>
+<p>Why Eaton?</p>
+<p>Join a global leader delivering the most critical infrastructure projects, where you'll gain end-to-end project exposure, build highly sought-after technical skills, and grow your career in a business shaping the future of electrification and connectivity.</p>
+<ul>
+<li>Work on mission-critical infrastructure projects across data centres, utilities, and industrial environments.</li>
+<li>Own and influence projects from installation through to commissioning and handover.</li>
+<li>Develop expertise across project delivery, site leadership, commissioning, and customer engagement.</li>
+<li>Competitive salary package, car allowance, &amp; bonus.</li>
+<li>Global opportunities, local decision-making, and career progression pathways.</li>
+</ul>
+<p>We are committed to ensuring equal employment opportunities for all job applicants and employees. Our recruitment processes encourage diversity by utilising a balanced selection criteria regardless of the applicants age, gender, gender identity, ethnicity, religion, sexual orientation, or any other status protected or required by law. Eaton prides itself in truly representing the people within our communities.</p>
+<p>If this sounds like you, please send through your application. We look forward to hearing from you!</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8df2451515cec2bb2329d6]]></url>
+    <location><![CDATA[Mascot, New South Wales]]></location>
+    <country><![CDATA[AU]]></country>
+    <remote>1</remote>
+    <company><![CDATA[Eaton]]></company>
+    <category>12</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-25T19:51:33.617Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8df15628be28cf3783f909]]></id>
+    <title><![CDATA[Service Desk Analyst]]></title>
+    <description><![CDATA[<h3>Job Description</h3>
+<h3>Job Description</h3>
+<p>The Service Desk Analyst provides support for basic incident resolution and requests reported by APAC Schneider Employees. Responsibilities include initial assessment, research, and resolution of basic incidents and requests regarding use of applications, software and infrastructure components. The Service Desk Analyst would be responsible for collecting information through a customer conversation, probing, accessing support tools, and additional support teams if needed. Problems beyond the scope of their ability or responsibility are resolved by engaging other support teams in a timely manner.</p>
+<p><b>Responsibilities</b>:</p>
+<p>1) Addresses and resolves basic incidents and requests; logs all incidents and requests; engages</p>
+<p>other service desks or appropriate support teams to resolve incidents that are beyond the scope of</p>
+<p>their ability or responsibility.</p>
+<p>2) Uses the appropriate CTI categories for logging incidents and requests.</p>
+<p>3) Creates a positive customer support experience and builds strong relationships through deep</p>
+<p>problem understanding, ensuring timely resolution or escalation, communicating promptly on</p>
+<p>progress, and handling customers with a professional attitude.</p>
+<p>4) Ensures the end-to-end customer experience and acts as a single point-of-contact for the</p>
+<p>customer.</p>
+<p>5) Analyzes and resolves incidents and requests regarding use of application, software or hardware.</p>
+<p>Logs and tracks incidents/requests from identification through resolution. Follows up with other</p>
+<p>support teams involved in resolution to ensure incidents are resolved, requests are filled, and the</p>
+<p>customer communication is complete. Documents resolutions and updates self-help knowledgebase.</p>
+<p>6) Gains knowledge on applications, processes, and support to increase ability to resolve requests on</p>
+<p>first contact.</p>
+<p>7) Provides after hours and on-call support as needed.</p>
+<p>8) Adheres to and supports ITIL standards and procedures.</p>
+<p>9) Adheres to Companies Code of Conduct and Mission and Value statements.</p>
+<p>10) Flexible to perform other adhoc duties/shifts assigned as per operational requirement.</p>
+<p><b>KNOWLEDGE, SKILLS &amp; ABILITIES (Required):</b></p>
+<p>Demonstrates and desire to learn processes, application, and technology.</p>
+<p>Demonstrates good customer handling skills and techniques.</p>
+<p>Good communication and negotiation skills.</p>
+<p>Strong analytical and problem-solving skills.</p>
+<p><b>Preferred:</b></p>
+<p>Competency in MS Office O365 Suite.</p>
+<p>ITIL Foundation certification (not Mandatory)</p>
+<p>Prior experience in supporting customers in Technical Service Desk environment.</p>
+<p>Prior experience voice, chat &amp; email support.</p>
+<p>Proficiency in using support software tools –Outlook,O365, Active Directory, VPN, Service Now,</p>
+<p>Windows 8/10 and above, iOS &amp; Android devices.</p>
+<p>Rewards designed for you</p>
+<p>Our Total Rewards is our way of saying: We see you and we value you. It’s more than just pay and benefits—it’s a meaningful investment in you. It is designed to help you perform, grow, feel safe, and elevate your potential. The package helps you care for yourself and your family, plan your future, grow your skills and career, collaborate in an inclusive workplace, and contribute to your community. At Schneider Electric, we’re here for what matters most to you. Discover more at our [Career Page](https://www.se.com/careers).</p>
+<ul>
+<li>Country-specific programs and initiatives may be available.</li>
+</ul>
+<p><b>Looking to make an IMPACT with your career?</b></p>
+<p>When you are thinking about joining a new team, culture matters. At Schneider Electric, our values and behaviors are the foundation for creating a great culture to support business success. We believe that our IMPACT values – Inclusion, Mastery, Purpose, Action, Curiosity, Teamwork – starts with us.</p>
+<p>IMPACT is also your invitation to join Schneider Electric where you can contribute to turning sustainability ambition into actions, no matter what role you play. It is a call to connect your career with the ambition of achieving a more resilient, efficient, and sustainable world.</p>
+<p>We are looking for IMPACT Makers; exceptional people who turn sustainability ambitions into actions at the intersection of automation, electrification, and digitization. We celebrate IMPACT Makers and believe everyone has the potential to be one.</p>
+<p>Become an IMPACT Maker with Schneider Electric – apply today!</p>
+<p>€40 billion global revenue</p>
+<p>+9% organic growth</p>
+<p>150 000+ employees in 100+ countries</p>
+<p>You must submit an online application to be considered for any position with us. This position will be posted until filled.</p>
+<p>_Schneider Electric aspires to be the most inclusive and caring company in the world, by providing equitable opportunities to everyone, everywhere, and ensuring all employees feel uniquely valued and safe to contribute their best. We mirror the diversity of the communities in which we operate, and ‘inclusion’ is one of our core values. We believe our differences make us stronger as a company and as individuals and we are committed to championing inclusivity in everything we do._</p>
+<p>_At Schneider Electric, we uphold the highest standards of ethics and compliance, and we believe that trust is a foundational value. Our Trust Charter is our Code of Conduct and demonstrates our commitment to ethics, safety, sustainability, quality and cybersecurity, underpinning every aspect of our business and our willingness to behave and respond respectfully and in good faith to all our stakeholders. You can find out more about our Trust Charter [here](https://www.se.com/ww/en/download/document/SchneiderElectric\_TrustCharter/?ssr=true)_</p>
+<p>_Schneider Electric is an Equal Opportunity Employer. It is our policy to provide equal employment and advancement opportunities in the areas of recruiting, hiring, training, transferring, and promoting all qualified individuals regardless of race, religion, color, gender, disability, national origin, ancestry, age, military status, sexual orientation, marital status, or any other legally protected characteristic or conduct._</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8df15628be28cf3783f909]]></url>
+    <location><![CDATA[Bangalore, Karnataka]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Schneider Electric]]></company>
+    <category>13</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-25T19:47:34.923Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8defd726e5fb657e663693]]></id>
+    <title><![CDATA[Senior Specialist Construction]]></title>
+    <description><![CDATA[<p><b>Make an impact at NTT Global Data Centers</b></p>
+<p>Join NTT Global Data Centers and be part of a team that drives innovation and sustainability in the digital world. With over 150 data centers across more than 20 countries globally, we offer unparalleled opportunities to work on cutting-edge technology and transformative projects. Experience a collaborative, innovative, and inclusive workplace where your ideas are valued, and your growth is supported.</p>
+<p><b>Your role at a glance</b></p>
+<p>The Senior Specialist – Civil Construction Project is responsible for leading and managing the civil engineering scope for large scale, mission critical data centre projects. The role combines deep technical expertise in civil engineering with strong project management capabilities to ensure high quality, cost effective, and timely delivery of civil works. This position requires close collaboration with multidisciplinary teams, strict adherence to safety and quality standards, and effective oversight across the full project life cycle from design and permitting through construction and commissioning.</p>
+<h3>What we are looking for</h3>
+<h3>Key Roles and Responsibilities</h3>
+<ul>
+<li>Lead civil engineering activities for data centre construction projects from concept to commissioning.</li>
+<li>Review and validate civil design drawings, specifications, and engineering calculations.</li>
+<li>Oversee site execution of civil works: excavation, grading, foundations, base build, fit‑out works, external infrastructure, and civil finishes.</li>
+<li>Ensure civil works adhere to project quality, safety, and compliance standards.</li>
+<li>Collaborate closely with structural, architectural, MEP teams, and contractors to ensure integrated project delivery.</li>
+<li>Monitor onsite progress and implement corrective actions to maintain schedule and quality.</li>
+<li>Support project managers in delivering civil scope on time and within budget.</li>
+<li>Knowledge, Skills and Attributes:</li>
+<li>Strong understanding of civil engineering principles, construction materials, and data centre infrastructure requirements.</li>
+<li>Knowledge of site development, foundations, utilities, drainage, and civil finishes.</li>
+<li>Familiarity with mission‑critical construction standards and multidisciplinary coordination (Structural, MEP, Architecture).</li>
+<li>Ability to interpret drawings, specifications, and technical documents accurately.</li>
+<li>Strong project management skills including planning, scheduling, budgeting, and risk management.</li>
+<li>Proficiency with project tools such as Primavera P6, MS Project, Excel, and SharePoint.</li>
+<li>Excellent communication, stakeholder management, and problem‑solving skills.</li>
+<li>High focus on quality, safety, documentation accuracy, and timely delivery in fast‑paced environments.</li>
+<li>Academic Qualifications and Certifications:</li>
+<li>Bachelor’s degree in Civil Engineering (mandatory).</li>
+<li>Required Experience:</li>
+<li>8–12 years of civil engineering experience.</li>
+<li>3–5 years in data centre or mission‑critical construction.</li>
+<li>Experience in large-scale infrastructure or industrial projects.</li>
+<li>Strong civil site execution experience (foundations, grading, utilities, external works).</li>
+<li>Experience working with multidisciplinary teams (Structural, MEP, Architecture).</li>
+</ul>
+<h3>Who we are</h3>
+<p>As the third largest data center provider, we operate over 150 data centers in more than 20 countries and regions. We understand that every business – large and small – has its own unique needs and goals. We offer local-to-global data center expertise, aligned with our connected platform of AI-ready data centers to create solutions that enable our clients to seamlessly scale their digital businesses, anywhere and anytime.</p>
+<p>NTT Global Data Centers is proud to be an Equal Opportunity Employer with a global culture that embraces diversity. We are committed to providing an environment free of unfair discrimination and harassment. We do not discriminate based on age, race, colour, gender, sexual orientation, religion, nationality, disability, pregnancy, marital status, veteran status, or any other protected category. Join our growing global team and accelerate your career with us. Apply today.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8defd726e5fb657e663693]]></url>
+    <location><![CDATA[Navi Mumbai, Maharashtra]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[NTT Global Data Centers]]></company>
+    <category>12</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-25T19:41:11.420Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8defd792da92938b033330]]></id>
+    <title><![CDATA[Client Delivery Manager]]></title>
+    <description><![CDATA[<p><b>Make an impact at NTT Global Data Centers</b></p>
+<p>Join NTT Global Data Centers and be part of a team that drives innovation and sustainability in the digital world. With over 150 data centers across more than 20 countries globally, we offer unparalleled opportunities to work on cutting-edge technology and transformative projects. Experience a collaborative, innovative, and inclusive workplace where your ideas are valued, and your growth is supported.</p>
+<p><b>Your role at a glance</b></p>
+<p>As a Client Delivery Manager, you support the company's objectives by ensuring corporate interests are safeguarded before the customer contract is signed (feasibility and implementation options) as well as organizing the implementation after the contractual agreement with the customer has been concluded. The implementation specifically relates to the contractually owed services, typically for qualified customer solutions that cannot be fulfilled through a standardized delivery process but require project coordination over various delivery units for planning (pre-sales phase) and during the actual delivery. Client Delivery Management is responsible for the planning, execution, acceptance, and follow-up of qualified, non-standardized delivery projects.</p>
+<h3>What we are looking for</h3>
+<h3>Main tasks:</h3>
+<ul>
+<li>Coordination of contractual requirements and the services and deliveries to be provided with customer management and the departments</li>
+<li>Planning and implementation of customer projects involving all necessary stakeholders and coordination of interfaces</li>
+<li>Monitoring deadlines, milestones, dependencies, and risks- General project reporting and timely escalation to management</li>
+<li>Tracking of risks and development of measures for risk mitigation</li>
+<li>Planning and conducting cross-disciplinary coordination, quality gates workshops, and supporting project participants to achieve project goals- Assistance in project planning (definition and coordination of project goals, resource/time/effort budgeting, planning of work packages)</li>
+<li>Definition of project workflow and project process organizations, planning and conducting the project kickoff with the involved departments</li>
+<li>Operational support in (sub-)projects by performing PM tasks (e.g. moderation of workshops)</li>
+<li>Continuous development of project methodology within the team and optimization of processes and tools for comprehensive project management</li>
+</ul>
+<h3>Requirements</h3>
+<p><b>Professional skills</b></p>
+<ul>
+<li>University degree or equivalent qualification, preferably in business administration, engineering, computer science, or comparable professional experience</li>
+<li>Demonstrated experience in successful delivery of managed services to clients, meeting service level agreements (SLAs) and quality standards, with contractual agreements and compliance requirements as well as monitoring contract performance</li>
+</ul>
+<ul>
+<li>Knowledge of power supply and cooling of data centers, Cx ing, Fit-Out, Security, Connectivity infrastructure, as well as product knowledge (racks, networking, data center and IT-related services, etc.)</li>
+</ul>
+<ul>
+<li>Experience and certification in common project management methods such as Prince2, Scrum are desirable</li>
+<li>At least 2-5 years of relevant professional experience and proven successes in project management in (national and international) data center environments</li>
+<li>Strong analytical skills</li>
+<li>Willingness to travel</li>
+<li>Negotiation-level proficiency in English, both written and spoken</li>
+<li>Ensure discretion and professional handling of highly sensitive customer information.</li>
+<li>Very good knowledge of handling IT devices and software systems, including very good knowledge of MS Office</li>
+<li>Entrepreneurial thinking and action</li>
+<li>Excellent organizational and project management skills.</li>
+</ul>
+<p><b>Soft skills</b></p>
+<ul>
+<li>Customer Centric Mentality</li>
+<li>High competence in dealing with internal and external stakeholders</li>
+<li>Reliability, sense of responsibility, and team spirit</li>
+<li>Strong customer and results orientation, a self-structured working style, ability to delegate, and communicate at all matrix levels</li>
+<li>A high degree of independence and initiative</li>
+</ul>
+<h3>Who we are</h3>
+<p>As the third largest data center provider, we operate over 150 data centers in more than 20 countries and regions. We understand that every business – large and small – has its own unique needs and goals. We offer local-to-global data center expertise, aligned with our connected platform of AI-ready data centers to create solutions that enable our clients to seamlessly scale their digital businesses, anywhere and anytime.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8defd792da92938b033330]]></url>
+    <location><![CDATA[Mumbai, Maharashtra]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[NTT Global Data Centers]]></company>
+    <category>11</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-25T19:41:11.330Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8decb7309cee3fe5d5a251]]></id>
+    <title><![CDATA[Application Development & Support Specialist]]></title>
+    <description><![CDATA[<h3>Job Description</h3>
+<p>|     |     | | --- | --- | | Short Description for Internal Candidates |  |</p>
+<p>Vertiv is seeking an Application Developer to support the development and maintenance of Vertiv’s enterprise Shopify eCommerce platform within the Digital organization. This individual contributor role is responsible for executing development tasks across frontend and backend Shopify customization, assisting with integration troubleshooting, and contributing to feature delivery under the guidance of the Tech Lead. The Application Developer will contribute to keeping the Gen 2 eCommerce platform stable and continuously improving by performing hands-on development work, resolving defects, and supporting platform operations. This role supports Vertiv’s Operational Excellence and Customer Focus strategic priorities by helping ensure the eCommerce platform delivers a reliable digital commerce experience for Vertiv’s global customers.</p>
+<p>|     |     | | --- | --- | | Description for Internal Candidates |  |</p>
+<p><b>Vertiv</b> — Job Description</p>
+<p><b>Application Developer (Shopify eCommerce Platform)</b></p>
+<p>_Software Engineering</p>
+<ul>
+<li>Digital Organization_</li>
+</ul>
+<p>|     |     | | --- | --- | | <b>Company</b> | Vertiv | | <b>Location</b> | India | | <b>Function</b> | Products and Solutions – Engineering | | <b>Family</b> | Software Engineering | | <b>FLSA Status</b> | Exempt |</p>
+<ul>
+<li>Job Summary</li>
+</ul>
+<p>Vertiv is seeking an Application Developer to support the development and maintenance of Vertiv’s enterprise Shopify eCommerce platform within the Digital organization. This individual contributor role is responsible for executing development tasks across frontend and backend Shopify customization, assisting with integration troubleshooting, and contributing to feature delivery under the guidance of the Tech Lead. The Application Developer will contribute to keeping the Gen 2 eCommerce platform stable and continuously improving by performing hands-on development work, resolving defects, and supporting platform operations. This role supports Vertiv’s Operational Excellence and Customer Focus strategic priorities by helping ensure the eCommerce platform delivers a reliable digital commerce experience for Vertiv’s global customers.</p>
+<p>As a member of the Digital organization’s eCommerce team, this role contributes to Shopify platform development including theme customization, Liquid templating, app configuration, and JavaScript/TypeScript development. The Application Developer will assist with integration testing, participate in code reviews, and support deployment activities under the direction of senior team members. This role will gain exposure to Rust-based Shopify Functions, Oracle middleware connectivity, and Linux infrastructure operations as part of professional growth within the team. This position is based at Vertiv’s India office.</p>
+<ul>
+<li>Key Responsibilities</li>
+</ul>
+<ul>
+<li><b>Shopify Development &amp; Customization:</b> Develop and customize frontend and backend Shopify functionality, including theme modifications, Liquid templating, and app configuration; implement feature enhancements and bug fixes to meet business requirements under the direction of the Tech Lead.</li>
+<li><b>Frontend &amp; Web Development:</b> Build and maintain responsive, accessible web components using JavaScript/TypeScript, HTML, and CSS; ensure cross-browser compatibility and adherence to Vertiv’s design standards and WCAG accessibility guidelines.</li>
+<li><b>Integration Support:</b> Assist with troubleshooting Oracle integrations, middleware connections, and multi-platform system flows; support data mapping activities and help maintain Shopify–middleware–ERP commerce flows for order and product data exchange.</li>
+<li><b>Testing &amp; Quality Assurance:</b> Perform unit testing, integration testing, and defect resolution across eCommerce platform components; participate in code reviews and ensure code quality standards are maintained; document issues and resolutions in ServiceNow.</li>
+<li><b>Deployment &amp; CI/CD Support:</b> Support deployment activities using GitLab, including code commits, merge requests, and pipeline execution; assist with environment management and follow established CI/CD processes and version control best practices.</li>
+<li><b>Collaboration &amp; Learning:</b> Collaborate with the Tech Lead, senior developers, and cross-functional teams including IT, vendors, and business stakeholders; actively develop skills in Rust-based Shopify Functions, Oracle integrations, and Linux infrastructure operations.</li>
+</ul>
+<ul>
+<li>Requirements</li>
+</ul>
+<h3>Education</h3>
+<p>Bachelor’s degree in Computer Science, Software Engineering, Information Technology, or related field; equivalent practical experience considered.</p>
+<h3>Experience</h3>
+<ul>
+<li>1-3 years of hands-on software development experience with exposure to Shopify platform development or eCommerce application development.</li>
+<li>Experience customizing Shopify themes and working with Liquid templating language in a professional or project-based setting.</li>
+<li>Familiarity with supporting eCommerce platforms in a production or staging environment, including basic troubleshooting and defect resolution.</li>
+<li>Exposure to integration concepts, REST/GraphQL, and middleware platforms is a plus.</li>
+</ul>
+<p>Technical Skills</p>
+<ul>
+<li>Familiarity with the Shopify platform, including Liquid templating, Storefront API, and Admin API.</li>
+<li>Proficiency with JavaScript/TypeScript, HTML, CSS, and modern web development fundamentals.</li>
+<li>Basic understanding of REST and GraphQL; familiarity with Postman or equivalent API testing tools.</li>
+<li>Exposure to version control systems (GitLab) and CI/CD pipeline concepts.</li>
+<li>Basic familiarity with Linux environments and command-line operations.</li>
+<li>Understanding of web security fundamentals and secure coding practices.</li>
+</ul>
+<h3>Preferred Qualifications</h3>
+<ul>
+<li>Experience with Shopify Plus features and Shopify Functions.</li>
+<li>Exposure to Rust or willingness to learn Rust for WASM-based Shopify Functions.</li>
+<li>Familiarity with Oracle databases or Oracle Integration Cloud (OIC).</li>
+<li>Experience with ServiceNow for incident tracking.</li>
+<li>Familiarity with WCAG accessibility standards.</li>
+<li>Experience with AI-augmented development practices and tools.</li>
+<li>Agile/Scrum experience in team-based delivery environments.</li>
+</ul>
+<p>Working Conditions</p>
+<p>Primary Work Location: India.</p>
+<h3>About Us</h3>
+<p><b>The successful candidate will embrace Vertiv’s Core Principles &amp; Behaviors to help execute our Strategic Priorities.</b></p>
+<p><b>OUR CORE PRINCIPLES:</b> Safety. Integrity. Respect. Teamwork. Inclusion.</p>
+<h3>OUR STRATEGIC PRIORITIES</h3>
+<ul>
+<li>High-Performance Culture</li>
+<li>Customer Focus</li>
+<li>Operational Excellence</li>
+<li>Innovation</li>
+<li>Financial Strength</li>
+</ul>
+<h3>VERTIV BEHAVIORS</h3>
+<ul>
+<li>Own it</li>
+<li>Act with urgency</li>
+<li>Foster a customer-first mindset</li>
+<li>Think big and execute</li>
+<li>Lead by example</li>
+<li>Drive continuous improvement</li>
+<li>Learn and seek out development</li>
+<li>Promote transparent &amp; open communication</li>
+</ul>
+<p><b>About Vertiv</b></p>
+<p>Vertiv (NYSE: VRT) brings together hardware, software, analytics and ongoing services to enable its customers’ vital applications to run continuously, perform optimally and grow with their business needs. Vertiv solves the most important challenges facing today’s data centers, communication networks, and commercial and industrial facilities with a portfolio of power, cooling and IT infrastructure solutions and services that extend from the cloud to the edge of the network. Headquartered in Westerville, Ohio, USA, Vertiv employs around 34,000 people and does business in more than 130 countries. Visit Vertiv.com to learn more.</p>
+<p><b>Equal Opportunity Employer</b></p>
+<p>Vertiv is an Equal Opportunity/Affirmative Action employer. We promote equal opportunities for all with respect to hiring, terms of employment, mobility, training, compensation, and occupational health, without discrimination as to age, race, color, religion, creed, sex, pregnancy status (including childbirth, breastfeeding, or related medical conditions), marital status, sexual orientation, gender identity / expression (including transgender status or sexual stereotypes), genetic information, citizenship status, national origin, protected veteran status, political affiliation, or disability. If you have a disability and are having difficulty accessing or using this website to apply for a position, you can request help by sending an email to [help.join@vertiv.com](mailto:help.join@vertiv.com)</p>
+<h3>Job Info</h3>
+<ul>
+<li>Job Identification20280266</li>
+<li>Job CategoryBusiness Applications</li>
+<li>Posting Date08/25/2026, 12:36 AM</li>
+<li>LocationsPune, India</li>
+</ul>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8decb7309cee3fe5d5a251]]></url>
+    <location><![CDATA[Mumbai, Maharashtra]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Vertiv]]></company>
+    <category>2</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-25T19:27:51.180Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8dec7658cad2ad4f0cdfab]]></id>
+    <title><![CDATA[Engineer Electrical & Electronics]]></title>
+    <description><![CDATA[<h3>Job Description</h3>
+<h3>Education</h3>
+<p><b>B.E./B.Tech in Electrical Engineering, Electronics Engineering, Electrical &amp; Electronics Engineering, or a related discipline</b></p>
+<h3>Role Overview</h3>
+<p>We are looking for a technically strong and motivated <b>Electrical &amp; Electronics Engineer</b> to support engineering and service activities. The role will involve electrical/electronic system understanding, troubleshooting, technical analysis, documentation, and coordination with cross-functional teams to ensure effective and reliable solutions.</p>
+<h3>Key Responsibilities</h3>
+<ul>
+<li>Support <b>electrical and electronic system design, analysis, testing, and troubleshooting</b>.</li>
+<li>Analyze electrical schematics, wiring diagrams, circuit diagrams, and technical documentation.</li>
+<li>Perform troubleshooting and root-cause analysis of electrical/electronic issues.</li>
+<li>Support <b>testing, validation, commissioning, and field/service-related activities</b>.</li>
+<li>Work closely with Engineering, Manufacturing, Quality, Service, and other cross-functional teams.</li>
+<li>Prepare and maintain technical documentation, reports, test results, and engineering records.</li>
+<li>Identify opportunities for <b>process improvement, cost optimization, and product/service reliability</b>.</li>
+<li>Support resolution of technical issues through structured problem-solving and corrective actions.</li>
+<li>Ensure adherence to engineering standards, safety requirements, and quality processes.</li>
+<li>Participate in continuous improvement and knowledge-sharing initiatives.</li>
+</ul>
+<p>Technical Skills</p>
+<ul>
+<li>Strong fundamentals in <b>Electrical &amp; Electronics Engineering</b>.</li>
+<li>Good understanding of electrical circuits, control systems, power electronics, and electronic components.</li>
+<li>Ability to read and interpret <b>electrical schematics, wiring diagrams, and circuit drawings</b>.</li>
+<li>Knowledge of electrical measurements, testing, and troubleshooting techniques.</li>
+<li>Exposure to <b>AC/DC systems, power supplies, sensors, relays, contactors, control panels</b>, etc.</li>
+<li>Basic understanding of <b>PLC/control systems</b> would be an advantage.</li>
+<li>Knowledge of relevant electrical and safety standards is preferred.</li>
+<li>Good analytical and problem-solving skills.</li>
+<li>Proficiency in MS Office; exposure to engineering tools/software is an advantage.</li>
+</ul>
+<p>Desired Competencies</p>
+<ul>
+<li>Strong technical and analytical mindset.</li>
+<li>Structured approach to troubleshooting and root-cause analysis.</li>
+<li>Good communication and interpersonal skills.</li>
+<li>Ability to work effectively with cross-functional teams.</li>
+<li>Ownership and accountability for assigned activities.</li>
+<li>Willingness to learn and develop expertise in new technologies.</li>
+<li>Customer-oriented approach, particularly for service/support activities.</li>
+</ul>
+<p>Experience Profile</p>
+<p><b>2–4 years of relevant experience</b> in Electrical/Electronics Engineering, Electrical Systems, Power Electronics, Testing, Commissioning, Product Engineering, or Technical/Service Support.</p>
+<p>Preferred Exposure</p>
+<ul>
+<li>Electrical/electronic equipment or industrial systems.</li>
+<li>Power electronics and electrical controls.</li>
+<li>Product testing and validation.</li>
+<li>Field troubleshooting/service support.</li>
+<li>Engineering change management and technical documentation.</li>
+</ul>
+<h3>Job Info</h3>
+<ul>
+<li>Job Identification20279966</li>
+<li>Job CategoryElectrical &amp; Electronics Engineering</li>
+<li>Posting Date08/25/2026, 05:24 AM</li>
+<li>LocationsThane, India</li>
+</ul>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8dec7658cad2ad4f0cdfab]]></url>
+    <location><![CDATA[Thane, Maharashtra]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Vertiv]]></company>
+    <category>23</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-25T19:26:46.441Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8dec391f038ab59f7f3511]]></id>
+    <title><![CDATA[Supervisor Service Operations - Power]]></title>
+    <description><![CDATA[<h3>Job Description</h3>
+<p><b>Position Summary/Objectives of Incumbent:</b></p>
+<p>Manage customers’ (Internal &amp; External) and staff requirements related to the day-to-day delivery of maintenance services in the assigned region and supervise the power Customer Engineers to meet the deliverables.</p>
+<p><b>Major activities to be performed:</b></p>
+<p>_Administration / Planning &amp; Reporting_</p>
+<p>•Provide quotes for small works, T&amp;M, installations and start-ups</p>
+<p>•Collate paperwork, verify status and deliver all warranty returns to admin staff for processing</p>
+<p>•Support field personnel in the execution of their administrative task</p>
+<p>•Prepare and provide reports as requested by management</p>
+<p>•Ensure timesheets are entered in the system correctly.</p>
+<p>•Ensure leave applications are in order and support documentation are attached if necessary e.g: medical certificate</p>
+<p>_Management of Team_</p>
+<p>•Coordinate and schedule the general duties of power staff and subcontractors</p>
+<p>•Ensure Customer Engineers are equipped with calibrated tools, personal protective equipment and appropriate documentation</p>
+<p>•Respond to customer requests for minor quotation or service advice within a timely manner.</p>
+<p>•Respond within 24 hours to any staff initiated “Client follow-up” requisitions for additional work.</p>
+<p>•Assist Customer Engineers with complex technical problems</p>
+<p>•Carry the after-hours escalation pager each alternate week with the Field/Project Supervisor, monitor and provide assistance to Customer Engineers who are on call</p>
+<p>•Carry out Customer Engineer audits as required by company policy.</p>
+<p>_WHS, Environment and Quality_</p>
+<p>•Take all necessary steps to ensure OH&amp;S requirements are adhered to.</p>
+<p>•Ensure adequate PPE is provided</p>
+<p>•Report all incident / injury on time</p>
+<p><b>Please note:</b></p>
+<ul>
+<li>On Call Rotating Roster 1 every 4 weeks</li>
+<li>Company Vehicle</li>
+</ul>
+<p><b>Employees reporting to Incumbent:</b></p>
+<ul>
+<li>customer engineers</li>
+</ul>
+<p><b>Main contacts within Company</b></p>
+<ul>
+<li>Warehouse/inventory management staff,</li>
+</ul>
+<ul>
+<li>Service Technical Support,</li>
+</ul>
+<ul>
+<li>Safety Manager,</li>
+</ul>
+<ul>
+<li>Sales Staff</li>
+</ul>
+<ul>
+<li>Service Admin Support Staff</li>
+</ul>
+<p><b>Main contacts outside the Company</b></p>
+<ul>
+<li>Customers,</li>
+</ul>
+<ul>
+<li>Subcontractors</li>
+</ul>
+<ul>
+<li>Vendors</li>
+</ul>
+<p><b>Education/Qualification:</b></p>
+<ul>
+<li>Electrical or Electronics Trade qualification</li>
+</ul>
+<ul>
+<li>Supervisory/management qualification</li>
+</ul>
+<p><b>Specialist Knowledge:</b></p>
+<ul>
+<li>Interpersonal and relationship management skills</li>
+</ul>
+<ul>
+<li>Communication skills and commercial acumen</li>
+</ul>
+<p><b>Practical Experience:</b></p>
+<ul>
+<li>Proficiency in Microsoft Office applications</li>
+</ul>
+<ul>
+<li>Proven track record within the power industry managing a field service team</li>
+</ul>
+<p><b>Personal Characteristics:</b></p>
+<ul>
+<li>Customer-centric</li>
+</ul>
+<ul>
+<li>Team player</li>
+</ul>
+<ul>
+<li>Well organised</li>
+</ul>
+<ul>
+<li>Solution oriented</li>
+</ul>
+<h3>About Us</h3>
+<p><b>The successful candidate will embrace Vertiv’s Core Principles &amp; Behaviors to help execute our Strategic Priorities.</b></p>
+<p><b>OUR CORE PRINCIPLES:</b> Safety. Integrity. Respect. Teamwork. Inclusion.</p>
+<h3>OUR STRATEGIC PRIORITIES</h3>
+<ul>
+<li>High-Performance Culture</li>
+<li>Customer Focus</li>
+<li>Operational Excellence</li>
+<li>Innovation</li>
+<li>Financial Strength</li>
+</ul>
+<h3>VERTIV BEHAVIORS</h3>
+<ul>
+<li>Own it</li>
+<li>Act with urgency</li>
+<li>Foster a customer-first mindset</li>
+<li>Think big and execute</li>
+<li>Lead by example</li>
+<li>Drive continuous improvement</li>
+<li>Learn and seek out development</li>
+<li>Promote transparent &amp; open communication</li>
+</ul>
+<p><b>About Vertiv</b></p>
+<p>Vertiv (NYSE: VRT) brings together hardware, software, analytics and ongoing services to enable its customers’ vital applications to run continuously, perform optimally and grow with their business needs. Vertiv solves the most important challenges facing today’s data centers, communication networks, and commercial and industrial facilities with a portfolio of power, cooling and IT infrastructure solutions and services that extend from the cloud to the edge of the network. Headquartered in Westerville, Ohio, USA, Vertiv employs around 34,000 people and does business in more than 130 countries. Visit Vertiv.com to learn more.</p>
+<p><b>Equal Opportunity Employer</b></p>
+<p>Vertiv is an Equal Opportunity/Affirmative Action employer. We promote equal opportunities for all with respect to hiring, terms of employment, mobility, training, compensation, and occupational health, without discrimination as to age, race, color, religion, creed, sex, pregnancy status (including childbirth, breastfeeding, or related medical conditions), marital status, sexual orientation, gender identity / expression (including transgender status or sexual stereotypes), genetic information, citizenship status, national origin, protected veteran status, political affiliation, or disability. If you have a disability and are having difficulty accessing or using this website to apply for a position, you can request help by sending an email to [help.join@vertiv.com](mailto:help.join@vertiv.com)</p>
+<h3>Job Info</h3>
+<ul>
+<li>Job Identification 20279314</li>
+<li>Job Category Service Operations</li>
+<li>Posting Date 08/25/2026, 02:24 AM</li>
+<li>Locations Melbourne, Australia Australia</li>
+</ul>
+<p>*</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8dec391f038ab59f7f3511]]></url>
+    <location><![CDATA[Sydney, New South Wales]]></location>
+    <country><![CDATA[AU]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Vertiv]]></company>
+    <category>23</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-25T19:25:45.418Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8dec392f3fead693418d57]]></id>
+    <title><![CDATA[Engineer - Technical Support]]></title>
+    <description><![CDATA[<h3>Job Description</h3>
+<h3>Job Description</h3>
+<p><b>Engineer - Technical Support</b></p>
+<p><b>Job Title:</b> Engineer - Technical Support</p>
+<p><b>Role Focus:</b> I&amp;C Costig, Planning, Sourcing Coordination, Vendor Finalisation, CAS Portal Drive and PAN India Franchisee Compliance Support</p>
+<p><b>Department:</b> Thermal Management Services</p>
+<p><b>Location:</b> India / Project Support Location, as required</p>
+<h3>Job Purpose</h3>
+<p>Support Installation and Commissioning operations across India by managing costing, planning, sourcing coordination, vendor finalisation, CAS portal tracking and franchisee compliance activities. The role helps ensure smooth project execution, timely coordination, process discipline, documentation control and compliance with service quality and safety requirements.</p>
+<h3>Key Responsibilities</h3>
+<p><b>I&amp;C Costing and Planning</b></p>
+<ul>
+<li>Prepare basic costing, budget inputs and commercial estimates for I&amp;C activities.</li>
+<li>Support manpower planning, travel planning, tools planning and project resource allocation.</li>
+<li>Coordinate project schedules and execution plans with regional teams.</li>
+<li>Track project progress against approved timelines and cost requirements.</li>
+</ul>
+<p><b>Sourcing Coordination and Vendor Finalisation</b></p>
+<ul>
+<li>Coordinate with procurement, vendors and service partners for project requirements.</li>
+<li>Collect quotations and support technical and commercial comparison.</li>
+<li>Assist in vendor evaluation, documentation and finalisation process.</li>
+<li>Follow up with vendors for delivery, quality, compliance and project support requirements.</li>
+</ul>
+<p><b>CAS Portal Drive</b></p>
+<ul>
+<li>Drive CAS portal updates for I&amp;C project registration, tracking and closure.</li>
+<li>Monitor approval status, documentation status and pending actions.</li>
+<li>Coordinate with sales, operations and service teams for timely CAS process completion.</li>
+<li>Maintain CAS related records, reports and follow-up trackers.</li>
+</ul>
+<p><b>PAN India Franchisee Compliance Support</b></p>
+<ul>
+<li>Support franchisee partners to follow Vertiv I&amp;C, safety, quality and reporting standards.</li>
+<li>Track mandatory documents, manpower deployment, certifications and daily reporting.</li>
+<li>Monitor checklist usage, calibrated tools, PPE compliance and site documentation.</li>
+<li>Support franchisee audit follow-up and corrective action closure.</li>
+</ul>
+<p><b>Project Coordination</b></p>
+<ul>
+<li>Coordinate with customers, franchisees, consultants, PMCs, testing agencies and internal teams.</li>
+<li>Support material planning, delivery tracking and site execution readiness.</li>
+<li>Share project updates, risks, delays and escalation points with stakeholders.</li>
+<li>Support execution teams during commissioning, handover and project closure.</li>
+</ul>
+<p><b>Documentation and Reporting</b></p>
+<ul>
+<li>Maintain project trackers, costing sheets, vendor details and compliance records.</li>
+<li>Prepare MIS reports, progress summaries and management updates.</li>
+<li>Ensure commissioning documents, reports, certificates and handover records are maintained properly.</li>
+<li>Support audit, governance and process improvement activities.</li>
+</ul>
+<h3>Required Qualifications</h3>
+<ul>
+<li>Diploma / B.E. / B.Tech in Mechanical, Electrical, Instrumentation, HVAC or related engineering discipline.</li>
+<li>2 to 5 years of experience in technical support, project coordination, service operations, procurement support or commissioning activities.</li>
+<li>Experience in data centre, HVAC, thermal management, telecom or critical infrastructure projects will be preferred.</li>
+</ul>
+<p><b>Key Skills Required</b></p>
+<ul>
+<li>I&amp;C planning and coordination.</li>
+<li>Costing and budget tracking.</li>
+<li>Sourcing coordination and vendor management.</li>
+<li>CAS portal tracking and process follow-up.</li>
+<li>Franchisee and partner coordination.</li>
+<li>MS Excel, MIS reporting and documentation control.</li>
+<li>Customer and internal stakeholder coordination.</li>
+<li>Safety, quality and compliance awareness.</li>
+</ul>
+<h3>Key Deliverables</h3>
+<ul>
+<li>Accurate project costing and planning support.</li>
+<li>Timely sourcing coordination and vendor finalisation support.</li>
+<li>Effective CAS portal tracking and closure follow-up.</li>
+<li>Franchisee compliance with Vertiv standards.</li>
+<li>Improved project coordination and execution visibility.</li>
+<li>Accurate MIS reporting and documentation control.</li>
+</ul>
+<p><b>Success Measures</b></p>
+<ul>
+<li>Timely completion of costing, planning and vendor coordination activities.</li>
+<li>CAS portal updates and documentation completed without delay.</li>
+<li>Franchisee compliance gaps identified and closed on time.</li>
+<li>Clear project visibility through trackers and MIS reports.</li>
+<li>Positive support to regional I&amp;C teams and project stakeholders.</li>
+</ul>
+<h3>About Us</h3>
+<p><b>The successful candidate will embrace Vertiv’s Core Principles &amp; Behaviors to help execute our Strategic Priorities.</b></p>
+<p><b>OUR CORE PRINCIPLES:</b> Safety. Integrity. Respect. Teamwork. Inclusion.</p>
+<h3>OUR STRATEGIC PRIORITIES</h3>
+<ul>
+<li>High-Performance Culture</li>
+<li>Customer Focus</li>
+<li>Operational Excellence</li>
+<li>Innovation</li>
+<li>Financial Strength</li>
+</ul>
+<h3>VERTIV BEHAVIORS</h3>
+<ul>
+<li>Own it</li>
+<li>Act with urgency</li>
+<li>Foster a customer-first mindset</li>
+<li>Think big and execute</li>
+<li>Lead by example</li>
+<li>Drive continuous improvement</li>
+<li>Learn and seek out development</li>
+<li>Promote transparent &amp; open communication</li>
+</ul>
+<p><b>About Vertiv</b></p>
+<p>Vertiv (NYSE: VRT) brings together hardware, software, analytics and ongoing services to enable its customers’ vital applications to run continuously, perform optimally and grow with their business needs. Vertiv solves the most important challenges facing today’s data centers, communication networks, and commercial and industrial facilities with a portfolio of power, cooling and IT infrastructure solutions and services that extend from the cloud to the edge of the network. Headquartered in Westerville, Ohio, USA, Vertiv employs around 34,000 people and does business in more than 130 countries. Visit Vertiv.com to learn more.</p>
+<p><b>Equal Opportunity Employer</b></p>
+<p>Vertiv is an Equal Opportunity/Affirmative Action employer. We promote equal opportunities for all with respect to hiring, terms of employment, mobility, training, compensation, and occupational health, without discrimination as to age, race, color, religion, creed, sex, pregnancy status (including childbirth, breastfeeding, or related medical conditions), marital status, sexual orientation, gender identity / expression (including transgender status or sexual stereotypes), genetic information, citizenship status, national origin, protected veteran status, political affiliation, or disability. If you have a disability and are having difficulty accessing or using this website to apply for a position, you can request help by sending an email to [help.join@vertiv.com](mailto:help.join@vertiv.com)</p>
+<h3>Job Info</h3>
+<ul>
+<li>Job Identification20278890</li>
+<li>Job CategoryService Technical Support</li>
+<li>Posting Date08/25/2026, 01:27 AM</li>
+<li>LocationsThane, India</li>
+</ul>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8dec392f3fead693418d57]]></url>
+    <location><![CDATA[Mumbai, Maharashtra]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Vertiv]]></company>
+    <category>5</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-25T19:25:45.081Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8debf457710ab52a2dce32]]></id>
+    <title><![CDATA[Engineer II - Field Service]]></title>
+    <description><![CDATA[<h3>Job Description</h3>
+<h3>Job Description</h3>
+<p><b>Brief Job Description:</b></p>
+<p>Responsible for providing on-site and remote technical support, maintenance, and troubleshooting for uninterruptible power supply (UPS) systems, PDU (Power Distribution Units), STS (Static transfer Switches), AHF(Active Harmonic filters) and other similar Power electronics products. The role requires extensive knowledge of UPS systems, strong analytical skills, and the ability to work independently or as part of a team to ensure the reliability and performance of power systems.</p>
+<h3>Key Responsibilities</h3>
+<ul>
+<li>Technical Support:</li>
+</ul>
+<p>Provide on-site and remote support for installation, maintenance, and troubleshooting of UPS systems.</p>
+<p>Diagnose and resolve hardware, software, and network-related issues affecting UPS performance.</p>
+<p>Assist in the configuration and commissioning of new UPS installations.</p>
+<ul>
+<li>Preventive Maintenance:</li>
+</ul>
+<p>Conduct routine inspections and preventive maintenance on UPS systems to ensure optimal performance.</p>
+<p>Maintain accurate records of maintenance activities, including any repairs or replacements.</p>
+<ul>
+<li>Customer Interaction:</li>
+</ul>
+<p>Communicate effectively with customers to understand their needs and provide appropriate solutions.</p>
+<p>Train customers on the proper use and maintenance of UPS systems.</p>
+<ul>
+<li>Documentation and Reporting:</li>
+</ul>
+<p>Prepare detailed reports of service visits, including diagnostic findings, actions taken, and recommendations for future maintenance.</p>
+<p>Maintain up-to-date documentation of all service activities and customer interactions.</p>
+<ul>
+<li>Technical Training and Development:</li>
+</ul>
+<p>Stay current with the latest developments in UPS technology and industry best practices.</p>
+<p>Participate in ongoing training and professional development to enhance technical skills and knowledge.</p>
+<ul>
+<li>Compliance and Safety:</li>
+</ul>
+<p>Adhere to all safety protocols and guidelines to ensure a safe working environment.</p>
+<p>Ensure compliance with company policies and industry standards in all service activities.</p>
+<h3>Qualifications</h3>
+<ul>
+<li>Education: Diploma/bachelor’s degree in electrical engineering/Electronics Engineering.</li>
+<li>Experience:  Minimum of 8-10 years of experience in UPS systems support or a related field.</li>
+</ul>
+<p>Experience with Vertiv Products is preferable.</p>
+<ul>
+<li>Technical Skills:</li>
+</ul>
+<p>Strong understanding of electrical and electronics principles and UPS technology.</p>
+<p>Proficiency in diagnosing and repairing UPS systems.</p>
+<p>Familiarity with network protocols and remote monitoring tools.</p>
+<ul>
+<li>Soft Skills:</li>
+</ul>
+<p>Excellent problem-solving and analytical skills.</p>
+<p>Strong communication and interpersonal skills.</p>
+<p>Ability to work independently and manage multiple tasks effectively.</p>
+<h3>Work Environment</h3>
+<p>The position may require travel to customer sites and may involve working in various environmental conditions.</p>
+<p>Flexibility to work outside regular business hours for emergency support and maintenance activities.</p>
+<p>Additional Requirements:</p>
+<p>Ability to travel as needed.</p>
+<p>Ability to lift and handle UPS components and equipment</p>
+<h3>About Us</h3>
+<p><b>The successful candidate will embrace Vertiv’s Core Principles &amp; Behaviors to help execute our Strategic Priorities.</b></p>
+<p><b>OUR CORE PRINCIPLES:</b> Safety. Integrity. Respect. Teamwork. Inclusion.</p>
+<h3>OUR STRATEGIC PRIORITIES</h3>
+<ul>
+<li>High-Performance Culture</li>
+<li>Customer Focus</li>
+<li>Operational Excellence</li>
+<li>Innovation</li>
+<li>Financial Strength</li>
+</ul>
+<h3>VERTIV BEHAVIORS</h3>
+<ul>
+<li>Own it</li>
+<li>Act with urgency</li>
+<li>Foster a customer-first mindset</li>
+<li>Think big and execute</li>
+<li>Lead by example</li>
+<li>Drive continuous improvement</li>
+<li>Learn and seek out development</li>
+<li>Promote transparent &amp; open communication</li>
+</ul>
+<p><b>About Vertiv</b></p>
+<p>Vertiv (NYSE: VRT) brings together hardware, software, analytics and ongoing services to enable its customers’ vital applications to run continuously, perform optimally and grow with their business needs. Vertiv solves the most important challenges facing today’s data centers, communication networks, and commercial and industrial facilities with a portfolio of power, cooling and IT infrastructure solutions and services that extend from the cloud to the edge of the network. Headquartered in Westerville, Ohio, USA, Vertiv employs around 34,000 people and does business in more than 130 countries. Visit Vertiv.com to learn more.</p>
+<p><b>Equal Opportunity Employer</b></p>
+<p>Vertiv is an Equal Opportunity/Affirmative Action employer. We promote equal opportunities for all with respect to hiring, terms of employment, mobility, training, compensation, and occupational health, without discrimination as to age, race, color, religion, creed, sex, pregnancy status (including childbirth, breastfeeding, or related medical conditions), marital status, sexual orientation, gender identity / expression (including transgender status or sexual stereotypes), genetic information, citizenship status, national origin, protected veteran status, political affiliation, or disability. If you have a disability and are having difficulty accessing or using this website to apply for a position, you can request help by sending an email to [help.join@vertiv.com](mailto:help.join@vertiv.com)</p>
+<h3>Job Info</h3>
+<ul>
+<li>Job Identification20279181</li>
+<li>Job CategoryField Service</li>
+<li>Posting Date08/25/2026, 01:12 AM</li>
+<li>LocationsBengaluru, India</li>
+</ul>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8debf457710ab52a2dce32]]></url>
+    <location><![CDATA[Mumbai, Maharashtra]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>1</remote>
+    <company><![CDATA[Vertiv]]></company>
+    <category>5</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-25T19:24:36.622Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8debf451150eac03ccf150]]></id>
+    <title><![CDATA[Assistant Engineer - Field Service]]></title>
+    <description><![CDATA[<h3>Job Description</h3>
+<p>Assistant Engineer - Field Service</p>
+<p>Bengaluru, India</p>
+<h3>Job Description</h3>
+<p>UPS System Maintenance Engineer:</p>
+<p>A UPS (Uninterruptible Power Supply) engineer installs, maintains, and repairs UPS systems to ensure continuous power for critical equipment. This role often involves troubleshooting technical issues, performing preventative maintenance, and providing customer support. They also conduct site surveys, design systems, and manage project timelines.</p>
+<p><b>Responsibilities and Measurement Criteria with Time investment Needed on Each:</b></p>
+<p><b>(This will describe the overall core responsibilities of the role, decision making responsibilities etc.)</b></p>
+<ul>
+<li><b>Installation and Commissioning:</b></li>
+</ul>
+<p>Installing and setting up new UPS systems, including associated equipment like transfer switches and power distribution units.</p>
+<ul>
+<li><b>Onsite Maintenance and Repair:</b></li>
+</ul>
+<p>Performing routine maintenance, diagnosing and repairing faults, and replacing components like capacitors &amp; batteries.</p>
+<p>Configure, and maintain UPS systems in accordance with manufacturer specifications and industry best practices.</p>
+<p>Conduct routine maintenance for AC / DC Power Systems Hardware and testing of UPS systems to ensure optimal performance and reliability.</p>
+<p>Performing routine maintenance of Li-ion / Nicad / Sealed Lead Battery Maintenance.</p>
+<p>Drafting of service reports following Breakdown / maintenance visits.</p>
+<ul>
+<li><b>Onsite Troubleshooting:</b></li>
+</ul>
+<p>Identifying and resolving technical issues with UPS systems, often using diagnostic tools and software.</p>
+<p>Maintain accurate records of work performed and parts used in accordance with company policies and procedures.</p>
+<p>Remote support / corrective attendance on short notice to priority sites during critical system failures / doomsday scenarios.</p>
+<p>Development of upgrade plans to suit client needs. System modifications / upgrades.</p>
+<ul>
+<li><b>Customer Support:</b></li>
+</ul>
+<p>Providing technical support to clients, answering questions, and training them on the proper use of UPS systems.</p>
+<p>Work with clients to identify their power requirements and recommend appropriate UPS solutions.</p>
+<ul>
+<li><b>Documentation:</b></li>
+</ul>
+<p>This role also has a customer facing element to it, so good email communications and literacy/report writing skills are a must.</p>
+<p>Maintaining accurate records of maintenance, repairs, and site visits.</p>
+<p>Able to read and provide Single Line Diagram.</p>
+<ul>
+<li><b>Safety:</b></li>
+</ul>
+<p>Adhering to safety regulations and procedures when working with electrical equipment.</p>
+<ul>
+<li><b>Project Management:</b></li>
+</ul>
+<p>Managing project timelines and ensuring successful completion of installation and maintenance tasks.</p>
+<p>Collaborate with other team members and subcontractors to complete projects on time and within budget.</p>
+<ul>
+<li><b>Site Assessments:</b></li>
+</ul>
+<p>Evaluating customer sites to determine the appropriate UPS system requirements.</p>
+<h3>Qualifications</h3>
+<p><b>Required/ Minimum Qualifications:</b></p>
+<ul>
+<li>Qualification in diploma / degree in Electrical or Electronics Engineering with at 3-4 years’ experience in UPS services &amp; Computer related discipline</li>
+</ul>
+<p><b>Additional / Preferred Qualifications:</b></p>
+<ul>
+<li>Expert Knowledge in UPS systems in a data center or similar environment</li>
+<li>Experience in 3 phases UPS (Uninterruptible Power Supplies)</li>
+<li>A strong understanding of electrical and electronic systems, including power distribution, automatic Transfer Switch, PDU, SKRU and related components</li>
+<li>Strong, demonstrable troubleshooting/fault-diagnostics skills</li>
+<li>Excellent communication and interpersonal skills for interacting with clients and team members</li>
+<li>A commitment to providing excellent customer service and support</li>
+<li>Familiarity with Energy Management / Automation Systems</li>
+<li>Knowledge and understanding in reading Electrical One Line Schematics</li>
+<li>Be efficiently organized and able to prioritize multiple tasks</li>
+</ul>
+<h3>About Us</h3>
+<p><b>The successful candidate will embrace Vertiv’s Core Principles &amp; Behaviors to help execute our Strategic Priorities.</b></p>
+<p><b>OUR CORE PRINCIPLES:</b> Safety. Integrity. Respect. Teamwork. Inclusion.</p>
+<h3>OUR STRATEGIC PRIORITIES</h3>
+<ul>
+<li>High-Performance Culture</li>
+<li>Customer Focus</li>
+<li>Operational Excellence</li>
+<li>Innovation</li>
+<li>Financial Strength</li>
+</ul>
+<h3>VERTIV BEHAVIORS</h3>
+<ul>
+<li>Own it</li>
+<li>Act with urgency</li>
+<li>Foster a customer-first mindset</li>
+<li>Think big and execute</li>
+<li>Lead by example</li>
+<li>Drive continuous improvement</li>
+<li>Learn and seek out development</li>
+<li>Promote transparent &amp; open communication</li>
+</ul>
+<p><b>About Vertiv</b></p>
+<p>Vertiv (NYSE: VRT) brings together hardware, software, analytics and ongoing services to enable its customers’ vital applications to run continuously, perform optimally and grow with their business needs. Vertiv solves the most important challenges facing today’s data centers, communication networks, and commercial and industrial facilities with a portfolio of power, cooling and IT infrastructure solutions and services that extend from the cloud to the edge of the network. Headquartered in Westerville, Ohio, USA, Vertiv employs around 34,000 people and does business in more than 130 countries. Visit Vertiv.com to learn more.</p>
+<p><b>Equal Opportunity Employer</b></p>
+<p>Vertiv is an Equal Opportunity/Affirmative Action employer. We promote equal opportunities for all with respect to hiring, terms of employment, mobility, training, compensation, and occupational health, without discrimination as to age, race, color, religion, creed, sex, pregnancy status (including childbirth, breastfeeding, or related medical conditions), marital status, sexual orientation, gender identity / expression (including transgender status or sexual stereotypes), genetic information, citizenship status, national origin, protected veteran status, political affiliation, or disability. If you have a disability and are having difficulty accessing or using this website to apply for a position, you can request help by sending an email to [help.join@vertiv.com](mailto:help.join@vertiv.com)</p>
+<h3>Job Info</h3>
+<ul>
+<li>Job Identification20279180</li>
+<li>Job CategoryField Service</li>
+<li>Posting Date08/25/2026, 01:21 AM</li>
+<li>LocationsBellary, India</li>
+</ul>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8debf451150eac03ccf150]]></url>
+    <location><![CDATA[Bengaluru, Karnataka]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>1</remote>
+    <company><![CDATA[Vertiv]]></company>
+    <category>5</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-25T19:24:36.126Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8debf35f819b624d0f3436]]></id>
+    <title><![CDATA[Technical Sales Manager]]></title>
+    <description><![CDATA[<h3>Job Description</h3>
+<h3>Job Summary</h3>
+<p>The Solutions Architect has deep domain knowledge in data center design, data center products and data center trends. Leveraging experience in mission critical applications a Solution Architect can think quickly and pull from Vertiv’s vast resources to solve customer needs. Customer facing role, working as a resource to Vertiv account teams. Able to digest customer requirements, communicate to Pre-Sales design team, Bid Management team and Senior Management necessary details to formulate formal proposals and solution offerings.</p>
+<h3>Responsibilities</h3>
+<ul>
+<li>Report to Infrastructure Solutions Line of Business.</li>
+<li>Advise customers on Vertiv solution products.</li>
+<li>Solve customer business needs leveraging Vertiv portfolio.</li>
+<li>Read and understanding RFP tender documents.</li>
+<li>Coordination with engineering and technical disciplines (HVAC, electrical, controls, fire protection)</li>
+<li>Technical project coordination with customers and suppliers</li>
+<li>Collaboration with Engineering, Manufacturing, Deployment, Start-up and Commissioning teams.</li>
+<li>Proficient in reading customer specifications, such as MasterSpec format, and able to apply specifications to data center design.</li>
+<li>Problem solving and interpretation of customer requirements in proposed solutions</li>
+<li>Regional responsibility but required to coordinate globally with counterparts in other regions.</li>
+</ul>
+<h3>Requirements</h3>
+<ul>
+<li>Bachelor's Degree or equivalent degree in Engineering</li>
+<li>5+ years' experience in related role</li>
+<li>Proficient in Data Center design and the impact of each technical discipline civil, structural, mechanical, electrical, fire protection and BMS</li>
+<li>Understanding of relevant architectural and structural codes and standards.</li>
+<li>Knowledgeable of AIA project phases for design, construction and commissioning.</li>
+<li>Basic drafting and sketch capabilities (Revit experience preferred).</li>
+<li>Solution-based thinking that will incorporate a multitude of Mechanical and Electrical components to an end-customer deployment</li>
+<li>Excellent Communication Skills, both written and oral.</li>
+<li>Excellent Organizational Skills &amp; Time Management</li>
+<li>Ability to multi-task</li>
+<li>Self Motivated</li>
+<li>PC skills: Office 365 cross-functional platform Teams, SharePoint</li>
+<li>10-25% Travel for customer engagements, conferences, and trainings.</li>
+</ul>
+<h3>About Us</h3>
+<p><b>The successful candidate will embrace Vertiv’s Core Principles &amp; Behaviors to help execute our Strategic Priorities.</b></p>
+<p><b>OUR CORE PRINCIPLES:</b> Safety. Integrity. Respect. Teamwork. Inclusion.</p>
+<h3>OUR STRATEGIC PRIORITIES</h3>
+<ul>
+<li>High-Performance Culture</li>
+<li>Customer Focus</li>
+<li>Operational Excellence</li>
+<li>Innovation</li>
+<li>Financial Strength</li>
+</ul>
+<h3>VERTIV BEHAVIORS</h3>
+<ul>
+<li>Own it</li>
+<li>Act with urgency</li>
+<li>Foster a customer-first mindset</li>
+<li>Think big and execute</li>
+<li>Lead by example</li>
+<li>Drive continuous improvement</li>
+<li>Learn and seek out development</li>
+<li>Promote transparent &amp; open communication</li>
+</ul>
+<p><b>About Vertiv</b></p>
+<p>Vertiv (NYSE: VRT) brings together hardware, software, analytics and ongoing services to enable its customers’ vital applications to run continuously, perform optimally and grow with their business needs. Vertiv solves the most important challenges facing today’s data centers, communication networks, and commercial and industrial facilities with a portfolio of power, cooling and IT infrastructure solutions and services that extend from the cloud to the edge of the network. Headquartered in Westerville, Ohio, USA, Vertiv employs around 34,000 people and does business in more than 130 countries. Visit Vertiv.com to learn more.</p>
+<p><b>Equal Opportunity Employer</b></p>
+<p>Vertiv is an Equal Opportunity/Affirmative Action employer. We promote equal opportunities for all with respect to hiring, terms of employment, mobility, training, compensation, and occupational health, without discrimination as to age, race, color, religion, creed, sex, pregnancy status (including childbirth, breastfeeding, or related medical conditions), marital status, sexual orientation, gender identity / expression (including transgender status or sexual stereotypes), genetic information, citizenship status, national origin, protected veteran status, political affiliation, or disability. If you have a disability and are having difficulty accessing or using this website to apply for a position, you can request help by sending an email to [help.join@vertiv.com](mailto:help.join@vertiv.com)</p>
+<h3>Job Info</h3>
+<ul>
+<li>Job Identification20278763</li>
+<li>Job CategoryTechnical Sales</li>
+<li>Posting Date08/25/2026, 05:08 AM</li>
+<li>LocationsBengaluru, India</li>
+</ul>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8debf35f819b624d0f3436]]></url>
+    <location><![CDATA[Mumbai, Maharashtra]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Vertiv]]></company>
+    <category>5</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-25T19:24:35.428Z]]></date>
   </job>
 </jobs>
