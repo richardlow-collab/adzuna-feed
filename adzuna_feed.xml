@@ -4642,87 +4642,6 @@
     <date><![CDATA[2026-09-24T19:42:52.430Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6ab57d3ad50cf7d81ce42f9d]]></id>
-    <title><![CDATA[Technical Analyst]]></title>
-    <description><![CDATA[<h3>Employment Type</h3>
-<p>Permanent</p>
-<h3>Closing Date</h3>
-<p>26 Sept 2026 11:59pm</p>
-<h3>Job Title</h3>
-<p>Technical Analyst</p>
-<h3>Job Summary</h3>
-<p>As a Technical Analyst, you will work with pioneering, cutting edge technologies and enjoy working in a fast-paced, agile and collaborative environment.</p>
-<p>Your role will involve providing high-level technical service and assisting in the development of solutions and support to the networks, infrastructure, products and services supplied and operated by Telstra.</p>
-<p>You will be given a high degree of autonomy and have the opportunity to work on initiatives to improve the performance and integration of systems, making a positive impact on customer experience.</p>
-<h3>Job Description</h3>
-<h3>Who We Are</h3>
-<p>We're an iconic Aussie brand with a global footprint. Our purpose is to build a connected future so everyone can thrive. We're all about providing the best experience and delivering the best tech on the best network.</p>
-<p>This includes making Telstra the place you want to work. For you, that means a having career that grows with you and working with a team powered by human connection that prioritises wellbeing and choice.</p>
-<p><b>Focus of the role</b></p>
-<p>The Technical Expert will be responsible for the operation, maintenance, and ongoing support of Telstra’s PSTN and Access Networks. The role will provide specialist technical support for complex network faults, particularly across Ericsson AXE and associated access technologies, while driving incidents through to resolution within agreed service levels.</p>
-<p>The role operates primarily during business hours, with after-hours recall support when required, and contributes to service improvement, network integrity, and customer experience.</p>
-<h3><b>Roles and Responsibilities</b></h3>
-<ul>
-<li>Monitor, investigate, troubleshoot, and resolve complex faults across PSTN and Access Network platforms.</li>
-<li>Apply structured incident management practices to restore services within agreed KPIs, OLAs, and service levels.</li>
-<li>Take end-to-end ownership of network incidents and drive them through to resolution.</li>
-<li>Coordinate multiple incidents across different severity levels in a high-pressure, real-time operational environment.</li>
-<li>Perform jeopardy management by identifying risks to incident resolution and engaging relevant stakeholders.</li>
-<li>Work closely with Level 3 support, DevOps, Engineering, Major Incident Management, vendor management, and other specialist teams.</li>
-<li>Provide specialist technical input into post-incident investigations and service improvement activities.</li>
-<li>Analyse KPI and OLA performance and contribute to operational reporting.</li>
-<li>Identify technical or process deficiencies and develop appropriate resolution or improvement strategies.</li>
-<li>Develop and maintain technical, operational, and administrative network documentation.</li>
-<li>Mentor team members and support the development of their technical and leadership capabilities.</li>
-<li>Maintain a strong focus on customer experience, network integrity, safety, compliance, and respectful workplace practices.</li>
-</ul>
-<h3><b>Essential Skills</b></h3>
-<ul>
-<li>Hands-on experience supporting <b>Ericsson AXE PSTN Networks</b>.</li>
-<li>Detailed understanding of <b>PSTN networks, platforms, access technologies, systems, and operational support tools</b>.</li>
-<li>Strong knowledge of <b>ITIL practices</b>, particularly Incident Management.</li>
-<li>Experience using network monitoring, fault investigation, and troubleshooting tools.</li>
-<li>Ability to investigate and resolve complex network incidents within operational service levels.</li>
-<li>Strong incident coordination skills, with the ability to manage multiple incidents across varying severity levels.</li>
-<li>Ability to identify technical or process deficiencies and develop suitable resolution strategies.</li>
-<li>Strong analytical, lateral-thinking, and structured problem-solving skills.</li>
-<li>Ability to make sound decisions in a dynamic, high-pressure service environment.</li>
-<li>Strong ownership, prioritisation, and time-management skills.</li>
-<li>Ability to work autonomously with minimal supervision and collaborate effectively within a broader technical team.</li>
-<li>Ability to follow established operational processes and procedures.</li>
-<li>Strong written and verbal communication skills, with the ability to communicate complex information clearly to different stakeholders.</li>
-<li>Demonstrated leadership, stakeholder coordination, and mentoring capabilities.</li>
-<li>Strong commitment to customer service and network integrity.</li>
-<li>Technical diploma, Engineering or IT degree, or equivalent relevant industry experience.</li>
-<li>Ability and willingness to participate in after-hours recall support when required</li>
-</ul>
-<h3>Good to Have Skills</h3>
-<ul>
-<li>In-depth knowledge of <b>Telstra’s PSTN Network and associated operational environments</b>.</li>
-<li>Qualifications or equivalent experience in <b>Software Development or a related technical field</b>.</li>
-<li>Ability to write or maintain scripts using <b>Python or PHP</b>.</li>
-<li>Experience using <b>Splunk</b> for operational monitoring, investigation, or analysis.</li>
-<li>Experience building or integrating technical solutions using <b>APIs</b>.</li>
-<li>Broader understanding of current and emerging network technologies.</li>
-<li>Experience supporting the technical development of other team members.</li>
-<li>Exposure to service improvement programs, post-incident reviews, KPI analysis, and operational reporting</li>
-</ul>
-<p><i>As part of your application with Telstra, you may receive communications from us on &amp;#43;61 440 135 548 (for job applications in Australia</i></p>
-<p><i>When you join our team, you become part of a welcoming and inclusive community where everyone is respected, valued and celebrated. We actively seek individuals from various backgrounds, ethnicities, genders and disabilities because we know that diversity not only strengthens our team but also enriches our work. We have zero tolerance for harassment of any kind, and we prioritise creating a workplace culture where everyone is safe and can thrive. </i></p>
-<p><i>As part of the hiring process, all identified candidates will undergo a background check, and the results will play a role in the final decision regarding your application.</i></p>
-<p><i>We work flexibly at Telstra. Talk to us about what flexibility means to you. When you apply, you can share your pronouns and / or any reasonable adjustments needed to take part equitably during the recruitment process.</i></p>
-<p><i>We are aware of current limitations with our website accessibility and are working towards improving this. Should you experience any issues accessing information or the application form, and require this in an alternate format, please contact our Talent Acquisition team on </i>[<i>DisabilityandAccessibility&amp;#64;team.telstra.com</i>](mailto:DisabilityandAccessibility&amp;#64;team.telstra.com)<i> or via the additional contact options found at </i>[<i>www.telstra.com.au/careers/diversity-equity-and-inclusion/disability-employment</i>](http://www.telstra.com.au/careers/diversity-equity-and-inclusion/disability-employment)<i>.</i></p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6ab57d3ad50cf7d81ce42f9d?src=adzuna]]></url>
-    <location><![CDATA[Melbourne, Victoria]]></location>
-    <country><![CDATA[AU]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Telstra]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-24T19:42:50.826Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6ab57ba71d81757524537b3d]]></id>
     <title><![CDATA[Intern, Global Franchise and Strategy Planning (Jan - Jul 2027)]]></title>
     <description><![CDATA[<h3>About Us</h3>
@@ -5975,69 +5894,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-24T18:38:32.637Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6ab56e28b61e9cb1bd268ac9]]></id>
-    <title><![CDATA[Engineer III]]></title>
-    <description><![CDATA[<p><b>Technical Lead - OpenBlue CUPO Systems Specialist</b></p>
-<p><b>Job Description Summary</b></p>
-<p>Johnson Controls is shaping a future that is more productive, secure, and sustainable by applying cloud, data analytics, the Internet of Things, and Design Thinking to intelligent buildings.</p>
-<p>In this role, you will help deliver OpenBlue Central Utility Plant solutions that support reliable, efficient central utilities for critical environments such as universities, hospitals, airports, office towers, and data centers.</p>
-<h3>Role Overview</h3>
-<ul>
-<li>Based in Pune, this position leads the engineering, integration, commissioning, and optimization of OpenBlue CUP solutions for district energy and chiller plants globally. You will serve as the technical lead for project execution, aligning delivery with customer objectives, schedules, and performance goals while helping drive energy savings, reduced water use, and lower carbon impact.</li>
-<li>Key Responsibilities</li>
-<li>Lead the engineering and project execution of OpenBlue Central Utility Plant solutions from design through closeout.</li>
-<li>Analyze site and operational data to build accurate energy models using CUPO software and identify optimization opportunities.</li>
-<li>Prepare drawings, scopes of work, and recommissioning requirements for sensors, meters, and controls needed to make a plant CUP-ready.</li>
-<li>Oversee system design, programming, installation coordination, commissioning, performance validation, and project closeout activities.</li>
-<li>Create and execute integration test plans with controls service contractors to verify bidirectional data and command flow between CPO and the plant automation system.</li>
-<li>Oversee point mapping and local plant automation programming to support smooth transitions between operating modes.</li>
-<li>Validate system functionality, analyze command dispatch results, and resolve issues throughout commissioning and startup.</li>
-<li>Collaborate with customers, plant operators, and cross-functional teams to deliver reliable, high-performance outcomes.</li>
-<li>Provide technical leadership, mentor engineering team members, and train operators and end users on OpenBlue CUP solutions.</li>
-<li>Maintain strong ethics, quality, safety, and compliance with Johnson Controls policies and applicable regulations.</li>
-<li>How You Will Do It</li>
-<li>Own project outcomes with accountability, safety, and integrity while keeping delivery aligned to scope, schedule, and customer expectations.</li>
-<li>Stay close to the work by reviewing plant data, point maps, and field results to identify practical optimization actions and remove obstacles quickly.</li>
-<li>Improve every day through structured test plans, candid troubleshooting, and continuous refinement of engineering standards and methods.</li>
-<li>Win as one team by working closely with controls contractors, project managers, operators, and other engineering disciplines.</li>
-<li>Lead regular progress meetings, document decisions clearly, and keep stakeholders informed of risks, changes, and commissioning status.</li>
-<li>Use Microsoft Project or similar tools to support planning, coordination, and milestone tracking.</li>
-<li>Translate technical findings into clear training and support so plant teams can confidently operate the CUP solution.</li>
-</ul>
-<h3>Qualifications</h3>
-<ul>
-<li>Bachelor’s degree in Engineering or equivalent experience.</li>
-<li>8&amp;#43; years of experience in building automation controls engineering, programming, and commissioning.</li>
-<li>Strong expertise in integrating building systems using industry-standard protocols such as BACnet, Modbus, and LonWorks.</li>
-<li>Proven experience designing, implementing, and commissioning central utility plant control systems, including automation startup and commissioning for at least five live critical facility projects.</li>
-<li>Hands-on experience in energy modeling, chiller plant optimization, data analytics, and performance assessment using software tools.</li>
-<li>Demonstrated ability to establish engineering standards and provide technical leadership to engineering teams.</li>
-<li>Strong project management and stakeholder communication skills, with experience using Microsoft Project or similar tools.</li>
-<li>Prior experience supervising and mentoring technical or engineering staff.</li>
-<li>Excellent verbal and written communication skills with strong attention to detail.</li>
-<li>Willingness to travel up to 50%, including international assignments.</li>
-</ul>
-<h3>Nice to Have</h3>
-<ul>
-<li>Master’s degree or Professional Engineer registration.</li>
-<li>Strong understanding of energy modeling and data analytics.</li>
-<li>Strong background in the Metasys suite of tools.</li>
-<li>Programming capability for multiple makes and models of building automation systems and PLC systems.</li>
-</ul>
-<h3>Why Join Us</h3>
-<p>You will contribute to meaningful work that helps customers reduce operating costs, lower energy consumption, and improve the performance of critical central plants. This is an opportunity to apply your technical leadership in a collaborative environment focused on intelligent buildings, sustainability, and reliable outcomes.</p>
-<p>If this sounds like the right next step for you, we invite you to apply and help shape the future of OpenBlue CUP solutions.</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6ab56e28b61e9cb1bd268ac9?src=adzuna]]></url>
-    <location><![CDATA[Pune-Maharashtra-India, Maharashtra]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Johnson Controls]]></company>
-    <category>5</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-24T18:38:32.274Z]]></date>
   </job>
   <job>
     <id><![CDATA[6ab56d8d4a8020a64d024b09]]></id>
@@ -22912,132 +22768,6 @@
     <date><![CDATA[2026-09-21T18:39:06.638Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6ab179c9d4bc599995ab4a9f]]></id>
-    <title><![CDATA[Critical Environment Program Manager]]></title>
-    <description><![CDATA[<h3>Overview</h3>
-<p>In alignment with our Microsoft values, we are committed to cultivating an inclusive work environment for all employees to positively impact our culture every day and we need you as a Critical Environment Program Manager</p>
-<p>Microsoft’s Cloud Operations &amp; Innovation (CO+I) is the engine that powers our cloud services. As a Critical Environment Program Manager you will perform a key role in delivering the core infrastructure and foundational technologies for Microsoft's online services including Bing, Office 365, Xbox, OneDrive, and the Microsoft Azure platform. As a group, CO+I is focused on the personal and professional development for all employees and offers trainings and growth opportunities including Career Rotation Programs, Diversity &amp; Inclusion trainings and events, and professional certifications.</p>
-<p>Our infrastructure is comprised of a large global portfolio of more than 100 datacenters and 1 million servers. Our foundation is built upon and managed by a team of subject matter experts working to support services for more than 1 billion customers and 20 million businesses in over 90 countries worldwide.</p>
-<p>With environmental sustainability and optimization at the forefront of our datacenter design and operations, we continue to grow and evolve as we meet the ever-changing business demands that hold Microsoft as a world-class cloud provider.</p>
-<p>Do you want to empower billions across the world? Come and join us in CO+I and be at the forefront of the action!</p>
-<h3>Responsibilities</h3>
-<p>Data Center Operations</p>
-<ul>
-<li>Ensures compliance with data center business units and service-level policies.</li>
-</ul>
-<ul>
-<li>Engages with appropriate teams and resources to execute tasks or projects.</li>
-</ul>
-<ul>
-<li>Manages programs associated with area of responsibility.</li>
-</ul>
-<ul>
-<li>Demonstrates conscientiousness on cost adheres to budget requirements; keeps costs reasonable and contributes to staying within budget.</li>
-</ul>
-<ul>
-<li>Follows and adheres to safety and security policies and procedures. Reports immediately any safety or security issues or concerns.</li>
-</ul>
-<ul>
-<li>Participates in Root Cause Analysis (RCA) process as appropriate.</li>
-</ul>
-<p>Service Delivery</p>
-<ul>
-<li>Maximize Critical Environment (CE) availability in conjunction with our landlord partners at our leased Datacenters and to ensure optimal operational efficiency</li>
-</ul>
-<ul>
-<li>Oversee the day-to-day operations and maintenance of mechanical and electrical equipment in our leased Datacenters (MOP/SOP/EOP review, RCAs, FMEAs, change governance, and risk mitigation)</li>
-</ul>
-<ul>
-<li>Reduce high-impact and human-error Critical Environment (CE) incidents year over year</li>
-</ul>
-<ul>
-<li>Deliver on cost/energy efficiency initiatives</li>
-</ul>
-<ul>
-<li>Support delivery of the Datacenter’s Emergency Preparedness and Response plans and act as an escalation point for all facilities-related issues within our leased datacenters</li>
-</ul>
-<ul>
-<li>Coordinate, plan, schedule, and supervise CE audits and compliance verification as needed</li>
-</ul>
-<ul>
-<li>Ensure routine reporting to effectively manage and analyze our Power/Temperature/Relative Humidity, and SLA monitoring</li>
-</ul>
-<ul>
-<li>Establish and enhance strong working relationships and engagement with our Engineering Groups (EGs), and Landlord partners (including contributing to MBRs, QBRs)</li>
-</ul>
-<ul>
-<li>Work with regional and global peers to share and build best practices across the entire datacenter portfolio</li>
-</ul>
-<p>Data Center Work Environment</p>
-<ul>
-<li>Shares best practices; assists others in learning role, process, procedures.</li>
-</ul>
-<ul>
-<li>Provides mentorship across data centers for specific expertise.</li>
-</ul>
-<ul>
-<li>Seeks training opportunities that meet the interest of the business as well as own career goals and objectives.</li>
-</ul>
-<ul>
-<li>Suggests ways for reducing risk of performing maintenance; works with others to accommodate scheduling needs.</li>
-</ul>
-<ul>
-<li>Suggests improvements in implementation based on depth of understanding.</li>
-</ul>
-<ul>
-<li>Contributes to a positive team environment by learning and adopting best practices.</li>
-</ul>
-<ul>
-<li>Contributes constructively during team meetings and in cross-disciplinary collaborations within the service team.</li>
-</ul>
-<p>Ownership</p>
-<ul>
-<li>In alignment with management priorities, holds self-accountable for the end-to-end service quality, completeness, and resulting customer experience (including but not limited to availability, safety, security, customer service).</li>
-</ul>
-<ul>
-<li>Supports escalation of issues to appropriate owner.</li>
-</ul>
-<h3>Qualifications</h3>
-<ul>
-<li>High School Diploma or equivalent AND 2+ year(s) industry experience in a datacenter or other critical environment facility,</li>
-</ul>
-<ul>
-<li>OR 3+ years industry experience and college course work.</li>
-</ul>
-<p><b>Background Check Requirements:</b></p>
-<p>Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:</p>
-<ul>
-<li>Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.</li>
-</ul>
-<p>While not required, we also look for the following Preferred Qualifications:</p>
-<ul>
-<li>3+ years’ experience in Critical Environment infrastructures (e.g., UPS, Generator, AHU)</li>
-</ul>
-<ul>
-<li>Bachelor’s Degree or Technical College certification in mechanical or electrical engineering and/or services</li>
-</ul>
-<ul>
-<li>Experience working on large scale CE projects</li>
-</ul>
-<ul>
-<li>Experience with the operation of IT infrastructure (Servers, SANs, Networking, etc.)</li>
-</ul>
-<p>This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.</p>
-<ul>
-<li><i> </i></li>
-</ul>
-<p>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about [<b>requesting accommodations.</b>](https://careers.microsoft.com/v2/global/en/accessibility.html)</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6ab179c9d4bc599995ab4a9f?src=adzuna]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Microsoft (Datacenters)]]></company>
-    <category>5</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-21T18:39:05.984Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6ab17843a91f5550e3ff996d]]></id>
     <title><![CDATA[Marketing Director- APAC]]></title>
     <description><![CDATA[<h3>Who we are</h3>
@@ -24018,118 +23748,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-20T20:22:32.459Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6ab021c7eb84b7dc50f21fe0]]></id>
-    <title><![CDATA[Lead Software Engineer-Java]]></title>
-    <description><![CDATA[<h3>Job Description</h3>
-<p><b>Your Work Shapes the World at Caterpillar Inc.</b></p>
-<p>When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.</p>
-<p>Looking for Lead Software Engineer to provide technical leadership in design, development and deployment of Caterpillar’s state-of-the-art digital platform. We are looking for innovative, highly competent java architect to join our team to help drive the ongoing development of our cloud-based technology projects.</p>
-<p>This position requires extensive experience applying Java, cloud and mobile (or) web application technologies.</p>
-<h3>Required Skills</h3>
-<ul>
-<li>Position requires a four-year degree from an accredited college or university.</li>
-</ul>
-<ul>
-<li>14 years or more of software development with 8+ years or more of experience in designing and developing software applications in Java at scale.</li>
-</ul>
-<ul>
-<li>Strong experience in <b>JAVA and J2EE technologies</b> with Cloud based environment.</li>
-</ul>
-<ul>
-<li>Expert knowledge in <b>JPA, Hibernate, JDBC, SQL, Spring, JUnit and JSON, REST/JSON</b> web services.</li>
-</ul>
-<ul>
-<li>Strong knowledge in <b>Java Design Patterns</b>.</li>
-</ul>
-<ul>
-<li>Development and implementation of features in any <b>Cloud platform products</b> and technologies.</li>
-</ul>
-<ul>
-<li>Experience developing applications with <b>Agile team methodologies</b> preferred.</li>
-</ul>
-<ul>
-<li>Strong <b>Object-Oriented design</b> skills and understanding of MVC.</li>
-</ul>
-<ul>
-<li>Sufficient experience with <b>Git</b>to organize a large software project with multiple developers to include branching, tagging and merging.</li>
-</ul>
-<p><b>Desired Skills:</b></p>
-<ul>
-<li>Experience in AWS / Azure cloud (PaaS) with Java is a plus.</li>
-</ul>
-<ul>
-<li>Strong business application design skills.</li>
-</ul>
-<ul>
-<li>Excellent communications and interpersonal skills.</li>
-</ul>
-<ul>
-<li>Strong debugging skills.</li>
-</ul>
-<ul>
-<li>Highly proficient in standard Java development tools (Eclipse, Maven, etc.)</li>
-</ul>
-<ul>
-<li>A strong interest in building security into applications from the initial design.</li>
-</ul>
-<ul>
-<li>Experience at creating technical project Documentation and task time estimates.</li>
-</ul>
-<ul>
-<li>In-depth knowledge of at least one high-level programming language</li>
-</ul>
-<ul>
-<li>Understanding of core AWS services, uses, and basic AWS architecture best practices</li>
-</ul>
-<ul>
-<li>Proficiency in developing, deploying, and debugging cloud-based applications using AWS</li>
-</ul>
-<ul>
-<li>Ability to use the AWS service APIs, AWS CLI, and SDKs to write applications</li>
-</ul>
-<ul>
-<li>Ability to identify key features of AWS services</li>
-</ul>
-<ul>
-<li>Understanding of the AWS shared responsibility model</li>
-</ul>
-<ul>
-<li>Understanding of application lifecycle management</li>
-</ul>
-<ul>
-<li>Ability to use a CI/CD pipeline to deploy applications on AWS</li>
-</ul>
-<ul>
-<li>Ability to use or interact with AWS services</li>
-</ul>
-<ul>
-<li>Ability to apply a basic understanding of cloud-native applications to write code</li>
-</ul>
-<ul>
-<li>Ability to write code using AWS security best practices (e.g., not using secret and access keys in the code, instead using IAM roles)</li>
-</ul>
-<ul>
-<li>Ability to author, maintain, and debug code modules on AWS</li>
-</ul>
-<ul>
-<li>Proficiency writing code for serverless applications</li>
-</ul>
-<ul>
-<li>Understanding of the use of containers in the development process</li>
-</ul>
-<p><b>Posting Dates:</b></p>
-<p>September 20, 2026 - September 26, 2026 Caterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6ab021c7eb84b7dc50f21fe0?src=adzuna]]></url>
-    <location><![CDATA[Mumbai, Maharashtra]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Caterpillar]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-20T18:11:19.244Z]]></date>
   </job>
   <job>
     <id><![CDATA[6aaef64a4244d72e73a32b8c]]></id>
@@ -34454,46 +34072,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-17T19:31:24.906Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6aac3ffc6834e49e4638b62e]]></id>
-    <title><![CDATA[System engineer Data Center Low Voltage Busway, Busbar Solutions]]></title>
-    <description><![CDATA[<p><b>Dear Aspirant!</b></p>
-<p>We empower our people to stay resilient and relevant in a constantly changing world. We’re looking for people who are always searching for creative ways to grow and learn. People who want to make a real impact, now and in the future. Does that sound like you? Then it seems like you’d make a great addition to our vibrant international team.</p>
-<p><b>We are looking for: Senior System engineer Data Center Low Voltage Busway / Busbar Solutions</b></p>
-<p><b>You’ll make an impact by:</b></p>
-<ul>
-<li>Designing optimal solutions for/with the customer;</li>
-<li>Create the BOQ of the proposed solution;</li>
-<li>Conveying the solution to the customer by means of a technical proposal;</li>
-<li>Coordinate with the factory for manufacturing of the bus trunking system</li>
-<li>Perform FAT of the solution offered.</li>
-</ul>
-<p><b>Use your skills to move the world forward!</b></p>
-<ul>
-<li>Completed bachelor’s or master’s degree (Electrical engineering preferably).</li>
-<li>5 -9 years of experience in execution.</li>
-<li>Experience with electrical distribution systems (MV/LV) and protection systems.</li>
-<li>Knowledge of applicable IEC standards (like IEC 61439).</li>
-<li>Flexible work attitude, practical, accurate and result-oriented.</li>
-<li>Customer focused and with commercial mindset.</li>
-<li>Communicative, involved, stress-resistant and able to act within a dynamic environment.</li>
-<li>Excellent knowledge of the English language, written and spoken.</li>
-</ul>
-<p><b>Create a better #TomorrowWithUs!</b></p>
-<p>This role is based in Chennai, where you’ll get the chance to work with teams impacting entire cities, countries - and the shape of things to come.</p>
-<p>We value your unique identity and perspective and are fully committed to providing equitable opportunities and building a workplace that reflects the diversity of society. Come bring your authentic self and create a better tomorrow with us.</p>
-<p>We’re Siemens. A collection of over 312,000 minds building the future, one day at a time in over 200 countries. We're dedicated to equality, and we encourage applications that reflect the diversity of the communities we work in. All employment decisions at Siemens are based on qualifications, merit and business need. Bring your curiosity and imagination and help us shape tomorrow.</p>
-<p>##</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aac3ffc6834e49e4638b62e?src=adzuna]]></url>
-    <location><![CDATA[Chennai, Tamil Nadu]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Siemens]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-17T19:31:08.849Z]]></date>
   </job>
   <job>
     <id><![CDATA[6aac3efe2481e86d140fc769]]></id>
@@ -54672,65 +54250,6 @@
     <date><![CDATA[2026-09-15T21:10:27.987Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6aa9b443dff297116085ed23]]></id>
-    <title><![CDATA[Team Member – Sales Operations & MIS]]></title>
-    <description><![CDATA[<p><b>Backend Team Executive</b></p>
-<p><b>Team Management and Development:</b></p>
-<p>Oversees the daily operations of the Backend CRM team, ensuring efficient execution of tasks.</p>
-<p>Provides guidance and support to the team in resolving CRM-related issues and inquiries.</p>
-<p>Conducts training sessions for team members on CRM processes, SAP usage, and financial procedures.</p>
-<p><b>CRM Management:</b></p>
-<p>Leads the creation and management of offers within the CRM system, ensuring accuracy and timely updates.</p>
-<p>Collaborates with the finance team to manage cash flow information and approve bank entries.</p>
-<p><b>Project Management on SAP:</b></p>
-<p>Oversees project creation and management within the SAP system, ensuring alignment with business objectives.</p>
-<p>Monitors project status and provides reports to senior management as needed.</p>
-<p>Manages pricing processes within the CRM, ensuring competitive and profitable pricing strategies are implemented.</p>
-<p>Works with sales and finance teams to analyze pricing trends and make adjustments as necessary.</p>
-<p><b>Collaboration and Support:</b></p>
-<p>Serves as a liaison between finance, CRM, and sales teams, facilitating effective communication and support.</p>
-<p>Conducts regular meetings with team members and stakeholders to discuss updates, challenges, and strategies.</p>
-<p><b>Performance Monitoring:</b></p>
-<p>Establishes KPIs for team performance and ensures they are met or exceeded.</p>
-<p>Conducts performance evaluations and provides feedback to team members.</p>
-<p><b>Key Stakeholders - Internal</b></p>
-<p>Finance Team</p>
-<p>Projects Team</p>
-<p>Legal Team</p>
-<p>Marketing and Sales Team</p>
-<p>CRM Team</p>
-<h3>Qualifications</h3>
-<p><b>Qualification:</b></p>
-<ul>
-<li>Graduate in any discipline (B.Com / BBA / B.Sc preferred)</li>
-</ul>
-<ul>
-<li>MBA (Operations / Finance / Marketing) preferred</li>
-</ul>
-<ul>
-<li>Strong working knowledge of MS Excel, PowerPoint, and MIS tools</li>
-</ul>
-<p><b>Experience:</b></p>
-<ul>
-<li>5 to 8 years of experience in MIS / Sales Operations / Backend roles</li>
-</ul>
-<ul>
-<li>Experience in real estate / sales-driven organizations preferred</li>
-</ul>
-<ul>
-<li>Strong exposure to data management, reporting, and dashboard preparation</li>
-</ul>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aa9b443dff297116085ed23?src=adzuna]]></url>
-    <location><![CDATA[Mumbai, Maharashtra]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[AdaniConneX]]></company>
-    <category>5</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-15T21:10:27.554Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6aa9b44365934c3e73ea4eab]]></id>
     <title><![CDATA[Lead-Hard Services-IFM Standardization]]></title>
     <description><![CDATA[<h3>Responsibilities</h3>
@@ -57099,214 +56618,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-15T20:02:13.150Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6aa9a272dae8d07dfe39abcb]]></id>
-    <title><![CDATA[Managed Services Sales - Senior Specialist]]></title>
-    <description><![CDATA[<h3>Employment Type</h3>
-<p>Permanent</p>
-<h3>Closing Date</h3>
-<p>26 Sept 2026 11:59pm</p>
-<h3>Job Title</h3>
-<p>Managed Services Sales - Senior Specialist</p>
-<h3>Job Summary</h3>
-<h3>Job Description</h3>
-<h3>Who We Are</h3>
-<p>We're an iconic Aussie brand with a global footprint. Our purpose is to build a connected future so everyone can thrive. We're all about providing the best experience and delivering the best tech on the best network.</p>
-<p>This includes making Telstra the place you want to work. For you, that means a having career that grows with you and working with a team powered by human connection that prioritises wellbeing and choice.</p>
-<p><b>Focus of the Role</b></p>
-<p>The <b>Managed Services Sales Senior Specialist</b> will play an important role in achieving sales revenue, profitability and customer satisfaction targets in any assigned portfolio, or in support of the BDMs, Client Partners and Domain specialists</p>
-<h3>What We Offer</h3>
-<ul>
-<li>Performance-related pay</li>
-</ul>
-<ul>
-<li>Access to thousands of learning programs so you can level-up</li>
-</ul>
-<ul>
-<li>Global presence across 22 countries; opportunities to work where we do business.</li>
-<li>Purchased annual leave scheme</li>
-</ul>
-<ul>
-<li>Additional Telstra day off</li>
-</ul>
-<ul>
-<li>Additional 30% off Telstra products and services</li>
-</ul>
-<ul>
-<li>Toolkit provided (laptop &amp;#43; mobile phone &amp;#43; plan paid for)</li>
-</ul>
-<p><b>What You’ll Do</b></p>
-<p>Telstra Enterprise - Business &amp; Enterprise Sales Chapter Area helps businesses of all sizes meet their technology needs. The Secure Networks group forms part of TE Sales and Customer Success, providing trusted expertise across data networks, cybersecurity and managed services.</p>
-<p>As the Managed Services Sales Senior Specialist, your primary focus is to consult, propose and sell Managed Services-based outcomes across the following domains:</p>
-<ul>
-<li><b>Network</b></li>
-</ul>
-<ul>
-<li><b>Security</b></li>
-</ul>
-<ul>
-<li><b>Service Management (ITSM)</b></li>
-</ul>
-<p><b><i>Preference will be given to candidates based in Sydney, as this role involves regular client interaction and occasional on-site visits. </b></i></p>
-<h3>Key Responsibilities</h3>
-<p>Focus on identification and pursuit of opportunities/sales of multi-domain Managed Services solutions across the above technology areas across Telstra Enterprise.</p>
-<p>Provide pro-active thought leadership to customers, focusing on areas that are industry specific and based on technology trends, with the ability to relate this to how Telstra can assist the customer.</p>
-<p>Develop specialist knowledge and oversee execution of offers in market including internal/external interlock on allocated Managed Services offerings.</p>
-<p>Execution of internal initiative/s to generate pipeline such as, account planning, sales campaigns, sales enablement and training.</p>
-<p>Trusted advisor to internal stakeholders including BDM’s, Client Partners and Pre-Sales on set Managed Services offerings</p>
-<h3>About You</h3>
-<p>To be successful in this role, you must have the following skills/experiences:</p>
-<ul>
-<li>Minimum 5 years of experience in a target-driven sales environment with a strong track record of consistent performance.</li>
-<li>Experience in operating in environments that combine sales and revenue with a service and customer satisfaction focus</li>
-</ul>
-<ul>
-<li>Experience in conducting complex sales negotiations and finalising commercial deals</li>
-</ul>
-<ul>
-<li>Demonstrable ability to understand Managed Services across Network and Security technologies as well as Service Management and use this knowledge to build propositions that solve customers' challenges and business outcomes.</li>
-<li>Experience in selling end to end Managed Services which covers multi-domain customer outcomes.</li>
-<li>A Degree in any business related or ICT field would be an advantage</li>
-</ul>
-<ul>
-<li>Industry Certifications: ITIL, Cisco, Fortinet, or Palo Alto</li>
-</ul>
-<ul>
-<li>Sales Methodologies: Familiarity with Challenger Sales, Miller Heiman, or other leading approaches.</li>
-</ul>
-<p>Ready for your next challenge? We'd love to hear from you!</p>
-<p>We're amongst the top 2% of companies globally in the CDP Global Climate Change Index 2023, being awarded an 'A' rating. If you want to work for a company that cares about sustainability, we want to hear from you.</p>
-<p>As part of your application with Telstra, you may receive communications from us on &amp;#43;61 440 135 548 (for job applications in Australia) and &amp;#43;1 (623) 400-7726 (for job applications in the Philippines and India).</p>
-<p>When you join our team, you become part of a welcoming and inclusive community where everyone is respected, valued and celebrated. We actively seek individuals from various backgrounds, ethnicities, genders and disabilities because we know that diversity not only strengthens our team but also enriches our work. We have zero tolerance for harassment of any kind, and we prioritise creating a workplace culture where everyone is safe and can thrive.</p>
-<p>As part of the hiring process, all identified candidates will undergo a background check, and the results will play a role in the final decision regarding your application.</p>
-<p>We work flexibly at Telstra. Talk to us about what flexibility means to you. When you apply, you can share your pronouns and / or any reasonable adjustments needed to take part equitably during the recruitment process. We work flexibly at Telstra. Talk to us about what flexibility means to you. When you apply, you can share your pronouns and / or any reasonable adjustments needed to take part equitably during the recruitment process. Adjustment requests and accessibility support can be arranged using the contact details below.</p>
-<p>We are aware of current limitations with our website accessibility and are working towards improving this. Should you experience any issues accessing information or the application form, and require this in an alternate format, please contact our Talent Acquisition team on DisabilityandAccessibility&amp;#64;team.telstra.com or via the additional contact options found at [www.telstra.com.au/careers/diversity-equity-and-inclusion/disability-employment](http://www.telstra.com.au/careers/diversity-equity-and-inclusion/disability-employment)​</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aa9a272dae8d07dfe39abcb?src=adzuna]]></url>
-    <location><![CDATA[Australia (Flexible), AU]]></location>
-    <country><![CDATA[AU]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Telstra]]></company>
-    <category>3</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-15T19:54:26.659Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6aa9a271bc8543221da48be2]]></id>
-    <title><![CDATA[IoT Solution Specialist]]></title>
-    <description><![CDATA[<h3>Employment Type</h3>
-<p>Permanent</p>
-<h3>Closing Date</h3>
-<p>26 Sept 2026 11:59pm</p>
-<h3>Job Title</h3>
-<p>IoT Solution Specialist</p>
-<h3>Job Summary</h3>
-<h3>Job Description</h3>
-<h3>Who We Are</h3>
-<p>We're an iconic Aussie brand with a global footprint. Our purpose is to build a connected future so everyone can thrive. We're all about providing the best experience and delivering the best tech on the best network.</p>
-<p>This includes making Telstra the place you want to work. For you, that means a having career that grows with you and working with a team powered by human connection that prioritises wellbeing and choice.</p>
-<p><b>Focus of the Role ​</b></p>
-<p>Our team helps enterprise and government customers transform their businesses through IoT solutions, enabling them to move from legacy environments to digitalised, real-time, data-driven processes.</p>
-<p>The role requires you to act as the sales subject matter expert for a portfolio of IoT management and data platforms, complemented by Telstra’s latest Network-as-a-Product capabilities.</p>
-<p>Success in this role is built on strong relationship management, negotiation skills, and the ability to work closely with customers to deliver innovative technology solutions that improve business outcomes.</p>
-<p>You will partner with client executives and internal stakeholders to deliver solutions that contribute directly to Telstra's commercial success.</p>
-<p><i>Due to the customer portfolio, our <b>preferred location is Sydney or Melbourne</b>; however, we’re also open to candidates based in <b>other Australian states</b>.</i></p>
-<h3>Key Responsibilities</h3>
-<p><b>Areas of responsibility may include Connected Fleet, Connected Infrastructure and Connected Assets.</b></p>
-<p><b>New Business Acquisition and Revenue Retention</b></p>
-<ul>
-<li>Hunt for and win new business by opening new doors and proactively identifying, qualifying, developing and closing high-value IoT sales opportunities in partnership with customer executives and key stakeholders.</li>
-<li>Collaborate across a diverse stakeholder network, including Client Executives, Business Development Managers, Solution Specialists, Deep Domain Specialists, Presales, Delivery Teams, Technology Vendors, and Telstra Partners.</li>
-<li>Develop innovative sales strategies and solutions based on customer needs and market trends.</li>
-<li>Build and maintain strong customer, vendor, and strategic stakeholder relationships.</li>
-<li>Influence stakeholders at all levels to drive customer outcomes and achieve sales targets.</li>
-<li>Apply deep product and industry knowledge to create solution proposals and account growth strategies.</li>
-<li>Support continuous improvement initiatives across sales, solution design, negotiation, and delivery processes.</li>
-<li>Accurately forecast, track, and manage sales opportunities through the full sales lifecycle.</li>
-</ul>
-<p><b>Pipeline Growth and Opportunity Development</b></p>
-<ul>
-<li>Build and manage teams to build pipeline aligned to IoT growth products and campaigns.</li>
-<li>Support early-stage discovery and shape customer requirements into deliverable solutions.</li>
-<li>Identify untapped market and account opportunities, including opportunities with non-Telstra customers.</li>
-<li>Facilitate customer conversations and initiatives that drive growth, retention and long-term value.</li>
-</ul>
-<p><b>Phoenix Pipeline Management and Hygiene</b></p>
-<ul>
-<li>Maintain disciplined pipeline hygiene by regularly reviewing opportunities and ensuring that priority opportunities always have a clear close plan.</li>
-<li>Provide clean, trustworthy data that supports accurate quarterly commit, forecast and performance reporting.</li>
-</ul>
-<p><b>Storytelling and Product Journey</b></p>
-<ul>
-<li>Tell a compelling story about Telstra’s CF30 strategy and IoT product journey, clearly articulating how the portfolio is evolving and how it enables customers to achieve digital business outcomes.</li>
-<li>Translate complex technical capability into a simple, customer-relevant narrative that connects product evolution and migration paths to real business outcomes.</li>
-<li>Position the Telstra difference — trusted network fabric, carrier-grade assurance and end-to-end capability — in customer presentations, proposals and RFP responses.</li>
-</ul>
-<p><b>Deal Support and Revenue Acceleration</b></p>
-<ul>
-<li>Lead commercial, business and technical discussions, positioning Telstra's IoT solutions to meet customer needs.</li>
-<li>Collaborate across Telstra (Pre-sales, Product, Pricing, Deal Desk) to develop commercial positioning and solution alignment to customer outcomes.</li>
-<li>Partner with account teams and Telstra partners to progress strategic deals and remove blockers.</li>
-<li>Lead the sales execution and commercial growth of IoT solutions across Connected Fleet, Connected Infrastructure or Connected Assets, ensuring alignment with customer needs, panel obligations and Telstra’s broader IoT strategy</li>
-</ul>
-<p><b>Internal Alignment and Enablement</b></p>
-<ul>
-<li>Work closely with Client Partners to align on target customers, campaigns and priorities.</li>
-<li>Collaborate with Account Teams and customers, providing regular updates on IoT products, roadmaps and initiatives.</li>
-<li>Participate in knowledge-sharing that builds sales and market-trend insight across the team.</li>
-</ul>
-<p><b>What You Bring</b></p>
-<ul>
-<li>A hunter's mentality — a proven track record (5&amp;#43; years) of consistent performance in a target-based, new-business sales environment.</li>
-<li>A winning culture — experience identifying and capitalising on new sales opportunities in complex industry and/or government portfolios.</li>
-<li>Experience conducting complex sales negotiations, finalising commercial deals and building relationships with C-suite decisionmakers.</li>
-<li>A solid understanding of Telstra’s IoT portfolio, or the appetite and aptitude to develop that understanding quickly.</li>
-<li>Proven ability to build and progress sales pipeline in a B2B environment, with strong CRM discipline.</li>
-<li>Excellent storytelling and stakeholder-engagement skills — able to influence across Sales, Technical and Product teams.</li>
-<li>Commercial acumen with the ability to position value and drive outcomes.</li>
-<li>Curiosity, a growth mindset and a genuine appetite to use AI tools, such as Microsoft Copilot, to improve productivity and customer impact across research, pipeline analysis, proposal development and customer storytelling</li>
-</ul>
-<ul>
-<li>A proactive, self-driven approach with strong organisational skills.</li>
-</ul>
-<p><b>Telstra Success Profile Capabilities</b></p>
-<p><b>Customer Focus</b></p>
-<ul>
-<li>Understands the customer's viewpoint and proactively builds strong, trusted relationships.</li>
-</ul>
-<p><b>Drive Strategy &amp; Innovation</b></p>
-<ul>
-<li>Aware of key industry developments and competitors; tailors content, style and tone to the audience.</li>
-</ul>
-<p><b>Translate Strategy into Action</b></p>
-<ul>
-<li>Solves difficult problems, anticipates and overcomes roadblocks, and adapts quickly when required.</li>
-</ul>
-<p><b>Collaborate &amp; Build Engagement</b></p>
-<ul>
-<li>Works collaboratively, taps into networks across the wider team, and uses informal channels of influence to get outcomes.</li>
-</ul>
-<p><b>Self-Awareness &amp; Authenticity</b></p>
-<ul>
-<li>Genuine with others, welcomes feedback, and demonstrates resilience and positivity in challenging situations.</li>
-</ul>
-<p>Ready for your next challenge? We'd love to hear from you!</p>
-<p>We're amongst the top 2% of companies globally in the CDP Global Climate Change Index 2023, being awarded an 'A' rating. If you want to work for a company that cares about sustainability, we want to hear from you.</p>
-<p>As part of your application with Telstra, you may receive communications from us on &amp;#43;61 440 135 548 (for job applications in Australia) and &amp;#43;1 (623) 400-7726 (for job applications in the Philippines and India).</p>
-<p>When you join our team, you become part of a welcoming and inclusive community where everyone is respected, valued and celebrated. We actively seek individuals from various backgrounds, ethnicities, genders and disabilities because we know that diversity not only strengthens our team but also enriches our work. We have zero tolerance for harassment of any kind, and we prioritise creating a workplace culture where everyone is safe and can thrive.</p>
-<p>As part of the hiring process, all identified candidates will undergo a background check, and the results will play a role in the final decision regarding your application.</p>
-<p>We work flexibly at Telstra. Talk to us about what flexibility means to you. When you apply, you can share your pronouns and / or any reasonable adjustments needed to take part equitably during the recruitment process. We work flexibly at Telstra. Talk to us about what flexibility means to you. When you apply, you can share your pronouns and / or any reasonable adjustments needed to take part equitably during the recruitment process. Adjustment requests and accessibility support can be arranged using the contact details below.</p>
-<p>We are aware of current limitations with our website accessibility and are working towards improving this. Should you experience any issues accessing information or the application form, and require this in an alternate format, please contact our Talent Acquisition team on [DisabilityandAccessibility&amp;#64;team.telstra.com](mailto:DisabilityandAccessibility&amp;#64;team.telstra.com) or via the additional contact options found at [www.telstra.com.au/careers/diversity-equity-and-inclusion/disability-employment](http://www.telstra.com.au/careers/diversity-equity-and-inclusion/disability-employment)​</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aa9a271bc8543221da48be2?src=adzuna]]></url>
-    <location><![CDATA[Sydney, New South Wales]]></location>
-    <country><![CDATA[AU]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Telstra]]></company>
-    <category>3</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-15T19:54:25.294Z]]></date>
   </job>
   <job>
     <id><![CDATA[6aa99f756059e3dd1d0cc3e2]]></id>
@@ -62640,204 +61951,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-15T05:56:45.012Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6aa8de1cf00e7ef0b3dfa4d7]]></id>
-    <title><![CDATA[Lead - Security]]></title>
-    <description><![CDATA[<h3>Responsibilities</h3>
-<ul>
-<li><b>Security Strategy Management Security Strategy</b></li>
-</ul>
-<ul>
-<li>Contribute to business Security strategy and Security roadmap by providing site perspective as per Site Security Plan.</li>
-<li>Align the site security strategy with the group policy.</li>
-<li>Lead strategic initiatives aligned to business requirements at the site / plant level; Institutionalise operational excellence initiatives for the site.</li>
-<li>Plan, prepare and monitor security budget including Capex and Opex; Finalize the budget with Vertical Security Head and get sanction on the same.</li>
-<li>Monitor adherence to budgets and consult with Vertical Security Head in case of budget shortage/ overruns.</li>
-<li>Define the performance metrics for evaluating Site Security domain and finalize with the Business Security Head; Lead performance review of Site Security.</li>
-<li>Identify process gaps in the Site Security processes and lead process excellence initiatives to address the process gaps and drive efficiency.</li>
-<li>Drive the team to champion process improvements and establish ownership of action plans at appropriate points within Site Security.</li>
-<li>Conduct timely reviews of all on-going strategic initiatives at the site.</li>
-<li><b>Risk Management &amp; Audit Security Risk Assessment</b></li>
-</ul>
-<ul>
-<li>Conduct security risk assessment and implement mitigation measures in consultation with Vertical Security Head to counter threats and vulnerabilities</li>
-</ul>
-<ul>
-<li>Identify vulnerabilities and gaps in the established Security infrastructure, operations, systems, technologies of the site. Prioritise the gap and closed it within timeline.</li>
-<li>Assess the varied Security threat scenarios including product theft, vandalism, acts of terror, pilferage, assault, unauthorized access facing the site</li>
-</ul>
-<ul>
-<li>Review the SRA report and ensure mitigation measures are put in place as per the findings</li>
-</ul>
-<ul>
-<li>Facilitate internal or third party security audits and conduct timely checks to ensure reliability of Security management system and submit report of audit findings to the Corporate Team</li>
-</ul>
-<ul>
-<li>Review the Security audit report, analyse findings and conduct dialogue with the concerned stakeholders for action planning and resolution; Ensure prompt closure of open audit findings</li>
-</ul>
-<p><b>Crisis &amp; Incident Management</b></p>
-<ul>
-<li>Design ERCP (Emergency response and control plan) plans for crises/ emergencies/ incidents, to ensure business continuity and quick business recovery at the site</li>
-</ul>
-<ul>
-<li>Lead the implementation of the response plan during the crises/ emergencies/ incidents and escalate to the management timely.</li>
-<li>Supervise efficient selection and training of staff for QRT (Quick Reaction Team)</li>
-</ul>
-<ul>
-<li>Revamp the response plans basis key learnings from incidents, to improve the business readiness to face crises and emergencies</li>
-</ul>
-<p>Intelligence &amp; Vigilance Intelligence Collection &amp; Analysis</p>
-<ul>
-<li>Cultivate reliable sources of information with key decision makers in administrative bodies, police, local community and media to gather intelligence</li>
-</ul>
-<ul>
-<li>Monitor and analyze daily local, national, and international news that might impact the organization or the site</li>
-</ul>
-<ul>
-<li>Analyze the gathered intelligence, foresee risks, and develop mitigation plans</li>
-</ul>
-<ul>
-<li>Monitor the vigilance level of the site Security operations and drive alertness at all times</li>
-</ul>
-<ul>
-<li><b>Management and Review</b></li>
-</ul>
-<ul>
-<li>Monitor site operations and ensure adherence to established SOPs and SOGs.</li>
-<li>Analyse the MIS reports generated and publish reports on a weekly basis to the Site CEO and VSH</li>
-</ul>
-<ul>
-<li>Create security awareness and training programs for employees and community, along with the Site CEO</li>
-</ul>
-<p>Security Control Room Operations</p>
-<ul>
-<li>Oversee end-to-end operations of Site Security Control Room; Lead maintenance and upgradation initiatives for the Control Room</li>
-</ul>
-<ul>
-<li>Monitor the operations of the Control Room and ensure proper integration with the National Security Control Room</li>
-</ul>
-<ul>
-<li>Ensure the escalation of all incident and report of the group as per the Matrix</li>
-</ul>
-<ul>
-<li><b>Patrolling &amp; Surveillance</b></li>
-</ul>
-<ul>
-<li>Oversee the patrolling procedures of the site and manage exceptions</li>
-</ul>
-<ul>
-<li>Periodically check the data from CCTVs, sensors, and other such automation equipment to ensure operational vigilance</li>
-</ul>
-<ul>
-<li>Oversee the end-to-end operations of Access Control and ensure process adherence; Manage deviations</li>
-</ul>
-<ul>
-<li>Oversee the end-to-end process of visitor access card management through the applicable systems</li>
-</ul>
-<ul>
-<li>Oversee the business traffic and material movement operations to ensure authorization and authenticity checks are conducted as per SOPs</li>
-</ul>
-<ul>
-<li>Study the critical traffic blockages and suggest methods for improvement</li>
-</ul>
-<ul>
-<li>Oversee the end-to-end operations of traffic management to ensure adherence to established traffic rules</li>
-</ul>
-<ul>
-<li>Conduct investigation of Security incidents including frauds, crimes, theft, pilferage, vandalizing and set in motion remedial measures</li>
-</ul>
-<ul>
-<li>Prepare and share investigation reports with BU team on investigations of critical incidents</li>
-</ul>
-<ul>
-<li>Drive the Security systems, processes, and operations to ensure round the clock protection to both the tangible and intangible assets as per the concept of ring security.</li>
-<li>Conduct security events as per the annual security plan and ensure proper security detailing is in place</li>
-</ul>
-<ul>
-<li>Channelize and coordinate traffic management to ensure least impacted route continuity for the logistics flow</li>
-</ul>
-<ul>
-<li>Ensure the site/road survey conducted and then plan for Overweight and Over Dimensional Consignment</li>
-</ul>
-<ul>
-<li>Monitor and review the outsourced staff strength and accordingly conduct recruitment</li>
-</ul>
-<ul>
-<li>Oversee and evaluate performance of the third-party security personnel services provider ensuring the deployed personnel are as per the defined parameters</li>
-</ul>
-<ul>
-<li>Engage periodically with the outsourced security employees to cater for their welfare</li>
-</ul>
-<ul>
-<li>Ensure the deployment of OMPs as per the work breakdown structure (WBS) and as their competency.</li>
-<li>Lead talent acquisition for all vacant positions at the site and support Vertical Security Head in talent identification and selection for critical roles</li>
-</ul>
-<ul>
-<li>Drive a performance driven culture – Set goals, review performance, and provide feedback to ensure a motivated and committed team</li>
-</ul>
-<ul>
-<li>Identify and drive projects towards creation or improvement of security technology aids (automation systems) and infrastructure augmentation as per group security guidelines and industry standards / best practices aligned to overall group security strategy</li>
-</ul>
-<ul>
-<li>Implement and monitor efficient project management practices for timely execution and maximum RoI on identified projects</li>
-</ul>
-<ul>
-<li>Drive integration of new projects into mainstream security operations at site through processes and stakeholder buy in.</li>
-<li>## Qualifications</li>
-</ul>
-<p><b>Educational Qualification:</b></p>
-<ul>
-<li>Bachelor’s degree in Business Management or other relevant field</li>
-</ul>
-<ul>
-<li>Postgraduate degree in relevant field</li>
-</ul>
-<ul>
-<li>Preferable to have Certifications including Certified Protection Professional (CPP) / Certified Fraud Examiners (CFE) / Transported Asset Protection Association (TAPA) certification/ Physical Security Professional (PSP) / Industrial Security professional certifications/ Project Management Professional (PMP) (Value Addition)</li>
-</ul>
-<p><b>Must-have Experiences :</b></p>
-<ul>
-<li>More than 12 years of experience in the field of Security and at least 5 years of experience in a leadership role in a similar position for large-sized organization, and directly report to Site Head.</li>
-<li>Rich experience leading Security operations of Access Control, Traffic Management, De-risking, Infra-structure and people protection, Fraud and misconduct investigation, Security technology solution, Security threat, Risk Assessment, Surveillance, and systems management for large sized site/ plant/ work-unit, preferably spanning multiple geographies</li>
-</ul>
-<ul>
-<li>Exposure to varied Security risk management verticals and seasoned understanding of crisis management and physical asset protection across varied businesses and geographies</li>
-</ul>
-<ul>
-<li>Experience managing operational and capital expenditure budgets with exceptional planning and project management skills</li>
-</ul>
-<ul>
-<li>Up to date knowledge and experience with regulatory compliance issues across varied Security sub-domains</li>
-</ul>
-<ul>
-<li>Robust understanding of investigation techniques and audit procedures</li>
-</ul>
-<p><b>Preferred Experiences:</b></p>
-<ul>
-<li>Proven analytical and problem-solving skills, as well as an ability to manage multiple tasks simultaneously</li>
-</ul>
-<ul>
-<li>Preferable to have military experience</li>
-</ul>
-<ul>
-<li>Rich experience interfacing with all levels of management; Experience of managing complex stakeholder interactions and leading discussions with top management</li>
-</ul>
-<ul>
-<li>Experience in implementation of latest technology tools, systems, and applications in Security operations</li>
-</ul>
-<ul>
-<li>Experience in project management in implementation of security automation and infrastructure</li>
-</ul>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aa8de1cf00e7ef0b3dfa4d7?src=adzuna]]></url>
-    <location><![CDATA[Singrauli, Madhya Pradesh]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[AdaniConneX]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-15T05:56:44.863Z]]></date>
   </job>
   <job>
     <id><![CDATA[6aa8de1c078517a8b693d440]]></id>
@@ -96496,65 +95609,6 @@
     <date><![CDATA[2026-09-14T08:14:23.264Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6aa7acde757bd50ecaaaf055]]></id>
-    <title><![CDATA[Data Center Program Manager]]></title>
-    <description><![CDATA[<h3>Overview</h3>
-<p>As a Microsoft<b>Data Center Program Manager (DCPM)</b>, you will perform troubleshooting for service incidents, manage assigned projects to meet service delivery objectives as well escalate to appropriate stakeholders to remove obstacles. You will also follow safety policies and procedures and participate in root cause analysis (RCA) of incidents. This job will allow you to build a solid understanding of data center procedures, engage in collaboration across various teams as well as provide knowledge sharing and collaboration across data centers by sharing effective practices.</p>
-<p>Microsoft’s Cloud Operations &amp; Innovation (CO+I) is the engine that powers our cloud services. As a CO+I DCPM, you will perform a key role in delivering the core infrastructure and foundational technologies for Microsoft's online services including Bing, Office 365, Xbox, OneDrive, and the Microsoft Azure platform. As a group, CO+I is focused on the personal and professional development for all employees and offers trainings and growth opportunities including Career Rotation Programs, Diversity &amp; Inclusion trainings and events, and professional certifications.</p>
-<p>Our infrastructure is comprised of a large global portfolio of more than 200 data centers in 32 countries and millions of servers. Our foundation is built upon and managed by a team of subject matter specialists working to support services for more than 1 billion customers and 20 million businesses in over 90 countries worldwide.</p>
-<p>With environmental sustainability and optimization at the forefront of our data center design and operations, we continue to grow and evolve as we meet the ever-changing business demands that hold Microsoft as a world-class cloud provider.</p>
-<p>Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.</p>
-<h3>Responsibilities</h3>
-<ul>
-<li>Support budget objectives by managing costs responsibly and helping maintain spending within approved guidelines; keep costs reasonable and contribute to staying within budget.</li>
-<li>Follow and adhere to safety and security policies and procedures. Report immediately any safety or security issues or concerns.</li>
-<li>Perform troubleshooting for service incidents and escalates, as appropriate, to meet SLA/OLAs, with minimal disruption to the client/customer and business.</li>
-<li>Recognize potential customer impact of other events and issues (e.g., customer lockdown), communicate potential impact, and plan for impact accordingly.</li>
-<li>Proactively review schedules and avoid conflicts when possible. Identify, coordinate, manage expectations, and offer alternatives when defining customer solutions.</li>
-<li>Manage relationships with clients and suppliers to ensure that all expectations are clarified, understood, documented, and met.</li>
-<li>Suggest ways for reducing the risk of performing maintenance; work with others to accommodate scheduling needs.</li>
-<li>In alignment with management priorities, hold self-accountable for the end-to-end service quality, completeness, and resulting customer experience (including but not limited to availability, safety, security, customer service). Support escalation of issues to appropriate owner.</li>
-<li>Embody our [culture](https://careers.microsoft.com/us/en/culture)and[values](https://www.microsoft.com/en-us/about/corporate-values).</li>
-</ul>
-<h3>Qualifications</h3>
-<h3>Required Qualifications</h3>
-<ul>
-<li>High School Diploma or equivalent AND 1+ years industry experience</li>
-</ul>
-<ul>
-<li>OR 2+ years industry experience and college course work.</li>
-</ul>
-<p><b>Background Check Requirements:</b></p>
-<p>Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:</p>
-<ul>
-<li>Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.</li>
-</ul>
-<p>While not required, we also look for the following<b>Preferred Qualifications:</b></p>
-<ul>
-<li>2+ years’ experience in Critical Environment infrastructures (e.g., UPS, Generator, AHU) or working in physical IT infrastructures (e.g., Servers, SANs, Networking, Capacity, DC Rack/Enclosures, structured cabling).</li>
-<li>Technical College degree in Computer Science, Math, Telecommunications, Electrical/Mechanical Engineering, or related field.</li>
-<li>Applicable certifications: ASICS/Inventory Control, CompTIA, Microsoft, Network Certifications, PMP, ITIL, CDCP.</li>
-</ul>
-<p>Data Center Operations Management IC3 - The typical base pay range for this role across the U.S. is USD $84,400 - $168,800 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $118,800 - $186,600 per year.</p>
-<p>Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here:</p>
-<p>Data Center Operations Management IC4 - The typical base pay range for this role across the U.S. is USD $102,600 - $202,800 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $137,500 - $225,800 per year.</p>
-<p>Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here:</p>
-<p>This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.</p>
-<ul>
-<li><i> </i></li>
-</ul>
-<p>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about [<b>requesting accommodations.</b>](https://careers.microsoft.com/v2/global/en/accessibility.html)</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aa7acde757bd50ecaaaf055?src=adzuna]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Microsoft (Datacenters)]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-14T08:14:22.466Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6aa7acde5e240a2ef0b4e528]]></id>
     <title><![CDATA[Snr Critical Environment Technician]]></title>
     <description><![CDATA[<h3>Overview</h3>
@@ -108619,78 +107673,6 @@
     <date><![CDATA[2026-09-11T08:49:17.389Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6aa3c088148e4a0b48b9651c]]></id>
-    <title><![CDATA[Digital Producer]]></title>
-    <description><![CDATA[<h3>Employment Type</h3>
-<p>Permanent</p>
-<h3>Closing Date</h3>
-<p>26 Sept 2026 11:59pm</p>
-<h3>Job Title</h3>
-<p>Digital Producer</p>
-<h3>Job Summary</h3>
-<h3>Job Description</h3>
-<p>As Digital Producer you will have an obsessive attention to detail that dots all the i's and crosses all the t’s, but rest assured most days at Belong won’t look the same! You will be responsible for maintaining, updating and building our web content, contributing to the development of our website at an impeccably high standard using strong expertise in accessibility, responsiveness and usability. This will be paired with a strong understanding of web and customer experience analytics, as well as the design and development of CMS (Content Management System), HTML/CSS, Information Architecture, site structure, individual page design and content creation.</p>
-<p>As a member of the Content Experience team in the Digital team, you will support rapid growth, improve our speed to market, deliver data-driven, automated and customer centric experiences via our digital channels. You must have experience working in cross functional teams and be able to manage multiple projects and deadlines simultaneously. Reporting to the Content Experience Manager, you will have a thorough understanding of the agile and scrum framework and HCD (Human Centred Design) approach.</p>
-<p>You are a passionate and dedicated digital who wakes up every day wanting to create world class customer experiences developing delightful products and services that people absolutely love!</p>
-<h3>About the job</h3>
-<p><b>You will be responsible for:</b></p>
-<ul>
-<li>Working in close collaboration with your Digital Content Experience Manager , the Content experience team and the delivery squads to deliver on our strategic customer and digital experience vision aligned to our business KPIs (Key Performance Indicators)</li>
-<li>Planning, scheduling and managing the digital content from draft review to publishing using our Content Management System (CMS)</li>
-<li>Gathering business requirements from stakeholders and translating to world-class digital solutions</li>
-<li>Proactively monitoring and testing the site to identify maintenance and experience quality improvements</li>
-<li>Working as a team; supporting, communicating and collaborating with other producers</li>
-<li>Collaboratively working with other teams including design, technology and product to achieve a seamless digital customer experience</li>
-<li>Prioritizing and triaging content requests from internal stakeholders</li>
-<li>Continually refining and enhancing our CMS to maintain hygiene and best practice standards</li>
-<li>Pushing your knowledge of industry best practice including website development, and CMS production</li>
-</ul>
-<p><b>Skills and experience:</b><i>*</i>*</p>
-<ul>
-<li>Demonstrated professional experience in digital content publishing in a media corporate, business or agency setting</li>
-<li>Ability to write, edit and proof-read quality written content</li>
-<li>Strong editorial judgement</li>
-<li>Ability to liaise with a variety of digital disciplines, from design to development</li>
-<li>Challenge the norm with confident and assertive communication skills to influence and build relationships</li>
-<li>Effectively able to manage changes to scope, budget and timeline</li>
-<li>Knowledge of the WCAG (Web Content Accessibility Guidelines) 2.1 accessibility standards</li>
-<li>Strong SEO understanding</li>
-<li>Experience with Contentful would be advantageous</li>
-<li>Exposure to or experience with Design Systems and regard for implementation of visual identity of brand guidelines</li>
-<li>Ability to brief relevant supporting functions, such as Content Writers and Designers, in a clear and concise manner</li>
-<li>Provide Quality Assurance (QA) of the solution in testing environments to ensure our design quality and customer experience expectations are met</li>
-<li>Customer-first mindset!</li>
-</ul>
-<p>We’re flexible</p>
-<p>We’re all about flexibility and choice at work. Will you choose to work from home, in our office workspace, or on the go? Somewhere regional or the city? We want you to work where, when, and how you're most engaged, safe, and productive – wherever in Australia that may be.</p>
-<p>About Belong</p>
-<p>It feels good to bring people together.</p>
-<p>As a telco, we’re making our world a more inclusive place. That means giving Australians the tools they need to get things done in the digital world. Oh, and we’re doing that while being 100% carbon neutral.</p>
-<p>As an organisation, we're focused on having a customer-first mindset and delivering effortless customer experiences.</p>
-<p>As a workplace, we’re building a community of people who bring their whole selves to work. Workplaces can be brutally bland and that’s not good for anyone. Difference makes us all better and we’re always trying to get better.</p>
-<p>Our values</p>
-<p>We’re here to make our world a more inclusive place. That’s reflected in our four values:</p>
-<ul>
-<li>We care</li>
-<li>We’re better together</li>
-<li>We make it simple</li>
-<li>We’re change makers</li>
-</ul>
-<p>They help remind us that we care about the work we do and that, if we do it together, we can make our world a better place for our team and our customers.</p>
-<p><b>_</b><b>_</b><b>_</b><b>_</b><b>_</b>__</p>
-<p>We want our people to represent the customers we serve and encourage anyone with diverse experiences and unique perspectives to apply.</p>
-<p>Get to know what life at [Belong is like and what we value](https://www.linkedin.com/company/belong.com.au/life/).</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aa3c088148e4a0b48b9651c?src=adzuna]]></url>
-    <location><![CDATA[Australia (Flexible), AU]]></location>
-    <country><![CDATA[AU]]></country>
-    <remote>1</remote>
-    <company><![CDATA[Telstra]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-11T08:49:12.473Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6aa3c03fcc6d9231e2000f57]]></id>
     <title><![CDATA[Retail Consultant, Merrylands]]></title>
     <description><![CDATA[<p>Merrylands, Australia</p>
@@ -113358,65 +112340,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-10T20:52:42.727Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6aa316872b2d2f619e5a8bea]]></id>
-    <title><![CDATA[Customer Relationship Manager]]></title>
-    <description><![CDATA[<h3>What you will do</h3>
-<p>The Customer Services Administrator is focused on providing comprehensive support to Sales, Customer Relationship Management (CRM), and Service and Contract Management (SCM) teams. This entails delivering a high standard of service to customers by efficiently handling their requests and complaints</p>
-<h3>What we're looking for</h3>
-<p><b>Typical tasks and responsibilities will include:</b></p>
-<ul>
-<li>Providing general administrative support to Sales and Customer Success teams within agreed KPIs</li>
-<li>Delivering a high standard of service to customers by efficiently handling and resolving their requests and complaints to ensure customer satisfaction</li>
-<li>End to End ownership of resolving the tickets following standards and ensuring customer satisfaction</li>
-<li>Managing effective communication and providing proactive timely updates to internal and external customers on the progress of the tickets</li>
-<li>Responsible for the integrity of data within recording system and provide high quality resolution for customer queries following Colt’s standard processe</li>
-</ul>
-<h3>What we offer you:</h3>
-<h3><b>Looking to make a mark?</b></h3>
-<p>At Colt, you’ll make a difference. Because around here, we empower people. We don’t tell you what to do.</p>
-<p>Instead, we employ people we trust, who come together across the globe to create intelligent solutions.</p>
-<p>Our global teams are full of ambitious, driven people, all working together towards one shared purpose: to put the power of the digital universe in the hands of our customers wherever, whenever and however they want.</p>
-<p>We give our people the opportunity to inspire and lead teams, and work on projects that connect people, cities, businesses, and ideas. We want you to help us change the world, for the better.</p>
-<h3><b>Diversity and inclusion</b></h3>
-<ul>
-<li>Inclusion and valuing diversity of thought and experience are at the heart of our culture here at Colt. From day one, you’ll be encouraged to be yourself because we believe that’s what helps our people to thrive. We welcome people with diverse backgrounds and experiences, regardless of their gender identity or expression, sexual orientation, race, religion, disability, neurodiversity, age, marital status, pregnancy status, or place of birth.</li>
-</ul>
-<p>Most recently we have:</p>
-<ul>
-<li>Signed the UN Women Empowerment Principles which guide our Gender Action Plan</li>
-</ul>
-<ul>
-<li>Trained 60 (and growing) Colties to be Mental Health First Aiders</li>
-</ul>
-<ul>
-<li>Please speak with a member of our recruitment team if you require adjustments to our recruitment process to support you. For more information about our Inclusion and Diversity agenda, visit our [DEI pages](https://www.colt.net/about/inclusion-diversity/).</li>
-</ul>
-<h3>Benefits</h3>
-<p>Our benefits support you through all parts of life, for both physical and mental health.</p>
-<ul>
-<li>Flexible working hours and the option to work from home.</li>
-<li>Extensive induction program with experienced mentors and buddies.</li>
-<li>Opportunities for further development and educational opportunities.</li>
-<li>Global Family Leave Policy.</li>
-<li>Employee Assistance Program.</li>
-<li>Internal inclusion &amp; diversity employee networks.</li>
-</ul>
-<h3><b>A global network</b></h3>
-<ul>
-<li>When you join Colt you become part of our global network. We are proud of our colleagues and the stories and experience they bring – take a look at ‘Our People’ site including our Empowered Women in Tech.</li>
-</ul>
-<p><b>Job Segment:</b> CRM, Administrative Assistant, Data Center, Work from Home, Contract Manager, Technology, Administrative, Contract, Legal</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aa316872b2d2f619e5a8bea?src=adzuna]]></url>
-    <location><![CDATA[Gurugram, Haryana]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>1</remote>
-    <company><![CDATA[Colt DCS]]></company>
-    <category>11</category>
-    <contract_type>contract</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-10T20:43:51.785Z]]></date>
   </job>
   <job>
     <id><![CDATA[6aa3135a6cb89b3ff00b0b6a]]></id>
@@ -149754,126 +148677,6 @@
     <date><![CDATA[2026-09-09T01:17:23.012Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6aa0b37a3b5db23974de9f59]]></id>
-    <title><![CDATA[Telstra Retail: Full Time Customer Service & Sales Consultant KNOX]]></title>
-    <description><![CDATA[<h3>Employment Type</h3>
-<p>Permanent</p>
-<h3>Closing Date</h3>
-<p>26 Sept 2026 11:59pm</p>
-<h3>Job Title</h3>
-<p>Telstra Retail: Full Time Customer Service &amp; Sales Consultant KNOX</p>
-<h3>Job Summary</h3>
-<p>As a Retail Consultant, you will provide frontline support by assisting customers with product selection, service activation, and troubleshooting basic issues. You will create positive experiences through effective communication and adherence to retail standards. This role demonstrates foundational autonomy and contributes to customer satisfaction and store performance.</p>
-<h3>Job Description</h3>
-<p><b>Ready to Make a Difference? Join Our Iconic Team at Telstra!</b></p>
-<p>At Telstra, we’re more than just a leading telecommunications company—we’re where passion meets purpose. As a Retail Customer Service &amp; Sales Consultant, you’ll have the opportunity to work for an <b>iconic Aussie brand</b> that’s been connecting Australians for generations. You won’t just be a friendly face in-store—you’ll be the trusted expert who helps customers find tech solutions that enhance their lives. This is your chance to make a meaningful impact by bringing our purpose to life: to build a connected future so everyone can thrive.</p>
-<p><b>What You’ll Be Doing:</b></p>
-<ul>
-<li><b>Deliver Exceptional Customer Experiences:</b> Help customers find the right products and services to suit their needs, ensuring their time at Telstra is a memorable one.</li>
-<li><b>Be the Go-To Tech Expert:</b> Stay up-to-date with the latest gadgets and services, offering informed guidance and solutions.</li>
-<li><b>Achieve and Excel:</b> Use your consultative selling skills to meet and exceed sales targets and KPIs, while keeping customers connected.</li>
-</ul>
-<p><b>Collaborate and Contribute:</b> Work closely with your team to create a welcoming environment where everyone is supported to achieve store goals.</p>
-<p><b>Salary and Benefits:</b></p>
-<ul>
-<li><b>Annual Fixed Remuneration:</b> <b>$71,330 per year</b>*</li>
-</ul>
-<p><i>*Junior Rates apply for those under 20 years of age.</i></p>
-<p><b>Penalty rates are as follows:</b> Additional 25% for weekday hours worked after 6 PM, 25% for hours worked on Saturday, 100% for hours worked on Sunday and 150% for hours worked on public holidays.**12% superannuation included</p>
-<ul>
-<li><b>Plus 12% Superannuation</b></li>
-</ul>
-<ul>
-<li><b>Generous Discounts:</b> Enjoy <b>30% off Telstra services</b> and exclusive offers with over <b>240 brands and partners</b>.</li>
-<li><b>Leave Options:</b> Take advantage of <b>16 weeks of paid parental leave</b>, the <b>Telstra Extra Day Off</b>, <b>gender affirmation leave</b>, <b>Cultural Leave</b>, <b>Blood Donor Leave</b>, and the ability to purchase up to <b>4 weeks of additional leave</b>.</li>
-<li><b>Training &amp; Career Growth Opportunities:</b> Access over <b>17,000 learning programs</b> with LinkedIn Learning, and develop your career with our <b>Future Ready program</b> designed to build on your skills and prepare you for your next step.</li>
-<li><b>Flexibility:</b> We offer flexible working hours and a supportive approach to parental leave—<b>do it your way!</b></li>
-<li><b>Recognition &amp; Rewards:</b> Benefit from <b> performance rewards</b> and a range of recognition programs to celebrate your success.</li>
-<li><b>Inclusive Culture:</b> Join a diverse and inclusive team where everyone’s unique perspective is valued and respected.</li>
-</ul>
-<p><b>Is it You We’re Looking For?</b></p>
-<ul>
-<li><b>Great Communication Skills:</b> You’re a natural at connecting with people and making their day better.</li>
-<li><b>Solution-Oriented Approach:</b> You enjoy thinking on your feet and tailoring solutions for each customer.</li>
-<li><b>Sales Drive:</b> You’re motivated to achieve (and exceed!) sales targets and KPIs.</li>
-<li><b>Passion for Learning:</b> You’re eager to grow and develop your skills in a dynamic environment.</li>
-<li><b>Resilience and Positivity:</b> You have a can-do attitude, even when things get busy.</li>
-<li><b>Customer-Facing Experience:</b> Previous experience is a plus but not required—bring your enthusiasm and we’ll teach you the rest!</li>
-</ul>
-<p><b><i>How to Apply:</b></i></p>
-<p><i>Ready to kickstart your journey with us? Click &amp;#34;Apply Now&amp;#34; to submit your application! After applying, keep an eye out for an email from our partner, HireVue, to complete the next step in our assessment process.</i></p>
-<p><b><i>Join Us at Telstra Retail:</b></i></p>
-<p><i>When you become part of the Telstra team, you’re joining a brand that celebrates diversity and inclusion. We welcome applications from people of all backgrounds, abilities, and experiences, and we strive to create a workplace where everyone is respected, valued, and can thrive. We can’t wait to see what you’ll bring to our team!</i></p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aa0b37a3b5db23974de9f59?src=adzuna]]></url>
-    <location><![CDATA[Knox, Victoria]]></location>
-    <country><![CDATA[AU]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Telstra]]></company>
-    <category>3</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-09T01:16:42.466Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6aa0b37aba52ffd86bbcd64c]]></id>
-    <title><![CDATA[Telstra Retail: Full Time Customer Service & Sales Consultant WARRINGAH MALL]]></title>
-    <description><![CDATA[<h3>Employment Type</h3>
-<p>Permanent</p>
-<h3>Closing Date</h3>
-<p>26 Sept 2026 11:59pm</p>
-<h3>Job Title</h3>
-<p>Telstra Retail: Full Time Customer Service &amp; Sales Consultant WARRINGAH MALL</p>
-<h3>Job Summary</h3>
-<p>As a Retail Consultant, you will provide frontline support by assisting customers with product selection, service activation, and troubleshooting basic issues. You will create positive experiences through effective communication and adherence to retail standards. This role demonstrates foundational autonomy and contributes to customer satisfaction and store performance.</p>
-<h3>Job Description</h3>
-<p><b>Ready to Make a Difference? Join Our Iconic Team at Telstra!</b></p>
-<p>At Telstra, we’re more than just a leading telecommunications company—we’re where passion meets purpose. As a Retail Customer Service &amp; Sales Consultant, you’ll have the opportunity to work for an <b>iconic Aussie brand</b> that’s been connecting Australians for generations. You won’t just be a friendly face in-store—you’ll be the trusted expert who helps customers find tech solutions that enhance their lives. This is your chance to make a meaningful impact by bringing our purpose to life: to build a connected future so everyone can thrive.</p>
-<p><b>What You’ll Be Doing:</b></p>
-<ul>
-<li><b>Deliver Exceptional Customer Experiences:</b> Help customers find the right products and services to suit their needs, ensuring their time at Telstra is a memorable one.</li>
-<li><b>Be the Go-To Tech Expert:</b> Stay up-to-date with the latest gadgets and services, offering informed guidance and solutions.</li>
-<li><b>Achieve and Excel:</b> Use your consultative selling skills to meet and exceed sales targets and KPIs, while keeping customers connected.</li>
-<li><b>Collaborate and Contribute:</b> Work closely with your team to create a welcoming environment where everyone is supported to achieve store goals.</li>
-</ul>
-<p><b>Salary and Benefits:</b></p>
-<ul>
-<li><b>Annual Fixed Remuneration:</b> <b>$71,330 per year</b>*</li>
-</ul>
-<p><i>*Junior Rates apply for those under 20 years of age.</i></p>
-<p><b>Penalty rates are as follows:</b> Additional 25% for weekday hours worked after 6 PM, 25% for hours worked on Saturday, 100% for hours worked on Sunday and 150% for hours worked on public holidays.**12% superannuation included</p>
-<ul>
-<li><b>Plus 12% Superannuation</b></li>
-<li><b>Generous Discounts:</b> Enjoy <b>30% off Telstra services</b> and exclusive offers with over <b>240 brands and partners</b>.</li>
-<li><b>Leave Options:</b> Take advantage of <b>16 weeks of paid parental leave</b>, the <b>Telstra Extra Day Off</b>, <b>gender affirmation leave</b>, <b>Cultural Leave</b>, <b>Blood Donor Leave</b>, and the ability to purchase up to <b>4 weeks of additional leave</b>.</li>
-<li><b>Training &amp; Career Growth Opportunities:</b> Access over <b>17,000 learning programs</b> through LinkedIn Learning and take advantage of a range of development opportunities designed to build your skills and support your career growth, helping you prepare for your next step.</li>
-<li><b>Flexibility:</b> We offer flexible working hours and a supportive approach to parental leave—<b>do it your way!</b></li>
-<li><b>Recognition &amp; Rewards:</b> Benefit from <b> performance rewards</b> and a range of recognition programs to celebrate your success.</li>
-<li><b>Inclusive Culture:</b> Join a diverse and inclusive team where everyone’s unique perspective is valued and respected.</li>
-</ul>
-<p><b>Is it You We’re Looking For?</b></p>
-<ul>
-<li><b>Great Communication Skills:</b> You’re a natural at connecting with people and making their day better.</li>
-<li><b>Solution-Oriented Approach:</b> You enjoy thinking on your feet and tailoring solutions for each customer.</li>
-<li><b>Sales Drive:</b> You’re motivated to achieve (and exceed!) sales targets and KPIs.</li>
-<li><b>Passion for Learning:</b> You’re eager to grow and develop your skills in a dynamic environment.</li>
-<li><b>Resilience and Positivity:</b> You have a can-do attitude, even when things get busy.</li>
-<li><b>Customer-Facing Experience:</b> Previous experience is a plus but not required—bring your enthusiasm and we’ll teach you the rest!</li>
-</ul>
-<p><b><i>How to Apply:</b></i></p>
-<p><i>Ready to kickstart your journey with us? Click &amp;#34;Apply Now&amp;#34; to submit your application! After applying, keep an eye out for an email from our partner, HireVue, to complete the next step in our assessment process.</i></p>
-<p><b><i>Join Us at Telstra Retail:</b></i></p>
-<p><i>When you become part of the Telstra team, you’re joining a brand that celebrates diversity and inclusion. We welcome applications from people of all backgrounds, abilities, and experiences, and we strive to create a workplace where everyone is respected, valued, and can thrive. We can’t wait to see what you’ll bring to our team!</i></p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aa0b37aba52ffd86bbcd64c?src=adzuna]]></url>
-    <location><![CDATA[Warringah Mall, New South Wales]]></location>
-    <country><![CDATA[AU]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Telstra]]></company>
-    <category>3</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-09T01:16:42.155Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6aa0b375d0e264a9ace5f499]]></id>
     <title><![CDATA[Telstra Retail: Part Time Customer Service & Sales Consultant PACIFIC FAIR]]></title>
     <description><![CDATA[<h3>Employment Type</h3>
@@ -157513,64 +156316,6 @@
     <date><![CDATA[2026-09-07T18:43:45.679Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6a9f05e15db17660559b905a]]></id>
-    <title><![CDATA[OTC Functional Analyst]]></title>
-    <description><![CDATA[<h3>OTC Functional Analyst</h3>
-<p>At Johnson Controls, you will help support the systems and processes that enable customers to move from order to cash with accuracy, speed, and confidence. You will work with cross-functional teams to improve business performance, strengthen operational reliability, and support the day-to-day flow of Oracle Fusion OTC processes.</p>
-<h3>Role Overview</h3>
-<p>As an OTC Functional Analyst, you will support and improve Order-to-Cash processes across areas such as order management, invoicing, receipts, customer master data, and month-end activities. This role is well suited for a professional with 4-6 years of experience who enjoys solving business problems, working closely with stakeholders, and turning functional requirements into effective system support and process improvements.</p>
-<h3>Key Responsibilities</h3>
-<ul>
-<li>Support Oracle Fusion Order-to-Cash processes and contribute to stable, efficient business operations.</li>
-<li>Analyze functional requirements and help translate them into practical system solutions and process enhancements.</li>
-<li>Work with business and technical teams to support order management, invoicing, customer receipts, and related OTC activities.</li>
-<li>Assist with issue resolution, root cause analysis, and post-go-live support for business-critical processes.</li>
-<li>Support month-end close activities for OTC-related subledger processes, including reconciliation and documentation support.</li>
-<li>Partner with stakeholders to improve process reliability, data quality, and end-user experience.</li>
-<li>Contribute to testing, validation, and change support for system updates and process changes.</li>
-<li>Document functional flows, business rules, and support activities clearly and consistently.</li>
-</ul>
-<h3>How You Will Do It</h3>
-<ul>
-<li>You will stay close to the business process, listen carefully to user needs, and remove friction where it affects customers or operations.</li>
-<li>You will own your work with accountability, accuracy, safety-minded thinking, and integrity in every step.</li>
-<li>You will use a continuous-improvement mindset, asking questions, challenging gaps, and helping the team solve problems early.</li>
-<li>You will collaborate openly across business and technology teams, building trust and aligning different perspectives toward one outcome.</li>
-<li>You will support structured issue handling, clear documentation, and disciplined follow-through from analysis through resolution.</li>
-<li>You will contribute to reliable delivery by working methodically through testing, validation, and operational support activities.</li>
-</ul>
-<h3>Qualifications</h3>
-<ul>
-<li>Bachelor’s degree in Information Technology, Business Administration, Finance, or a related field.</li>
-<li>4-6 years of experience in an OTC functional analyst, business analyst, or similar role.</li>
-<li>Strong understanding of Order-to-Cash processes and their impact across the business.</li>
-<li>Experience supporting Oracle Fusion OTC processes, including order management, invoicing, receipts, or related finance activities.</li>
-<li>Ability to analyze business requirements, identify process gaps, and support functional solutions.</li>
-<li>Experience working with customer master data and month-end close activities.</li>
-<li>Strong communication skills with the ability to work across business and technical teams.</li>
-<li>Solid problem-solving skills, attention to detail, and a structured approach to documentation and follow-up.</li>
-</ul>
-<h3>Nice to Have</h3>
-<ul>
-<li>Hands-on exposure to Oracle Fusion Financials AR or Oracle Fusion Order Management.</li>
-<li>Experience with invoice processing, receipt handling, or AR subledger support.</li>
-<li>Familiarity with DevOps or Agile ways of working.</li>
-<li>Experience supporting testing cycles, change requests, or post-go-live operational support.</li>
-</ul>
-<h3>Why Join Us</h3>
-<p>You will be part of a team that values practical problem-solving, customer impact, and continuous improvement. At Johnson Controls, your ideas and collaboration can help strengthen the processes that keep business moving and customers supported.</p>
-<p>If you are ready to bring your OTC expertise to a role where your work can make a real difference, we encourage you to apply.</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a9f05e15db17660559b905a?src=adzuna]]></url>
-    <location><![CDATA[Bangalore, Karnataka]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Johnson Controls]]></company>
-    <category>1</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-07T18:43:45.062Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6a9f05e0fb2d339d5e3fc8b3]]></id>
     <title><![CDATA[Service Engineer]]></title>
     <description><![CDATA[<h3>Job Summary</h3>
@@ -163042,75 +161787,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-04T18:38:31.416Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6a9b10278ad9090616428d5c]]></id>
-    <title><![CDATA[Technical Lead I (Chiller)]]></title>
-    <description><![CDATA[<h3>Job Description</h3>
-<p>Technical Lead II <b> Prod Dev (Air Cooled)</b></p>
-<p><b>About Johnson Controls</b></p>
-<p>At Johnson Controls, we transform the environments where people live, work, learn and play. From optimizing building performance to improving safety and enhancing comfort, we drive the outcomes that matter most. Dedicated to protecting the environment, we deliver our promise in industries such as healthcare, education, data centers and manufacturing. With a global team of 100,000 experts in more than 150 countries and over 130 years of innovation, we are the power behind our customers’ mission.</p>
-<p><b>How you will do it/Responsibilities:</b></p>
-<ul>
-<li>Based on the long-term plan of product development, establish, and develop Air Cooled Chiller product development technical team, and constantly improve the technical ability</li>
-</ul>
-<ul>
-<li>Work with the Engineering Manager to set the annual work goals and supervise the implementation</li>
-</ul>
-<ul>
-<li>Assist Air Cooled product management department to make Air Cooled product development plan and roadmap, and implement them</li>
-</ul>
-<ul>
-<li>Organize the Department to carry out Air Cooled product development and innovation according to the requirements of JCI process, coordinate the progress and resources of Air-Cooled product development projects, and timely introduce and develop new products to meet the market needs</li>
-</ul>
-<ul>
-<li>Lead or participate in global Air-Cooled product development and improvement projects and activities, coordinate project schedule and resources,</li>
-</ul>
-<ul>
-<li>Responsible for technical review of non-standard contract design, detailed design of non-standard order, timely delivery of technical documents related to Air Cooled Chiller</li>
-</ul>
-<ul>
-<li>Do a good job in communication, coordination and cooperation with relevant departments, analyze the opportunities of products in production and use, organize CI, CR, VAVE for products</li>
-</ul>
-<ul>
-<li>Provide technical support for manufacturing and maintenance service, provide technical documents related to products in time, coordinate and solve technical problems of products</li>
-</ul>
-<ul>
-<li>Abide by the company's ethics policy, company system, policy and process, and comply with the quality requirements related to the position</li>
-</ul>
-<ul>
-<li>Advocate the construction of corporate culture in the Department</li>
-</ul>
-<ul>
-<li>Implement the company's safety, environmental protection and health management regulations; Identify and rectify the environmental factors and hazards of the post, and remember the major risks and important environmental factors of the company; Effective implementation of the company's safety, environmental protection and health management objectives and management programs</li>
-</ul>
-<ul>
-<li>Complete the task temporarily assigned by the superior.</li>
-</ul>
-<p><b>What we look for</b></p>
-<p><b>Required</b></p>
-<ul>
-<li>Education background: Bachelor’s degree or above</li>
-</ul>
-<ul>
-<li>Working experience: 8&amp;#43; years’ experience in Air Cooled Chiller Design and Development</li>
-</ul>
-<p>Abilities and skills:</p>
-<ul>
-<li>Ø - Familiar with related product technical knowledge, at least four years of air conditioning and refrigeration system development experience;</li>
-<li>Ø - Familiar with all kinds of domestic and international technical standards of related products;</li>
-<li>Ø - Good written and oral communication skills, as well as the ability to make full use of various resources;</li>
-</ul>
-<p>Johnson Controls is an equal employment opportunity and affirmative action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, protected veteran status, status as a qualified individual with a disability, or any other characteristic protected by law. For more information, please view EEO is the Law. If you are an individual with a disability and you require an accommodation during the application process, please visit [www.johnsoncontrols.com/tomorrowneedsyou](http://www.johnsoncontrols.com/tomorrowneedsyou).</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a9b10278ad9090616428d5c?src=adzuna]]></url>
-    <location><![CDATA[Pune, Maharashtra]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Johnson Controls]]></company>
-    <category>5</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-04T18:38:31.136Z]]></date>
   </job>
   <job>
     <id><![CDATA[6a9b1026e0d35829405c4f97]]></id>
@@ -171844,7 +170520,7 @@
     <country><![CDATA[IN]]></country>
     <remote>0</remote>
     <company><![CDATA[Schneider Electric]]></company>
-    <category>2</category>
+    <category>1</category>
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-02T19:24:26.051Z]]></date>
@@ -172279,64 +170955,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>part_time</contract_time>
     <date><![CDATA[2026-09-02T19:08:20.611Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6a987424dd9e0e305b2a9131]]></id>
-    <title><![CDATA[Telstra Retail: Casual Customer Service & Sales Consultant MARION]]></title>
-    <description><![CDATA[<h3>Employment Type</h3>
-<p>Casual</p>
-<h3>Closing Date</h3>
-<p>30 Sept 2026 11:59pm</p>
-<h3>Job Title</h3>
-<p>Telstra Retail: Casual Customer Service &amp; Sales Consultant MARION</p>
-<h3>Job Summary</h3>
-<p>As a Retail Consultant, you will provide frontline support by assisting customers with product selection, service activation, and troubleshooting basic issues. You will create positive experiences through effective communication and adherence to retail standards. This role demonstrates foundational autonomy and contributes to customer satisfaction and store performance.</p>
-<h3>Job Description</h3>
-<p><b>Ready to Make a Difference? Join Our Iconic Team at Telstra!</b></p>
-<p>At Telstra, we’re more than just a leading telecommunications company—we’re where passion meets purpose. As a Retail Customer Service &amp; Sales Consultant, you’ll have the opportunity to work for an <b>iconic Aussie brand</b> that’s been connecting Australians for generations. You won’t just be a friendly face in-store—you’ll be the trusted expert who helps customers find tech solutions that enhance their lives. This is your chance to make a meaningful impact by bringing our purpose to life: to build a connected future so everyone can thrive.</p>
-<p><b>What You’ll Be Doing:</b></p>
-<ul>
-<li><b>Deliver Exceptional Customer Experiences:</b> Help customers find the right products and services to suit their needs, ensuring their time at Telstra is a memorable one.</li>
-<li><b>Be the Go-To Tech Expert:</b> Stay up-to-date with the latest gadgets and services, offering informed guidance and solutions.</li>
-<li><b>Achieve and Excel:</b> Use your consultative selling skills to meet and exceed sales targets and KPIs, while keeping customers connected.</li>
-<li><b>Collaborate and Contribute:</b> Work closely with your team to create a welcoming environment where everyone is supported to achieve store goals.</li>
-</ul>
-<p><b>Salary and Benefits:</b></p>
-<ul>
-<li><b>Plus 12% Superannuation</b></li>
-</ul>
-<ul>
-<li><b>Generous Discounts:</b> Enjoy <b>30% off Telstra services</b> and exclusive offers with over <b>240 brands and partners</b>.</li>
-<li><b>Leave Options:</b> Take advantage of <b>16 weeks of paid parental leave</b>, the <b>Telstra Extra Day Off</b>, <b>gender affirmation leave</b>, <b>Cultural Leave</b>, <b>Blood Donor Leave</b>, and the ability to purchase up to <b>4 weeks of additional leave</b>.</li>
-<li><b>Training &amp; Career Growth Opportunities:</b> Access over <b>17,000 learning programs</b> with LinkedIn Learning, and take advantage of a range of development opportunities designed to build your skills and support your career growth, helping you prepare for your next step.</li>
-<li><b>Flexibility:</b> We offer flexible working hours and a supportive approach to parental leave—<b>do it your way!</b></li>
-</ul>
-<ul>
-<li><b>Recognition &amp; Rewards:</b> Benefit from <b> performance rewards</b> and a range of recognition programs to celebrate your success.</li>
-<li><b>Inclusive Culture:</b> Join a diverse and inclusive team where everyone’s unique perspective is valued and respected.</li>
-</ul>
-<p><b>Is it You We’re Looking For?</b></p>
-<ul>
-<li><b>Great Communication Skills:</b> You’re a natural at connecting with people and making their day better.</li>
-<li><b>Solution-Oriented Approach:</b> You enjoy thinking on your feet and tailoring solutions for each customer.</li>
-<li><b>Sales Drive:</b> You’re motivated to achieve (and exceed!) sales targets and KPIs.</li>
-<li><b>Passion for Learning:</b> You’re eager to grow and develop your skills in a dynamic environment.</li>
-<li><b>Resilience and Positivity:</b> You have a can-do attitude, even when things get busy.</li>
-<li><b>Customer-Facing Experience:</b> Previous experience is a plus but not required—bring your enthusiasm and we’ll teach you the rest!</li>
-</ul>
-<p><b><i>How to Apply:</b></i></p>
-<p><i>Ready to kickstart your journey with us? Click &amp;#34;Apply Now&amp;#34; to submit your application! After applying, keep an eye out for an email from our partner, HireVue, to complete the next step in our assessment process.</i></p>
-<p><b><i>Join Us at Telstra Retail:</b></i></p>
-<p><i>When you become part of the Telstra team, you’re joining a brand that celebrates diversity and inclusion. We welcome applications from people of all backgrounds, abilities, and experiences, and we strive to create a workplace where everyone is respected, valued, and can thrive. We can’t wait to see what you’ll bring to our team!</i></p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a987424dd9e0e305b2a9131?src=adzuna]]></url>
-    <location><![CDATA[Marion, South Australia]]></location>
-    <country><![CDATA[AU]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Telstra]]></company>
-    <category>3</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-02T19:08:20.574Z]]></date>
   </job>
   <job>
     <id><![CDATA[6a987424fc120fc46c558ade]]></id>
@@ -208921,187 +207539,6 @@
     <date><![CDATA[2026-08-27T19:25:48.036Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6a908b41c8bbdf1611129df4]]></id>
-    <title><![CDATA[Telstra Retail: Full Time Customer Service & Sales Consultant KNOX]]></title>
-    <description><![CDATA[<h3>Employment Type</h3>
-<p>Permanent</p>
-<h3>Closing Date</h3>
-<p>26 Sept 2026 11:59pm</p>
-<h3>Job Title</h3>
-<p>Telstra Retail: Full Time Customer Service &amp; Sales Consultant KNOX</p>
-<h3>Job Summary</h3>
-<p>As a Retail Consultant, you will provide frontline support by assisting customers with product selection, service activation, and troubleshooting basic issues. You will create positive experiences through effective communication and adherence to retail standards. This role demonstrates foundational autonomy and contributes to customer satisfaction and store performance.</p>
-<h3>Job Description</h3>
-<p><b>Ready to Make a Difference? Join Our Iconic Team at Telstra!</b></p>
-<p>At Telstra, we’re more than just a leading telecommunications company—we’re where passion meets purpose. As a Retail Customer Service &amp; Sales Consultant, you’ll have the opportunity to work for an <b>iconic Aussie brand</b> that’s been connecting Australians for generations. You won’t just be a friendly face in-store—you’ll be the trusted expert who helps customers find tech solutions that enhance their lives. This is your chance to make a meaningful impact by bringing our purpose to life: to build a connected future so everyone can thrive.</p>
-<p><b>What You’ll Be Doing:</b></p>
-<ul>
-<li><b>Deliver Exceptional Customer Experiences:</b> Help customers find the right products and services to suit their needs, ensuring their time at Telstra is a memorable one.</li>
-<li><b>Be the Go-To Tech Expert:</b> Stay up-to-date with the latest gadgets and services, offering informed guidance and solutions.</li>
-<li><b>Achieve and Excel:</b> Use your consultative selling skills to meet and exceed sales targets and KPIs, while keeping customers connected.</li>
-</ul>
-<p><b>Collaborate and Contribute:</b> Work closely with your team to create a welcoming environment where everyone is supported to achieve store goals.</p>
-<p><b>Salary and Benefits:</b></p>
-<ul>
-<li><b>Annual Fixed Remuneration:</b> <b>$71,330 per year</b>*</li>
-</ul>
-<p><i>*Junior Rates apply for those under 20 years of age.</i></p>
-<p><b>Penalty rates are as follows:</b> Additional 25% for weekday hours worked after 6 PM, 25% for hours worked on Saturday, 100% for hours worked on Sunday and 150% for hours worked on public holidays.**12% superannuation included</p>
-<ul>
-<li><b>Plus 12% Superannuation</b></li>
-</ul>
-<ul>
-<li><b>Generous Discounts:</b> Enjoy <b>30% off Telstra services</b> and exclusive offers with over <b>240 brands and partners</b>.</li>
-<li><b>Leave Options:</b> Take advantage of <b>16 weeks of paid parental leave</b>, the <b>Telstra Extra Day Off</b>, <b>gender affirmation leave</b>, <b>Cultural Leave</b>, <b>Blood Donor Leave</b>, and the ability to purchase up to <b>4 weeks of additional leave</b>.</li>
-<li><b>Training &amp; Career Growth Opportunities:</b> Access over <b>17,000 learning programs</b> with LinkedIn Learning, and develop your career with our <b>Future Ready program</b> designed to build on your skills and prepare you for your next step.</li>
-<li><b>Flexibility:</b> We offer flexible working hours and a supportive approach to parental leave—<b>do it your way!</b></li>
-<li><b>Recognition &amp; Rewards:</b> Benefit from <b> performance rewards</b> and a range of recognition programs to celebrate your success.</li>
-<li><b>Inclusive Culture:</b> Join a diverse and inclusive team where everyone’s unique perspective is valued and respected.</li>
-</ul>
-<p><b>Is it You We’re Looking For?</b></p>
-<ul>
-<li><b>Great Communication Skills:</b> You’re a natural at connecting with people and making their day better.</li>
-<li><b>Solution-Oriented Approach:</b> You enjoy thinking on your feet and tailoring solutions for each customer.</li>
-<li><b>Sales Drive:</b> You’re motivated to achieve (and exceed!) sales targets and KPIs.</li>
-<li><b>Passion for Learning:</b> You’re eager to grow and develop your skills in a dynamic environment.</li>
-<li><b>Resilience and Positivity:</b> You have a can-do attitude, even when things get busy.</li>
-<li><b>Customer-Facing Experience:</b> Previous experience is a plus but not required—bring your enthusiasm and we’ll teach you the rest!</li>
-</ul>
-<p><b><i>How to Apply:</b></i></p>
-<p><i>Ready to kickstart your journey with us? Click &amp;#34;Apply Now&amp;#34; to submit your application! After applying, keep an eye out for an email from our partner, HireVue, to complete the next step in our assessment process.</i></p>
-<p><b><i>Join Us at Telstra Retail:</b></i></p>
-<p><i>When you become part of the Telstra team, you’re joining a brand that celebrates diversity and inclusion. We welcome applications from people of all backgrounds, abilities, and experiences, and we strive to create a workplace where everyone is respected, valued, and can thrive. We can’t wait to see what you’ll bring to our team!</i></p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a908b41c8bbdf1611129df4?src=adzuna]]></url>
-    <location><![CDATA[Melbourne, Victoria]]></location>
-    <country><![CDATA[AU]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Telstra]]></company>
-    <category>3</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-08-27T19:08:49.442Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6a908b41a8b038339dd9a3cc]]></id>
-    <title><![CDATA[Telstra Retail: Part Time Customer Service & Sales Consultant WARRINGAH MALL]]></title>
-    <description><![CDATA[<h3>Employment Type</h3>
-<p>Permanent</p>
-<h3>Closing Date</h3>
-<p>26 Sept 2026 11:59pm</p>
-<h3>Job Title</h3>
-<p>Telstra Retail: Part Time Customer Service &amp; Sales Consultant WARRINGAH MALL</p>
-<h3>Job Summary</h3>
-<p>As a Retail Consultant, you will provide frontline support by assisting customers with product selection, service activation, and troubleshooting basic issues. You will create positive experiences through effective communication and adherence to retail standards. This role demonstrates foundational autonomy and contributes to customer satisfaction and store performance.</p>
-<h3>Job Description</h3>
-<p><b>Ready to Make a Difference? Join Our Iconic Team at Telstra!</b></p>
-<p>At Telstra, we’re more than just a leading telecommunications company—we’re where passion meets purpose. As a Retail Customer Service &amp; Sales Consultant, you’ll have the opportunity to work for an <b>iconic Aussie brand</b> that’s been connecting Australians for generations. You won’t just be a friendly face in-store—you’ll be the trusted expert who helps customers find tech solutions that enhance their lives. This is your chance to make a meaningful impact by bringing our purpose to life: to build a connected future so everyone can thrive.</p>
-<p><b>What You’ll Be Doing:</b></p>
-<ul>
-<li><b>Deliver Exceptional Customer Experiences:</b> Help customers find the right products and services to suit their needs, ensuring their time at Telstra is a memorable one.</li>
-<li><b>Be the Go-To Tech Expert:</b> Stay up-to-date with the latest gadgets and services, offering informed guidance and solutions.</li>
-<li><b>Achieve and Excel:</b> Use your consultative selling skills to meet and exceed sales targets and KPIs, while keeping customers connected.</li>
-<li><b>Collaborate and Contribute:</b> Work closely with your team to create a welcoming environment where everyone is supported to achieve store goals.</li>
-</ul>
-<p><b>Salary and Benefits:</b></p>
-<ul>
-<li><b>Hourly Rate:</b> <b>$33.33 per hour</b></li>
-</ul>
-<p><i>*Junior rates apply for those under 20 years of age.</i></p>
-<p><b>Penalty rates are as follows:</b> Additional 25% for weekday hours worked after 6 PM, 25% for hours worked on Saturday, 100% for hours worked on Sunday and 150% for hours worked on public holidays.*</p>
-<ul>
-<li><b>Plus 12% Superannuation</b></li>
-</ul>
-<ul>
-<li><b>Generous Discounts:</b> Enjoy <b>30% off Telstra services</b> and exclusive offers with over <b>240 brands and partners</b>.</li>
-<li><b>Leave Options:</b> Take advantage of <b>16 weeks of paid parental leave</b>, the <b>Telstra Extra Day Off</b>, <b>gender affirmation leave</b>, <b>Cultural Leave</b>, <b>Blood Donor Leave</b>, and the ability to purchase up to <b>4 weeks of additional leave</b>.</li>
-<li><b>Training &amp; Career Growth Opportunities:</b> Access over <b>17,000 learning programs</b> through LinkedIn Learning and take advantage of a range of development opportunities designed to build your skills and support your career growth, helping you prepare for your next step.</li>
-<li><b>Flexibility:</b> We offer flexible working hours and a supportive approach to parental leave—<b>do it your way!</b></li>
-<li><b>Recognition &amp; Rewards:</b> Benefit from <b> performance rewards</b> and a range of recognition programs to celebrate your success.</li>
-<li><b>Inclusive Culture:</b> Join a diverse and inclusive team where everyone’s unique perspective is valued and respected.</li>
-</ul>
-<p><b>Is it You We’re Looking For?</b></p>
-<ul>
-<li><b>Great Communication Skills:</b> You’re a natural at connecting with people and making their day better.</li>
-<li><b>Solution-Oriented Approach:</b> You enjoy thinking on your feet and tailoring solutions for each customer.</li>
-<li><b>Sales Drive:</b> You’re motivated to achieve (and exceed!) sales targets and KPIs.</li>
-<li><b>Passion for Learning:</b> You’re eager to grow and develop your skills in a dynamic environment.</li>
-<li><b>Resilience and Positivity:</b> You have a can-do attitude, even when things get busy.</li>
-<li><b>Customer-Facing Experience:</b> Previous experience is a plus but not required—bring your enthusiasm and we’ll teach you the rest!</li>
-</ul>
-<p><b><i>How to Apply:</b></i></p>
-<p><i>Ready to kickstart your journey with us? Click &amp;#34;Apply Now&amp;#34; to submit your application! After applying, keep an eye out for an email from our partner, HireVue, to complete the next step in our assessment process.</i></p>
-<p><b><i>Join Us at Telstra Retail:</b></i></p>
-<p><i>When you become part of the Telstra team, you’re joining a brand that celebrates diversity and inclusion. We welcome applications from people of all backgrounds, abilities, and experiences, and we strive to create a workplace where everyone is respected, valued, and can thrive. We can’t wait to see what you’ll bring to our team!</i></p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a908b41a8b038339dd9a3cc?src=adzuna]]></url>
-    <location><![CDATA[Sydney, New South Wales]]></location>
-    <country><![CDATA[AU]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Telstra]]></company>
-    <category>3</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>part_time</contract_time>
-    <date><![CDATA[2026-08-27T19:08:49.227Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6a908b41e9d5cfecc8b9c1b5]]></id>
-    <title><![CDATA[Telstra Retail: Full Time Customer Service & Sales Consultant WARRINGAH MALL]]></title>
-    <description><![CDATA[<h3>Employment Type</h3>
-<p>Permanent</p>
-<h3>Closing Date</h3>
-<p>26 Sept 2026 11:59pm</p>
-<h3>Job Title</h3>
-<p>Telstra Retail: Full Time Customer Service &amp; Sales Consultant WARRINGAH MALL</p>
-<h3>Job Summary</h3>
-<p>As a Retail Consultant, you will provide frontline support by assisting customers with product selection, service activation, and troubleshooting basic issues. You will create positive experiences through effective communication and adherence to retail standards. This role demonstrates foundational autonomy and contributes to customer satisfaction and store performance.</p>
-<h3>Job Description</h3>
-<p><b>Ready to Make a Difference? Join Our Iconic Team at Telstra!</b></p>
-<p>At Telstra, we’re more than just a leading telecommunications company—we’re where passion meets purpose. As a Retail Customer Service &amp; Sales Consultant, you’ll have the opportunity to work for an <b>iconic Aussie brand</b> that’s been connecting Australians for generations. You won’t just be a friendly face in-store—you’ll be the trusted expert who helps customers find tech solutions that enhance their lives. This is your chance to make a meaningful impact by bringing our purpose to life: to build a connected future so everyone can thrive.</p>
-<p><b>What You’ll Be Doing:</b></p>
-<ul>
-<li><b>Deliver Exceptional Customer Experiences:</b> Help customers find the right products and services to suit their needs, ensuring their time at Telstra is a memorable one.</li>
-<li><b>Be the Go-To Tech Expert:</b> Stay up-to-date with the latest gadgets and services, offering informed guidance and solutions.</li>
-<li><b>Achieve and Excel:</b> Use your consultative selling skills to meet and exceed sales targets and KPIs, while keeping customers connected.</li>
-<li><b>Collaborate and Contribute:</b> Work closely with your team to create a welcoming environment where everyone is supported to achieve store goals.</li>
-</ul>
-<p><b>Salary and Benefits:</b></p>
-<ul>
-<li><b>Annual Fixed Remuneration:</b> <b>$71,330 per year</b>*</li>
-</ul>
-<p><i>*Junior Rates apply for those under 20 years of age.</i></p>
-<p><b>Penalty rates are as follows:</b> Additional 25% for weekday hours worked after 6 PM, 25% for hours worked on Saturday, 100% for hours worked on Sunday and 150% for hours worked on public holidays.**12% superannuation included</p>
-<ul>
-<li><b>Plus 12% Superannuation</b></li>
-<li><b>Generous Discounts:</b> Enjoy <b>30% off Telstra services</b> and exclusive offers with over <b>240 brands and partners</b>.</li>
-<li><b>Leave Options:</b> Take advantage of <b>16 weeks of paid parental leave</b>, the <b>Telstra Extra Day Off</b>, <b>gender affirmation leave</b>, <b>Cultural Leave</b>, <b>Blood Donor Leave</b>, and the ability to purchase up to <b>4 weeks of additional leave</b>.</li>
-<li><b>Training &amp; Career Growth Opportunities:</b> Access over <b>17,000 learning programs</b> through LinkedIn Learning and take advantage of a range of development opportunities designed to build your skills and support your career growth, helping you prepare for your next step.</li>
-<li><b>Flexibility:</b> We offer flexible working hours and a supportive approach to parental leave—<b>do it your way!</b></li>
-<li><b>Recognition &amp; Rewards:</b> Benefit from <b> performance rewards</b> and a range of recognition programs to celebrate your success.</li>
-<li><b>Inclusive Culture:</b> Join a diverse and inclusive team where everyone’s unique perspective is valued and respected.</li>
-</ul>
-<p><b>Is it You We’re Looking For?</b></p>
-<ul>
-<li><b>Great Communication Skills:</b> You’re a natural at connecting with people and making their day better.</li>
-<li><b>Solution-Oriented Approach:</b> You enjoy thinking on your feet and tailoring solutions for each customer.</li>
-<li><b>Sales Drive:</b> You’re motivated to achieve (and exceed!) sales targets and KPIs.</li>
-<li><b>Passion for Learning:</b> You’re eager to grow and develop your skills in a dynamic environment.</li>
-<li><b>Resilience and Positivity:</b> You have a can-do attitude, even when things get busy.</li>
-<li><b>Customer-Facing Experience:</b> Previous experience is a plus but not required—bring your enthusiasm and we’ll teach you the rest!</li>
-</ul>
-<p><b><i>How to Apply:</b></i></p>
-<p><i>Ready to kickstart your journey with us? Click &amp;#34;Apply Now&amp;#34; to submit your application! After applying, keep an eye out for an email from our partner, HireVue, to complete the next step in our assessment process.</i></p>
-<p><b><i>Join Us at Telstra Retail:</b></i></p>
-<p><i>When you become part of the Telstra team, you’re joining a brand that celebrates diversity and inclusion. We welcome applications from people of all backgrounds, abilities, and experiences, and we strive to create a workplace where everyone is respected, valued, and can thrive. We can’t wait to see what you’ll bring to our team!</i></p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a908b41e9d5cfecc8b9c1b5?src=adzuna]]></url>
-    <location><![CDATA[Sydney, New South Wales]]></location>
-    <country><![CDATA[AU]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Telstra]]></company>
-    <category>3</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-08-27T19:08:49.128Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6a9089f98980f99b4d76de6b]]></id>
     <title><![CDATA[Job Application for Senior AI Data Center Electrical Engineer at SUBMER]]></title>
     <description><![CDATA[<h3>Qualifications</h3>
@@ -238475,5 +236912,1047 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-08-26T04:34:28.529Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8e6cd40cedfbf0b285ad77]]></id>
+    <title><![CDATA[Senior Project Engineer]]></title>
+    <description><![CDATA[<p>Job Description</p>
+<p><b>Who we are :</b></p>
+<p>Johnson Controls, a global leader in thermal management, mission-critical building systems, energy efficiency, and decarbonization, helps customers use energy more productively, reduce carbon emissions, and operate with the precision and resilience required in rapidly expanding industries such as data centers, healthcare, pharmaceuticals, advanced manufacturing, and higher education.</p>
+<p>For more than 140 years, Johnson Controls has delivered performance where it really matters. Backed by advanced technology, lifecycle services and an industry-leading field organization, we elevate customer performance, turn goals into real-world results and help move society forward.</p>
+<p><b>What we offer:</b></p>
+<ul>
+<li>Competitive salary</li>
+</ul>
+<ul>
+<li>Paid vacation/holidays/sick time</li>
+</ul>
+<ul>
+<li>Comprehensive benefits package including 401K, pension, medical, dental, and vision care</li>
+</ul>
+<ul>
+<li>On the job/cross training opportunities</li>
+</ul>
+<ul>
+<li>Encouraging and collaborative team environment</li>
+</ul>
+<ul>
+<li>Dedication to safety through our Zero Harm policy</li>
+</ul>
+<h3><b>Job Description – Senior Project Engineer </b></h3>
+<p><b>Location:</b> Mumbai <b>Employment Type:</b> FTE <i>(Company Payroll)</i> <b>Experience:</b> 4–7 Years</p>
+<h3><b>Role Summary:</b></h3>
+<p>The Project Engineer will be responsible for <b>end‑to‑end project execution</b> of <b>IBMS / ELV systems</b>, ensuring timely installation, quality compliance, testing, and commissioning at project sites. The role demands strong hands‑on experience in <b>IBMS, CCTV, and CFS systems</b>.</p>
+<h3><b>Key Responsibilities:</b></h3>
+<ul>
+<li>Execute and manage <b>IBMS / ELV projects</b> at site.</li>
+</ul>
+<ul>
+<li>Supervise <b>installation, testing, commissioning, and handover</b> of systems.</li>
+</ul>
+<ul>
+<li>Handle project execution activities related to:</li>
+</ul>
+<p><b>IBMS (Integrated Building Management Systems)</b></p>
+<ul>
+<li><b>CCTV Systems</b></li>
+</ul>
+<ul>
+<li><b>CFS (Critical / Fire &amp; Life Safety Systems)</b></li>
+</ul>
+<p>Coordinate with project managers, vendors, subcontractors, and internal teams.</p>
+<p>Ensure adherence to project schedules, quality standards, and safety guidelines.</p>
+<p>Review technical drawings, BOQs, and system specifications.</p>
+<p>Conduct site inspections and quality checks for installed systems.</p>
+<p>Prepare daily/weekly project progress reports and maintain documentation.</p>
+<p>Resolve technical and operational issues at site in coordination with stakeholders.</p>
+<h3><b>Required Skills &amp; Technical Expertise:</b></h3>
+<ul>
+<li>Strong hands‑on experience in <b>IBMS project execution</b>.</li>
+</ul>
+<ul>
+<li>Practical exposure to <b>installation, testing, and commissioning</b> activities.</li>
+</ul>
+<ul>
+<li>Mandatory experience in <b>CCTV and CFS systems</b>.</li>
+</ul>
+<ul>
+<li>Good understanding of ELV system integration and site execution practices.</li>
+</ul>
+<ul>
+<li>Ability to read and interpret technical drawings and schematics.</li>
+</ul>
+<ul>
+<li>Good communication, coordination, and problem‑solving skills.</li>
+</ul>
+<h3><b>Qualification &amp; Experience:</b></h3>
+<ul>
+<li>Diploma / BE / BTech in <b>Electrical / Electronics / Instrumentation / E&amp;C</b> or related discipline.</li>
+</ul>
+<ul>
+<li>4–7 years of relevant experience in <b>IBMS / ELV projects</b>.</li>
+</ul>
+<ul>
+<li>Experience in commercial buildings, IT parks, data centers, or industrial projects preferred.</li>
+</ul>
+<h3><b>Reporting To:</b></h3>
+<p>Project Manager / Senior Project Engineer</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8e6cd40cedfbf0b285ad77?src=adzuna]]></url>
+    <location><![CDATA[Gurgaon, Haryana]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Johnson Controls]]></company>
+    <category>12</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-26T04:34:28.299Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8e6cd35893dc69c968ccab]]></id>
+    <title><![CDATA[Sales Manager]]></title>
+    <description><![CDATA[<h3>About Us</h3>
+<p>Johnson Controls, a global leader in thermal management, mission-critical building systems, energy efficiency, and decarbonization, helps customers use energy more productively, reduce carbon emissions, and operate with the precision and resilience required in rapidly expanding industries such as data centers, healthcare, pharmaceuticals, advanced manufacturing, and higher education.</p>
+<p>For more than 140 years, Johnson Controls has delivered performance where it really matters. Backed by advanced technology, lifecycle services and an industry-leading field organization, we elevate customer performance, turn goals into real-world results and help move society forward.</p>
+<h3>What you will do</h3>
+<p>As Sales Manager, you will be offering solutions that range from technically complex to high end integrated or bespoke solutions. Provides consultative selling to customers typically at director level or higher. Solutions are offered in collaboration with internal technical, business and functional teams.</p>
+<ul>
+<li>Working closely with the project teams especially during pre-sales and tender time.</li>
+<li>Identify and develop solutions to define new opportunities, developing strategic sales with highly visible prestigious customers such as end users, consultants, contractors, etc.</li>
+<li>Develop long term relationships with customers.</li>
+<li>Expand the brand awareness by preparing and delivering high-quality technical seminars/presentations, product demonstrations to consultants, developers, end user and recommend viable solutions for their project requirements.</li>
+</ul>
+<p><b>How You Will Do It:</b></p>
+<ul>
+<li>Use in-depth technical knowledge and facilitate the sales process to provide, consultants, developer and end users on design, specifications and budgets.</li>
+<li>Liaise with Engineering, Project Management and Supply chain resources to ensure that proposals and feature requests include technical solutions that accurately address customer needs, in line with business unit strategies.</li>
+<li>Develop necessary design, technical and marketing tools to support clients on existing and new solutions.</li>
+<li>Maintain records of target opportunities, quotes, projects, contacts, and correspondence in company approved databases to improve forecast accuracy</li>
+<li>Act as a hunter driven, to seek and develop strong customer relationships, self-motivated, enjoying the challenge of working with a well-regarded team to drive your territory growth.</li>
+</ul>
+<p><b>What We Look For:</b></p>
+<ul>
+<li>Bachelor’s or master’s degree, in Engineering discipline preferable process engineering, mechanical, or electrical.</li>
+<li>6&amp;#43; years of sales engineering experience, including 3&amp;#43; years in technical, sales, or business development within the semiconductor and pharmaceutical industries.</li>
+<li>Experience and technical knowledge with cleanroom and HVAC system design is a requirement.</li>
+<li>Experience in tender development, preparation and costings and GMP guidelines as well as the validation processes from IQ,OQ,PQ</li>
+<li>Excellent presentation and persuasion skills, with well-developed communication skills, able to influence at all levels.</li>
+<li>Able to work independently.</li>
+<li>Proactive, driven, persevering, tenacious, innovative and consist in approach to work.</li>
+<li>Excellent planning, organization, and time management skills</li>
+<li>Willing to travel as required</li>
+</ul>
+<h3>What we offer</h3>
+<ul>
+<li>Competitive salary</li>
+<li>Paid vacation/holidays/sick time</li>
+<li>Comprehensive benefits package</li>
+<li>On the job/cross training opportunities</li>
+<li>Encouraging and collaborative team environment</li>
+<li>Dedication to safety through our Zero Harm policy</li>
+</ul>
+<p>#LI-WH1</p>
+<p>#LI-Onsite</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8e6cd35893dc69c968ccab?src=adzuna]]></url>
+    <location><![CDATA[Singapore]]></location>
+    <country><![CDATA[SG]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Johnson Controls]]></company>
+    <category>3</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-26T04:34:27.641Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8e6cd333815ce3e7ea621c]]></id>
+    <title><![CDATA[Application Engineer II]]></title>
+    <description><![CDATA[<p>Job Description</p>
+<p><b>Build your best future with the Johnson Controls team</b></p>
+<p>As a global leader in smart, healthy and sustainable buildings, our mission is to reimagine the performance of buildings to serve people, places and the planet. Join a winning team that enables you to build your best future! Our teams are uniquely positioned to support a multitude of industries across the globe. You will have the opportunity to develop yourself through meaningful work projects and learning opportunities. We strive to provide our employees with an experience, focused on supporting their physical, financial, and emotional wellbeing.</p>
+<p>We are a <b>Great Place To Work-Certified</b> organization. Become a member of the Johnson Controls family and thrive in an empowering company culture where your voice and ideas will be heard – your next great opportunity is just a few clicks away!</p>
+<p><b>What we offer:</b></p>
+<ul>
+<li>Competitive salary</li>
+</ul>
+<ul>
+<li>Paid vacation/holidays/sick time</li>
+</ul>
+<ul>
+<li>On the job/cross training opportunities</li>
+</ul>
+<ul>
+<li>Encouraging and collaborative team environment</li>
+</ul>
+<ul>
+<li>Dedication to safety through our Zero Harm policy</li>
+</ul>
+<h3><b>Job Title: Application Engineer – Security Design &amp; Estimation</b></h3>
+<h3><b>Role Summary</b></h3>
+<p>We are looking for an Application Engineer to support security system design and estimation for UK &amp; Ireland presales projects. The role requires strong technical understanding, attention to detail, and a proactive approach.</p>
+<h3><b>Key Responsibilities</b></h3>
+<ul>
+<li>Design security systems (Access Control, CCTV, Intrusion Alarm)</li>
+</ul>
+<ul>
+<li>Prepare BOQ and cost estimations</li>
+</ul>
+<ul>
+<li>Analyse drawings, specifications, and tender documents</li>
+</ul>
+<ul>
+<li>Ensure accurate and timely submission of designs and estimates</li>
+</ul>
+<ul>
+<li>Coordinate with internal teams to clarify requirements</li>
+</ul>
+<ul>
+<li>Maintain quality and minimise rework</li>
+</ul>
+<h3><b>Required Skills &amp; Experience</b></h3>
+<ul>
+<li>Experience in security system design and estimation</li>
+</ul>
+<ul>
+<li>Minimum Experience 6 to 10 Year</li>
+</ul>
+<ul>
+<li>Good understanding of technical drawings and specifications</li>
+</ul>
+<ul>
+<li>Strong attention to detail</li>
+</ul>
+<ul>
+<li>Good communication and coordination skills</li>
+</ul>
+<ul>
+<li>Ability to work in a fast-paced environment</li>
+</ul>
+<h3><b>What We Are Looking For</b></h3>
+<ul>
+<li>Ownership mindset</li>
+</ul>
+<ul>
+<li>Positive attitude and willingness to learn</li>
+</ul>
+<ul>
+<li>Focus on quality and timely delivery</li>
+</ul>
+<p>Johnson Controls is an equal employment opportunity and affirmative action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, protected veteran status, status as a qualified individual with a disability, or any other characteristic protected by law. For more information, please view EEO is the Law. If you are an individual with a disability and you require an accommodation during the application process, please visit [www.johnsoncontrols.com/tomorrowneedsyou](http://www.johnsoncontrols.com/tomorrowneedsyou).</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8e6cd333815ce3e7ea621c?src=adzuna]]></url>
+    <location><![CDATA[Bangalore-Karnataka-India, Karnataka]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Johnson Controls]]></company>
+    <category>12</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-26T04:34:27.477Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8e6cd2722c7368c70c4456]]></id>
+    <title><![CDATA[Service Technician]]></title>
+    <description><![CDATA[<p><b><i>Who we are</b></i></p>
+<p><i>Build your best future with the Johnson Controls team.</i></p>
+<p><i>As a global leader in smart, healthy and sustainable buildings, our mission is to reimagine the performance of buildings to serve people, places and the planet. Join a winning team that enables you to build your best future! Our teams are uniquely positioned to support a multitude of industries across the globe. You will have the opportunity to develop yourself through meaningful work projects and learning opportunities. We strive to provide</i> our employees with an experience, focused on supporting their physical, financial, and emotional wellbeing. Become a member of the Johnson Controls family and thrive in an empowering company culture where your voice and ideas will be heard – your next great opportunity is just a few clicks away!</p>
+<p><b>What you will do:</b></p>
+<p>Performs basic preventative maintenance, repair, installation, commissioning, and general servicing activities under direct supervision. Conducts routine communications with customers, service team, and subcontractors as needed to ensure customer satisfaction</p>
+<p><b>How you will do it:</b></p>
+<ul>
+<li>Performs basic preventative maintenance, repair, installation, commissioning, and general servicing activities under direct supervision.</li>
+</ul>
+<ul>
+<li>Conducts routine communications with customers, service team, and subcontractors as needed to ensure customer satisfaction.</li>
+</ul>
+<p><b>What we look for:</b></p>
+<ul>
+<li>ITE / Diploma in Mechanical and Electrical with 1 years working experience.</li>
+</ul>
+<ul>
+<li>Willing to learn new things and is a good teammate. Able to provide good customer service skills to our customers.</li>
+</ul>
+<ul>
+<li>Able to provide good communication skills.</li>
+</ul>
+<ul>
+<li>A valid driving license</li>
+</ul>
+<ul>
+<li>Willing to on standby and backup</li>
+</ul>
+<ul>
+<li>Entry level candidates are welcome to apply.</li>
+</ul>
+<p><b> </b></p>
+<p><b>What we offer:</b></p>
+<ul>
+<li>Competitive salary</li>
+</ul>
+<ul>
+<li>Paid vacation/holidays/sick time</li>
+</ul>
+<ul>
+<li>Comprehensive benefits package</li>
+</ul>
+<ul>
+<li>On the job/cross training opportunities</li>
+</ul>
+<ul>
+<li>Encouraging and collaborative team environment</li>
+</ul>
+<ul>
+<li>Dedication to safety through our Zero Harm policy</li>
+</ul>
+<p>#LI-GO1</p>
+<p>#LI-Onsite</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8e6cd2722c7368c70c4456?src=adzuna]]></url>
+    <location><![CDATA[Singapore]]></location>
+    <country><![CDATA[SG]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Johnson Controls]]></company>
+    <category>2</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-26T04:34:26.926Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8e6cd2b78bbb8e765d5cc5]]></id>
+    <title><![CDATA[Service Delivery Coordinator]]></title>
+    <description><![CDATA[<p>Johnson Controls is powered by your talent. We are the power behind the customer mission. Together we are building a world that’s safe, comfortable and sustainable. Our diverse global team creates innovative, integrated solutions to make cities more connected, buildings more intelligent and environments more comfortable and secure. We are all about improving outcomes for our partners. Tomorrow needs your talent. Tomorrow needs you. So let’s talk today.</p>
+<p><b>The Company </b></p>
+<p>Johnson Controls is a global diversified technology and multi-industrial leader serving a wide range of customers in more than 150 countries. Our 135,000 employees create intelligent buildings, efficient energy solutions, integrated infrastructure and next-generation transportation systems that work seamlessly together to deliver on the promise of smart cities and communities. Our commitment to sustainability dates back to our roots in 1885, with the invention of the first electric room thermostat.</p>
+<p><b>Responsibilities:</b></p>
+<ul>
+<li>Service Delivery management</li>
+</ul>
+<ul>
+<li>Raising work orders, assigning and scheduling technicians, liaising with Customers.</li>
+</ul>
+<ul>
+<li>Ensuring completed works are closed off and invoiced in a timely manner (pricing and invoicing of all completed jobs)</li>
+</ul>
+<ul>
+<li>Ensuring all maintenance is completed within budget and all associated paperwork is collated and provided to stakeholders</li>
+</ul>
+<ul>
+<li>Managing Works in progress, providing updates to customers and team</li>
+</ul>
+<ul>
+<li>Providing exceptional customer service to both external and internal customers</li>
+</ul>
+<ul>
+<li>Manage customer issue escalations and ensure actioned and close out</li>
+</ul>
+<ul>
+<li>Raising and issuing of Purchase orders (ordering parts etc).</li>
+</ul>
+<ul>
+<li>Providing support to all internal stakeholders – i.e Service Team Managers, Branch Managers, Technicians, Service Delivery Team Leader</li>
+</ul>
+<ul>
+<li>Technician/Apprentice onboarding</li>
+</ul>
+<ul>
+<li>Supporting Accounts Payable and Receivable teams with invoice queries</li>
+</ul>
+<p><b>What we look for:</b></p>
+<ul>
+<li>Experience in a high volume, KPI/Target driven, fast paced customer service or administrative role</li>
+</ul>
+<ul>
+<li>Excellent communicator across all forms of communication</li>
+</ul>
+<ul>
+<li>Excellent customer service skills</li>
+</ul>
+<ul>
+<li>High level of experience in MS Office software including Outlook, Word, and Excel</li>
+</ul>
+<ul>
+<li>Someone that enjoys working as part of a high performing team, but can also work independently</li>
+</ul>
+<ul>
+<li>Experience with SMX, Salesforce, SAP preferred but not essential.</li>
+</ul>
+<ul>
+<li>Proactive problem solving – identifying and resolving issues and business improvement ideas.</li>
+</ul>
+<p><b>If you are interested in the role, please click the apply now below. </b></p>
+<p><b><i>JCI’s Diversity &amp; Inclusion </b></i></p>
+<p><i>Our dedication to diversity and inclusion starts with our values. We lead with integrity and purpose, focusing on the future and aligning with our customers’ vision for success. Our High-Performance Culture ensures that we have the best talent that is highly engaged and eager to innovate. ​​​​​​ Our D&amp;I mission elevates each employee’s responsibility to contribute to our culture. It’s through these contributions that we’ll drive the mindsets and behaviors we need to power our customers’ missions. You have the power. You have the voice. You have the culture in your hands.  </i></p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8e6cd2b78bbb8e765d5cc5?src=adzuna]]></url>
+    <location><![CDATA[Sydney, New South Wales]]></location>
+    <country><![CDATA[AU]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Johnson Controls]]></company>
+    <category>13</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-26T04:34:26.746Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8e6cd298edd6821debe1ab]]></id>
+    <title><![CDATA[Post-Sales Controls Systems Eng Mgr 1]]></title>
+    <description><![CDATA[<p><b>Engineering Manager - Controls</b></p>
+<p><b>What you will do</b></p>
+<p>The Engineering Manager is accountable for leading Building Automation System (BAS) engineering delivery across global projects, ensuring adherence to country‑specific standards, quality benchmarks, and on‑time execution. The role oversees hardware, software, and graphics engineering streams, managing a team of 30–50 engineers in collaboration with delivery managers. The position requires strong leadership, operational discipline, and a continuous improvement mindset.</p>
+<p><b>How you will do it</b></p>
+<ul>
+<li>Own regional KPIs with delivery managers and ensure consistent achievement of business targets.</li>
+<li>Analyze regional performance and refine organizational design to support evolving business needs.</li>
+<li>Manage account receivables and uphold financial discipline across the region.</li>
+<li>Strengthen stakeholder relationships with JC branches, customers, and GCE teams to enable smooth business operations.</li>
+<li>Build customer trust to support business growth and repeat engagements.</li>
+<li>Allocate engineering capacity across delivery teams to meet project priorities and regional demands.</li>
+<li>Maintain team competence across hardware, software, and graphics engineering streams.</li>
+<li>Lead operational reviews and ensure governance, quality checks, and compliance with all deliveries.</li>
+<li>Drive project reviews to ensure defect‑free, on‑time, and high‑quality engineering output.</li>
+<li>Implement continuous improvement using LEAN principles to enhance productivity, reduce waste, and streamline workflows.</li>
+<li>Develop team capabilities through structured learning, coaching, and skill‑building.</li>
+<li>Manage performance with clear goals, continuous feedback, and measurable outcomes.</li>
+<li>Mentor team members to achieve competency targets and align with organizational expectations.</li>
+<li>Drive innovation, automation, and best‑practice adoption across engineering workflows.</li>
+<li>Enable proactive problem‑solving and encourage LEAN‑driven improvements across all engineering streams.</li>
+</ul>
+<p><b>What we look for</b></p>
+<ul>
+<li>BE/ME in Instrumentation, Electrical, Electronics, or E&amp;C, with strong fundamentals in controls engineering.</li>
+<li>Understanding of BAS/BMS architecture including operator workstations, supervisory controllers, DDCs, sensors, actuators, and system integration.</li>
+<li>Strong HVAC knowledge across CHW plants, cooling towers, pumping systems, AHUs, FCUs, VAVs, and related control strategies.</li>
+<li>Experience delivering HVAC/BMS/industrial automation projects for pharma, airports, commercial buildings, hospitals, or similar infrastructure.</li>
+<li>Ability to drive KPIs and operational performance across regional engineering teams.</li>
+<li>Capability in resource planning, workload balancing, and optimizing engineering capacity.</li>
+<li>Experience in quality governance, project reviews, and ensuring defect‑free, on‑time engineering delivery.</li>
+<li>LEAN mindset with demonstrated ability to reduce waste, streamline workflows, and drive continuous improvement.</li>
+<li>Strong people leadership — mentoring, coaching, performance management, and competency development.</li>
+<li>Ability to build high‑performance teams through accountability, collaboration, and continuous learning.</li>
+<li>Excellent communication skills for cross‑functional coordination and customer interactions.</li>
+</ul>
+<p><b>Preferred</b></p>
+<p>12–18 years of experience in Building Automation Systems / BMS Design Engineering, including multi‑disciplinary team management.</p>
+<p>Johnson Controls is an equal employment opportunity and affirmative action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, protected veteran status, status as a qualified individual with a disability, or any other characteristic protected by law. For more information, please view EEO is the Law. If you are an individual with a disability and you require an accommodation during the application process, please visit [www.johnsoncontrols.com/tomorrowneedsyou](http://www.johnsoncontrols.com/tomorrowneedsyou)</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8e6cd298edd6821debe1ab?src=adzuna]]></url>
+    <location><![CDATA[Pune, Maharashtra]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Johnson Controls]]></company>
+    <category>2</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-26T04:34:26.559Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8e6cd26371376e4c12ef04]]></id>
+    <title><![CDATA[Regional Sales Manager West]]></title>
+    <description><![CDATA[<p><b>Who we are?</b></p>
+<p><b><i>About Johnson Controls</b></i></p>
+<p>Johnson Controls, a global leader in thermal management, mission-critical building systems, energy efficiency, and decarbonization, helps customers use energy more productively, reduce carbon emissions, and operate with the precision and resilience required in rapidly expanding industries such as data centers, healthcare, pharmaceuticals, advanced manufacturing, and higher education.</p>
+<p>For more than 140 years, Johnson Controls has delivered performance where it really matters. Backed by advanced technology, lifecycle services, and an industry-leading field organization, we elevate customer performance, turn goals into real-world results, and help move society forward.</p>
+<p>Visit [johnsoncontrols.com](http://www.johnsoncontrols.com/) for more information and follow &amp;#64;Johnsoncontrols on social platforms.</p>
+<p><b>What we look for?</b></p>
+<p>A seasoned Sales professional with 10&amp;#43; years of work experience in into HVAC products especially Centrifugal Chiller/ Heat pumps / Refrigeration solutions. Individual Contributor for following responsibilities. Offer Making and Prospecting Clients, Closing deals, Following SOPs for Sales and associated works, Meet Sales Secured with % GM Targets, Revenue Generation/Collection.</p>
+<p><b>What will you do?</b></p>
+<ul>
+<li>Develop and grow the HVAC business to meet the targeted Revenue &amp; Gross Margin plan of Johnson Controls in the territory.</li>
+<li>Local Resource with connect in the market (Consultants, Contractors, Architect, End User)</li>
+<li>Develop and continuously grow our HVAC Solutions business targeting at both existing and new customer base in the designated territories through effective business strategies and tactical action plans without compromising on our service business sustainability and quality of earnings.</li>
+<li>Actively explore new HVAC Solutions opportunities while ensuring the retention of our existing customer base through strong teamwork, proactive customer visits and customer relationship building.</li>
+<li>Ensur</li>
+</ul>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8e6cd26371376e4c12ef04?src=adzuna]]></url>
+    <location><![CDATA[Mumbai, Maharashtra]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Johnson Controls]]></company>
+    <category>3</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-26T04:34:26.358Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8e6cd0abf22c8f55457e99]]></id>
+    <title><![CDATA[Sr. Engineering Manager I]]></title>
+    <description><![CDATA[<p><b>Engineering Manager - Controls</b></p>
+<h3>What you will do</h3>
+<p>The Engineering Manager is accountable for leading Building Automation System (BAS) engineering delivery across global projects, ensuring adherence to country‑specific standards, quality benchmarks, and on‑time execution. The role oversees hardware, software, and graphics engineering streams, managing a team of 30–50 engineers in collaboration with delivery managers. The position requires strong leadership, operational discipline, and a continuous improvement mindset.</p>
+<p><b>How you will do it</b></p>
+<ul>
+<li>Own regional KPIs with delivery managers and ensure consistent achievement of business targets.</li>
+<li>Analyze regional performance and refine organizational design to support evolving business needs.</li>
+<li>Manage account receivables and uphold financial discipline across the region.</li>
+<li>Strengthen stakeholder relationships with JC branches, customers, and GCE teams to enable smooth business operations.</li>
+<li>Build customer trust to support business growth and repeat engagements.</li>
+<li>Allocate engineering capacity across delivery teams to meet project priorities and regional demands.</li>
+<li>Maintain team competence across hardware, software, and graphics engineering streams.</li>
+<li>Lead operational reviews and ensure governance, quality checks, and compliance with all deliveries.</li>
+<li>Drive project reviews to ensure defect‑free, on‑time, and high‑quality engineering output.</li>
+<li>Implement continuous improvement using LEAN principles to enhance productivity, reduce waste, and streamline workflows.</li>
+<li>Develop team capabilities through structured learning, coaching, and skill‑building.</li>
+<li>Manage performance with clear goals, continuous feedback, and measurable outcomes.</li>
+<li>Mentor team members to achieve competency targets and align with organizational expectations.</li>
+<li>Drive innovation, automation, and best‑practice adoption across engineering workflows.</li>
+<li>Enable proactive problem‑solving and encourage LEAN‑driven improvements across all engineering streams.</li>
+</ul>
+<p><b>What we look for</b></p>
+<ul>
+<li>BE/ME in Instrumentation, Electrical, Electronics, or E&amp;C, with strong fundamentals in controls engineering.</li>
+<li>Understanding of BAS/BMS architecture including operator workstations, supervisory controllers, DDCs, sensors, actuators, and system integration.</li>
+<li>Strong HVAC knowledge across CHW plants, cooling towers, pumping systems, AHUs, FCUs, VAVs, and related control strategies.</li>
+<li>Experience delivering HVAC/BMS/industrial automation projects for pharma, airports, commercial buildings, hospitals, or similar infrastructure.</li>
+<li>Ability to drive KPIs and operational performance across regional engineering teams.</li>
+<li>Capability in resource planning, workload balancing, and optimizing engineering capacity.</li>
+<li>Experience in quality governance, project reviews, and ensuring defect‑free, on‑time engineering delivery.</li>
+<li>LEAN mindset with demonstrated ability to reduce waste, streamline workflows, and drive continuous improvement.</li>
+<li>Strong people leadership — mentoring, coaching, performance management, and competency development.</li>
+<li>Ability to build high‑performance teams through accountability, collaboration, and continuous learning.</li>
+<li>Excellent communication skills for cross‑functional coordination and customer interactions.</li>
+</ul>
+<p><b>Preferred</b></p>
+<p>12–18 years of experience in Building Automation Systems / BMS Design Engineering, including multi‑disciplinary team management.</p>
+<p>Johnson Controls is an equal employment opportunity and affirmative action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, protected veteran status, status as a qualified individual with a disability, or any other characteristic protected by law. For more information, please view EEO is the Law. If you are an individual with a disability and you require an accommodation during the application process, please visit [www.johnsoncontrols.com/tomorrowneedsyou](http://www.johnsoncontrols.com/tomorrowneedsyou)</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8e6cd0abf22c8f55457e99?src=adzuna]]></url>
+    <location><![CDATA[Pune, Maharashtra]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Johnson Controls]]></company>
+    <category>5</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-26T04:34:24.193Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8e6ccfddab1a18947ec9f6]]></id>
+    <title><![CDATA[Sr. Engineering Manager I]]></title>
+    <description><![CDATA[<p><b>Engineering Manager - Controls</b></p>
+<p><b>What you will do</b></p>
+<p>The Engineering Manager is accountable for leading Building Automation System (BAS) engineering delivery across global projects, ensuring adherence to country‑specific standards, quality benchmarks, and on‑time execution. The role oversees hardware, software, and graphics engineering streams, managing a team of 30–50 engineers in collaboration with delivery managers. The position requires strong leadership, operational discipline, and a continuous improvement mindset.</p>
+<p><b>How you will do it</b></p>
+<ul>
+<li>Own regional KPIs with delivery managers and ensure consistent achievement of business targets.</li>
+<li>Analyze regional performance and refine organizational design to support evolving business needs.</li>
+<li>Manage account receivables and uphold financial discipline across the region.</li>
+<li>Strengthen stakeholder relationships with JC branches, customers, and GCE teams to enable smooth business operations.</li>
+<li>Build customer trust to support business growth and repeat engagements.</li>
+<li>Allocate engineering capacity across delivery teams to meet project priorities and regional demands.</li>
+<li>Maintain team competence across hardware, software, and graphics engineering streams.</li>
+<li>Lead operational reviews and ensure governance, quality checks, and compliance with all deliveries.</li>
+<li>Drive project reviews to ensure defect‑free, on‑time, and high‑quality engineering output.</li>
+<li>Implement continuous improvement using LEAN principles to enhance productivity, reduce waste, and streamline workflows.</li>
+<li>Develop team capabilities through structured learning, coaching, and skill‑building.</li>
+<li>Manage performance with clear goals, continuous feedback, and measurable outcomes.</li>
+<li>Mentor team members to achieve competency targets and align with organizational expectations.</li>
+<li>Drive innovation, automation, and best‑practice adoption across engineering workflows.</li>
+<li>Enable proactive problem‑solving and encourage LEAN‑driven improvements across all engineering streams.</li>
+</ul>
+<p><b>What we look for</b></p>
+<ul>
+<li>BE/ME in Instrumentation, Electrical, Electronics, or E&amp;C, with strong fundamentals in controls engineering.</li>
+<li>Understanding of BAS/BMS architecture including operator workstations, supervisory controllers, DDCs, sensors, actuators, and system integration.</li>
+<li>Strong HVAC knowledge across CHW plants, cooling towers, pumping systems, AHUs, FCUs, VAVs, and related control strategies.</li>
+<li>Experience delivering HVAC/BMS/industrial automation projects for pharma, airports, commercial buildings, hospitals, or similar infrastructure.</li>
+<li>Ability to drive KPIs and operational performance across regional engineering teams.</li>
+<li>Capability in resource planning, workload balancing, and optimizing engineering capacity.</li>
+<li>Experience in quality governance, project reviews, and ensuring defect‑free, on‑time engineering delivery.</li>
+<li>LEAN mindset with demonstrated ability to reduce waste, streamline workflows, and drive continuous improvement.</li>
+<li>Strong people leadership — mentoring, coaching, performance management, and competency development.</li>
+<li>Ability to build high‑performance teams through accountability, collaboration, and continuous learning.</li>
+<li>Excellent communication skills for cross‑functional coordination and customer interactions.</li>
+</ul>
+<p><b>Preferred</b></p>
+<p>12–18 years of experience in Building Automation Systems / BMS Design Engineering, including multi‑disciplinary team management.</p>
+<p>Johnson Controls is an equal employment opportunity and affirmative action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, protected veteran status, status as a qualified individual with a disability, or any other characteristic protected by law. For more information, please view EEO is the Law. If you are an individual with a disability and you require an accommodation during the application process, please visit [www.johnsoncontrols.com/tomorrowneedsyou](http://www.johnsoncontrols.com/tomorrowneedsyou)</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8e6ccfddab1a18947ec9f6?src=adzuna]]></url>
+    <location><![CDATA[Pune-Maharashtra-India, Maharashtra]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Johnson Controls]]></company>
+    <category>12</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-26T04:34:23.980Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8e6cbfd3983a3428b6a808]]></id>
+    <title><![CDATA[Assistant Fire Project Manager]]></title>
+    <description><![CDATA[<h3>Who we are</h3>
+<p><i>Build your best future with the Johnson Controls team.</i></p>
+<p><i>As a global leader in smart, healthy and sustainable buildings, our mission is to reimagine the performance of buildings to serve people, places and the planet. Join a winning team that enables you to build your best future! Our teams are uniquely positioned to support a multitude of industries across the globe. You will have the opportunity to develop yourself through meaningful work projects and learning opportunities. We strive to provide</i> our employees with an experience, focused on supporting their physical, financial, and emotional wellbeing. Become a member of the Johnson Controls family and thrive in an empowering company culture where your voice and ideas will be heard – your next great opportunity is just a few clicks away!</p>
+<h3>What you will do</h3>
+<ul>
+<li>Managing Fire projects ranging from medium to large &amp; complex installation and retrofit projects</li>
+</ul>
+<ul>
+<li>Full ownership and accountability of performance (Budget and Schedule) of assigned projects</li>
+</ul>
+<ul>
+<li>Manage and coordinate allocated projects to ensure they are delivered within scope, on time and on budget</li>
+</ul>
+<ul>
+<li>Full ownership and accountability of financials (Revenue, Margin rate expansion, UBR and AR) &amp; operational metrics by liaising with Country Finance team and Financial Controllers</li>
+</ul>
+<ul>
+<li>Drive and monitor Fulfilment 5 (cost, cash, schedule, quality and EHS) cadence in team</li>
+</ul>
+<ul>
+<li>Ensure, maintain and enhance a good and healthy relationship with Clients and all stakeholders</li>
+</ul>
+<ul>
+<li>In collaboration with the Engineering, Procurement, Finance, Legal, Logistics, Sales &amp; Commercial, Global Products teams, drives the operational &amp; functional excellence with capabilities building to achieve business goals &amp; targets.</li>
+</ul>
+<p><b>How you will do it:</b></p>
+<ul>
+<li>Drive project financial performance and reviews including Revenue, GM, Backlog, UBR, AR and VOs</li>
+</ul>
+<ul>
+<li>Develop and manage detailed project schedules and work plans and track project performance, deliverables and costs to meet project milestones and budgets.</li>
+<li>Project Team leader to lead, coach, manage effectively with team members</li>
+</ul>
+<ul>
+<li>Develop Cash flow planning &amp; control</li>
+</ul>
+<ul>
+<li>Develop and manage tiered processes from proposal through project turnover to optimize schedule, scope, and cost to maximize customer success and the company’s profitability</li>
+</ul>
+<ul>
+<li>Direct projects Risk and Opportunity reviews / assess risk and opportunity management outcomes</li>
+</ul>
+<ul>
+<li>Device activity and resource planning</li>
+</ul>
+<ul>
+<li>Perform risk management to minimize project risk and report/escalate to Management as needed with appropriate contingence resolution</li>
+</ul>
+<ul>
+<li>Ensure projects operation financial KPIs are monitored and tracked</li>
+</ul>
+<ul>
+<li>Champion continuous improvement efforts on project operation process, e.g., project closing process, transition process, urgent purchase process</li>
+</ul>
+<ul>
+<li>Responsible for overall contracting strategies and execution which includes tender &amp; bid evaluations, site progress, budgeting, scheduling, and project completion according to the established timelines</li>
+</ul>
+<ul>
+<li>Support in pre-sales scoping, deliverables and cost effectiveness with sales, procurement and control manager</li>
+</ul>
+<ul>
+<li>Manage business and project risks, perform project controls including cost and schedule control, progress monitoring and evaluation</li>
+</ul>
+<ul>
+<li>Knowledge of Fire code of practice, sprinkler &amp; piping design, Fire alarm system</li>
+</ul>
+<ul>
+<li>Knowledge of JC Tyco products</li>
+</ul>
+<ul>
+<li>Review projects to determine the VO opportunities, set up annual VO plan to increase project revenue and earning</li>
+</ul>
+<ul>
+<li>Provide resolution of escalated project management/ installation and service issues with customers and other stakeholders</li>
+</ul>
+<p><b>What we look for:</b></p>
+<ul>
+<li>University degree or equivalent combination of education and experience. Another advanced degree required, additional technical degree preferred</li>
+</ul>
+<ul>
+<li>Strong knowledge of Project Management with minimum 8 years of relevant experience in <b>Fire industry operations and maintenance</b></li>
+</ul>
+<ul>
+<li>Proven track record in delivering the strong results with strong accountability and say/do</li>
+</ul>
+<ul>
+<li>Excellent communication and interpersonal skills, both internally and dealing with external customers and stakeholders</li>
+</ul>
+<h3>What we offer</h3>
+<ul>
+<li>Competitive salary</li>
+</ul>
+<ul>
+<li>Paid vacation/holidays/sick time</li>
+</ul>
+<ul>
+<li>Comprehensive benefits package</li>
+</ul>
+<ul>
+<li>On the job/cross training opportunities</li>
+</ul>
+<ul>
+<li>Encouraging and collaborative team environment</li>
+</ul>
+<ul>
+<li>Dedication to safety through our Zero Harm policy</li>
+</ul>
+<p>#LI-GO1</p>
+<p>#LI-Onsite</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8e6cbfd3983a3428b6a808?src=adzuna]]></url>
+    <location><![CDATA[Singapore]]></location>
+    <country><![CDATA[SG]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Johnson Controls]]></company>
+    <category>12</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-26T04:34:07.782Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8e6cbfcf1481e2b3498be4]]></id>
+    <title><![CDATA[Fire Project Manager]]></title>
+    <description><![CDATA[<h3>Who we are</h3>
+<p><i>Build your best future with the Johnson Controls team.</i></p>
+<p><i>As a global leader in smart, healthy and sustainable buildings, our mission is to reimagine the performance of buildings to serve people, places and the planet. Join a winning team that enables you to build your best future! Our teams are uniquely positioned to support a multitude of industries across the globe. You will have the opportunity to develop yourself through meaningful work projects and learning opportunities. We strive to provide</i> our employees with an experience, focused on supporting their physical, financial, and emotional wellbeing. Become a member of the Johnson Controls family and thrive in an empowering company culture where your voice and ideas will be heard – your next great opportunity is just a few clicks away!</p>
+<h3>What you will do</h3>
+<ul>
+<li>Managing Fire projects ranging from medium to large &amp; complex installation and retrofit projects</li>
+</ul>
+<ul>
+<li>Full ownership and accountability of performance (Budget and Schedule) of assigned projects</li>
+</ul>
+<ul>
+<li>Manage and coordinate allocated projects to ensure they are delivered within scope, on time and on budget</li>
+</ul>
+<ul>
+<li>Full ownership and accountability of financials (Revenue, Margin rate expansion, UBR and AR) &amp; operational metrics by liaising with Country Finance team and Financial Controllers</li>
+</ul>
+<ul>
+<li>Drive and monitor Fulfilment 5 (cost, cash, schedule, quality and EHS) cadence in team</li>
+</ul>
+<ul>
+<li>Ensure, maintain and enhance a good and healthy relationship with Clients and all stakeholders</li>
+</ul>
+<ul>
+<li>In collaboration with the Engineering, Procurement, Finance, Legal, Logistics, Sales &amp; Commercial, Global Products teams, drives the operational &amp; functional excellence with capabilities building to achieve business goals &amp; targets.</li>
+</ul>
+<p><b>How you will do it:</b></p>
+<ul>
+<li>Drive project financial performance and reviews including Revenue, GM, Backlog, UBR, AR and VOs</li>
+</ul>
+<ul>
+<li>Develop and manage detailed project schedules and work plans and track project performance, deliverables and costs to meet project milestones and budgets.</li>
+<li>Project Team leader to lead, coach, manage effectively with team members</li>
+</ul>
+<ul>
+<li>Develop Cash flow planning &amp; control</li>
+</ul>
+<ul>
+<li>Develop and manage tiered processes from proposal through project turnover to optimize schedule, scope, and cost to maximize customer success and the company’s profitability</li>
+</ul>
+<ul>
+<li>Direct projects Risk and Opportunity reviews / assess risk and opportunity management outcomes</li>
+</ul>
+<ul>
+<li>Device activity and resource planning</li>
+</ul>
+<ul>
+<li>Perform risk management to minimize project risk and report/escalate to Management as needed with appropriate contingence resolution</li>
+</ul>
+<ul>
+<li>Ensure projects operation financial KPIs are monitored and tracked</li>
+</ul>
+<ul>
+<li>Champion continuous improvement efforts on project operation process, e.g., project closing process, transition process, urgent purchase process</li>
+</ul>
+<ul>
+<li>Responsible for overall contracting strategies and execution which includes tender &amp; bid evaluations, site progress, budgeting, scheduling, and project completion according to the established timelines</li>
+</ul>
+<ul>
+<li>Support in pre-sales scoping, deliverables and cost effectiveness with sales, procurement and control manager</li>
+</ul>
+<ul>
+<li>Manage business and project risks, perform project controls including cost and schedule control, progress monitoring and evaluation</li>
+</ul>
+<ul>
+<li>Knowledge of Fire code of practice, sprinkler &amp; piping design, Fire alarm system</li>
+</ul>
+<ul>
+<li>Knowledge of JC Tyco products</li>
+</ul>
+<ul>
+<li>Review projects to determine the VO opportunities, set up annual VO plan to increase project revenue and earning</li>
+</ul>
+<ul>
+<li>Provide resolution of escalated project management/ installation and service issues with customers and other stakeholders</li>
+</ul>
+<p><b>What we look for:</b></p>
+<ul>
+<li>University degree or equivalent combination of education and experience. Another advanced degree required, additional technical degree preferred</li>
+</ul>
+<ul>
+<li>Strong knowledge of Project Management with minimum 10 years of relevant experience in <b>Fire industry operations and maintenance</b></li>
+</ul>
+<ul>
+<li>Proven track record in delivering the strong results with strong accountability and say/do</li>
+</ul>
+<ul>
+<li>Excellent communication and interpersonal skills, both internally and dealing with external customers and stakeholders</li>
+</ul>
+<h3>What we offer</h3>
+<ul>
+<li>Competitive salary</li>
+</ul>
+<ul>
+<li>Paid vacation/holidays/sick time</li>
+</ul>
+<ul>
+<li>Comprehensive benefits package</li>
+</ul>
+<ul>
+<li>On the job/cross training opportunities</li>
+</ul>
+<ul>
+<li>Encouraging and collaborative team environment</li>
+</ul>
+<ul>
+<li>Dedication to safety through our Zero Harm policy</li>
+</ul>
+<p>#LI-GO1</p>
+<p>#LI-Onsite</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8e6cbfcf1481e2b3498be4?src=adzuna]]></url>
+    <location><![CDATA[Singapore]]></location>
+    <country><![CDATA[SG]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Johnson Controls]]></company>
+    <category>12</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-26T04:34:07.624Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8e6cbf3d2341d8f6d3463c]]></id>
+    <title><![CDATA[Fire Project Engineer (Entry level candidates are welcome to apply.)]]></title>
+    <description><![CDATA[<p><b><i>Who we are</b></i></p>
+<p><i>Build your best future with the Johnson Controls team.</i></p>
+<p><i>As a global leader in smart, healthy and sustainable buildings, our mission is to reimagine the performance of buildings to serve people, places and the planet. Join a winning team that enables you to build your best future! Our teams are uniquely positioned to support a multitude of industries across the globe. You will have the opportunity to develop yourself through meaningful work projects and learning opportunities. We strive to provide</i> our employees with an experience, focused on supporting their physical, financial, and emotional wellbeing. Become a member of the Johnson Controls family and thrive in an empowering company culture where your voice and ideas will be heard – your next great opportunity is just a few clicks away!</p>
+<p><b>What you will do:</b></p>
+<p>Oversees activity to ensure that project is completed in accordance with scope, budget, codes, and schedule as bound by contract. Delegates tasks to execute and fully complete assigned projects. Coordinates communication with customer during all phases of the project. Coordinates the work of subcontractors</p>
+<p><b>How you will do it:</b></p>
+<ul>
+<li>Define scope, budget and schedule for projects</li>
+</ul>
+<ul>
+<li>Device project implementation methodology</li>
+</ul>
+<ul>
+<li>Plan and oversee work schedule for the multiple small to medium scale project under responsibility, in coordination with supervisor.</li>
+</ul>
+<ul>
+<li>Identify potential project risks and recommend appropriate resolutions</li>
+</ul>
+<ul>
+<li>Establish effective communication with customer</li>
+</ul>
+<ul>
+<li>Track and update progress, task and project health to supervisors</li>
+</ul>
+<ul>
+<li>Ensure and monitor compliance to applicable codes, practices, QA/QC policies, performance standards and specifications. Perform regular quality audit for all the suppliers and sub-contractors.</li>
+</ul>
+<ul>
+<li>Identify and secure variation order.</li>
+</ul>
+<ul>
+<li>Cost control. Track, monitor and ensure delivery of financial commitment as per CIS.</li>
+</ul>
+<ul>
+<li>Managing reports and documents</li>
+</ul>
+<ul>
+<li>Work closely with Sales team for tender bidding</li>
+</ul>
+<ul>
+<li>Supervision of sub-contractors’ work at site.</li>
+</ul>
+<ul>
+<li>Schedule purchase and deliveries of all materials for the project in a timely manner</li>
+</ul>
+<ul>
+<li>Assign task to, and supervise Assistant Project Engineer, Technician, if any</li>
+</ul>
+<ul>
+<li>System applications, drafting, data base generation and commissioning Follow-up on payment from customers and verify payment to our suppliers.</li>
+</ul>
+<ul>
+<li>Train customer and provide first year maintenance warranty schedule visit.</li>
+</ul>
+<ul>
+<li>Hand over project to customer and later to service team.</li>
+</ul>
+<p><b>What we look for:</b></p>
+<ul>
+<li>Diploma/Degree with minimum 1 years relevant experience in Building Services, M&amp;E or construction preferably in Fire Protection System</li>
+</ul>
+<ul>
+<li>Competent in Chiller Plant and airside replacement.</li>
+</ul>
+<ul>
+<li>Excel, Word and Project essential</li>
+</ul>
+<ul>
+<li>Require interaction with clients, consultants and sub-contractors, etc.</li>
+</ul>
+<ul>
+<li>Need to work odd hours as and when required, whenever the work need to be done on time</li>
+</ul>
+<ul>
+<li>Entry level candidates are welcome to apply.</li>
+</ul>
+<ul>
+<li>Willingness to learn new things.</li>
+</ul>
+<p><b>What we offer:</b></p>
+<ul>
+<li>Competitive salary</li>
+</ul>
+<ul>
+<li>Paid vacation/holidays/sick time</li>
+</ul>
+<ul>
+<li>Comprehensive benefits package</li>
+</ul>
+<ul>
+<li>On the job/cross training opportunities</li>
+</ul>
+<ul>
+<li>Encouraging and collaborative team environment</li>
+</ul>
+<ul>
+<li>Dedication to safety through our Zero Harm policy</li>
+</ul>
+<p>#LI-GO1</p>
+<p>#LI-Onsite</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8e6cbf3d2341d8f6d3463c?src=adzuna]]></url>
+    <location><![CDATA[Singapore]]></location>
+    <country><![CDATA[SG]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Johnson Controls]]></company>
+    <category>12</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-26T04:34:07.194Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8e6cbf27100c0133263f9b]]></id>
+    <title><![CDATA[Fire Project Engineer]]></title>
+    <description><![CDATA[<p><b><i>Who we are</b></i></p>
+<p><i>Build your best future with the Johnson Controls team.</i></p>
+<p><i>As a global leader in smart, healthy and sustainable buildings, our mission is to reimagine the performance of buildings to serve people, places and the planet. Join a winning team that enables you to build your best future! Our teams are uniquely positioned to support a multitude of industries across the globe. You will have the opportunity to develop yourself through meaningful work projects and learning opportunities. We strive to provide</i> our employees with an experience, focused on supporting their physical, financial, and emotional wellbeing. Become a member of the Johnson Controls family and thrive in an empowering company culture where your voice and ideas will be heard – your next great opportunity is just a few clicks away!</p>
+<p><b>What you will do:</b></p>
+<p>Oversees activity to ensure that project is completed in accordance with scope, budget, codes, and schedule as bound by contract. Delegates tasks to execute and fully complete assigned projects. Coordinates communication with customer during all phases of the project. Coordinates the work of subcontractors</p>
+<p><b>How you will do it:</b></p>
+<ul>
+<li>Define scope, budget and schedule for projects</li>
+</ul>
+<ul>
+<li>Device project implementation methodology</li>
+</ul>
+<ul>
+<li>Plan and oversee work schedule for the multiple small to medium scale project under responsibility, in coordination with supervisor.</li>
+</ul>
+<ul>
+<li>Identify potential project risks and recommend appropriate resolutions</li>
+</ul>
+<ul>
+<li>Establish effective communication with customer</li>
+</ul>
+<ul>
+<li>Track and update progress, task and project health to supervisors</li>
+</ul>
+<ul>
+<li>Ensure and monitor compliance to applicable codes, practices, QA/QC policies, performance standards and specifications. Perform regular quality audit for all the suppliers and sub-contractors.</li>
+</ul>
+<ul>
+<li>Identify and secure variation order.</li>
+</ul>
+<ul>
+<li>Cost control. Track, monitor and ensure delivery of financial commitment as per CIS.</li>
+</ul>
+<ul>
+<li>Managing reports and documents</li>
+</ul>
+<ul>
+<li>Work closely with Sales team for tender bidding</li>
+</ul>
+<ul>
+<li>Supervision of sub-contractors’ work at site.</li>
+</ul>
+<ul>
+<li>Schedule purchase and deliveries of all materials for the project in a timely manner</li>
+</ul>
+<ul>
+<li>Assign task to, and supervise Assistant Project Engineer, Technician, if any</li>
+</ul>
+<ul>
+<li>System applications, drafting, data base generation and commissioning Follow-up on payment from customers and verify payment to our suppliers.</li>
+</ul>
+<ul>
+<li>Train customer and provide first year maintenance warranty schedule visit.</li>
+</ul>
+<ul>
+<li>Hand over project to customer and later to service team.</li>
+</ul>
+<p><b>What we look for:</b></p>
+<ul>
+<li>Diploma/Degree with minimum 1 years relevant experience in Building Services, M&amp;E or construction preferably in Fire Protection System</li>
+</ul>
+<ul>
+<li>Competent in Chiller Plant and airside replacement.</li>
+</ul>
+<ul>
+<li>Excel, Word and Project essential</li>
+</ul>
+<ul>
+<li>Require interaction with clients, consultants and sub-contractors, etc.</li>
+</ul>
+<ul>
+<li>Need to work odd hours as and when required, whenever the work need to be done on time</li>
+</ul>
+<ul>
+<li>Entry level candidates are welcome to apply.</li>
+</ul>
+<ul>
+<li>Willingness to learn new things.</li>
+</ul>
+<p><b>What we offer:</b></p>
+<ul>
+<li>Competitive salary</li>
+</ul>
+<ul>
+<li>Paid vacation/holidays/sick time</li>
+</ul>
+<ul>
+<li>Comprehensive benefits package</li>
+</ul>
+<ul>
+<li>On the job/cross training opportunities</li>
+</ul>
+<ul>
+<li>Encouraging and collaborative team environment</li>
+</ul>
+<ul>
+<li>Dedication to safety through our Zero Harm policy</li>
+</ul>
+<p>#LI-GO1</p>
+<p>#LI-Onsite</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8e6cbf27100c0133263f9b?src=adzuna]]></url>
+    <location><![CDATA[Singapore]]></location>
+    <country><![CDATA[SG]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Johnson Controls]]></company>
+    <category>12</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-26T04:34:07.017Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8e6cbec765a8a293d7a422]]></id>
+    <title><![CDATA[Qlty Analyst II]]></title>
+    <description><![CDATA[<p><b>Job Title : Quality Analyst II</b></p>
+<p><b>Objective:</b> Looking for a career in the Quality and production filed with a progressive organization that gives scope to apply knowledge and skill with continuous learning and to be a part of a team that Dynamically. work towards growth and to achieve goal of the organization.</p>
+<p><b>Key Responsibilities: </b> Operational Activities:  Inspect all inward–in–process material and clear GRN on time.  To Handle Inspection activity with proper Execution method, Incoming inspection &amp;#43; In process &amp; and inspection at supplier end.  Very strong knowledge of Fabrication activity and inspection at the supplier end as well In-house.  Perform NDT inspections and evaluate NDT technologies and systems to detect, measure, and monitor deterioration mechanisms.  Very strong conversant with NDT method Level II - (PT,RT,UT,MPT)  Identify and evaluate inspection and NDT technologies for supporting operating facilities and capital projects.  To provide technical expertise on all NDT matters as required on projects.  Assist and support the NDT Co-ordinator or the project teams on all NDT matters.  Prepare NDT procedures for the assigned project.  Review clients' specifications and scopes of work, examine pipe metallurgy and prepare detailed NDT procedures to achieve maximum productivity in accordance with specified quality.  Review subcontractors' tender documents and technical qualifications.  Assist QHSE Department on subcontractor assessments/audits.  Review and approve subcontractors' NDT submissions.  Ensure that records are maintained for all NDT activities to demonstrate achievement of client requirements.  Maintain departmental project NDT files so that information is readily available to other department members.  Manage the Inspection activity as per suitability &amp; and connivance for smooth operation &amp; and co-ordinate with production department to achieve production target.  Review and study customer specifications to verify inspection and testing requirements. And accordingly preparation of Quality Assurance plan for customer.  Study the drawings, Quality plan and accordingly carry out in-process as well as overall visual, dimensional inspection (including weld joints).  Prepare welding procedure specifications &amp; carrying out procedure qualifications in accordance with ASME Sec-IX, ASME Sec-VIII Div.1, ASME Sec-II A,B,C and customer specifications for various welding process like; GTAW,MIG,etc for various grade of stainless steels, alloy steels &amp; carbon steels for groove &amp; overlay welding.  Prepare qualification of PQRs &amp; mock ups (TTP) welding.  Carry out visual inspection of welding during fabrication and monitor the welding activities on shop to ensure correct welding procedure is followed as per Weld plan with qualified welder and information with welding machines are duly calibrated. (the right machine is being used).  Inward / Raw material/ Consumables inspection:- review of material test certificates with respect to standard / technical specification &amp; Purchase order and discrepancies to be communicated to concerned departments for resolution.  Based on Engineer drawing, function of job &amp; aesthetic condition takes decision of material (Accept / Reject or Rework)  Day to day production activity continuously follow up with Production dept.  Maintain records of testing, information, and various metrics such as number of defective products per day etc.  For Any rejection and rework of material co-ordinate with store, purchase and production department.  Any supplier material issue discussed with supplier and purchase department and store.  To insure Incoming, outgoing &amp; in process Quality of product as per global norms.  Tracking of material BOQ with Planning Team with proper schedule, Inspect Incoming material MIR.  Check the Certificate as per drawing / material MOC &amp; verification as per ASME code and standards.  Having documentation on capabilities and maintaining the same at office.  Prepare and maintained project documentation as per client specification.  Monthly Incoming rejection &amp;#43; In process rejection status reports submitted to internal team and find out root cause analysis.  Issue Nonconformance note to production department as well as supplier for Root cause analysis against poor workmanship.  Close co-ordination with shop floor team members, and Engineering departments.  Prepare and submit reports to the quality manager.  Actively Involved in Suggestion and Improvement project at shop floor.  In process Inspection checked as per P &amp;ID and GA drawing.  Shop floor Surprise Audit needs to be conducted to check process integrity.  Conduct Inspection with TPI agency as well as customer.  Make project documentation and keep records as per system requirement.  Actively Participation on Vendor development for localization of component and SOA. Authorities:  Acceptance and Rejection against rework During Incoming Inspection  Passed or hold the job as per quality norms.  Maintain Quality culture at shop floor .  Education:  Graduate – B.E Mechanical ( 5 ~ 7 years of Experience)  Competence:  Awareness of ISO 9001: 2015 / EMS 14001:2015 &amp; OHSMS 45001:2018  Strong Knowledge of NDT and ASME Section V fabrication code requirements.  Sound Knowledge of Fabrication Inspection and Welding activity  Previous experience as a QA engineer.  Managerial experience preferred.  High-level analytical skills.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8e6cbec765a8a293d7a422?src=adzuna]]></url>
+    <location><![CDATA[Pune, Maharashtra]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Johnson Controls]]></company>
+    <category>12</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-26T04:34:06.803Z]]></date>
   </job>
 </jobs>
