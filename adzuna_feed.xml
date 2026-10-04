@@ -17522,95 +17522,6 @@
     <date><![CDATA[2026-09-29T20:24:35.768Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6abc1a6f8ef249373c4220d0]]></id>
-    <title><![CDATA[Energy Resource Manager]]></title>
-    <description><![CDATA[<h3>Overview</h3>
-<p>In alignment with our Microsoft values, we are committed to cultivating an inclusive work environment for all employees to positively impact our culture every day and we need you as an<b>Energy Resource Manager</b>(ERM) with the primary focus at reducing stranded capacity applying optimization techniques of space, power, cooling and network. Being a key member of the local Datacenter Operations team in the deployment planning and optimization of the IT capacity, working closely with Electrical Engineers and Critical Environment Field Service Engineer.</p>
-<p>Microsoft’s Cloud Operations &amp; Innovation (CO+I) is the engine that powers our cloud services. As a CO+I ERM, you will perform a key role in delivering the core infrastructure and foundational technologies for Microsoft's online services including Bing, Office 365, Xbox, OneDrive, and the Microsoft Azure platform. By enabling data center capacity through increased <b>Infrastructure Utilization Effectiveness (IUE) and Power Harvesting (PH)</b>, you will lead the retrofit efforts to upgrade legacy datacenters and harvest capacity in our existing fleet. As a group, CO+I is focused on personal and professional development for all employees, offer trainings and growth opportunities including Career Rotation Programs, Diversity &amp; Inclusion, and professional certifications.</p>
-<p>Our infrastructure is comprised of a large global portfolio of more than 200 datacenters in 32 countries and millions of servers. Our foundation is built upon and managed by a team of subject matter experts working to support services for more than 1 billion customers and 20 million businesses in over 90 countries worldwide.</p>
-<p>With environmental sustainability and optimization at the forefront of our datacenter design and operations, we continue to grow and evolve as we meet the ever-changing business demands that hold Microsoft as a world-class cloud provider.</p>
-<p>Do you want to empower billions across the world? Come and join us in CO+I and be at the forefront of the action!</p>
-<h3>Responsibilities</h3>
-<p><b>As a successful Energy Resource Manager, your success will be measured by:</b></p>
-<p><b>_Data Center Operations_</b></p>
-<ul>
-<li>Primary focus in Managing IT Allocation at the Campus/Metro level by collaborating with key stakeholders and ensuring that demands are properly allocated across the IT infrastructure.</li>
-<li>Familiarize with the Data Center design and manage the IT resources by performing virtual failure analysis and develop a master allocation plan to drive the operationalization of the customer capacity.</li>
-<li>Ensure compliance with data center business units and service-level policies.</li>
-<li>Engage with appropriate teams and resources to execute tasks or projects.</li>
-<li>Manage programs associated with the area of responsibility.</li>
-<li>Demonstrate conscientiousness on cost adheres to budget requirements; keep costs reasonable and contribute to staying within budget.</li>
-<li>Follow and adhere to safety and security policies and procedures. Report immediately any safety or security issues or concerns.</li>
-<li>Participate in Root Cause Analysis (RCA) process as appropriate.</li>
-<li>Raise risks to the IT capacity allocation and planning. Identify power stranding and contractual inconsistencies (leased spaces).</li>
-<li>Ensure that the critical environment information is properly entered and maintained (tooling).</li>
-<li>Lead programs and projects through leadership forums aligning scope, schedule, and cost that align to our OKRs.</li>
-</ul>
-<p><b>_Service Delivery_</b></p>
-<ul>
-<li>Manage the assigned projects or programs to meet service delivery objectives and escalate to appropriate stakeholders to remove obstacles.</li>
-<li>Recognize potential customer impact of other events and issues (e.g., customer lockdown), communicate potential impact, and plan for impact accordingly.</li>
-<li>Proactively review schedules and avoid conflicts when possible. Identify, coordinate, manage expectations, and offer alternatives when defining customer solutions.</li>
-<li>Manage relationships with vendors and suppliers to ensure that all expectations are clarified, understood, documented, and met.</li>
-</ul>
-<p><b>_Data Center Work Environment_</b></p>
-<ul>
-<li>Share best practices; assist others in learning role, process, procedures.</li>
-<li>Collaborate and engage with Subject Matter Experts (SMEs) across CO+I and engineering groups to gain program / project insights.</li>
-<li>Leverage and synthesize these insights to develop and operationalize solutions that mitigate our customer gaps.</li>
-<li>Provide mentorship across data centers for specific expertise.</li>
-<li>Seek training opportunities that meet the interest of the business as well as own career goals and objectives.</li>
-<li>Suggest ways of reducing risk of performing maintenance; work with others to accommodate scheduling needs.</li>
-<li>Suggest improvements in implementation based on depth of understanding.</li>
-<li>Contribute to a positive team environment by learning and adopting best practices.</li>
-<li>Contribute constructively during team meetings and in cross-discipline collaborations within the service team.</li>
-<li>Recognize priority of team success over individual achievement.</li>
-<li>Collaborate and negotiate effectively with others and seek guidance from management to identify delegates to deliver results.</li>
-</ul>
-<p><b>_Ownership_</b></p>
-<ul>
-<li>In alignment with management priorities, hold self-accountable for the end-to-end service quality, completeness, and resulting customer experience (including but not limited to availability, safety, security, customer service). Support escalation of issues to appropriate owner.</li>
-</ul>
-<p><b>_Other_</b></p>
-<ul>
-<li>Embody our Microsoft One[culture](https://careers.microsoft.com/us/en/culture "Original URL: https://careers.microsoft.com/us/en/culture. Click or tap if you trust this link.")and[values](https://www.microsoft.com/en-us/about/corporate-values "Original URL: https://www.microsoft.com/en-us/about/corporate-values. Click or tap if you trust this link.").</li>
-</ul>
-<h3>Qualifications</h3>
-<h3>Qualifications</h3>
-<h3>Required Qualifications</h3>
-<ul>
-<li>High School Diploma or equivalent AND 2+ years’ experience supporting IT equipment or related technology or delivering server and network deployment projects in large-scale OR equivalent experience.</li>
-<li>2+ years of experience leading or coordinating data center deployment, infrastructure, or technical projects.</li>
-<li>2+ years of experience supporting or performing data center deployment, QA/QC, commissioning, or operational readiness activities.</li>
-</ul>
-<p><b>Background Check Requirements:</b></p>
-<p>Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:</p>
-<ul>
-<li>Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.</li>
-</ul>
-<p>While not required, we also look for the following<b>Preferred Qualifications:</b></p>
-<ul>
-<li>2+ years’ experience in Critical Environment infrastructure (e.g., UPS, PDUs, Generators, AHU/CFM, ability to read and interpret electrical one-line diagrams and working with IT infrastructure modifications (e.g., Cable trays, Fiber Runners, HACs and IT equipment).</li>
-<li>1+ years’ experience in IT Critical Space and understanding of IT Allocation (e.g., Diverse Cluster density, quanta, patterns)</li>
-</ul>
-<p>Data Center Operations Management IC3 - The typical base pay range for this role across the U.S. is USD $84,400 - $168,800 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $118,800 - $186,600 per year.</p>
-<p>Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here:</p>
-<p>This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.</p>
-<ul>
-<li><i> </i></li>
-</ul>
-<p>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about [<b>requesting accommodations.</b>](https://careers.microsoft.com/v2/global/en/accessibility.html)</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6abc1a6f8ef249373c4220d0?src=adzuna]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Microsoft (Datacenters)]]></company>
-    <category>23</category>
-    <contract_type>contract</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-29T20:07:11.004Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6abc1a68c6482f6763304005]]></id>
     <title><![CDATA[Logistics Technician Intern]]></title>
     <description><![CDATA[<h3>Overview</h3>
@@ -40884,64 +40795,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-23T19:21:09.862Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6ab4260bc462bb96eafcf9aa]]></id>
-    <title><![CDATA[Data Center Technician Manager]]></title>
-    <description><![CDATA[<h3>Overview</h3>
-<p>As a Microsoft Data Center Technician (DCT) Manager, you will lead a team of technicians, providing expert guidance on performing hardware deployments, diagnostics on equipment, and hardware decommissions. You will support technician performance, prioritizing technician tasks while monitoring Key Performance Indicators (KPIs) and Service Level Agreements (SLAs). <b>This opportunity</b> will allow you to model leadership principles, <b>provide coaching and training to technicians</b>, and accelerate your career growth in the process.</p>
-<p>Microsoft’s Cloud Operations &amp; Innovation (CO+I) is the engine that powers our cloud services. As a CO+I DCT Manager, you will perform a key role in delivering the core infrastructure and foundational technologies for Microsoft's online services including Bing, Office 365, Xbox, OneDrive, and the Microsoft Azure platform. As a group, CO+I is focused on the personal and professional development of all employees and offers training and growth opportunities including Career Rotation Programs, Diversity &amp; Inclusion training and events, and professional certifications.</p>
-<p>Our infrastructure is comprised of a large global portfolio of more than 200 data centers in 32 countries and millions of servers. Our foundation is built upon and managed by a team of <b>highly skilled subject matter experts</b> working to support services for more than 1 billion customers and 20 million businesses in over 90 countries worldwide.</p>
-<p>With environmental sustainability and optimization at the forefront of our data center design and operations, we continue to grow and evolve as we meet the ever-changing business demands that hold Microsoft as a world-class cloud provider.</p>
-<p>Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees, we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day, we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.</p>
-<h3>Responsibilities</h3>
-<h3>Required Qualifications</h3>
-<ul>
-<li>Bachelor's degree or Associate degree in Science, Mathematics, Engineering, Computer Science, or a related technical field, and/or 5+ years of equivalent relevant work experience.</li>
-<li>3+ years of people leadership, team lead, project leadership, coaching, mentoring, supervisory, or management experience.</li>
-<li>Ability to work scheduled shifts, including evenings, nights, weekends, and holidays, with reasonable accommodations available consistent with applicable law.</li>
-</ul>
-<p><b>Background Check Requirements:</b>Ability to meet Microsoft, customer, and/or government security screening requirements is required for this role.</p>
-<p>Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter. While not required, we also look for the following</p>
-<p>_<b>Preferred Qualifications:</b>_</p>
-<ul>
-<li>Associate degree in Computer Science or a related field and/or equivalent work experience.</li>
-<li>4+ years’ experience supporting IT equipment or related technology.</li>
-<li>3+ years’ experience working in a production, mission-critical 24x7x365 data center environment.</li>
-<li>Applicable certifications are beneficial but not required, including Information Technology Infrastructure Library (ITIL), CompTIA certifications, Certified Data Center Professional (CDCP), Microsoft certifications, or comparable industry credentials</li>
-<li>2+ years' experience leading a diverse technical or information technology workforce of up to 10 employees.</li>
-</ul>
-<h3>Qualifications</h3>
-<h3>Responsibilities</h3>
-<ul>
-<li>Demonstrates ownership of service quality, operational excellence, and customer experience while maintaining high standards across data center operations</li>
-<li>Leads and enables the team to achieve data center service quality and compliance goals.</li>
-<li>Provides guidance, coaching, and support to help the team maintain compliance with Data Center Services policies, procedures, deadlines, and service-change requirements.</li>
-<li>Ensures technicians are trained on procedures for installation, deployment, replacement, and post-execution quality check processes.</li>
-<li>Verifies post-execution quality checks have been completed appropriately and takes corrective action as needed.</li>
-<li><b>Escalates</b> issues through appropriate channels and follows up on resolution, sharing knowledge with appropriate teams.</li>
-<li>Reviews process changes, assesses impact on service delivery, and communicates relevant updates to stakeholders across teams and functions.</li>
-<li>Leads and enables the team to deliver high-quality, compliant services that support Microsoft's cloud infrastructure and customer experience.</li>
-<li><b>Completes</b> required safety training, conducts daily safety briefings, and participates in on-site safety committees.</li>
-<li>Ensures technicians and vendor personnel follow established safety requirements, including proper use of personal protective equipment, equipment handling, lifting practices, electrical safety, and ladder or rolling stair procedures.</li>
-<li>Promote a culture of safety and empower technicians to take action, speak up, and report safety concerns and/or incidents.</li>
-<li>Has pride and a sense of accountability for the service quality, completeness, and resulting customer experience, displaying accountability and ownership of the data center facilities.</li>
-<li>Embody our[culture](https://apply.careers.microsoft.com/careers/job/%5C%22https://careers.microsoft.com/us/en/culture) and [values](https://apply.careers.microsoft.com/careers/job/%5C%22https://www.microsoft.com/en-us/about/corporate-values).</li>
-</ul>
-<p>This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.</p>
-<ul>
-<li><i> </i></li>
-</ul>
-<p>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about [<b>requesting accommodations.</b>](https://careers.microsoft.com/v2/global/en/accessibility.html)</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6ab4260bc462bb96eafcf9aa?src=adzuna]]></url>
-    <location><![CDATA[Pune, Maharashtra]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Microsoft (Datacenters)]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-23T19:18:35.768Z]]></date>
   </job>
   <job>
     <id><![CDATA[6ab423a052e89bbf7d5c4305]]></id>
@@ -65032,46 +64885,6 @@
     <contract_type>contract</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-16T18:25:48.652Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6aaadecd0edc8ea58accd118]]></id>
-    <title><![CDATA[Territory Manager]]></title>
-    <description><![CDATA[<p>As a Territory Manager, you will play a crucial role in our L7 - IN - LEGRAND - Trade Sales department. Your primary focus will be on developing and executing sales strategies to increase market share and revenue. You will be responsible for managing and growing our dealer and distributor network, ensuring a strong presence in the B2C channel.</p>
-<h3>Responsibilities</h3>
-<ul>
-<li>Develop and implement sales plans to achieve monthly, quarterly, and annual sales targets.</li>
-<li>Build and maintain strong relationships with key dealers and distributors in the assigned territory.</li>
-<li>Conduct market research and analyze competitor activities to identify new business opportunities.</li>
-<li>Provide regular feedback and insights to the sales team and management on market trends and customer needs.</li>
-<li>Ensure timely delivery of products and services to customers, maintaining high levels of customer satisfaction.</li>
-<li>Train and support dealers and distributors on product knowledge, sales techniques, and brand promotion.</li>
-<li>Monitor and analyze sales performance, identifying areas for improvement and implementing corrective actions.</li>
-<li>Collaborate with the marketing team to develop and execute promotional campaigns and events.</li>
-<li>Maintain accurate records of sales activities, customer interactions, and market data.</li>
-<li>Represent the company at industry events, trade shows, and conferences to promote our brand and products.</li>
-</ul>
-<h3>Qualifications</h3>
-<ul>
-<li>Bachelor's degree in Business Administration, Marketing, or a related field is preferred.</li>
-<li>Minimum 3 years of experience in channel sales, preferably in the electrical or digital systems industry.</li>
-<li>Proven track record of successful sales performance and meeting targets.</li>
-<li>Excellent communication and interpersonal skills, with the ability to build strong relationships.</li>
-<li>Strong analytical and problem-solving abilities, with a data-driven approach to decision-making.</li>
-<li>Proficiency in using CRM systems and sales management tools.</li>
-<li>Ability to work independently and manage multiple tasks simultaneously.</li>
-<li>Willingness to travel within the assigned territory for business development and customer meetings.</li>
-<li>Fluency in English and Hindi, with strong verbal and written communication skills.</li>
-<li>Knowledge of the local market and customer base in Meerut and the surrounding regions.</li>
-</ul>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aaadecd0edc8ea58accd118?src=adzuna]]></url>
-    <location><![CDATA[Uttar Pradesh]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Legrand]]></company>
-    <category>3</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-16T18:24:13.601Z]]></date>
   </job>
   <job>
     <id><![CDATA[6aaadecdf42f00d07cd002f4]]></id>
@@ -180080,94 +179893,6 @@
     <date><![CDATA[2026-09-02T18:25:41.800Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6a9866c51225f1cb836b0b86]]></id>
-    <title><![CDATA[Senior Data Scientist, Bangalore]]></title>
-    <description><![CDATA[<h3>Job Description</h3>
-<p><b>Your Work Shapes the World at Caterpillar Inc.</b></p>
-<p>When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.</p>
-<p>Role Definition Senior Data Scientist to design, develop, and deploy advanced AI/ML solutions that drive business impact. The ideal candidate will possess deep expertise in statistics, machine learning, large language models (LLMs), model evaluation, and Python-based solution development. This role will partner closely with product, engineering, and business stakeholders to develop scalable analytics and Generative AI solutions that improve decision-making, automation, and customer experiences.</p>
-<h3>Responsibilities</h3>
-<ul>
-<li>Apply advanced statistical techniques to analyze large-scale structured and unstructured datasets, identify insights, and quantify business impact.</li>
-<li>Develop end-to-end ML and GenAI pipelines, including data preparation, model training, fine-tuning, evaluation, deployment, and monitoring.</li>
-<li>Build scalable Python-based solutions and reusable ML components that integrate with enterprise platforms and cloud environments.</li>
-<li>Collaborate with cross-functional teams to translate business problems into analytical solutions and communicate findings to technical and non-technical stakeholders.</li>
-<li>Stay current with emerging AI, machine learning, and LLM advancements, driving innovation and adoption of best practices.</li>
-</ul>
-<p>Skill Descriptors Business Statistics: Knowledge of the statistical tools, processes, and practices to describe business results in measurable scales; ability to use statistical tools and processes to assist in making business decisions. Level Working Knowledge:</p>
-<ul>
-<li>Explains the basic decision process associated with specific statistics.</li>
-<li>Works with basic statistical functions on a spreadsheet or a calculator.</li>
-<li>Explains reasons for common statistical errors, misinterpretations, and misrepresentations.</li>
-<li>Describes characteristics of sample size, normal distributions, and standard deviation.</li>
-<li>Generates and interprets basic statistical data.</li>
-</ul>
-<p>Accuracy and Attention to Detail: Understanding the necessity and value of accuracy; ability to complete tasks with high levels of precision. Level Extensive Experience:</p>
-<ul>
-<li>Evaluates and makes contributions to best practices.</li>
-<li>Processes large quantities of detailed information with high levels of accuracy.</li>
-<li>Productively balances speed and accuracy.</li>
-<li>Employs techniques for motivating personnel to meet or exceed accuracy goals.</li>
-<li>Implements a variety of cross-checking approaches and mechanisms.</li>
-<li>Demonstrates expertise in quality assurance tools, techniques, and standards.</li>
-</ul>
-<p>Analytical Thinking: Knowledge of techniques and tools that promote effective analysis; ability to determine the root cause of organizational problems and create alternative solutions that resolve these problems. Level Working Knowledge:</p>
-<ul>
-<li>Approaches a situation or problem by defining the problem or issue and determining its significance.</li>
-<li>Makes a systematic comparison of two or more alternative solutions.</li>
-<li>Uses flow charts, Pareto charts, fish diagrams, etc. to disclose meaningful data patterns.</li>
-<li>Identifies the major forces, events and people impacting and impacted by the situation at hand.</li>
-<li>Uses logic and intuition to make inferences about the meaning of the data and arrive at conclusions.</li>
-</ul>
-<p>Machine Learning: Knowledge of principles, technologies and algorithms of machine learning; ability to develop, implement and deliver related systems, products and services. Level Working Knowledge:</p>
-<ul>
-<li>Completes specific tasks and initiatives utilizing machine learning technologies, such as search engine optimization.</li>
-<li>Utilizes specific tools and techniques to process descriptive and inferential statistics.</li>
-<li>Applies specific computing languages and tools in machine learning, such as R and Python.</li>
-<li>Explores to use machine learning in one own areas to make business improvements.</li>
-<li>Conducts data mining and cleaning initiatives.</li>
-</ul>
-<p>Programming Languages: Knowledge of basic concepts and capabilities of programming; ability to use tools, techniques and platforms in order to write and modify programming languages. Level Working Knowledge:</p>
-<ul>
-<li>Participates in the implementation and support of specialized programming languages.</li>
-<li>Conducts basic reviews on writing a specific programming language within a specific platform.</li>
-<li>Assists with the design and development of specialized programming languages.</li>
-<li>Follows an organization's standards, policies and guidelines for structured programming specifications.</li>
-<li>Diagnoses and reports minor or routine programming language problems.</li>
-</ul>
-<p>Query and Database Access Tools: Knowledge of data management systems; ability to use, support and access facilities for searching, extracting and formatting data for further use. Level Extensive Experience:</p>
-<ul>
-<li>Writes, debugs and implements complex queries involving multiple tables or databases.</li>
-<li>Works with aggregate functions, complex joins, groupings, dynamic and embedded SQL's (Structured Query Languages).</li>
-<li>Teaches others about query optimization techniques and facilities.</li>
-<li>Consults on query optimization, interactive queries, testing and verification.</li>
-<li>Evaluates all major database access tools and functions for distributed databases.</li>
-<li>Compares and contrasts the benefits and drawbacks of various SQL products.</li>
-</ul>
-<p>Requirements Analysis: Knowledge of tools, methods, and techniques of requirement analysis; ability to elicit, analyze and record required business functionality and non-functionality requirements to ensure the success of a system or software development project. Level Working Knowledge:</p>
-<ul>
-<li>Follows policies, practices and standards for determining functional and informational requirements.</li>
-<li>Confirms deliverables associated with requirements analysis.</li>
-<li>Communicates with customers and users to elicit and gather client requirements.</li>
-<li>Participates in the preparation of detailed documentation and requirements.</li>
-<li>Utilizes specific organizational methods, tools and techniques for requirements analysis.</li>
-</ul>
-<p>This position requires working onsite five days a week.</p>
-<p>Relocation is available for this position.</p>
-<p><b>Posting Dates:</b></p>
-<p>August 27, 2026 - September 3, 2026</p>
-<p>Caterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a9866c51225f1cb836b0b86?src=adzuna]]></url>
-    <location><![CDATA[Bangalore, Karnataka]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Caterpillar]]></company>
-    <category>29</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-02T18:11:17.757Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6a9866ae2ff6fdb0f50ddc6a]]></id>
     <title><![CDATA[Software Engineer - QA]]></title>
     <description><![CDATA[<h3>Job Description</h3>
@@ -239313,5 +239038,193 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-08-26T04:34:54.744Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8e6cee9a547f3726941a8a]]></id>
+    <title><![CDATA[BMS Hardware Design - Datacenter]]></title>
+    <description><![CDATA[<p>Job Description</p>
+<p><b>Application Engineer (Hardware Design) – Datacenter</b></p>
+<p><b>What you will do</b></p>
+<p>The primary responsibility of this role is to lead global Data Center Building Management System (BMS) engineering projects, ensuring compliance with project specifications, customer requirements, and account-specific standards. The role requires independent ownership and execution of projects throughout the entire lifecycle, while serving as the first point of escalation for technical and project-related issues. Ensure adherence to data center-specific engineering and project execution processes, maintain high quality standards through a &amp;#34;First Time Right&amp;#34; approach, and deliver projects on schedule to achieve operational excellence and maximize customer satisfaction.</p>
+<p><b>How you will do it</b></p>
+<ul>
+<li>Review MEP drawings to generate following drawings / documents for systems covered into Datacenter Project</li>
+</ul>
+<p>Shop Drawings (ACAD drawings)</p>
+<ul>
+<li>Detailed IO List contains all hardware points, software points and integration points if applicable, along with trend and alarm details as applicable</li>
+</ul>
+<ul>
+<li>Creation of Bill of material, selection of sensors, control valves, dampers, air flow stations, controllers etc.</li>
+</ul>
+<ul>
+<li>Generation of Panel GA</li>
+</ul>
+<ul>
+<li>Generation of detailed Control devices and controller wiring, terminations, interlock wiring</li>
+</ul>
+<p>Engineering Documents</p>
+<p>Preparation of BMS Network diagram as per specifications and approved solution</p>
+<p>Generation of detailed description of operation control based on specifications and design intent</p>
+<p>Generation of various schedules like Valve, Flowmeter, Damper, panel, DDC etc.</p>
+<p>Preparation of test scripts for panel factory witness tests</p>
+<p>Generation of initial review sheets and RFI’s</p>
+<ul>
+<li>Coordination with all stakeholders for clarification on RFI’s, tracking progress and with different vendors during finalization of BOQ</li>
+</ul>
+<ul>
+<li>Ensure quality assurance and defect free hardware package delivery</li>
+</ul>
+<ul>
+<li>Adherence with all processes and guidelines to execute project within timeline</li>
+</ul>
+<ul>
+<li>During pre-bid stage support sales team for providing/validating controls solution for systems into Datacenter project.</li>
+</ul>
+<p><b>What we look for</b></p>
+<ul>
+<li>BE/ME (Instrumentation / Electrical/ Electronics / Electronics &amp; Communication</li>
+</ul>
+<ul>
+<li>Hands on experience with Hardware Engineering scope for Datacenter Vertical</li>
+</ul>
+<ul>
+<li>Good Understanding of Data Centre mechanical / electrical systems with expertise for instrumentation and control, panel wiring, complex relay logic</li>
+</ul>
+<ul>
+<li>Experience in detailed panel design – power calculation, selection of panel enclosure, terminal blocks, fuses, panel heaters, light etc.</li>
+</ul>
+<ul>
+<li>Knowledge of HVAC systems from Datacenter vertical like Chilled Water System, Cooling Towers, Primary &amp; Secondary pumping systems, Fluid Coolers, Heat Exchanger, CRAH, CRAC, CDU, Different types of AHUs, FCUs, VAV systems etc.</li>
+</ul>
+<ul>
+<li>Strong knowledge of BMS architecture with different types of Operator workstations, Supervisory Controllers, DDC controllers, Sensors &amp; Actuators etc.</li>
+</ul>
+<ul>
+<li>Knowledge of different types of network protocols like BACNet, LON, Modbus, OPC, and other protocols</li>
+</ul>
+<ul>
+<li>Must be proficient in wiring of starters, field devices, safety interlocks &amp; panels</li>
+</ul>
+<ul>
+<li>Experience in engineering, installing and commissioning of HVAC &amp; BMS systems for Datacenter projects or other infrastructure projects like pharmaceuticals, airports, commercial buildings, hospitals</li>
+</ul>
+<ul>
+<li>Must be a quick learner &amp; should have a keen eye for problem solving</li>
+</ul>
+<ul>
+<li>Proficient in written and verbal communication</li>
+</ul>
+<ul>
+<li>Ability to demonstrate good leadership skills</li>
+</ul>
+<p><b>Preferred</b></p>
+<p>4 to 8 years of relevant experience in Building Automation Industry Datacenter Vertical, BMS Design Engineering or Industrial Automation.</p>
+<p>Johnson Controls is an equal employment opportunity and affirmative action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, protected veteran status, status as a qualified individual with a disability, or any other characteristic protected by law. For more information, please view EEO is the Law. If you are an individual with a disability and you require an accommodation during the application process, please visit [www.johnsoncontrols.com/tomorrowneedsyou](http://www.johnsoncontrols.com/tomorrowneedsyou).</p>
+<p><b>Application Engineer (Hardware Design) – Datacenter</b></p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8e6cee9a547f3726941a8a?src=adzuna]]></url>
+    <location><![CDATA[Bengaluru, Maharashtra]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Johnson Controls]]></company>
+    <category>2</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-26T04:34:54.069Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8e6ced6ed51d224dc6cad3]]></id>
+    <title><![CDATA[EHS/Safety Officer]]></title>
+    <description><![CDATA[<h3>ob Summary</h3>
+<h3>We are looking for a dedicated Safety Officer to oversee and implement Health, Safety, and Environment (HSE) practices for service and maintenance activities related to Controls, Fire Alarm Systems, Security Systems, Access Control, CCTV, and Building Management Systems (BMS). The role involves ensuring compliance with safety regulations, conducting risk assessments, and promoting a strong safety culture across service operations.</h3>
+<h3>Key Responsibilities</h3>
+<ul>
+<li>Ensure compliance with company HSE policies, client safety standards, and statutory regulations.</li>
+</ul>
+<ul>
+<li>Conduct site safety inspections, audits, risk assessments, and hazard identification activities.</li>
+</ul>
+<ul>
+<li>Monitor service and maintenance activities involving fire, security, controls, and automation systems.</li>
+</ul>
+<ul>
+<li>Prepare Job Safety Analysis (JSA), Method Statements (MS), and Risk Assessment (RA) documentation.</li>
+</ul>
+<ul>
+<li>Conduct safety inductions, toolbox talks, and awareness training for service engineers and subcontractors.</li>
+</ul>
+<ul>
+<li>Ensure proper use of Personal Protective Equipment (PPE) at all project and service sites.</li>
+</ul>
+<ul>
+<li>Investigate incidents, near misses, and unsafe conditions, and implement corrective actions.</li>
+</ul>
+<ul>
+<li>Coordinate permit-to-work (PTW) activities, including hot work, work at height, electrical work, and confined space entries.</li>
+</ul>
+<ul>
+<li>Maintain HSE records, reports, inspection checklists, and compliance documentation.</li>
+</ul>
+<ul>
+<li>Monitor contractor and vendor safety performance during service activities.</li>
+</ul>
+<ul>
+<li>Support emergency preparedness, evacuation drills, and fire safety programs.</li>
+</ul>
+<ul>
+<li>Liaise with customers, site management, and regulatory authorities on safety-related matters.</li>
+</ul>
+<h3>Required Qualifications</h3>
+<ul>
+<li>Diploma / Bachelor's Degree in Engineering, Safety Management, Occupational Health &amp; Safety, or related field.</li>
+</ul>
+<ul>
+<li>Safety certifications such as:</li>
+</ul>
+<p>NEBOSH IGC (Preferred)</p>
+<ul>
+<li>IOSH Managing Safely</li>
+</ul>
+<ul>
+<li>OSHA Certification</li>
+</ul>
+<ul>
+<li>Industrial Safety Diploma</li>
+</ul>
+<h3>Experience &amp; Skills</h3>
+<ul>
+<li>Minimum 4 to 6 years of experience in HSE management for Service, Maintenance, ELV, Fire &amp; Security, Controls, or MEP environments.</li>
+</ul>
+<ul>
+<li>Strong knowledge of:</li>
+</ul>
+<p>Fire Alarm Systems (FAS)</p>
+<ul>
+<li>CCTV &amp; Access Control Systems</li>
+</ul>
+<ul>
+<li>Building Management Systems (BMS)</li>
+</ul>
+<ul>
+<li>Electrical Safety Standards</li>
+</ul>
+<ul>
+<li>Permit-to-Work Systems</li>
+</ul>
+<ul>
+<li>Work-at-Height and Hot Work Safety</li>
+</ul>
+<p>Familiarity with local safety regulations and client-specific HSE requirements.</p>
+<p>Excellent communication, training, and incident investigation skills.</p>
+<p>Proficiency in MS Office and HSE reporting tools</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8e6ced6ed51d224dc6cad3?src=adzuna]]></url>
+    <location><![CDATA[Bangalore, Karnataka]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Johnson Controls]]></company>
+    <category>12</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-26T04:34:53.915Z]]></date>
   </job>
 </jobs>
