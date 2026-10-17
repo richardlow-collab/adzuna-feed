@@ -48029,33 +48029,6 @@
     <date><![CDATA[2026-10-03T18:30:47.679Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6ac149d77b3c7e6fe77a3782]]></id>
-    <title><![CDATA[Data Center Electrical Facilities Technician, Electrical]]></title>
-    <description><![CDATA[<h3>About the job</h3>
-<p>The Data Center team designs and operates some of the most sophisticated electrical engineering, mechanical engineering and HVAC systems in the world. Facilities Technicians at Google data centers operate, monitor and support physical facilities conditions. Some of these duties will include heating and cooling of air and water, power supply, generators, UPS systems, electrical distribution and control and monitoring systems. You regularly help inspect, maintain and repair various data center systems such as piping and non-critical electrical or mechanical system components).</p>
-<p>As an advocate for best practices, you develop creative approaches to reducing operational costs while improving overall data center efficiency. You ensure that environmental and safety standards are consistently met, identifying problems and making repairs quickly. In emergency situations or abnormal conditions, you manage data center performance issues and outages to minimize the recovery time from failures.</p>
-<p>As a Facilities Technician, you will operate, monitor, and support physical facilities conditions for our data centers. You will lead and ensure the electrical system compliance including local legal and Environmental Health and Safety (EHS) policies. You will ensure electrical system reliability, and lead the commissioning activities functional test and Integrated System Test (IST). You will manage and support electrical system operation, and lead the electrical system maintenance program including preparing the technical specification, procurement and maintenance vendor performance management.</p>
-<p>The Data Center team designs and operates some of the most sophisticated electrical and HVAC systems in the world. We are an upbeat, creative, team-oriented group of engineers committed to building and operating powerful data centers.</p>
-<h3>Responsibilities</h3>
-<ul>
-<li>Maintain and manage data center electrical systems, including medium and low voltage, ensuring uptime through maintenance, operation, troubleshooting, repair, and execution of operational procedures, responding to work requests and providing technical ability.</li>
-<li>Conduct root cause analysis for service failures, implement recovery and prevention actions, and drive improvement in site water usage effectiveness and power usage effectiveness to minimize environmental impact and enhance system reliability.</li>
-<li>Lead and support the startup, commissioning, and integration of new equipment and systems into the facilities infrastructure, coordinating vendor support and participating in system design reviews for new projects and modifications.</li>
-<li>Ensure compliance with all site environmental health, safety policies, and legal requirements, while developing infrastructure knowledge and providing training to the team.</li>
-<li>Maintain operational availability by working 12-hour rotating shifts, including weekends and holidays.</li>
-</ul>
-<p>Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google's [Applicant and Candidate Privacy Policy](./privacy-policy).</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6ac149d77b3c7e6fe77a3782?src=adzuna]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Google (Data Centers)]]></company>
-    <category>23</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-10-03T18:30:47.050Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6ac02c97d8c34cdeb15755f6]]></id>
     <title><![CDATA[EHS Director - Construction]]></title>
     <description><![CDATA[<p>Join DayOne – Shaping the Future of Data Infrastructure</p>
@@ -60940,49 +60913,6 @@
     <date><![CDATA[2026-09-29T21:36:44.097Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6abc2f6b6826e08dc57e684e]]></id>
-    <title><![CDATA[Senior Worldwide (WW) GTM Specialist, Amazon WorkSpaces]]></title>
-    <description><![CDATA[<p>The workspace is no longer just for humans. Enterprises are moving from traditional virtual desktops to intelligent, cloud-native environments where people and AI agents work side by side — governed by design, observable by default, and delivered anywhere. Amazon WorkSpaces is leading this transformation with WorkSpaces for Agents (now generally available), alongside WorkSpaces Personal, WorkSpaces Core, and WorkSpaces Applications. Together with services like AWS Context and Amazon Bedrock AgentCore, we're building the operating environment for the next enterprise workforce — one where AI agents navigate applications, automate workflows, and build institutional knowledge inside trusted boundaries. The companies that lead won't just have the smartest AI — they'll build the most trustworthy place for intelligence to work.</p>
-<p>AWS is seeking a Worldwide (WW) GTM Specialist to accelerate adoption of Amazon WorkSpaces' AI and agentic capabilities. You will be part of a dedicated team focused on bringing these emerging solutions to market — defining the vision for agentic workspaces, building GTM motions around AI-enhanced features, and helping customers understand how governed cloud workspaces become the operating environment for their human + agent workforce. You'll be charting new territory at the intersection of end-user computing and enterprise AI — identifying early adopters, shaping lighthouse engagements, and building repeatable plays that scale.</p>
-<p>You are a strategic thinker who operates with urgency. You combine deep business acumen with enough technical depth to be credible with CIOs and IT leaders navigating the shift to agentic work. You understand that the hardest problem isn't teaching an agent to click — it's making sure those clicks happen inside an environment the organization can trust. You've built GTM strategies in emerging technology categories, rallied cross-functional teams around a shared vision, and delivered measurable business results. You're energized by ambiguity — because that's where the biggest opportunities live.</p>
-<p>Key job responsibilities</p>
-<ul>
-<li>Define and execute the GTM strategy for Amazon WorkSpaces AI and agentic solutions — identifying high-value customer segments where agents can drive immediate productivity gains, and building programs that accelerate early adoption of WorkSpaces for Agents, AI-enhanced desktop experiences, and governed agentic environments.</li>
-<li>Shape the narrative around the future of agentic workspaces — positioning AWS as the leader in trusted environments where humans and AI agents work together, with built-in governance, observability, and identity management that enable enterprises to scale autonomous work confidently.</li>
-<li>Engage directly with enterprise leaders and partners to articulate how governed cloud workspaces solve the trust, security, and compliance challenges that keep agentic AI stuck in pilots — connecting agentic workspace capabilities to measurable business outcomes.</li>
-<li>Build and scale lighthouse engagements with early adopters deploying AI agents in enterprise environments — generating compelling proof points around agent governance, productivity, and the human + agent operating model, then operationalizing those wins into repeatable plays.</li>
-<li>Develop deep fluency in the WorkSpaces AI portfolio (WorkSpaces for Agents, integration with AWS Context, Amazon Bedrock AgentCore, AWS Continuum) to articulate how the pieces fit together for customers across industries.</li>
-<li>Establish data-driven mechanisms to measure adoption of agentic features, track program effectiveness, and continuously optimize the path from pilot to production-scale agent deployment.</li>
-<li>Evangelize the agentic workspace vision externally through thought leadership, events, and industry engagement — and internally across AWS to drive mindshare and investment in this emerging category.</li>
-<li>Orchestrate field uptake of AI-focused sales plays, equipping the broader sales organization to identify and qualify agentic workspace opportunities and deliver value through repeatable mechanisms.</li>
-</ul>
-<h3>Basic Qualifications</h3>
-<ul>
-<li>5+ years of Go-To-Market, Business Development, Sales, or Consulting experience</li>
-<li>2+ years of working with Data &amp; AI related technologies, including, but not limited to, AI/ML, GenAI, Analytics, Database, and/or Storage experience</li>
-<li>5+ years of working with Business Application Technologies, including, but not limited to End User Compute (EUC), Supply Chain, Contact Center as a Service, Consumer Data Applications, Encrypted Communications, and/or Communication Developer Services experience</li>
-<li>Experience selling enterprise software or cloud-based applications</li>
-</ul>
-<h3>Preferred Qualifications</h3>
-<ul>
-<li>Experience interpreting data and making business recommendations across leadership and cross-functional teams</li>
-<li>Experience developing strategies that influence leadership decisions at the organizational level</li>
-<li>Experience in selling nascent products/services into new markets</li>
-<li>Experience leading complex, multi-year initiatives that may be cross-functional and/or span business and technology</li>
-<li>Understanding of enterprise desktop/workspace environments and the security, compliance, and identity requirements that govern them</li>
-</ul>
-<p>Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit [https://amazon.jobs/content/en/how-we-hire/accommodations](https://amazon.jobs/content/en/how-we-hire/accommodations) for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6abc2f6b6826e08dc57e684e?src=adzuna]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Amazon Web Services]]></company>
-    <category>3</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-29T21:36:43.991Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6abc2f6b5e6dcb457706fedb]]></id>
     <title><![CDATA[Senior Customer Success Specialist, Amazon Connect]]></title>
     <description><![CDATA[<p>This position is part of the AWS Specialist and Partner Organization (ASP). Specialists own the end-to-end go-to-market strategy for their respective technology domains, providing the business and technical expertise to help our customers succeed. Partner teams own the strategy, recruiting, development, and growth of our key technology and consulting partners. Together they provide our customers with the expertise and scale needed to build innovative solutions for their most complex challenges.</p>
@@ -62301,63 +62231,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-29T20:24:35.768Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6abc1a68c6482f6763304005]]></id>
-    <title><![CDATA[Logistics Technician Intern]]></title>
-    <description><![CDATA[<h3>Overview</h3>
-<p>Come build community, explore your passions and do your best work at Microsoft with thousands of University interns from every corner of the world. This opportunity will allow you to bring your aspirations, talent, potential—and excitement for the journey ahead.</p>
-<p>Join Microsoft Australia as a Data Center Operations Management Intern and be part of a dynamic team that ensures the smooth operation of our data centers. This internship offers a unique opportunity to gain hands-on experience in managing data center operations, working with cutting-edge technology, and collaborating with teams across the globe.</p>
-<p>At Microsoft, Interns work on real-world projects in collaboration with teams across the world, while having fun along the way. You’ll be empowered to build community, explore your passions and achieve your goals. This is your chance to bring your solutions and ideas to life while working on cutting-edge technology.</p>
-<h3>Responsibilities</h3>
-<ul>
-<li>Work onsite at our datacenters in Melbourne</li>
-<li>Perform assigned tasks and escalate issues during high-volume work activity.</li>
-<li>Analyzes causes of service implementation policy faults or degradation and recommends improvement plans.</li>
-<li>Implements service implementation policy plan improvements as directed for Data Center business unit(s).</li>
-<li>Coordinate with suppliers to initiate warranty claims and process failed vendor hardware devices.</li>
-<li>Maintain up-to-date and accurate information within various inventory management systems.</li>
-<li>Ensure detailed physical inventory tracking and staging.</li>
-<li>Help reconcile and report inventory discrepancies.</li>
-<li>Perform destruction of data-bearing devices following all Service Level Agreements (SLAs) and Microsoft policies.</li>
-<li>Comply with security and data management policies.</li>
-</ul>
-<h3>Qualifications</h3>
-<p><b>Eligibility</b></p>
-<ul>
-<li>High School Diploma, or equivalent.</li>
-<li>Basic knowledge of Asset/Inventory/Logistics/Supply Chain.</li>
-<li>Currently studying towards a qualification in Warehousing, Logistics, or Supply Chain Management.</li>
-<li>You need to be an Australian National or residency with eligibility to work in Australia.</li>
-</ul>
-<p><b>Background Check Requirements:</b></p>
-<p>Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:</p>
-<ul>
-<li>Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.</li>
-</ul>
-<h3>Preferred Qualifications</h3>
-<ul>
-<li>Applicable certifications (Logistics or Supply Chain or Asset Management).</li>
-<li>Ability to support frequent standing, walking, lifting, and working at heights with or without equipment assistance.</li>
-<li>Able to communicate effectively with multiple stakeholders.</li>
-<li>Proficient in written and oral English communication to support regional and global teams.</li>
-<li>Desire to learn, grow, and develop new technical skills.</li>
-<li>Flexibility to work non-standard business hours that may include weekends and/or holidays.</li>
-</ul>
-<p>This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.</p>
-<ul>
-<li><i> </i></li>
-</ul>
-<p>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about [<b>requesting accommodations.</b>](https://careers.microsoft.com/v2/global/en/accessibility.html)</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6abc1a68c6482f6763304005?src=adzuna]]></url>
-    <location><![CDATA[Melbourne, Victoria]]></location>
-    <country><![CDATA[AU]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Microsoft (Datacenters)]]></company>
-    <category>2</category>
-    <contract_type>contract</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-29T20:07:04.332Z]]></date>
   </job>
   <job>
     <id><![CDATA[6abc166cd8988a2d3fbb0b4e]]></id>
@@ -72409,234 +72282,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-24T20:47:44.143Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6ab58c6f23ab5b72be92b448]]></id>
-    <title><![CDATA[Lead Projects - Billing (MEP)]]></title>
-    <description><![CDATA[<h3>Responsibilities</h3>
-<p>Key Responsibilities MEP Billing &amp; Certification</p>
-<ul>
-<li>Preparation, verification, and processing of RA Bills for MEP works.</li>
-<li>Responsible for Client Billing, Contractor Billing, and Subcontractor Billing.</li>
-<li>Verification of executed quantities against approved drawings, BOQ, and site measurements.</li>
-<li>Timely submission and certification of bills.</li>
-<li>Tracking invoice status, certifications, and payment releases.</li>
-</ul>
-<p>Quantity Surveying &amp; BOQ Management</p>
-<ul>
-<li>Quantity take-off from MEP drawings.</li>
-<li>BOQ preparation, verification, and reconciliation.</li>
-<li>Monitoring actual quantities against budgeted quantities.</li>
-<li>Preparation of measurement sheets and quantity reconciliation reports.</li>
-<li>Identification of quantity deviations and additional work items.</li>
-</ul>
-<p>Variation &amp; Claims Management</p>
-<ul>
-<li>Preparation and submission of Variation Orders and Change Requests.</li>
-<li>Evaluation of additional works, extra items, and scope deviations.</li>
-<li>Preparation of EOT (Extension of Time) claims and supporting documentation.</li>
-<li>Handling commercial claims with clients, consultants, contractors, and subcontractors.</li>
-<li>Maintaining records for contractual correspondences and claim substantiation.</li>
-</ul>
-<p>Contract Administration</p>
-<ul>
-<li>Review of contracts, work orders, and commercial terms.</li>
-<li>Ensuring compliance with contractual obligations and payment milestones.</li>
-<li>Monitoring contract value utilization and package closures.</li>
-<li>Coordination with Contracts, Procurement, Site Execution, and Finance teams.</li>
-</ul>
-<p>Cost Control &amp; Commercial Management</p>
-<ul>
-<li>Monitoring billed versus executed quantities.</li>
-<li>Tracking project costs and commercial performance.</li>
-<li>Preparation of billing MIS, payment trackers, and cash flow reports.</li>
-<li>Support project budgeting and forecasting activities.</li>
-<li>Monitoring receivables and outstanding payments.</li>
-</ul>
-<p>Stakeholder Coordination</p>
-<ul>
-<li>Coordinate with Project Managers, Site Engineers, Consultants, Vendors, Finance, and Clients.</li>
-<li>Resolve billing and certification-related issues.</li>
-<li>Participate in commercial review meetings and project progress reviews.</li>
-</ul>
-<p>Educational Qualification</p>
-<ul>
-<li><b>B.E./B.Tech in Mechanical Engineering (Preferred)</b></li>
-</ul>
-<ul>
-<li><b>B.E./B.Tech in Electrical Engineering</b></li>
-</ul>
-<h3>Experience</h3>
-<ul>
-<li><b>10-15+ Years of experience in MEP Billing &amp; Commercial Functions.</b></li>
-</ul>
-<ul>
-<li>Experience in High-Rise Buildings, Commercial Buildings, Industrial Plants, Manufacturing Facilities, Hospitals, Data Centers, Airports, Metro, Infrastructure, or Large EPC Projects.</li>
-<li>Strong exposure to Mechanical, Electrical, Plumbing, Fire Fighting, HVAC, ELV, and Utility systems.</li>
-</ul>
-<p>Technical Competencies Mechanical Systems</p>
-<ul>
-<li>HVAC Billing</li>
-</ul>
-<ul>
-<li>Chillers &amp; Cooling Systems</li>
-</ul>
-<ul>
-<li>Ventilation Systems</li>
-</ul>
-<ul>
-<li>Piping Networks</li>
-</ul>
-<ul>
-<li>Utility Systems</li>
-</ul>
-<ul>
-<li>Compressed Air Systems</li>
-</ul>
-<p>Electrical Systems</p>
-<ul>
-<li>HT/LT Systems</li>
-</ul>
-<ul>
-<li>Substations</li>
-</ul>
-<ul>
-<li>Power Distribution</li>
-</ul>
-<ul>
-<li>DG Systems</li>
-</ul>
-<ul>
-<li>Solar Systems</li>
-</ul>
-<ul>
-<li>Earthing &amp; Lightning Protection</li>
-</ul>
-<p>Plumbing &amp; Fire Fighting</p>
-<ul>
-<li>Water Supply Systems</li>
-</ul>
-<ul>
-<li>Drainage Systems</li>
-</ul>
-<ul>
-<li>STP/WTP</li>
-</ul>
-<ul>
-<li>Fire Fighting Systems</li>
-</ul>
-<ul>
-<li>Hydrant Networks</li>
-</ul>
-<ul>
-<li>Sprinkler Systems</li>
-</ul>
-<p>Commercial Skills</p>
-<ul>
-<li>RA Billing</li>
-</ul>
-<ul>
-<li>Client Billing</li>
-</ul>
-<ul>
-<li>Contractor Billing</li>
-</ul>
-<ul>
-<li>Subcontractor Billing</li>
-</ul>
-<ul>
-<li>BOQ Management</li>
-</ul>
-<ul>
-<li>Quantity Surveying</li>
-</ul>
-<ul>
-<li>Variation Orders</li>
-</ul>
-<ul>
-<li>Claims &amp; EOT Management</li>
-</ul>
-<ul>
-<li>Contract Administration</li>
-</ul>
-<ul>
-<li>Cost Control</li>
-</ul>
-<ul>
-<li>Budget Monitoring</li>
-</ul>
-<ul>
-<li>SAP / ERP Systems</li>
-</ul>
-<ul>
-<li>Advanced Excel</li>
-</ul>
-<p>Preferred Industry Background</p>
-<ul>
-<li>Real Estate Developers</li>
-</ul>
-<ul>
-<li>EPC Companies</li>
-</ul>
-<ul>
-<li>Industrial &amp; Manufacturing Projects</li>
-</ul>
-<ul>
-<li>Data Center Projects</li>
-</ul>
-<ul>
-<li>High-Rise Residential &amp; Commercial Projects</li>
-</ul>
-<ul>
-<li>Infrastructure Projects</li>
-</ul>
-<ul>
-<li>PMC Organizations</li>
-</ul>
-<ul>
-<li>Engineering Consulting Firms</li>
-</ul>
-<p>Key Competencies</p>
-<ul>
-<li>Strong understanding of MEP systems and installations</li>
-</ul>
-<ul>
-<li>Contractual and commercial acumen</li>
-</ul>
-<ul>
-<li>Negotiation and claim management skills</li>
-</ul>
-<ul>
-<li>Attention to detail</li>
-</ul>
-<ul>
-<li>Analytical and problem-solving capability</li>
-</ul>
-<ul>
-<li>Stakeholder management</li>
-</ul>
-<ul>
-<li>Team leadership and coordination</li>
-</ul>
-<ul>
-<li>Strong communication and reporting skills</li>
-</ul>
-<h3>Qualifications</h3>
-<ul>
-<li><b>B.E./B.Tech in Mechanical Engineering (Preferred)</b></li>
-</ul>
-<ul>
-<li><b>B.E./B.Tech in Electrical Engineering</b></li>
-</ul>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6ab58c6f23ab5b72be92b448?src=adzuna]]></url>
-    <location><![CDATA[Mumbai, Maharashtra]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[AdaniConneX]]></company>
-    <category>12</category>
-    <contract_type>contract</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-24T20:47:43.821Z]]></date>
   </job>
   <job>
     <id><![CDATA[6ab58c6fa4fdfee3726b5e0f]]></id>
@@ -84042,67 +83687,6 @@
     <date><![CDATA[2026-09-21T18:52:12.367Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6ab179ca64cad19fa2a6ddd2]]></id>
-    <title><![CDATA[Critical Environment Technician Intern]]></title>
-    <description><![CDATA[<h3>Overview</h3>
-<p>Join Microsoft’s Cloud Operations &amp; Innovation (CO+I) team – the engine behind our global cloud services. As a <b>Critical Environment Technician Intern</b>, you’ll play a vital role in supporting the infrastructure that powers products like Microsoft Azure, Office 365, Xbox, and OneDrive.</p>
-<p>At Microsoft, we live our values by fostering an inclusive workplace where everyone can thrive. This internship offers hands-on experience, professional growth opportunities, and access to training programs.</p>
-<p>Our global network includes hundreds of datacenters and millions of servers serving over 1 billion customers and 20 million businesses in more than 90 countries. Sustainability and operational excellence are at the heart of everything we do, and we’re looking for passionate individuals to help us deliver world-class cloud solutions.</p>
-<p><b>Ready to make an impact? Join us and be part of the team that empowers billions worldwide.</b></p>
-<h3>Responsibilities</h3>
-<p>As a CET Intern, you will:</p>
-<ul>
-<li>Work onsite at our datacenters in Melbourne.</li>
-<li>Carry out basic operational tasks such as site rounds, recording observations, and taking measurements under supervision.</li>
-<li>Learn to operate critical systems safely and professionally, with the opportunity to earn your Microsoft CET Level 1 certification.</li>
-<li>Monitor and inspect facility equipment (HVAC, electrical, mechanical, fire/life safety systems) and report abnormal conditions.</li>
-<li>Use our Computerized Maintenance Management System (CMMS) to track assets and manage work orders.</li>
-<li>Assist with emergency monitoring and response following established procedures.</li>
-<li>Support incident investigations by gathering data and contributing to root-cause analysis.</li>
-<li>Participate in planned, predictive, and corrective maintenance activities, including preparing materials and administrative tasks.</li>
-<li>Collaborate with senior technicians to troubleshoot complex systems.</li>
-<li>Document maintenance and troubleshooting activities and escalate issues as needed.</li>
-<li>Contribute to developing Methods of Procedure (MOPs) and Standard Operating Procedures (SOPs) for safe operations.</li>
-<li>Conduct technical research on relevant topics to enhance your knowledge.</li>
-</ul>
-<h3>Qualifications</h3>
-<h3>Required Qualifications</h3>
-<ul>
-<li>High School Diploma or equivalent.</li>
-<li>Basic knowledge of electrical and/or mechanical systems</li>
-<li>You need to be an Australian National or, have residency and you must be eligible to work in Australia.</li>
-</ul>
-<p><b>Background Check Requirements:</b></p>
-<p>Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:</p>
-<ul>
-<li>Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.</li>
-</ul>
-<h3>Preferred Qualifications</h3>
-<ul>
-<li>Completed or studying towards a qualification in Facilities Management, Mechanical, Electrical engineering or related qualification.</li>
-<li>Electrical or mechanical engineer diploma level 2</li>
-<li>Ability to support frequent standing, walking, lifting, and working at heights with or without equipment assistance.</li>
-<li>Able to communicate effectively with multiple stakeholders.</li>
-<li>Proficient in written and oral English communication to support regional and global teams.</li>
-<li>Desire to learn, grow, and develop new technical skills.</li>
-<li>Flexibility to work non-standard business hours that may include weekends and/or holidays.</li>
-</ul>
-<p>This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.</p>
-<ul>
-<li><i> </i></li>
-</ul>
-<p>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about [<b>requesting accommodations.</b>](https://careers.microsoft.com/v2/global/en/accessibility.html)</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6ab179ca64cad19fa2a6ddd2?src=adzuna]]></url>
-    <location><![CDATA[Melbourne, Victoria]]></location>
-    <country><![CDATA[AU]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Microsoft (Datacenters)]]></company>
-    <category>5</category>
-    <contract_type>contract</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-21T18:39:06.638Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6ab17843a91f5550e3ff996d]]></id>
     <title><![CDATA[Marketing Director- APAC]]></title>
     <description><![CDATA[<h3>Who we are</h3>
@@ -92618,207 +92202,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-17T18:30:13.930Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6aac31b5c2881c5f605ac1f7]]></id>
-    <title><![CDATA[Data Center Technicians Intern]]></title>
-    <description><![CDATA[<h3>Overview</h3>
-<p>In alignment with our Microsoft values, we are committed to cultivating an inclusive work environment for all employees to positively impact our culture every day and we need you as a Datacenter Technician (DCT) Intern.</p>
-<p>Microsoft’s Cloud Operations &amp; Innovation (CO+I) is the engine that powers our cloud services. As a CO+I DCT Intern, you will perform a key role in delivering the core infrastructure and foundational technologies for Microsoft's online services including Bing, Office 365, Xbox, OneDrive, and the Microsoft Azure platform. As a group, CO+I is focused on the personal and professional development for all employees and offers trainings and growth opportunities including Career Rotation Programs, Diversity &amp; Inclusion trainings and events, and professional certifications.</p>
-<p>Our infrastructure is comprised of a large global portfolio of more than 100 datacenters and 1 million servers. Our foundation is built upon and managed by a team of subject matter experts working to support services for more than 1 billion customers and 20 million businesses in over 90 countries worldwide.</p>
-<p>With environmental sustainability and optimization at the forefront of our datacenter design and operations, we continue to grow and evolve as we meet the ever-changing business demands that hold Microsoft as a world-class cloud provider.</p>
-<p>Do you want to empower billions across the world? Come and join us in CO+I and be at the forefront of the action!</p>
-<h3>Responsibilities</h3>
-<ul>
-<li>*   Work onsite at our datacenters in Melbourne.</li>
-<li>Follow guidelines and work closely with experienced technicians to understand and comply with data center policies, procedures, and deadlines.</li>
-<li>Learn to read and understand Process Change Notifications (PCNs) and assess their impact on daily operations.</li>
-<li>Assist with preparing, installing, diagnosing, troubleshooting, replacing, and decommissioning network, storage, and server equipment with minimal business disruption.</li>
-<li>Complete assigned support tickets efficiently while developing familiarity with relevant</li>
-</ul>
-<p><b>Key Performance Indicators (KPIs).</b></p>
-<ul>
-<li>Participate actively in daily safety briefings and comply with all safety and security protocols, including the use of Personal Protective Equipment (PPE).</li>
-<li>Help maintain a positive team environment by sharing information, collaborating across shifts, and contributing to handovers.</li>
-<li>Learn cross-functional data center processes to support partnerships with diverse stakeholders.</li>
-<li>Escalate technical, safety, or security incidents promptly as per established procedures.</li>
-<li>Complete all required training timely, including those related to security, data management, and environmental health and safety (EHS).</li>
-<li>Handle routine physical demands, such as lifting moderate weights, climbing ladders/stairs, and working under data center environmental conditions like noise and heat</li>
-</ul>
-<h3>Qualifications</h3>
-<h3>Required Qualifications</h3>
-<ul>
-<li>High School Diploma, or equivalent.</li>
-<li>Basic knowledge of computer hardware and components.</li>
-<li>An interest in supporting IT equipment or related technology.</li>
-<li>Studying towards a relevant technical qualification.</li>
-<li>You need to be an Australian citizen or, have residency and you must be eligible to work in Australia.</li>
-</ul>
-<p><b>Background Check Requirements:</b></p>
-<p>Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:</p>
-<ul>
-<li>Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.</li>
-</ul>
-<h3>Preferred Qualifications</h3>
-<ul>
-<li>Applicable certifications: CompTIA (A+, Server+, Network+), Basic Structure Cabling (BSC).</li>
-<li>Ability to support frequent standing, walking, lifting, and working at heights with or without equipment assistance.</li>
-<li>Able to communicate effectively with multiple stakeholders.</li>
-<li>Proficient in written and oral English communication to support regional and global teams.</li>
-<li>Desire to learn, grow, and develop new technical skills.</li>
-<li>Flexibility to work non-standard business hours that may include weekends and/or holidays.</li>
-</ul>
-<p>This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.</p>
-<ul>
-<li><i> </i></li>
-</ul>
-<p>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about [<b>requesting accommodations.</b>](https://careers.microsoft.com/v2/global/en/accessibility.html)</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aac31b5c2881c5f605ac1f7?src=adzuna]]></url>
-    <location><![CDATA[Melbourne, Victoria]]></location>
-    <country><![CDATA[AU]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Microsoft (Datacenters)]]></company>
-    <category>2</category>
-    <contract_type>contract</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-17T18:30:13.025Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6aac31b42a28fd9ee0318744]]></id>
-    <title><![CDATA[Critical Environment Technician Intern]]></title>
-    <description><![CDATA[<p>Data Privacy Notice</p>
-<p>When you upload your resume, we provide job recommendations to you. Please confirm you have read and understand how your data may be processed pursuant to the [Microsoft Data Privacy Notice](http://go.microsoft.com/fwlink/?LinkId=518021) and [Transparency FAQ](http://careers.microsoft.com/v2/global/en/transparency.html).</p>
-<p>Cancel I understand</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aac31b42a28fd9ee0318744?src=adzuna]]></url>
-    <location><![CDATA[Sydney, New South Wales]]></location>
-    <country><![CDATA[AU]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Microsoft (Datacenters)]]></company>
-    <category>5</category>
-    <contract_type>contract</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-17T18:30:12.535Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6aac31b4b7e4ae8071306994]]></id>
-    <title><![CDATA[Data Center Technicians Intern]]></title>
-    <description><![CDATA[<h3>Overview</h3>
-<p>In alignment with our Microsoft values, we are committed to cultivating an inclusive work environment for all employees to positively impact our culture every day and we need you as a Datacenter Technician (DCT) Intern.</p>
-<p>Microsoft’s Cloud Operations &amp; Innovation (CO+I) is the engine that powers our cloud services. As a CO+I DCT Intern, you will perform a key role in delivering the core infrastructure and foundational technologies for Microsoft's online services including Bing, Office 365, Xbox, OneDrive, and the Microsoft Azure platform. As a group, CO+I is focused on the personal and professional development for all employees and offers trainings and growth opportunities including Career Rotation Programs, Diversity &amp; Inclusion trainings and events, and professional certifications.</p>
-<p>Our infrastructure is comprised of a large global portfolio of more than 100 datacenters and 1 million servers. Our foundation is built upon and managed by a team of subject matter experts working to support services for more than 1 billion customers and 20 million businesses in over 90 countries worldwide.</p>
-<p>With environmental sustainability and optimization at the forefront of our datacenter design and operations, we continue to grow and evolve as we meet the ever-changing business demands that hold Microsoft as a world-class cloud provider.</p>
-<p>Do you want to empower billions across the world? Come and join us in CO+I and be at the forefront of the action!</p>
-<h3>Responsibilities</h3>
-<ul>
-<li>Work onsite at our datacenters in Sydney.</li>
-<li>Follow guidelines and work closely with experienced technicians to understand and comply with data center policies, procedures, and deadlines.</li>
-<li>Learn to read and understand Process Change Notifications (PCNs) and assess their impact on daily operations.</li>
-<li>Assist with preparing, installing, diagnosing, troubleshooting, replacing, and decommissioning network, storage, and server equipment with minimal business disruption.</li>
-<li>Complete assigned support tickets efficiently while developing familiarity with relevant</li>
-</ul>
-<p><b>Key Performance Indicators (KPIs).</b></p>
-<ul>
-<li>Participate actively in daily safety briefings and comply with all safety and security protocols, including the use of Personal Protective Equipment (PPE).</li>
-<li>Help maintain a positive team environment by sharing information, collaborating across shifts, and contributing to handovers.</li>
-<li>Learn cross-functional data center processes to support partnerships with diverse stakeholders.</li>
-<li>Escalate technical, safety, or security incidents promptly as per established procedures.</li>
-<li>Complete all required training timely, including those related to security, data management, and environmental health and safety (EHS).</li>
-<li>Handle routine physical demands, such as lifting moderate weights, climbing ladders/stairs, and working under data center environmental conditions like noise and heat</li>
-</ul>
-<h3>Qualifications</h3>
-<h3>Required Qualifications</h3>
-<ul>
-<li>High School Diploma, or equivalent.</li>
-<li>Basic knowledge of computer hardware and components.</li>
-<li>An interest in supporting IT equipment or related technology.</li>
-<li>Studying towards a relevant technical qualification.</li>
-<li>You need to be an Australian citizen or, have residency and you must be eligible to work in Australia.</li>
-</ul>
-<p><b>Background Check Requirements:</b></p>
-<p>Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:</p>
-<ul>
-<li>Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.</li>
-</ul>
-<h3>Preferred Qualifications</h3>
-<ul>
-<li>Applicable certifications: CompTIA (A+, Server+, Network+), Basic Structure Cabling (BSC).</li>
-<li>Ability to support frequent standing, walking, lifting, and working at heights with or without equipment assistance.</li>
-<li>Able to communicate effectively with multiple stakeholders.</li>
-<li>Proficient in written and oral English communication to support regional and global teams.</li>
-<li>Desire to learn, grow, and develop new technical skills.</li>
-<li>Flexibility to work non-standard business hours that may include weekends and/or holidays.</li>
-</ul>
-<p>This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.</p>
-<ul>
-<li><i> </i></li>
-</ul>
-<p>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about [<b>requesting accommodations.</b>](https://careers.microsoft.com/v2/global/en/accessibility.html)</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aac31b4b7e4ae8071306994?src=adzuna]]></url>
-    <location><![CDATA[Sydney, New South Wales]]></location>
-    <country><![CDATA[AU]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Microsoft (Datacenters)]]></company>
-    <category>2</category>
-    <contract_type>contract</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-17T18:30:12.162Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6aac31b33b8a82983341d861]]></id>
-    <title><![CDATA[Logistics Technician Intern]]></title>
-    <description><![CDATA[<h3>Overview</h3>
-<p>Come build community, explore your passions and do your best work at Microsoft with thousands of University interns from every corner of the world. This opportunity will allow you to bring your aspirations, talent, potential—and excitement for the journey ahead.</p>
-<p>Join Microsoft South Africa as a Data Center Operations Management Intern and be part of a dynamic team that ensures the smooth operation of our data centers. This internship offers a unique opportunity to gain hands-on experience in managing data center operations, working with cutting-edge technology, and collaborating with teams across the globe.</p>
-<p>At Microsoft, Interns work on real-world projects in collaboration with teams across the world, while having fun along the way. You’ll be empowered to build community, explore your passions and achieve your goals. This is your chance to bring your solutions and ideas to life while working on cutting-edge technology.</p>
-<h3>Responsibilities</h3>
-<ul>
-<li>Work onsite at our datacenters in Sydney.</li>
-<li>Perform assigned tasks and escalate issues during high-volume work activity.</li>
-<li>Analyzes causes of service implementation policy faults or degradation and recommends improvement plans.</li>
-<li>Implements service implementation policy plan improvements as directed for Data Center business unit(s).</li>
-<li>Coordinate with suppliers to initiate warranty claims and process failed vendor hardware devices.</li>
-<li>Maintain up-to-date and accurate information within various inventory management systems.</li>
-<li>Ensure detailed physical inventory tracking and staging.</li>
-<li>Help reconcile and report inventory discrepancies.</li>
-<li>Perform destruction of data-bearing devices following all Service Level Agreements (SLAs) and Microsoft policies.</li>
-<li>Comply with security and data management policies.</li>
-</ul>
-<h3>Qualifications</h3>
-<p><b>Eligibility</b></p>
-<ul>
-<li>High School Diploma, or equivalent.</li>
-<li>Basic knowledge of Asset/Inventory/Logistics/Supply Chain.</li>
-<li>Currently studying towards a qualification in Warehousing, Logistics, or Supply Chain Management.</li>
-<li>You need to be an Australian National or residency with eligibility to work in Australia.</li>
-</ul>
-<p><b>Background Check Requirements:</b></p>
-<p>Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:</p>
-<ul>
-<li>Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.</li>
-</ul>
-<h3>Preferred Qualifications</h3>
-<ul>
-<li>Applicable certifications (Logistics or Supply Chain or Asset Management).</li>
-<li>Ability to support frequent standing, walking, lifting, and working at heights with or without equipment assistance.</li>
-<li>Able to communicate effectively with multiple stakeholders.</li>
-<li>Proficient in written and oral English communication to support regional and global teams.</li>
-<li>Desire to learn, grow, and develop new technical skills.</li>
-<li>Flexibility to work non-standard business hours that may include weekends and/or holidays.</li>
-</ul>
-<p>This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.</p>
-<ul>
-<li><i> </i></li>
-</ul>
-<p>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about [<b>requesting accommodations.</b>](https://careers.microsoft.com/v2/global/en/accessibility.html)</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aac31b33b8a82983341d861?src=adzuna]]></url>
-    <location><![CDATA[Sydney, New South Wales]]></location>
-    <country><![CDATA[AU]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Microsoft (Datacenters)]]></company>
-    <category>2</category>
-    <contract_type>contract</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-17T18:30:11.801Z]]></date>
   </job>
   <job>
     <id><![CDATA[6aac31b30cfe2e7a8ff85ba1]]></id>
@@ -177035,63 +176418,6 @@
     <date><![CDATA[2026-09-09T10:41:17.238Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6aa137c953ebcdb3c6235c1e]]></id>
-    <title><![CDATA[Document Controller - Data Centers]]></title>
-    <description><![CDATA[<p><b>Dear Aspirant!</b></p>
-<p>We empower our people to stay resilient and relevant in a constantly changing world. We’re looking for people who are always searching for creative ways to grow and learn. People who want to make a real impact, now and in the future. Does that sound like you? Then it seems like you’d make a great addition to our vibrant international team.</p>
-<p><b>We are looking for: Technical Writer/Editor - Document Controller</b></p>
-<p><b>You’ll make an impact by:</b></p>
-<ul>
-<li>Keeping Master document list up to date so that project team receive latest information all the time.</li>
-<li>Document Controller is responsible for generating document numbers from the database on request from project team.</li>
-<li>Send documents/software to 3rd parties according to the agreed project instructions.</li>
-<li>Support Sales team with documentation in project awarding phase.</li>
-<li>Control &amp; archive all incoming and outgoing project documentation by following Siemens’ standard and make sure documents are available in the project library on time.</li>
-<li>Assist Team Members with making hardcopies and putting them into binders.</li>
-<li>Close out &amp; archive Project library and project emails.</li>
-<li>On commencement of new project, determine documentation requirements and submittal dates with Project Manager/Project Engineer by filling Master Document List</li>
-<li>Expedite Internal and external clients to make sure set document milestones are achieved.</li>
-<li>Prepare weekly progress report for Project Manager.</li>
-<li>Assist in the preparation of Final Documentation (Final Record book) in the format requested by client.</li>
-<li>Support on administration tasks in the project team.</li>
-<li>Use project document management plan template and customize as project specific.</li>
-<li>Attend regular coordination meeting with Lead Document Control and provide project updates.</li>
-<li>Stay in close contact with project team and communicate on daily base.</li>
-<li>Work according to the work process as specified in Siemens Quality system</li>
-<li>Monitor quality and initiate improvements in document management process.</li>
-<li>Perform Quality Checks before releasing documents to client or sub-supplier.</li>
-<li>Review of technical documents according to the work instructions</li>
-<li>Through reviews, samples and audits to ensure that the content of the document management system is correct.</li>
-</ul>
-<p><b>Use your skills to move the world forward!</b></p>
-<ul>
-<li>BE electrical or equivalent.</li>
-<li>4+ years minimal technical experience.</li>
-<li>Document admin, quality of documents that we send to the customer.</li>
-<li>Result and quality drive, communication skills.</li>
-<li>Analytical skills, team player, creativity.</li>
-<li>Technical expertise and skills</li>
-<li>Software and tooling – Advanced</li>
-<li>Engineering work process – Basic</li>
-<li>Knowledge of components and systems.</li>
-<li>Design methods, testing and commissioning.</li>
-</ul>
-<p><b>Create a better #TomorrowWithUs!</b></p>
-<p>This role is based in Chennai, where you’ll get the chance to work with teams impacting entire cities, countries - and the shape of things to come.</p>
-<p>We value your unique identity and perspective and are fully committed to providing equitable opportunities and building a workplace that reflects the diversity of society. Come bring your authentic self and create a better tomorrow with us.</p>
-<p>We’re Siemens. A collection of over 312,000 minds building the future, one day at a time in over 200 countries. We're dedicated to equality, and we encourage applications that reflect the diversity of the communities we work in. All employment decisions at Siemens are based on qualifications, merit and business need. Bring your curiosity and imagination and help us shape tomorrow.</p>
-<p>##</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aa137c953ebcdb3c6235c1e?src=adzuna]]></url>
-    <location><![CDATA[Chennai, Tamil Nadu]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Siemens]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-09T10:41:13.257Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6aa1370f42dde624f059f729]]></id>
     <title><![CDATA[Fire Safety Solution Sales Manager]]></title>
     <description><![CDATA[<p><b>Fire Safety Solutions Sales Manager</b></p>
@@ -197130,60 +196456,6 @@
     <date><![CDATA[2026-09-01T20:07:18.824Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6a973076d701e572a486db71]]></id>
-    <title><![CDATA[Project Manager]]></title>
-    <description><![CDATA[<p>Eaton is an intelligent power management company dedicated to improving the quality of life and protecting the environment for people everywhere. Every day, all around the world, people depend on technology, transportation, energy, and infrastructure to live and work. With rapid growth in electrification, an energy transition driven by climate change and explosive growth in connectivity, we’re well positioned to solve the world’s toughest electrical and mechanical power management challenges.</p>
-<p>We're looking for a Project Manager who wants to own outcomes, not just coordinate tasks. This is an opportunity to lead end-to-end delivery of complex electrical infrastructure projects with real customer and commercial impact.</p>
-<p>If you enjoy leading teams, managing commercial outcomes, and turning complex plans into successful delivery, we would love to hear from you.</p>
-<h3>What you’ll do</h3>
-<p>As part of our PMO team, you'll play a critical role in delivering customer projects safely, on time, and within budget. You will:</p>
-<ul>
-<li>Lead end-to-end project delivery across complex electrical infrastructure projects.</li>
-<li>Develop project plans, schedules, resource strategies, and delivery frameworks.</li>
-<li>Manage project budgets, forecasting, reporting, and commercial outcomes.</li>
-<li>Identify, manage, and mitigate project risks throughout the lifecycle.</li>
-<li>Build strong customer relationships and act as a trusted project partner.</li>
-<li>Lead cross-functional teams to achieve quality, safety, and delivery objectives.</li>
-<li>Drive project governance, stakeholder communication, and continuous improvement initiatives.</li>
-</ul>
-<h3>What we're looking for</h3>
-<p>We're open to candidates from critical power, electrical infrastructure, data centres, utilities, industrial automation, building services, or related industries.</p>
-<p>You may be:</p>
-<ul>
-<li>A Project Manager seeking larger or more complex projects.</li>
-<li>A Senior Project Engineer ready to step into project leadership.</li>
-</ul>
-<p>You'll bring:</p>
-<ul>
-<li>5+ years' project management experience within the electrical industry.</li>
-<li>Experience managing budgets, schedules, resources, and project risk.</li>
-<li>Strong customer relationship management, communication, and negotiation skills.</li>
-<li>The ability to lead teams and navigate complex project environments.</li>
-<li>Strong analytical, problem-solving, and decision-making capability.</li>
-<li>A Bachelor's degree in Engineering or a related discipline.</li>
-</ul>
-<p>Why Eaton?</p>
-<p>Join a global leader delivering the most critical infrastructure projects, where you'll lead high-impact programs, influence project outcomes, and grow your career in a business shaping the future of electrification and connectivity.</p>
-<ul>
-<li>Lead complex, mission-critical projects across data centres, utilities, and industrial environments.</li>
-<li>Take ownership of projects from planning and delivery through to customer handover.</li>
-<li>Strengthen your commercial, leadership, and project delivery expertise within a fast-growing market.</li>
-<li>Competitive salary package, car allowance, and bonus.</li>
-<li>Global opportunities, local decision-making, and career progression pathways.</li>
-</ul>
-<p>We are committed to ensuring equal employment opportunities for all job applicants and employees. Our recruitment processes encourage diversity by utilising a balanced selection criteria regardless of the applicants age, gender, gender identity, ethnicity, religion, sexual orientation, or any other status protected or required by law. Eaton prides itself in truly representing the people within our communities.</p>
-<p>If this sounds like you, please send through your application. We look forward to hearing from you!</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a973076d701e572a486db71?src=adzuna]]></url>
-    <location><![CDATA[Mascot, New South Wales]]></location>
-    <country><![CDATA[AU]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Eaton]]></company>
-    <category>12</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-01T20:07:18.527Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6a97306f3c6e3c2ecc210ea6]]></id>
     <title><![CDATA[Design Engineer - Power Distribution]]></title>
     <description><![CDATA[<p>Eaton’s Electrical Engineering Services &amp; Systems Division (EESS) is currently seeking a Design Engineer - Power Distribution. This role can be based remote within the United States.</p>
@@ -199715,31 +198987,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-01T18:52:35.258Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6a971ee9159976e6a20c2c2b]]></id>
-    <title><![CDATA[Software Engineer Manager, Netsoft]]></title>
-    <description><![CDATA[<h3>About the job</h3>
-<p>Like Google's own ambitions, the work of a Software Engineer goes beyond just Search. Software Engineering Managers have not only the technical expertise to take on and provide technical leadership to major projects, but also manage a team of Engineers. You not only optimize your own code but make sure Engineers are able to optimize theirs. As a Software Engineering Manager you manage your project goals, contribute to product strategy and help develop your team. Teams work all across the company, in areas such as information retrieval, artificial intelligence, natural language processing, distributed computing, large-scale system design, networking, security, data compression, user interface design; the list goes on and is growing every day. Operating with scale and speed, our exceptional software engineers are just getting started -- and as a manager, you guide the way.</p>
-<p>With technical and leadership expertise, you manage engineers across multiple teams and locations, a large product budget and oversee the deployment of large-scale projects across multiple sites internationally. Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google's product portfolio possible. We're proud to be our engineers' engineers and love voiding warranties by taking things apart so we can rebuild them. We keep our networks up and running, ensuring our users have the best and fastest experience possible.</p>
-<h3>Responsibilities</h3>
-<ul>
-<li>Set and communicate team priorities that support the broader organization's goals. Align strategy, processes, and decision-making across teams.</li>
-<li>Set clear expectations with individuals based on their level and role and aligned to the broader organization's goals. Meet regularly with individuals to discuss performance and development and provide feedback and coaching.</li>
-<li>Develop the mid-term technical goal and roadmap within the scope of your teams. Evolve the roadmap to meet anticipated future requirements and infrastructure needs.</li>
-<li>Design, guide and vet systems designs within the scope of the broader area, and write product or system development code to solve ambiguous problems.</li>
-<li>Review code developed by other engineers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency).</li>
-</ul>
-<p>Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google's [Applicant and Candidate Privacy Policy](./privacy-policy).</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a971ee9159976e6a20c2c2b?src=adzuna]]></url>
-    <location><![CDATA[Sydney, New South Wales]]></location>
-    <country><![CDATA[AU]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Google (Data Centers)]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-01T18:52:25.954Z]]></date>
   </job>
   <job>
     <id><![CDATA[6a971b256d72490e7327c2d4]]></id>
@@ -205138,63 +204385,6 @@
     <date><![CDATA[2026-08-31T08:59:20.209Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6a954267381f92c0d1f6eaa9]]></id>
-    <title><![CDATA[Manager Planning-Data Center]]></title>
-    <description><![CDATA[<h3>Job Description</h3>
-<p><b>Role based in Noida, India</b></p>
-<p>Fundamental Duties:</p>
-<p>Pre-Tender Phase</p>
-<ul>
-<li>Tailor a project-specific integrated Master Programme in Coordination with all relevant Parties, and submit to the line manager for review and approval.</li>
-<li>Propose, record and plan actions with the Design Manager and Project Lead to pursue areas of concern, anticipate consequences &amp; delays, recovery of such delays and continuous updates.</li>
-<li>Develop a pretender risk register in consultation with the Project Lead and relevant departments, and continue to consult and update as required throughout all project phases for use as a tool by PMT in responding to potential and actual project risks.</li>
-<li>Ensure integration between Project Master Programme and Lead Consultant Programme.</li>
-<li>In order to ensure accuracy, capturing areas of concern of the Consultant and escalating as required.</li>
-<li>Develop, maintain and update a project procurement tracker for all project procurement packages allocated in accordance with the approved Procurement Strategy, and in line with delivery dates in the Project Master Programme and the Lead Consultant Programme.</li>
-</ul>
-<p>Tender and Appointment Phase</p>
-<ul>
-<li>Monitor the entire bidding and procurement progress to ensure alignment with the agreed Procurement Tracker dates.</li>
-<li>Evaluate and comment on the bidders' tender programmes during tender evaluation and negotiation.</li>
-</ul>
-<p>Post Tender Execution and Delivery Phase</p>
-<ul>
-<li>Administer the process of review and approval of the Contractor's baseline programme and Provide comments, and advise the Engineer and Project Lead in this regard.</li>
-<li>Ensure integration between Project Master Programme and Contractor's baseline Programme, and subsequent programme updates/revisions.</li>
-<li>Review, control, and monitor the programme of works submitted by Contractors, establish periodic reviews of project baselines and updates, delay forecasts, mitigation measures and recovery programmes, and assist in meeting project deadlines and targets.</li>
-<li>Compile all necessary contemporary records and relevant information to facilitate the evaluation by the Planning manager of any Contractor's claims for extension of time under the Contract while Consult with the Project Lead</li>
-<li>Liaise with the project QS to ensure consistency between Interim Payment Certificates and current site progress and to prepare and maintain project cash-flow projections based on site progress.</li>
-<li>Attend site progress meetings and site inspections as required to monitor and control progress of execution and log current and potential project risks.</li>
-<li>Update and maintain Procurement Tracker to ensure alignment with Contractor's approved programme and track all remaining procurement packages and PC items to be appointed post-tender and ensure compliance.</li>
-</ul>
-<p>Minimum Qualification</p>
-<ul>
-<li>Bachelor’s degree in engineering, construction management, architecture.</li>
-<li>Data Centre Experience is mandatory</li>
-</ul>
-<p>Minimum Experience</p>
-<p>Minimum 8 - 16 years of relevant Experience.</p>
-<h3>Job Info</h3>
-<ul>
-<li>Job Identification30051</li>
-<li>Posting Date08/03/2026, 07:55 AM</li>
-<li>Degree LevelBachelor's Degree</li>
-<li>Job ScheduleFull time</li>
-<li>LocationsIndia</li>
-<li>Seniority LevelMid-Senior level</li>
-<li>Job FunctionProject Management</li>
-</ul>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a954267381f92c0d1f6eaa9?src=adzuna]]></url>
-    <location><![CDATA[Noida, Uttar Pradesh]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[DAMAC Digital]]></company>
-    <category>2</category>
-    <contract_type>contract</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-08-31T08:59:19.986Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6a953e1ae643d9b60047cce8]]></id>
     <title><![CDATA[Project Manager, ICT]]></title>
     <description><![CDATA[<h3><b>Role Overview</b></h3>
@@ -210292,111 +209482,6 @@
     <date><![CDATA[2026-08-31T07:58:33.023Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6a953427e7a741ecbd6bf7db]]></id>
-    <title><![CDATA[Director, Strategy & Transformation]]></title>
-    <description><![CDATA[<p><b>Date: </b>24 Aug 2026</p>
-<p><b>Location:</b></p>
-<p>Singapore, Singapore</p>
-<p><b>Company:</b> Singtel Group</p>
-<p><i>An empowering career at Singtel begins with a Hello. Our purpose, to Empower Every Generation, connects people to the possibilities they need to excel. Every "hello" at Singtel opens doors to new initiatives, growth, and BIG possibilities that takes your career to new heights. So, when you say hello to us, you are really empowered to say…“Hello BIG Possibilities”.</i></p>
-<p><b>Singtel is where Technology meets Purpose.</b></p>
-<p>We're building an AI-first telco for the future—connecting people, businesses and communities through trusted networks, intelligent digital services and next-generation technology.</p>
-<p>From transforming everyday experiences in mobile, broadband, entertainment and lifestyle services to enabling enterprises with AI, 5G+, cloud, cybersecurity, data centres and digital platforms, we create the technology that powers how millions live, work and connect.</p>
-<p>At Singtel, your work creates real impact. You'll solve meaningful challenges, shape critical digital infrastructure and help build secure, resilient and AI-enabled solutions that serve businesses, digital ecosystems and communities across the globe.</p>
-<p>This is where BIG Possibilities become reality. Whether you're engineering intelligent networks, advancing sovereign AI cloud platforms, strengthening cybersecurity, designing seamless customer experiences or driving sustainable innovation, you'll be part of teams shaping the future of technology.</p>
-<p>Backed by decades of expertise and driven by a culture of continuous learning and innovation, Singtel offers the scale, opportunities and support to help you grow your career while making a difference where it matters most.</p>
-<p><i>*</i>*</p>
-<p><b>Be a Part of Something BIG!</b></p>
-<p>This role is responsible for leading Singtel Singapore’s overall strategy and corporate transformation (including AI push), while managing the end-to-end business planning and performance management for Singtel Singapore’s business units. It is part of a high priority talent pipeline for Singtel.</p>
-<p>The Director, Strategy &amp; Transformation, acts as 2IC to the Head, Strategy &amp; Transformation and plays a critical role in shaping strategic priorities, driving organisation-wide change, and ensuring alignment of business outcomes with Singtel Singapore’s long-term strategic objectives. They leverage data to diagnose, conceptualise and act as a thought partner to business units and the leadership team.</p>
-<p>Leading a fast-paced, high performing team in the CEOs office, the Director is a strong leader, coach and mentor who develops teams to grow their skills and be examples of excellence in this highly visible team. A versatile problem solver, they shift seamlessly between strategy, consulting, engagement, and change management, collaborating across functions and facilitating decision-making at all levels.</p>
-<p>The role also drives the business planning process for Singtel Singapore, including the Annual Operating Plan (AOP), performance management frameworks, and leadership communications to support execution and accountability.</p>
-<p><b>Make An Impact By</b></p>
-<p>Strategy Development and Execution</p>
-<ul>
-<li>Support the Head S&amp;T in leading the definition and refinement of Singtel Singapore’s strategic direction, in collaboration with the Singapore Leadership Team.</li>
-<li>Conduct data-driven analytics to inform recommendations on strategy and organisational priorities.</li>
-<li>Be a thought partner to the leadership team to provide objective, business critical analysis and insights to advocate, challenge, and enable business decisions.</li>
-<li>Oversee the execution of priority strategic initiatives across Singapore business units, ensuring overall alignment and realising business impact.</li>
-<li>Develop content for strategic CEO communications including SMW, AOP, Board papers, CEO Forums, Investor Releases, and the Annual Report.</li>
-</ul>
-<p>Advance Business Performance</p>
-<ul>
-<li>Set annual objectives, quarterly milestones, and drive strategy and operational excellence across the organization.</li>
-<li>Define success metrics and KPIs to track effectiveness of transformation initiatives.</li>
-<li>Align top-level priorities with operational execution and identify areas for improvement.</li>
-<li>Seek and bring in external best practices, including conducting research, testing emerging ideas and technologies, to identify effective strategies and solutions to achieve transformation objectives.</li>
-</ul>
-<p>Transformation governance and delivery</p>
-<ul>
-<li>Lead enterprise-wide transformation efforts, and other cross-functional programs aimed at improving customer outcomes, productivity, and employee engagement.</li>
-<li>Champion change management and cultural transformation across business units.</li>
-<li>Lead governance and oversight of strategic initiatives with cross-functional ownership, ensuring clarity of roles, accountability, and delivery of outcomes.</li>
-<li>Act as a senior transformation partner, challenging norms and driving improvement.</li>
-</ul>
-<p>Internal Communications and Employee Engagement</p>
-<ul>
-<li>Develop internal communication strategies to align employees with strategic and cultural priorities.</li>
-<li>Plan and implement leadership workshops, executive offsites, and townhalls, from storyboarding to logistics.</li>
-<li>Oversee the planning and delivery of key CEO-led employee engagement events, including:</li>
-</ul>
-<ul>
-<li>All-in Townhalls</li>
-</ul>
-<ul>
-<li>Annual Innovation Programs</li>
-</ul>
-<ul>
-<li>Top Executive Workshops</li>
-</ul>
-<ul>
-<li>Ensure events are engaging and memorable and aligned with strategic priorities.</li>
-<li>Maintain communication platforms.</li>
-<li>Promote initiatives that reinforce culture, recognize behaviors, and build change momentum.</li>
-</ul>
-<p>Business Planning for Consumer BUs</p>
-<ul>
-<li>Manage business performance, ensuring delivery of strategic initiatives and responsiveness to market shifts, risks, and opportunities.</li>
-<li>Lead the annual business planning process, including ensuring alignment in the development of the Annual Operating Plan (AOP), performance scorecards, and KPI tracking for these BUs.</li>
-<li>Drive leadership engagement through executive workshops, board sessions, and townhalls.</li>
-<li>Coordinate cross-functional resources and prioritisation for key initiatives.</li>
-<li>Execute strategic projects as assigned.</li>
-</ul>
-<p><i>*</i>*</p>
-<p><b>Skills To Succeed</b></p>
-<p><i>*</i>*</p>
-<ul>
-<li>Relevant degree or equivalent combination of education and professional experience. An Executive MBA or other advanced business qualification is preferred.</li>
-<li>At least 5 years of relevant experience in management consulting, strategy, transformation, or a comparable role, with experience navigating change in large and complex organisations.</li>
-<li>Strong track record in leading large-scale business, operating model, or organisational transformation programmes from strategy through implementation.</li>
-<li>Demonstrated ability to structure, manage, and deliver complex, cross-functional programmes with ambitious business outcomes.</li>
-<li>Strong strategic thinking, problem-solving, and decision-making skills, with the ability to translate insights into practical actions.</li>
-<li>Proven ability to engage, influence, and build credibility with senior stakeholders, including senior management, Board-level stakeholders, government agencies, and C-suite executives.</li>
-<li>Ability to facilitate timely strategic decisions at senior leadership level and drive initiatives through to implementation.</li>
-<li>Strong understanding of cross-functional and cross-business-unit operating environments, with the ability to work effectively across functions, business units, and operating companies.</li>
-<li>Strong stakeholder management, collaboration, and influencing skills, including the ability to align diverse perspectives and secure commitment to shared outcomes.</li>
-<li>Demonstrated people leadership skills, with the ability to motivate, coach, and inspire teams to perform effectively.</li>
-<li>Strong project and programme management capabilities, including prioritisation, governance, risk management, and execution discipline.</li>
-<li>Strong analytical capability, including experience using data to support business decisions and communicate insights.</li>
-<li>Proficiency in data analytics and visualisation tools such as Power BI or equivalent platforms.</li>
-<li>Experience in market research and qualitative and quantitative research methodologies.</li>
-<li>Exposure to business operations and operational improvement initiatives is advantageous.</li>
-<li>Excellent interpersonal, communication, and presentation skills, with the ability to communicate complex issues clearly to different audiences.</li>
-<li>Comfortable operating in a complex, fast-moving environment and taking ownership of strategic initiatives across multiple stakeholders and functions.</li>
-</ul>
-<p><b>Are you ready to say hello to BIG Possibilities?</b></p>
-<p><b>Join Singtel to shape what's next and accelerate your career through meaningful work, continuous learning, and real impact.</b></p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a953427e7a741ecbd6bf7db?src=adzuna]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Singtel Digital InfraCo]]></company>
-    <category>13</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-08-31T07:58:31.885Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6a953426c76a860ca7b28994]]></id>
     <title><![CDATA[Retail Consultant, Busselton]]></title>
     <description><![CDATA[<p>Optus is one of Australia’s leading telecommunications providers, connecting more than 11 million customers every day across mobile, broadband and digital solutions.</p>
@@ -215173,63 +214258,6 @@
     <contract_type>contract</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-08-31T07:16:08.726Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6a952a388535118048d506e1]]></id>
-    <title><![CDATA[Retail Marketing Intern #GeneralInternship]]></title>
-    <description><![CDATA[<p><b>Company:</b>Singtel Group</p>
-<p>We are looking for a creative and detail-oriented undergraduate with an interest in marketing and retail to join our team.</p>
-<p><b>Be a Part of Something BIG!</b></p>
-<p>In this internship, you will gain hands-on experience in bringing marketing campaigns to life across retail stores. You will support the development of engaging in-store communications, work on visual merchandising initiatives, and help ensure campaigns are executed consistently across all touchpoints. This is a great opportunity to understand how marketing strategies translate into real customer experiences and contribute to driving sales and brand impact.</p>
-<p>This internship is suitable for students interested in marketing or mass communications with keen eye for detail especially ensuring accuracy and quality across marketing content and visual executions</p>
-<p><b>Make an Impact by</b></p>
-<p><b>Retail Marketing &amp; Communications</b></p>
-<ul>
-<li>Support the planning and execution of retail marketing campaigns and marketing communications, aligning in-store initiatives with broader business and sales objectives</li>
-<li>Drive coordination of campaign rollouts across retail touchpoints to ensure consistent and effective execution</li>
-<li>Adapt and localise marketing communications to suit different store formats and customer segments</li>
-<li>Partner with the design team to develop impactful marketing collaterals that strengthen brand presence and messaging</li>
-<li>Evaluate campaign performance using data and customer insights, and recommend improvements to enhance effectiveness and conversion</li>
-</ul>
-<p><b>Retail Visual Merchandising</b></p>
-<ul>
-<li>Support the development of visual merchandising strategies that enhance customer experience and reinforce brand identity in-store</li>
-<li>Optimize store layouts and displays across formats to improve engagement and sales performance</li>
-<li>Conduct store visits to assess execution quality and identify opportunities to elevate VM standards</li>
-<li>Monitor VM performance and contribute ideas to continuously improve store presentation</li>
-</ul>
-<p><b>Cross-Functional Collaboration</b></p>
-<ul>
-<li>Collaborate with Sales, Marketing, and Product teams to ensure retail execution aligns with overall campaign strategy</li>
-<li>Work closely with designers to translate marketing concepts into effective in-store assets</li>
-<li>Partner with sales teams to drive strong on-ground execution and feedback loops from stores</li>
-<li>Coordinate with vendors and suppliers to ensure timely delivery and quality of marketing materials</li>
-</ul>
-<p><b>Skills for Success</b></p>
-<ul>
-<li>Pursuing a degree in marketing, mass communications or related field</li>
-<li>Strong foundation in marketing communications, with an understanding of brand guidelines and messaging consistency</li>
-<li>Keen eye for detail, particularly in ensuring accuracy and quality across marketing content and visual executions</li>
-<li>Good project coordination skills, with the ability to manage multiple campaigns and timelines concurrently</li>
-<li>Strong communication and interpersonal skills, with the ability to collaborate effectively with different stakeholders</li>
-<li>Key Skills &amp; Attributes</li>
-<li>Creative mindset with strong commercial awareness</li>
-<li>Strong eye for design, layout, and visual storytelling</li>
-<li>High level of accuracy and attention to detail</li>
-<li>Ability to work in a fast-paced, multi-store retail environment</li>
-<li>Proactive, collaborative, and solutions-oriented</li>
-</ul>
-<p><b>Are you ready to say hello to BIG Possibilities?</b></p>
-<p><b>Take the leap with Singtel to unlock new opportunities and accelerate your growth. Apply now and start your empowering career!</b></p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a952a388535118048d506e1?src=adzuna]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Singtel Digital InfraCo]]></company>
-    <category>11</category>
-    <contract_type>contract</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-08-31T07:16:08.531Z]]></date>
   </job>
   <job>
     <id><![CDATA[6a952a388e6915f20dd858fd]]></id>
@@ -235887,5 +234915,663 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-08-26T18:20:54.068Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8f2ab52a454459bbda1084]]></id>
+    <title><![CDATA[Jobs]]></title>
+    <description><![CDATA[<p>Apply filters</p>
+<h3>Recently Viewed</h3>
+<ul>
+<li>[](https://careers.caterpillar.com/en/jobs/?page=9&amp;country=Australia&amp;country=India&amp;country=Indonesia&amp;country=Japan&amp;country=New%20Zealand&amp;country=Philippines&amp;country=Singapore&amp;country=Thailand&amp;country=Malaysia&amp;country=Hong%20Kong&amp;country=South%20Korea&amp;country=Vietnam&amp;country=China&amp;country=Taiwan#results)</li>
+<li>…</li>
+<li>[](https://careers.caterpillar.com/en/jobs/?page=11&amp;country=Australia&amp;country=India&amp;country=Indonesia&amp;country=Japan&amp;country=New%20Zealand&amp;country=Philippines&amp;country=Singapore&amp;country=Thailand&amp;country=Malaysia&amp;country=Hong%20Kong&amp;country=South%20Korea&amp;country=Vietnam&amp;country=China&amp;country=Taiwan#results)</li>
+</ul>
+<h3>LET’S DO THE WORK</h3>
+<p>Keep up with the latest jobs and Caterpillar news.</p>
+<p>![Image 3: a collage of people smiling](https://careers.caterpillar.com/media/vxzmb41d/talent_community-2x.jpg?width=1440&amp;height=521&amp;rmode=crop&amp;quality=75&amp;v=1db93493366c370&amp;hmac=ce0d4073b13e34a5e2c1fe9cc313502c34a4bd71fd13b26184fdf97e31c1562d)</p>
+<p>![Image 4: Caterpillar Careers](https://careers.caterpillar.com/images/logo-w.svg)</p>
+<ul>
+<li>[](https://www.facebook.com/catcareers "Facebook")</li>
+</ul>
+<ul>
+<li>[](https://www.youtube.com/channel/UCetJvfhHNboF_Tl3auMOs5w "YouTube")</li>
+<li>[](https://www.instagram.com/wearecaterpillar/ "Instagram")</li>
+</ul>
+<p>© 2026 Caterpillar. All rights reserved.</p>
+<p>This site uses cookies to improve your experience. Some are required for the site to function, while others support features, performance, personalization, targeting, and analytics.</p>
+<p>You can adjust your preferences anytime using Cookie Settings.</p>
+<p>By selecting I Accept, you agree to the use of functional, performance, and targeting cookies.</p>
+<p>Cookie Settings I Accept</p>
+<p>![Image 5: Caterpillar logo](https://cdn.cookielaw.org/logos/dacb864b-cd78-48d1-a68b-5f1d05fe1473/60105155-36a5-43e4-8e00-43d4d3e7ddf4/96557a7d-ea19-4fb3-95b9-c08b285d2b52/caterpillar.png)</p>
+<h3>Preference Center</h3>
+<p>Cookies are small files that are placed on your computer and retrieved by the website in order to make this website work more efficiently and to better enable processing of information. Cookies can include web beacons, also known as action tags or single-pixel gifs, and other technologies.</p>
+<p>Cookies enable us to learn about what content you see, what ads you click, and other actions you take on this site and other sites. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience, which includes providing you content that meets your interests.</p>
+<p>Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.</p>
+<p><b>Browser Settings</b></p>
+<p>You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.</p>
+<p>Allow All</p>
+<h3>Manage Consent Preferences</h3>
+<h3>Strictly Necessary Cookies</h3>
+<p>Always Active</p>
+<p>These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.</p>
+<p>Cookies Details</p>
+<h3>Performance Cookies</h3>
+<ul>
+<li>[x] Performance Cookies</li>
+</ul>
+<p>These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are most and least popular, see how visitors move around the site, and allow us to derive insights into improving our websites and online services. If you do not allow these cookies, we will not know when you have visited our site and will not be able to monitor its performance.</p>
+<p>Cookies Details</p>
+<h3>Functional Cookies</h3>
+<ul>
+<li>[x] Functional Cookies</li>
+</ul>
+<p>These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.</p>
+<p>Cookies Details</p>
+<h3>Targeting Cookies</h3>
+<ul>
+<li>[x] Targeting Cookies</li>
+</ul>
+<p>These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. These cookies work by uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.</p>
+<p>Cookies Details</p>
+<h3>Cookie List</h3>
+<p>Clear</p>
+<ul>
+<li>- [x] checkbox label label</li>
+</ul>
+<p>Apply Cancel</p>
+<p>Consent Leg.Interest</p>
+<ul>
+<li>[x] checkbox label label</li>
+</ul>
+<ul>
+<li>[x] checkbox label label</li>
+</ul>
+<ul>
+<li>[x] checkbox label label</li>
+</ul>
+<p>Reject All Confirm My Choices</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8f2ab52a454459bbda1084?src=adzuna]]></url>
+    <location><![CDATA[Contract, Central Region]]></location>
+    <country><![CDATA[SG]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Caterpillar]]></company>
+    <category>13</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-26T18:04:37.128Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8f2ab4a25e5c1f13362d35]]></id>
+    <title><![CDATA[Jobs]]></title>
+    <description><![CDATA[<p>Apply filters</p>
+<h3>Recently Viewed</h3>
+<ul>
+<li>[](https://careers.caterpillar.com/en/jobs/?page=9&amp;country=Australia&amp;country=India&amp;country=Indonesia&amp;country=Japan&amp;country=New%20Zealand&amp;country=Philippines&amp;country=Singapore&amp;country=Thailand&amp;country=Malaysia&amp;country=Hong%20Kong&amp;country=South%20Korea&amp;country=Vietnam&amp;country=China&amp;country=Taiwan#results)</li>
+<li>…</li>
+<li>[](https://careers.caterpillar.com/en/jobs/?page=11&amp;country=Australia&amp;country=India&amp;country=Indonesia&amp;country=Japan&amp;country=New%20Zealand&amp;country=Philippines&amp;country=Singapore&amp;country=Thailand&amp;country=Malaysia&amp;country=Hong%20Kong&amp;country=South%20Korea&amp;country=Vietnam&amp;country=China&amp;country=Taiwan#results)</li>
+</ul>
+<h3>LET’S DO THE WORK</h3>
+<p>Keep up with the latest jobs and Caterpillar news.</p>
+<p>![Image 3: a collage of people smiling](https://careers.caterpillar.com/media/vxzmb41d/talent_community-2x.jpg?width=1440&amp;height=521&amp;rmode=crop&amp;quality=75&amp;v=1db93493366c370&amp;hmac=ce0d4073b13e34a5e2c1fe9cc313502c34a4bd71fd13b26184fdf97e31c1562d)</p>
+<p>![Image 4: Caterpillar Careers](https://careers.caterpillar.com/images/logo-w.svg)</p>
+<ul>
+<li>[](https://www.facebook.com/catcareers "Facebook")</li>
+</ul>
+<ul>
+<li>[](https://www.youtube.com/channel/UCetJvfhHNboF_Tl3auMOs5w "YouTube")</li>
+<li>[](https://www.instagram.com/wearecaterpillar/ "Instagram")</li>
+</ul>
+<p>© 2026 Caterpillar. All rights reserved.</p>
+<p>This site uses cookies to improve your experience. Some are required for the site to function, while others support features, performance, personalization, targeting, and analytics.</p>
+<p>You can adjust your preferences anytime using Cookie Settings.</p>
+<p>By selecting I Accept, you agree to the use of functional, performance, and targeting cookies.</p>
+<p>Cookie Settings I Accept</p>
+<p>![Image 5: Caterpillar logo](https://cdn.cookielaw.org/logos/dacb864b-cd78-48d1-a68b-5f1d05fe1473/60105155-36a5-43e4-8e00-43d4d3e7ddf4/96557a7d-ea19-4fb3-95b9-c08b285d2b52/caterpillar.png)</p>
+<h3>Preference Center</h3>
+<p>Cookies are small files that are placed on your computer and retrieved by the website in order to make this website work more efficiently and to better enable processing of information. Cookies can include web beacons, also known as action tags or single-pixel gifs, and other technologies.</p>
+<p>Cookies enable us to learn about what content you see, what ads you click, and other actions you take on this site and other sites. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience, which includes providing you content that meets your interests.</p>
+<p>Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.</p>
+<p><b>Browser Settings</b></p>
+<p>You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.</p>
+<p>Allow All</p>
+<h3>Manage Consent Preferences</h3>
+<h3>Strictly Necessary Cookies</h3>
+<p>Always Active</p>
+<p>These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.</p>
+<p>Cookies Details</p>
+<h3>Performance Cookies</h3>
+<ul>
+<li>[x] Performance Cookies</li>
+</ul>
+<p>These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are most and least popular, see how visitors move around the site, and allow us to derive insights into improving our websites and online services. If you do not allow these cookies, we will not know when you have visited our site and will not be able to monitor its performance.</p>
+<p>Cookies Details</p>
+<h3>Functional Cookies</h3>
+<ul>
+<li>[x] Functional Cookies</li>
+</ul>
+<p>These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.</p>
+<p>Cookies Details</p>
+<h3>Targeting Cookies</h3>
+<ul>
+<li>[x] Targeting Cookies</li>
+</ul>
+<p>These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. These cookies work by uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.</p>
+<p>Cookies Details</p>
+<h3>Cookie List</h3>
+<p>Clear</p>
+<ul>
+<li>- [x] checkbox label label</li>
+</ul>
+<p>Apply Cancel</p>
+<p>Consent Leg.Interest</p>
+<ul>
+<li>[x] checkbox label label</li>
+</ul>
+<ul>
+<li>[x] checkbox label label</li>
+</ul>
+<ul>
+<li>[x] checkbox label label</li>
+</ul>
+<p>Reject All Confirm My Choices</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8f2ab4a25e5c1f13362d35?src=adzuna]]></url>
+    <location><![CDATA[Contract, Central Region]]></location>
+    <country><![CDATA[SG]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Caterpillar]]></company>
+    <category>13</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-26T18:04:36.952Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8f2ab451c84765ac01c718]]></id>
+    <title><![CDATA[Jobs]]></title>
+    <description><![CDATA[<p>Apply filters</p>
+<h3>Recently Viewed</h3>
+<ul>
+<li>[](https://careers.caterpillar.com/en/jobs/?page=9&amp;country=Australia&amp;country=India&amp;country=Indonesia&amp;country=Japan&amp;country=New%20Zealand&amp;country=Philippines&amp;country=Singapore&amp;country=Thailand&amp;country=Malaysia&amp;country=Hong%20Kong&amp;country=South%20Korea&amp;country=Vietnam&amp;country=China&amp;country=Taiwan#results)</li>
+<li>…</li>
+<li>[](https://careers.caterpillar.com/en/jobs/?page=11&amp;country=Australia&amp;country=India&amp;country=Indonesia&amp;country=Japan&amp;country=New%20Zealand&amp;country=Philippines&amp;country=Singapore&amp;country=Thailand&amp;country=Malaysia&amp;country=Hong%20Kong&amp;country=South%20Korea&amp;country=Vietnam&amp;country=China&amp;country=Taiwan#results)</li>
+</ul>
+<h3>LET’S DO THE WORK</h3>
+<p>Keep up with the latest jobs and Caterpillar news.</p>
+<p>![Image 3: a collage of people smiling](https://careers.caterpillar.com/media/vxzmb41d/talent_community-2x.jpg?width=1440&amp;height=521&amp;rmode=crop&amp;quality=75&amp;v=1db93493366c370&amp;hmac=ce0d4073b13e34a5e2c1fe9cc313502c34a4bd71fd13b26184fdf97e31c1562d)</p>
+<p>![Image 4: Caterpillar Careers](https://careers.caterpillar.com/images/logo-w.svg)</p>
+<ul>
+<li>[](https://www.facebook.com/catcareers "Facebook")</li>
+</ul>
+<ul>
+<li>[](https://www.youtube.com/channel/UCetJvfhHNboF_Tl3auMOs5w "YouTube")</li>
+<li>[](https://www.instagram.com/wearecaterpillar/ "Instagram")</li>
+</ul>
+<p>© 2026 Caterpillar. All rights reserved.</p>
+<p>This site uses cookies to improve your experience. Some are required for the site to function, while others support features, performance, personalization, targeting, and analytics.</p>
+<p>You can adjust your preferences anytime using Cookie Settings.</p>
+<p>By selecting I Accept, you agree to the use of functional, performance, and targeting cookies.</p>
+<p>Cookie Settings I Accept</p>
+<p>![Image 5: Caterpillar logo](https://cdn.cookielaw.org/logos/dacb864b-cd78-48d1-a68b-5f1d05fe1473/60105155-36a5-43e4-8e00-43d4d3e7ddf4/96557a7d-ea19-4fb3-95b9-c08b285d2b52/caterpillar.png)</p>
+<h3>Preference Center</h3>
+<p>Cookies are small files that are placed on your computer and retrieved by the website in order to make this website work more efficiently and to better enable processing of information. Cookies can include web beacons, also known as action tags or single-pixel gifs, and other technologies.</p>
+<p>Cookies enable us to learn about what content you see, what ads you click, and other actions you take on this site and other sites. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience, which includes providing you content that meets your interests.</p>
+<p>Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.</p>
+<p><b>Browser Settings</b></p>
+<p>You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.</p>
+<p>Allow All</p>
+<h3>Manage Consent Preferences</h3>
+<h3>Strictly Necessary Cookies</h3>
+<p>Always Active</p>
+<p>These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.</p>
+<p>Cookies Details</p>
+<h3>Performance Cookies</h3>
+<ul>
+<li>[x] Performance Cookies</li>
+</ul>
+<p>These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are most and least popular, see how visitors move around the site, and allow us to derive insights into improving our websites and online services. If you do not allow these cookies, we will not know when you have visited our site and will not be able to monitor its performance.</p>
+<p>Cookies Details</p>
+<h3>Functional Cookies</h3>
+<ul>
+<li>[x] Functional Cookies</li>
+</ul>
+<p>These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.</p>
+<p>Cookies Details</p>
+<h3>Targeting Cookies</h3>
+<ul>
+<li>[x] Targeting Cookies</li>
+</ul>
+<p>These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. These cookies work by uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.</p>
+<p>Cookies Details</p>
+<h3>Cookie List</h3>
+<p>Clear</p>
+<ul>
+<li>- [x] checkbox label label</li>
+</ul>
+<p>Apply Cancel</p>
+<p>Consent Leg.Interest</p>
+<ul>
+<li>[x] checkbox label label</li>
+</ul>
+<ul>
+<li>[x] checkbox label label</li>
+</ul>
+<ul>
+<li>[x] checkbox label label</li>
+</ul>
+<p>Reject All Confirm My Choices</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8f2ab451c84765ac01c718?src=adzuna]]></url>
+    <location><![CDATA[Contract, Central Region]]></location>
+    <country><![CDATA[SG]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Caterpillar]]></company>
+    <category>13</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-26T18:04:36.819Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8f2a7f0960b0fed3868918]]></id>
+    <title><![CDATA[Jobs]]></title>
+    <description><![CDATA[<p>Apply filters</p>
+<h3>Recently Viewed</h3>
+<ul>
+<li>[](https://careers.caterpillar.com/en/jobs/?page=11&amp;country=Australia&amp;country=India&amp;country=Indonesia&amp;country=Japan&amp;country=New%20Zealand&amp;country=Philippines&amp;country=Singapore&amp;country=Thailand&amp;country=Malaysia&amp;country=Hong%20Kong&amp;country=South%20Korea&amp;country=Vietnam&amp;country=China&amp;country=Taiwan#results)</li>
+<li>…</li>
+</ul>
+<h3>LET’S DO THE WORK</h3>
+<p>Keep up with the latest jobs and Caterpillar news.</p>
+<p>![Image 3: a collage of people smiling](https://careers.caterpillar.com/media/vxzmb41d/talent_community-2x.jpg?width=1440&amp;height=521&amp;rmode=crop&amp;quality=75&amp;v=1db93493366c370&amp;hmac=ce0d4073b13e34a5e2c1fe9cc313502c34a4bd71fd13b26184fdf97e31c1562d)</p>
+<p>![Image 4: Caterpillar Careers](https://careers.caterpillar.com/images/logo-w.svg)</p>
+<ul>
+<li>[](https://www.facebook.com/catcareers "Facebook")</li>
+</ul>
+<ul>
+<li>[](https://www.youtube.com/channel/UCetJvfhHNboF_Tl3auMOs5w "YouTube")</li>
+<li>[](https://www.instagram.com/wearecaterpillar/ "Instagram")</li>
+</ul>
+<p>© 2026 Caterpillar. All rights reserved.</p>
+<p>This site uses cookies to improve your experience. Some are required for the site to function, while others support features, performance, personalization, targeting, and analytics.</p>
+<p>You can adjust your preferences anytime using Cookie Settings.</p>
+<p>By selecting I Accept, you agree to the use of functional, performance, and targeting cookies.</p>
+<p>Cookie Settings I Accept</p>
+<p>![Image 5: Caterpillar logo](https://cdn.cookielaw.org/logos/dacb864b-cd78-48d1-a68b-5f1d05fe1473/60105155-36a5-43e4-8e00-43d4d3e7ddf4/96557a7d-ea19-4fb3-95b9-c08b285d2b52/caterpillar.png)</p>
+<h3>Preference Center</h3>
+<p>Cookies are small files that are placed on your computer and retrieved by the website in order to make this website work more efficiently and to better enable processing of information. Cookies can include web beacons, also known as action tags or single-pixel gifs, and other technologies.</p>
+<p>Cookies enable us to learn about what content you see, what ads you click, and other actions you take on this site and other sites. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience, which includes providing you content that meets your interests.</p>
+<p>Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.</p>
+<p><b>Browser Settings</b></p>
+<p>You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.</p>
+<p>Allow All</p>
+<h3>Manage Consent Preferences</h3>
+<h3>Strictly Necessary Cookies</h3>
+<p>Always Active</p>
+<p>These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms.</p>
+<p>Cookies Details</p>
+<h3>Performance Cookies</h3>
+<ul>
+<li>[x] Performance Cookies</li>
+</ul>
+<p>These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are most and least popular, see how visitors move around the site, and allow us to derive insights into improving our websites and online services. If you do not allow these cookies, we will not know when you have visited our site and will not be able to monitor its performance.</p>
+<p>Cookies Details</p>
+<h3>Functional Cookies</h3>
+<ul>
+<li>[x] Functional Cookies</li>
+</ul>
+<p>These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.</p>
+<p>Cookies Details</p>
+<h3>Targeting Cookies</h3>
+<ul>
+<li>[x] Targeting Cookies</li>
+</ul>
+<p>These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. These cookies work by uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.</p>
+<p>Cookies Details</p>
+<h3>Cookie List</h3>
+<p>Clear</p>
+<ul>
+<li>- [x] checkbox label label</li>
+</ul>
+<p>Apply Cancel</p>
+<p>Consent Leg.Interest</p>
+<ul>
+<li>[x] checkbox label label</li>
+</ul>
+<ul>
+<li>[x] checkbox label label</li>
+</ul>
+<ul>
+<li>[x] checkbox label label</li>
+</ul>
+<p>Reject All Confirm My Choices</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8f2a7f0960b0fed3868918?src=adzuna]]></url>
+    <location><![CDATA[Singapore]]></location>
+    <country><![CDATA[SG]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Caterpillar]]></company>
+    <category>13</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-26T18:03:43.489Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8f2a3755896b3340c05047]]></id>
+    <title><![CDATA[EHS Coordinator]]></title>
+    <description><![CDATA[<h3>Job Description</h3>
+<p><b>Your Work Shapes the World at Caterpillar Inc.</b></p>
+<p>When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.</p>
+<p>Role Definition</p>
+<p>To serve as an individual contributor on Environmental, Health and/or Safety (EHS) projects and assignments that support and enhance Caterpillar facility performance and compliance.</p>
+<h3>Responsibilities</h3>
+<ul>
+<li>Performs inspections and tests planned to monitor specific EHS issues, regulations and company practices.</li>
+<li>Assists in training employees on EHS guidelines, company policies and procedures, and regulations pertaining to EHS.</li>
+<li>Making and maintaining necessary EHS records according to established guidelines.</li>
+<li>Contributes to the development of EHS policies and procedures.</li>
+</ul>
+<p>Degree required</p>
+<p>Skill Descriptors</p>
+<p>Process Management: Knowledge of business process improvement tools and techniques; ability to understand, monitor, update, control, or enhance existing business or work processes.</p>
+<p>Accuracy and Attention to Detail: Understanding the necessity and value of accuracy; ability to complete tasks with high levels of precision.</p>
+<p>Effective Communications: Understanding of effective communication concepts, tools and techniques; ability to effectively transmit, receive, and accurately interpret ideas, information, and needs through the application of appropriate communication behaviors.</p>
+<p>Influencing: Knowledge of effective influencing tactics and strategies; ability to impact decisions within and outside own organization.</p>
+<p>Initiative: Being proactive and committing to action on self-identified job responsibilities and challenges; ability to seek out work and the drive to accomplish goals.</p>
+<p>Managing Multiple Priorities: Knowledge of effective self-management practices; ability to manage multiple concurrent objectives, projects, groups, or activities, making effective judgments as to prioritizing and time allocation.</p>
+<p>Problem Solving: Knowledge of approaches, tools, techniques for recognizing, anticipating, and resolving organizational, operational or process problems; ability to apply knowledge of problem solving appropriately to diverse situations.</p>
+<p>Environmental Health and Safety (EHS) Policy Compliance: Knowledge of Environmental Health and Safety (EHS) policies; ability to implement EHS policies to ensure that provided products and services are safe for people and the environment and in compliance with legal requirements and standards.</p>
+<p>This position requires working onsite five days a week. <b>Posting Dates:</b></p>
+<p>August 26, 2026 - September 25, 2026 Caterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8f2a3755896b3340c05047?src=adzuna]]></url>
+    <location><![CDATA[Mumbai, Maharashtra]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Caterpillar]]></company>
+    <category>12</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-26T18:02:31.001Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8e711089eec60d11c0d979]]></id>
+    <title><![CDATA[Chiller Team Leader - Perth]]></title>
+    <description><![CDATA[<p><b>Lead. Mentor. Stay Hands-On. Build the Future of HVAC Service in Perth.</b></p>
+<p><b>$10,000 Sign-On Bonus Available for the Successful Candidate</b>*</p>
+<p>At Johnson Controls, we're shaping the environments where people live, work, learn, and thrive. As a global leader in smart, healthy, and sustainable buildings, we help customers optimize energy use, reduce carbon emissions, and improve operational performance across critical industries including data centres, healthcare, pharmaceuticals, advanced manufacturing, and higher education.</p>
+<p>For more than 140 years, Johnson Controls has delivered innovative solutions that make a real difference. Backed by world-class technology, industry-leading products, and one of the strongest service networks in the world, we're committed to helping our customers succeed while creating outstanding career opportunities for our people.</p>
+<p><b>Why Join Us?</b></p>
+<p>With continued growth across Western Australia, we're seeking an experienced <b>Service Team Leader – Chillers</b> to lead our talented team of Technicians in Perth.</p>
+<p><b>To help you make your next career move, we're offering a $10,000 sign-on bonus for the successful candidate.</b>*</p>
+<p>This role is also ideal for a senior Chiller Technician or Service Supervisor looking to take the next step into leadership while remaining hands-on and technically involved. You'll have the opportunity to influence how the team operates, develop future talent, and play a key role in expanding our Perth service business.</p>
+<p><b>Thinking About Relocating to Perth?</b></p>
+<p>If you're currently based interstate, this could be the career move you've been waiting for.</p>
+<p>Perth offers an enviable lifestyle with world-class beaches, a lower cost of living than many eastern states, shorter commutes, abundant outdoor recreation, and a thriving economy. Combined with the opportunity to join a global organisation investing heavily in growth, this role offers both professional and personal rewards.</p>
+<p><b>What's In It For You?</b></p>
+<ul>
+<li><b>$10,000 sign-on bonus available for the successful candidate</b>*</li>
+</ul>
+<ul>
+<li>Join a business that's growing and investing in Perth</li>
+</ul>
+<ul>
+<li>Lead a highly skilled and supportive team of Chiller Technicians</li>
+</ul>
+<ul>
+<li>Stay hands-on with complex technical work while developing your leadership career</li>
+</ul>
+<ul>
+<li>Competitive salary package plus paid overtime</li>
+</ul>
+<ul>
+<li>Company vehicle or vehicle allowance, fuel card, E-Tag and tools of trade</li>
+</ul>
+<ul>
+<li>Flexible work arrangements that support genuine work-life balance</li>
+</ul>
+<ul>
+<li>Autonomy to make decisions and lead your team your way</li>
+</ul>
+<ul>
+<li>Access to industry-leading technical support, training, and development programs</li>
+</ul>
+<ul>
+<li>Clear career progression pathways across leadership, projects, operations, and technical specialist streams</li>
+</ul>
+<ul>
+<li>Work with market-leading YORK chiller technology</li>
+</ul>
+<ul>
+<li>Strong safety culture and a supportive team environment</li>
+</ul>
+<ul>
+<li>Relocation support may be considered for the right candidate</li>
+</ul>
+<p><b>The Opportunity</b></p>
+<p>As Service Team Leader, you'll be responsible for driving service excellence, supporting your team, and ensuring customers receive exceptional outcomes. You'll combine technical expertise, people leadership, and operational oversight to deliver safe, efficient, and profitable service operations.</p>
+<p><b>Key Responsibilities</b></p>
+<ul>
+<li>Lead, mentor, and develop a team of Chiller Technicians, apprentices, and subcontractors</li>
+</ul>
+<ul>
+<li>Drive operational excellence across maintenance, repair, retrofit, and service activities</li>
+</ul>
+<ul>
+<li>Provide senior-level technical expertise on YORK Chillers and related HVAC systems</li>
+</ul>
+<ul>
+<li>Perform and oversee commissioning, troubleshooting, diagnostics, and preventive maintenance</li>
+</ul>
+<ul>
+<li>Build strong customer relationships and identify opportunities to enhance service delivery</li>
+</ul>
+<ul>
+<li>Support service project planning, scheduling, estimating, and resource allocation</li>
+</ul>
+<ul>
+<li>Manage customer accounts and contribute to business growth initiatives</li>
+</ul>
+<ul>
+<li>Promote a strong safety culture and ensure compliance with company and industry standards</li>
+</ul>
+<ul>
+<li>Partner with the Service Team Manager to support branch performance and operational goals</li>
+</ul>
+<p><b>About You</b></p>
+<p>You're a technically strong HVAC professional who enjoys leading from the front. You take pride in developing people, building customer relationships, and delivering high-quality outcomes.</p>
+<p><b>Ideally, you'll bring:</b></p>
+<ul>
+<li>Trade qualification in HVAC/Refrigeration or equivalent industry experience</li>
+</ul>
+<ul>
+<li>Minimum 5 years' relevant industry experience (or 7 years without formal qualification)</li>
+</ul>
+<ul>
+<li>Strong experience working on centrifugal, screw, or large commercial chillers</li>
+</ul>
+<ul>
+<li>Demonstrated leadership or supervisory capability</li>
+</ul>
+<ul>
+<li>Commercial awareness and sound business acumen</li>
+</ul>
+<ul>
+<li>Strong problem-solving and decision-making skills</li>
+</ul>
+<ul>
+<li>Excellent communication and stakeholder management abilities</li>
+</ul>
+<ul>
+<li>Proficiency with Microsoft Office applications</li>
+</ul>
+<ul>
+<li>A commitment to safety, quality, and customer service excellence</li>
+</ul>
+<p><b>Ready for the Next Step?</b></p>
+<p>If you're a skilled Chiller Technician ready to step into leadership, or an experienced Service Team Leader looking for a new challenge with a global industry leader, we'd love to hear from you.</p>
+<p>Join a company that invests in your development, values your expertise, and provides the support, technology, and opportunities to build a rewarding long-term career.</p>
+<p><b>Apply Today</b></p>
+<p>Click <b>APPLY NOW</b> to join Johnson Controls and help shape the future of sustainable building solutions.</p>
+<p>For a confidential discussion, please contact <b>Janis Sotelo at janis.sotelo&amp;#64;jci.com</b></p>
+<p>Build your future with Johnson Controls and be part of something bigger.</p>
+<p>*Sign-on bonus subject to terms and conditions and payable in accordance with company policy.</p>
+<p><b>#LI-JS4</b></p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8e711089eec60d11c0d979?src=adzuna]]></url>
+    <location><![CDATA[Belmont-Western Australia-Australia, Western Australia]]></location>
+    <country><![CDATA[AU]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Johnson Controls]]></company>
+    <category>5</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-26T04:52:32.008Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a8e710f8bcdcd574e811f9d]]></id>
+    <title><![CDATA[Technical Account Manager – Data Centres]]></title>
+    <description><![CDATA[<p>Johnson Controls, a global leader in thermal management, mission-critical building systems, energy efficiency, and decarbonization, helps customers use energy more productively, reduce carbon emissions, and operate with the precision and resilience required in rapidly expanding industries such as data centers, healthcare, pharmaceuticals, advanced manufacturing, and higher education.</p>
+<p>For more than 140 years, Johnson Controls has delivered performance where it really matters. Backed by advanced technology, lifecycle services and an industry-leading field organization, we elevate customer performance, turn goals into real-world results and help move society forward.</p>
+<p>We have an exciting opportunity for a <b>Technical Account Manager (TAM) – Data Centre Thermal Solutions</b>. This role serves as the primary technical interface between Johnson Controls and key Data Centre customers across the Pacific region, with a specific focus on chilled water plants, precision cooling, and advanced thermal management solutions.</p>
+<p>The TAM provides deep technical leadership across chiller systems, liquid cooling, and thermal plant architectures, while also taking ownership of technical pricing strategy and bid development for complex opportunities. This ensures solutions are not only technically robust but also commercially competitive and aligned with customer value expectations.</p>
+<p>A core element of the role is supporting the Strategic Account Manager (SAM) to drive commercial growth. The TAM brings thermal engineering expertise, early-stage cooling design influence, and bid/pricing leadership that strengthens Johnson Controls’ commercial strategies and opens new business opportunities.</p>
+<p>Operating within a matrixed organisation, the TAM aligns technical, commercial, and delivery stakeholders to ensure chiller and cooling plant solutions are positioned, designed, priced, and delivered to win in a competitive market.</p>
+<h3>Key Responsibilities</h3>
+<p>Trusted Technical Advisor – Thermal Systems</p>
+<ul>
+<li>Act as the trusted advisor for data centre cooling and thermal plant solutions, with a focus on chillers, CRAH/CRAC, and liquid cooling</li>
+</ul>
+<ul>
+<li>Provide guidance on cooling strategies for hyperscale and high-density environments</li>
+</ul>
+<ul>
+<li>Support customers in achieving resilience, redundancy, and energy efficiency targets</li>
+</ul>
+<p>​</p>
+<p>Solution Design &amp; Architecture Governance</p>
+<ul>
+<li>Lead the design of chilled water systems and central plant architecture</li>
+</ul>
+<ul>
+<li>Develop integrated solutions covering chillers, pumps, heat rejection, and BMS integration</li>
+</ul>
+<ul>
+<li>Own system performance, efficiency (PUE), and lifecycle optimisation</li>
+</ul>
+<ul>
+<li>Identify and mitigate technical risks across capacity, redundancy, and control strategies</li>
+</ul>
+<p>​</p>
+<p>Early Engagement &amp; Cooling Design Influence</p>
+<ul>
+<li>Influence cooling plant design, chiller selection, and system architecture at pre-RFP stage</li>
+</ul>
+<ul>
+<li>Lead Johnson Controls’ contribution to Basis of Design (BoD)</li>
+</ul>
+<ul>
+<li>Position high-efficiency and next-gen cooling technologies within project designs</li>
+</ul>
+<p>​</p>
+<p>Pricing, Bid Management &amp; Commercial Ownership</p>
+<ul>
+<li>Own the technical pricing strategy for thermal solutions, including chilled water plants and liquid cooling systems</li>
+</ul>
+<ul>
+<li>Lead and coordinate end-to-end bid development, ensuring alignment between engineering, procurement, and commercial teams</li>
+</ul>
+<ul>
+<li>Develop accurate cost models, equipment selections, and solution configurations that balance performance, risk, and competitiveness</li>
+</ul>
+<ul>
+<li>Drive value engineering to optimise cost while maintaining technical integrity and customer requirements</li>
+</ul>
+<ul>
+<li>Ensure proposals clearly articulate total cost of ownership, energy efficiency savings, and lifecycle value</li>
+</ul>
+<ul>
+<li>Support commercial negotiations by providing technical justification for scope, pricing, and solution differentiation</li>
+</ul>
+<ul>
+<li>Maintain governance over bid quality, margin integrity, and risk management across all submissions</li>
+</ul>
+<p>​</p>
+<p>Opportunity &amp; Technical Sales Support</p>
+<ul>
+<li>Partner with SAMs on major pursuits from early-stage through award</li>
+</ul>
+<ul>
+<li>Develop compelling technical and commercial value propositions</li>
+</ul>
+<ul>
+<li>Support high-quality proposals with cooling system design, narratives, and performance insights</li>
+</ul>
+<p>​</p>
+<p>Market &amp; Domain Expertise – Cooling</p>
+<ul>
+<li>Maintain deep expertise in:</li>
+</ul>
+<p>Chillers (air &amp; water-cooled)</p>
+<ul>
+<li>Free cooling and heat rejection</li>
+</ul>
+<ul>
+<li>Liquid cooling (direct-to-chip, immersion)</li>
+</ul>
+<p>Stay current with AI-driven high-density cooling demands and sustainability trends</p>
+<p>​</p>
+<p>Cross-Functional Collaboration</p>
+<ul>
+<li>Align engineering, product, supply chain, and delivery teams</li>
+</ul>
+<ul>
+<li>Support seamless handover ensuring clarity on thermal system design and performance expectations</li>
+</ul>
+<p>​</p>
+<p>Pipeline &amp; Technical Governance</p>
+<ul>
+<li>Build and qualify pipeline focused on cooling infrastructure opportunities</li>
+</ul>
+<ul>
+<li>Ensure technical and commercial accuracy in CRM, pricing tools, and proposals</li>
+</ul>
+<ul>
+<li>Maintain compliance with Johnson Controls governance standards</li>
+</ul>
+<p>​</p>
+<h3>What we are looking for</h3>
+<ul>
+<li>Bachelor’s degree in Mechanical Engineering (preferred) or related discipline</li>
+</ul>
+<ul>
+<li>10&amp;#43; years’ experience in HVAC/chiller systems and thermal plant solutions, ideally within data centres</li>
+</ul>
+<ul>
+<li>Demonstrated experience in technical sales, bid management, and pricing of complex engineered solutions</li>
+</ul>
+<ul>
+<li>Strong expertise in:</li>
+</ul>
+<p>Chilled water systems and central plant design</p>
+<ul>
+<li>Chiller selection and optimisation</li>
+</ul>
+<ul>
+<li>Cooling strategies for high-density environments</li>
+</ul>
+<p>Proven ability to develop competitive, technically sound, and commercially viable bids</p>
+<p>Experience in cost modelling, value engineering, and margin management</p>
+<p>Strong understanding of BMS/controls integration for thermal optimisation</p>
+<p>Ability to influence consultants and customers at early design stages</p>
+<p>Experience operating in matrix organisations across global stakeholders</p>
+<p>Strong communication skills translating technical solutions into commercial value</p>
+<p>High discipline in CRM and pipeline management (Salesforce preferred)</p>
+<p>Self-driven, resilient, and effective in large, complex pursuit environments</p>
+<p><b>If you are interested in this role, please click the</b> <b><i>Apply</b></i> <b><i>now button</b><b></i>.</b></p>
+<p><b><i>JCI’s Diversity &amp; Inclusion </b></i></p>
+<p><i>Our dedication to diversity and inclusion starts with our values. We lead with integrity and purpose, focusing on the future and aligning with our customers’ vision for success. Our High-Performance Culture ensures that we have the best talent that is highly engaged and eager to innovate.<b> ​​​​​​</b> Our D&amp;I mission elevates each employee’s responsibility to contribute to our culture. It’s through these contributions that we’ll drive the mindsets and behaviours we need to power our customers’ missions. You have the power. You have the voice. You have the culture in your hands</i></p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a8e710f8bcdcd574e811f9d?src=adzuna]]></url>
+    <location><![CDATA[Sydney, New South Wales]]></location>
+    <country><![CDATA[AU]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Johnson Controls]]></company>
+    <category>2</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-26T04:52:31.881Z]]></date>
   </job>
 </jobs>
