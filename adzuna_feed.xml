@@ -3988,20 +3988,6 @@
     <date><![CDATA[2026-10-22T19:12:31.495Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6ada601e4d712b2707cd28b3]]></id>
-    <title><![CDATA[Logistics Technician]]></title>
-    <description><![CDATA[<p>Perform assigned tasks and escalate issues during high-volume work activity or escalation-based situations under the guidance of more experienced Data Center colleagues. Coordinate with suppliers to initiate warranty claim and process failed vendor hardware devices. This includes information processing, packaging, shipment, and receipt of return for Return Merchandise Authorization (RMA) devices following all Service Level Agreements (SLAs) related to RMA warranty process. Develop working knowledge of stock control and inventory management practices and procedures. Ensure accurate documentation of incoming and outgoing deliveries as well as records. Perform cycle audits and data corrections to ensure all inventory controls are met. Help to reconcile and report inventory discrepancies. Ensure detailed physical inventory tracking and staging. Comply with all security and data management policies. Embody our culture and values. Graduate or Diploma AND 6 months experience or an internship in inventory management, retail, warehouse management, or a related field These requirements include, but are not limited to the following specialized security screenings: 1+ years' experience in warehouse/supply chain in an information technology (IT) environment, IT, and/or logistics, operating heavy-load movement equipment (e.g., forklift, pallet jacks, chassis lifts) for a large corporation OR equivalent experience.</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6ada601e4d712b2707cd28b3?src=adzuna]]></url>
-    <location><![CDATA[Mumbai, Maharashtra]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Microsoft (Datacenters)]]></company>
-    <category>5</category>
-    <contract_type>contract</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-10-22T19:12:30.083Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6ada6014cebdb2b872096101]]></id>
     <title><![CDATA[Data Center Technician]]></title>
     <description><![CDATA[<p>This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled. * Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about requesting accommodations.</p>]]></description>
@@ -10018,112 +10004,6 @@
     <contract_type>contract</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-10-21T18:49:45.431Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6ad909487bdea3085ed45081]]></id>
-    <title><![CDATA[Developer - Enterprise Integration]]></title>
-    <description><![CDATA[<p><b> Integration Developer (3–6 Years)</b></p>
-<h3>Role Summary</h3>
-<p>A highly experienced, hands-on Senior Integration Developer responsible for designing and delivering complex, enterprise-grade integration solutions. Drives advanced development, owns Low-Level Design (LLDs), and ensures high-quality, CI/CD-driven delivery using Azure Integration Services, while mentoring teams and contributing to architecture alignment.</p>
-<h3>Key Responsibilities</h3>
-<p><b>Core Development (Primary Focus)</b></p>
-<ul>
-<li>development of <b>complex, large-scale integration solutions</b> using <b>Azure Integration Services (Logic Apps, Azure Functions, Data Factory, Service Bus, Event Grid)</b>.</li>
-<li>Build <b>high-performance, scalable, and production-ready solutions</b>, handling complex enterprise integration scenarios.</li>
-<li>Develop <b>reusable frameworks, advanced integration patterns, and shared components</b> to accelerate delivery across programs.</li>
-</ul>
-<p><b>API Development &amp; APIM Governance</b></p>
-<ul>
-<li>Design and implement <b>enterprise-grade APIs</b> using <b>Azure API Management (APIM)</b>.</li>
-<li>Configure <b>advanced APIM policies</b> including security, transformation, throttling, and routing.</li>
-<li>Ensure APIs meet <b>performance, security, and governance standards</b>.</li>
-</ul>
-<p><b>Low-Level Design &amp; Technical Ownership</b></p>
-<ul>
-<li>Own and drive <b>Low-Level Design (LLDs)</b> for modules and critical components.</li>
-<li>Translate business and architectural requirements into <b>scalable, well-structured technical designs</b>.</li>
-<li>Ensure strict adherence to <b>architecture standards, design principles, and best practices</b>.</li>
-</ul>
-<p><b>Azure DevOps &amp; CI/CD (Key Responsibility)</b></p>
-<ul>
-<li>Design, implement, and optimize <b>CI/CD pipelines using Azure DevOps / GitHub Actions</b>.</li>
-<li>Drive <b>end-to-end automation</b> of build, deployment, and release processes using <b>Infrastructure as Code (IaC)</b>.</li>
-<li>Ensure <b>consistent, reliable, and high-quality releases</b> across environments.</li>
-<li>Improve <b>deployment efficiency, rollback strategies, and release governance</b>.</li>
-</ul>
-<p><b>Testing, Debugging &amp; Production Support</b></p>
-<ul>
-<li>Lead <b>unit testing, integration testing, and validation strategies</b>.</li>
-<li>Handle <b>complex debugging and root cause analysis</b> across APIs, events, and workflows.</li>
-<li>Provide strong support for <b>critical production issues and performance bottlenecks</b>.</li>
-</ul>
-<p><b>Monitoring, Reliability &amp; Performance</b></p>
-<ul>
-<li>Implement and enhance <b>observability frameworks</b> using <b>Azure Monitor and Application Insights</b>.</li>
-<li>Ensure solutions meet <b>SLAs for reliability, scalability, and performance</b>.</li>
-</ul>
-<p><b>AI &amp; Copilot-Enabled Development</b></p>
-<ul>
-<li>Actively leverage <b>GitHub Copilot / M365 Copilot</b> for:</li>
-</ul>
-<ul>
-<li>Code acceleration and optimization</li>
-</ul>
-<ul>
-<li>LLD and API documentation generation</li>
-</ul>
-<ul>
-<li>Debugging and performance insights</li>
-</ul>
-<ul>
-<li>Apply <b>AI-assisted engineering practices</b> to improve productivity and delivery quality.</li>
-<li>Contribute to adoption of <b>AI-driven development practices within the team</b>.</li>
-</ul>
-<p><b>Technical Leadership &amp; Mentoring</b></p>
-<ul>
-<li>Provide <b>hands-on technical leadership</b>, guiding developers on design, coding, and best practices.</li>
-<li>Conduct <b>code reviews, design reviews, and quality checks</b>.</li>
-<li>Mentor engineers and junior developers, building <b>strong technical capability across the team</b>.</li>
-</ul>
-<p><b>Collaboration in Complex Delivery Programs</b></p>
-<ul>
-<li>Work closely with <b>Leads, Architects, QA, DevOps, and business stakeholders</b>.</li>
-<li>Drive alignment between <b>design, development, and delivery timelines</b>.</li>
-<li>Actively contribute to <b>high-velocity, agile delivery environments</b>.</li>
-</ul>
-<h3>Required Skills</h3>
-<ul>
-<li><b>Experience:</b> 3–6 years with strong focus on <b>hands-on integration development in complex delivery environments</b>.</li>
-<li><b>Azure Integration:</b> Deep expertise in <b>Azure Integration Services (AIS)</b>.</li>
-<li><b>API Development:</b> Advanced experience with <b>Azure API Management (APIM)</b>.</li>
-<li><b>Programming:</b> Strong coding expertise in <b>C#, .NET, REST APIs, JSON, XML</b>.</li>
-<li><b>Design Skills:</b> Proven experience in owning <b>LLDs and contributing to HLDs</b>.</li>
-<li><b>Integration Patterns:</b> Strong knowledge of <b>event-driven, distributed, and microservices-based architectures</b>.</li>
-<li><b>Azure CI/CD:</b> Hands-on expertise in <b>designing and managing CI/CD pipelines using Azure DevOps / GitHub Actions</b>.</li>
-<li><b>Debugging &amp; Performance:</b> Advanced troubleshooting and optimization skills.</li>
-<li><b>AI &amp; Copilot Skills:</b></li>
-</ul>
-<ul>
-<li>Active and effective use of <b>GitHub Copilot / M365 Copilot</b></li>
-</ul>
-<ul>
-<li>Practical understanding of <b>AI-assisted development workflows</b></li>
-</ul>
-<h3>Preferred Skills</h3>
-<ul>
-<li>Experience with <b>MuleSoft (architecture, migrations, or coexistence)</b>.</li>
-<li>Exposure to <b>AI/ML integration use cases and intelligent automation</b>.</li>
-<li>Knowledge of <b>enterprise security, API governance, and compliance frameworks</b>.</li>
-</ul>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6ad909487bdea3085ed45081?src=adzuna]]></url>
-    <location><![CDATA[Johnson Controls India COEE1, IN]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Johnson Controls]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-10-21T18:49:44.965Z]]></date>
   </job>
   <job>
     <id><![CDATA[6ad907a495aa281f8e4237fd]]></id>
@@ -40308,30 +40188,6 @@
     <date><![CDATA[2026-10-10T19:16:16.032Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6aca894457de66874a857422]]></id>
-    <title><![CDATA[Senior Forward Deployed Engineer, GenAI, Google Cloud]]></title>
-    <description><![CDATA[<h3>About the job</h3>
-<p>As a Generative Artificial Intelligence (GenAI) Forward Deployed Engineer at Google Cloud, you will be an embedded builder who bridges the gap between frontier Artificial Intelligence (AI) products and production-grade reality within customer environments. You will function as a builder-consultant, moving beyond architecture to code, debug, and jointly ship bespoke agentic solutions. You will solve the integration complexities, data readiness, and state-management issues that prevent AI from reaching enterprise-grade maturity. You will serve a dual purpose: providing "white glove" deployment and acting as a critical feedback loop for Google Cloud’s future product roadmap.It's an exciting time to join Google Cloud’s Go-To-Market team, leading the AI revolution for businesses worldwide. You’ll excel by leveraging Google's brand credibility—a legacy built on inventing foundational technologies and proven at scale. We’ll provide you with the world's most advanced AI portfolio, including frontier Gemini models, and the complete Vertex AI platform, helping you to solve business problems. We’re a collaborative culture providing direct access to DeepMind's engineering and research minds, empowering you to solve customer challenges. Join us to be the catalyst for our mission, drive customer success, and define the new cloud era—the market is yours.</p>
-<h3>Responsibilities</h3>
-<ul>
-<li>Lead the discovery-to-deployment journey, serving as the lead developer for AI applications and transitioning from rapid prototypes to production-grade agentic workflows (e.g., multi-agent systems and Model Context Protocol servers) that drive measurable return on investment.</li>
-<li>Bridge the enterprise gap by architecting and coding the connective tissue between Google’s AI products and customer's live infrastructure, including APIs, legacy data silos, and security perimeters.</li>
-<li>Engineer for production excellence, building high-performance evaluation pipelines and observability frameworks to ensure agentic systems meet the requirements for accuracy, safety, and latency.</li>
-<li>Act as a product catalyst, identifying repeatable field patterns and technical friction points in Google’s AI stack and converting them into reusable modules or product feature requests for engineering teams.</li>
-<li>Drive regional leadership by mentoring talent, co-building with customer teams, and influencing cross-functional strategies to up-level organizational technical capabilities.</li>
-</ul>
-<p>Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google's [Applicant and Candidate Privacy Policy](./privacy-policy).</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aca894457de66874a857422?src=adzuna]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Google (Data Centers)]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-10-10T18:51:48.198Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6ac96e40ae6bfb89016ee6fb]]></id>
     <title><![CDATA[Principal Electrical Engineer]]></title>
     <description><![CDATA[<p>Want to be a part of Asia Pacific &amp; Middle East's (APME) largest, most innovative, and rapidly growing data centre company?</p>
@@ -62929,96 +62785,6 @@
     <date><![CDATA[2026-10-03T18:30:47.679Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6ac02af6884a0a6aa0e586e7]]></id>
-    <title><![CDATA[Senior Staff Agentic AI Engineer - Bengaluru, Karnātaka, India]]></title>
-    <description><![CDATA[<h3>Job Summary</h3>
-<p><b>Build the Agents That Build Our Software</b></p>
-<p>Most engineering roles now come with AI tools. This one comes with a mission. Equinix Incubation builds the agentic systems that run the software delivery lifecycle end to end: from intake and business case through design, code, test, release, and value tracking, with humans directing the work and owning every gate.</p>
-<p>We are hiring Staff and Senior Staff Engineers to build those agents and the platform they run on. You will not just use AI to code faster. You will design, ship, evaluate, and harden production agents that colleagues across a global organization trust with real delivery work. Your agents will write software; your engineering decides what ships.</p>
-<h3>What You'll Do</h3>
-<p><b>Build Production AI Agents</b></p>
-<ul>
-<li>Design, build, and ship LLM-powered agents that execute real lifecycle work: intake triage, estimation, requirements, technical design, coding, testing, release, and operations.</li>
-<li>Engineer the scaffolding that makes agents dependable: tool use via MCP, agent-to-agent handoffs (A2A), event-driven orchestration, and deep Jira and enterprise system integration.</li>
-<li>Build on Equinix's enterprise AI platform: AI gateway, orchestration, audit, and access control, with security and privacy by design.</li>
-</ul>
-<p><b>Make Agents Trustworthy: Evals, Guardrails, Gates</b></p>
-<ul>
-<li>Design and automate eval suites that measure agent output quality on every change, and make passing evals the release gate for agents.</li>
-<li>Define guardrails, human-in-the-loop approval points, review thresholds, and escalation paths, so agent autonomy is earned, not assumed.</li>
-<li>Instrument agent behavior end to end (quality, latency, cost, adoption), find failure patterns, and tune prompts, context, and configurations until the numbers move.</li>
-</ul>
-<p><b>Engineer Context and Knowledge</b></p>
-<ul>
-<li>Build the knowledge layers agents depend on: retrieval over process libraries, decision histories, code, and delivery data.</li>
-<li>Establish reusable prompt patterns, context standards, and agent configurations that other teams adopt.</li>
-<li>Own agents through their full lifecycle: instructions, context freshness, performance monitoring, feedback, and retirement.</li>
-</ul>
-<p><b>Ship the Platform and Raise the Bar</b></p>
-<ul>
-<li>Contribute to the orchestrator, persona consoles, and dashboards that keep humans in command of agent-led delivery.</li>
-<li>Dogfood relentlessly: use agents to build agent systems, and feed what you learn back into the platform.</li>
-<li>Bring strong engineering craft. The fundamentals still decide whether this works: architecture, code quality, testing, CI/CD, and cloud-native design.</li>
-</ul>
-<p><b>What Success Looks Like</b></p>
-<ul>
-<li>Agents you built are doing live delivery work, with measurable cycle-time and quality gains, and humans confidently in control.</li>
-<li>Your eval suites are the reason people trust agent output; “passes evals” means something because you made it mean something.</li>
-<li>Your context patterns, guardrails, and agent standards are reused by teams you have never met.</li>
-<li>You can explain to an executive, in plain language, what an agent did, why, and how you know.</li>
-<li>The platform gets simpler, faster, and cheaper as it scales, because you treat agent cost and reliability as engineering problems.</li>
-</ul>
-<h3>Required Qualifications</h3>
-<ul>
-<li>6+ years of professional software engineering experience, with a record of shipping and operating production systems.</li>
-<li>Hands-on experience building LLM-powered applications or agents: prompt and context engineering, tool calling, retrieval, or multi-agent workflows.</li>
-<li>Experience designing evaluations for AI systems, or strong test-engineering instincts you are eager to apply to non-deterministic software.</li>
-<li>Strong proficiency in Python or TypeScript, plus solid API, microservices, and event-driven architecture skills.</li>
-<li>Fluency with modern engineering practice: Git, automated testing, CI/CD, observability, and cloud platforms.</li>
-<li>Sound judgment about when to trust automation and when to demand human review, and the communication skills to explain that reasoning.</li>
-</ul>
-<h3>Preferred Qualifications</h3>
-<ul>
-<li>Experience with agent frameworks and protocols such as MCP, A2A, Anthropic or OpenAI APIs, Bedrock, Vertex, or LangGraph.</li>
-<li>Experience building developer platforms, orchestration systems, or SDLC tooling, including Jira, GitHub, or ServiceNow integration.</li>
-<li>Knowledge-engineering experience: retrieval systems, embeddings, or enterprise knowledge graphs.</li>
-<li>Experience taking AI features through security, privacy, and responsible AI review in an enterprise.</li>
-<li>Evidence of craft: open-source contributions, technical writing, or internal platforms with devoted users.</li>
-</ul>
-<p><b>Core Competencies</b></p>
-<p><b>Agent Engineering</b></p>
-<ul>
-<li>LLM application architecture; prompt and context engineering; tool use and orchestration; multi-agent design.</li>
-</ul>
-<p><b>Evals and Trust</b></p>
-<ul>
-<li>Eval design and automation; guardrails and human-in-the-loop gates; AI observability; responsible AI governance.</li>
-</ul>
-<p><b>Platform Craft</b></p>
-<ul>
-<li>API and event-driven design; CI/CD and automation; cloud-native engineering; enterprise integration.</li>
-</ul>
-<p><b>Judgment and Impact</b></p>
-<ul>
-<li>Systems thinking; pragmatic risk-taking; mentoring and standards-setting; clear communication.</li>
-</ul>
-<p><b>Why This Role</b></p>
-<p>Incubation is a durable capability, not a project team: the team persists, and the product rotates. Agentic delivery is product one; the next incubation bets follow. You will help define how AI-first engineering works at Equinix, with the autonomy of a startup and the reach of a global platform company. Few roles let you change how an entire organization builds software. This one exists to do exactly that.</p>
-<p>Equinix is committed to ensuring that our employment process is open to all individuals, including those with a disability. If you are a qualified candidate and need assistance or an accommodation, please let us know by completing [this form](https://forms.office.com/pages/responsepage.aspx?id=cbKtcscv_kql7p3mpZ9r-50RYwLmhPpKtmEYPKOcl8hURTBBN0xMTllDRVc0VkJUSEYxMEk1V0NJQS4u&amp;origin=lprLink).</p>
-<p>Equinix is an Equal Employment Opportunity and, in the U.S., an Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to unlawful consideration of race, color, religion, creed, national or ethnic origin, ancestry, place of birth, citizenship, sex, pregnancy / childbirth or related medical conditions, sexual orientation, gender identity or expression, marital or domestic partnership status, age, veteran or military status, physical or mental disability, medical condition, genetic information, political / organizational affiliation, status as a victim or family member of a victim of crime or abuse, or any other status protected by applicable law.</p>
-<p><b>We use artificial intelligence in our hiring process. Learn more </b>[<b>here</b>](https://careers.equinix.com/equinix-ai-guidance-for-candidates)<b>.</b></p>
-<p>This posting is a new position within our organization.<i>*</i>*</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6ac02af6884a0a6aa0e586e7?src=adzuna]]></url>
-    <location><![CDATA[Bengaluru, Karnataka]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Equinix]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-10-02T22:06:46.609Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6ac0275be0a6616283ca935b]]></id>
     <title><![CDATA[Principal Engineer (East Zone Maintenance)]]></title>
     <description><![CDATA[<h3>JOB DESCRIPTION</h3>
@@ -80759,67 +80525,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>part_time</contract_time>
     <date><![CDATA[2026-09-28T18:22:15.721Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6abaade5ccb7b7ed64693e5f]]></id>
-    <title><![CDATA[Senior Engineer – Power Systems Integration]]></title>
-    <description><![CDATA[<h3>Job Description</h3>
-<p><b>Your Work Shapes the World at Caterpillar Inc.</b></p>
-<p>When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.</p>
-<p>We are seeking a highly motivated <b>Senior Engineer - Power Systems Integration</b> to join our engineering team. In this role, you will be responsible for developing, integrating, and maintaining complex product configuration systems that support the design, manufacture, and delivery of industry-leading equipment and solutions.</p>
-<p>Working across multiple engineering and business functions, you will ensure product configuration requirements are accurately translated into scalable system solutions that support new product introductions, engineering changes, manufacturing efficiency, and customer requirements.</p>
-<p>This position offers the opportunity to work with global teams, influence enterprise-wide configuration strategies, and contribute to the successful delivery of innovative products and technologies.</p>
-<h3>Key Responsibilities</h3>
-<ul>
-<li>Develop and support product configuration and systems integration solutions.</li>
-<li>Translate engineering requirements into scalable configuration rules and processes.</li>
-<li>Partner with engineering, manufacturing, supply chain, and IT teams to deliver integrated solutions.</li>
-<li>Lead configuration testing, validation, implementation, and continuous improvement initiatives.</li>
-<li>Resolve complex product configuration and data-related issues.</li>
-<li>Support new product introductions and ongoing engineering change activities.</li>
-<li>Provide technical expertise across configuration management and system integration activities.</li>
-</ul>
-<p><b>What We’re Looking For</b></p>
-<ul>
-<li>Degree qualified in Engineering, Computer Science, Information Systems, or a related discipline or 8+ years relevant industry experience</li>
-<li>Experience with product configuration, systems integration, engineering systems, or product development within a manufacturing or heavy industry environment.</li>
-<li>Understanding of product structures, BOMs, engineering change management, and configuration principles.</li>
-<li>Exposure to PLM, CAD, product configuration, or other enterprise engineering systems.</li>
-<li>Strong analytical, problem-solving, and stakeholder engagement skills.</li>
-<li>Ability to work across engineering, manufacturing, supply chain, and digital technology teams.</li>
-<li>Knowledge of mobile machinery power systems is desirable</li>
-<li>Knowledge of software and control systems is desirable</li>
-</ul>
-<p><b>Additional Information</b></p>
-<ul>
-<li>Site-based in <b>Burnie Tasmania</b> (5 days per week)</li>
-<li>Relocation assistance maybe offered to the ideal candidate</li>
-<li><b>Visa sponsorship is not available</b></li>
-</ul>
-<p><b>Employee Benefits</b></p>
-<ul>
-<li>Competitive remuneration, including bonus and share options</li>
-<li>Generous parental leave with flexible payment options</li>
-<li>Strong commitment to diversity, inclusion, and equal opportunity</li>
-<li>Employee discounts across health, wellbeing, travel, and retail</li>
-<li>Global career progression and development opportunities within Caterpillar</li>
-</ul>
-<p><b>How to Apply</b></p>
-<p>If you’re ready to take on a challenging and rewarding role with a global industry leader, apply via: <b>www.caterpillar.com/careers</b></p>
-<p><b>Your road to success begins with Caterpillar.</b></p>
-<p>Join a global leader and build a career with real impact.</p>
-<p><b>Caterpillar is an Equal Opportunity Employer.</b> Caterpillar of Australia is not currently hiring applicants who require sponsorship. As a global company, opportunities may be available in other locations via our careers website.</p>
-<p>This position requires working onsite five days a week.Visa Sponsorship is not available for this position. <b>Posting Dates:</b></p>
-<p>Caterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6abaade5ccb7b7ed64693e5f?src=adzuna]]></url>
-    <location><![CDATA[Sydney, New South Wales]]></location>
-    <country><![CDATA[AU]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Caterpillar]]></company>
-    <category>23</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-28T18:11:49.407Z]]></date>
   </job>
   <job>
     <id><![CDATA[6abaadb214dc9bcfae34ead4]]></id>
@@ -103480,64 +103185,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-17T18:52:23.408Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6aac31b30cfe2e7a8ff85ba1]]></id>
-    <title><![CDATA[Critical Environment Operations Manager]]></title>
-    <description><![CDATA[<h3>Overview</h3>
-<p>Microsoft’s Cloud Infrastructure and Operations (MCIO) is the engine that powers our cloud services. As a Critical Environment Operations Manager, you will perform a key role in delivering the core infrastructure and foundational technologies for Microsoft's over 200 online businesses including Bing, Office 365, Xbox, OneDrive and the Microsoft Azure platform. Our infrastructure is comprised of a large global portfolio of more than 200 datacenters in 32 countries and millions of servers. Our foundation is built upon and managed by a team of subject matter experts working to support services for more than 1 billion customers and 20 million businesses in over 90 countries worldwide.</p>
-<p>With environmental sustainability and optimization at the forefront of our datacenter design and operations, we continue to grow and evolve as we meet the ever-changing business demands that hold Microsoft as a world-class cloud provider.Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.</p>
-<h3>Responsibilities</h3>
-<ul>
-<li>Empower a culture of safety, security,and compliance in all aspects of our Datacenter operations</li>
-<li>Lead a team of Mechanical, Electrical and Control System professionals supporting Microsoft's online services</li>
-<li>Oversee the day-to-day operations and maintenance of mechanical and electrical equipment in our Datacenters</li>
-<li>Maximize Critical Environment (CE) availability to ensure optimal operational efficiency</li>
-<li>Reduce high-impact and human-error Critical Environment (CE)incidents year over year</li>
-<li>Deliver on cost/energy efficiency initiatives</li>
-<li>Ensure routine reporting to effectively manage and analyze our Power/Temperature/Relative Humidity, and SLA monitoring</li>
-<li>Establish working relationships and engagement with our Engineering Groups (EGs), and business partners</li>
-<li>Work with regional and global peers to share and build practices across the entire datacenter portfolio</li>
-</ul>
-<h3>Qualifications</h3>
-<h3>Required Qualifications</h3>
-<ul>
-<li>High School Qualification or equivalent AND 3+ years experience of mission-critical service management (e.g., providing IT services, manufacturing, warehouse, retail, military, or managing physical operations in an IT and/or critical environment infrastructure)</li>
-<li>OR equivalent experience</li>
-</ul>
-<p>Background Check Requirements:</p>
-<p>Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:</p>
-<ul>
-<li>Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.</li>
-</ul>
-<h3>Preferred Qualifications</h3>
-<ul>
-<li>Enterprise-level experience managing large scale and complex projects/programs AND 6+ years experience in Critical Environment infrastructures (e.g., UPS, Generator, AHU) AND</li>
-<li>Experience in physical IT infrastructures (e.g., Servers, SANs, Networking, Capacity, DC Rack/Enclosures, structured cabling) AND Experience managing budget $1M+.</li>
-<li>Bachelor's Degree in Computer Science, Math, Telecommunications, Electrical/Mechanical Engineering, Supply Chain Management or related field.</li>
-<li>Applicable certifications: ASICS/Inventory Control, CompTIA, Microsoft, Network Certifications, CCNA Certifications, ITIL v3 Foundation, Microsoft Operations Framework (MOF) Certifications, Leadership Development Certifications, PMP, CDCP.</li>
-<li>Bachelor’s Degree or Technical College certification in mechanical or electrical engineering and/or services</li>
-<li>Experience working on large scale CE projects</li>
-<li>Experience with the operation of IT infrastructure (Servers, SANs, Networking, etc.</li>
-</ul>
-<p>Data Center Operations Management M4 - The typical base pay range for this role across the U.S. is USD $102,600 - $202,800 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $137,500 - $225,800 per year.</p>
-<p>Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here:</p>
-<p>Data Center Operations Management M5 - The typical base pay range for this role across the U.S. is USD $127,600 - $229,200 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $168,900 - $253,300 per year.</p>
-<p>Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here:</p>
-<p>This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.</p>
-<ul>
-<li><i> </i></li>
-</ul>
-<p>Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about [<b>requesting accommodations.</b>](https://careers.microsoft.com/v2/global/en/accessibility.html)</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aac31b30cfe2e7a8ff85ba1?src=adzuna]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Microsoft (Datacenters)]]></company>
-    <category>5</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-17T18:30:11.062Z]]></date>
   </job>
   <job>
     <id><![CDATA[6aac3047df49f5645348231c]]></id>
@@ -189369,52 +189016,6 @@
     <date><![CDATA[2026-09-09T10:37:00.114Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6aa136cb1d102dde616b3f67]]></id>
-    <title><![CDATA[System Design Engineer]]></title>
-    <description><![CDATA[<p><i>*</i>*</p>
-<p><b>Hello visionary!</b></p>
-<p>We empower our people to stay resilient and relevant in a constantly changing world. We’re looking for people who are always searching for creative ways to grow and learn. People who want to make a real impact, now and in the future. Does that sound like you? Then it seems like you’d make a great addition to our vibrant international team.</p>
-<p>Siemens Global Business Services (GBS) is a Siemens Service Company that provides innovative digital solutions and customer-oriented business services. With more than 20 years of experience, Siemens GBS taps into its understanding of how organizations and businesses work to seamlessly integrate, digitalize and optimize business processes with a portfolio that covers end-to-end business needs.</p>
-<p><b>You’ll make a difference by:</b></p>
-<p>The Design Engineer is responsible for preparing engineering deliverables for Building Automation Systems supporting global data center projects. The role involves developing control system documentation, engineering databases, controller configurations, and ensuring compliance with customer specifications and engineering standards.</p>
-<ul>
-<li>Prepare control drawings, point databases, controller architecture, I/O schedules, network layouts, equipment integration drawings, and engineering documentation for Building Automation Systems.</li>
-<li>Develop Functional Design Specifications, Sequence of Operations, alarm matrices, and control philosophy documents based on project requirements.</li>
-<li>Support engineering reviews, resolve customer comments, perform engineering revisions, and maintain project documentation throughout the project lifecycle.</li>
-<li>Coordinate with programming, graphics, commissioning, and project management teams to ensure engineering deliverables are completed accurately and on schedule.</li>
-<li>Participate in engineering quality reviews, technical discussions, FAT support, and continuous process improvement initiatives.</li>
-</ul>
-<p><b>Your success is grounded in:</b></p>
-<ul>
-<li>3–6 Years of relevant experience</li>
-<li>Education: Bachelor’s / master’s degree in electrical engineering, Mechanical Engineering, Control &amp; Instrumentation Engineering, Mechatronics, or related discipline.</li>
-</ul>
-<p><b>Preferred</b></p>
-<ul>
-<li>Experience in hyperscale or enterprise data center projects.</li>
-</ul>
-<p><b>Technical Skills</b></p>
-<ul>
-<li>DDC/PLC Controllers, BACnet/IP, Modbus, AutoCAD, Visio, Excel, HVAC Controls, Chiller Plants, CRAH/CRAC Systems.</li>
-</ul>
-<p><b>Soft Skills</b></p>
-<ul>
-<li>Problem-solving, teamwork, communication, quality focus, adaptability, and customer orientation.</li>
-</ul>
-<p><b><i></b></i>Join us and be yourself!**</p>
-<p>We value your unique identity and perspective and are fully committed to providing equitable opportunities and building a workplace that reflects the diversity of society. Come bring your authentic self and create a better tomorrow with us.</p>
-<p>This role is based in Bangalore. But you’ll also get to visit other locations in India and globe, so you’ll need to go where this journey takes you. In return, you’ll get the chance to work with teams impacting entire cities, countries and the shape of things to come. We’re Siemens. A collection of over 312,000 minds building the future, one day at a time in over 200 countries.</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aa136cb1d102dde616b3f67?src=adzuna]]></url>
-    <location><![CDATA[Mumbai, Maharashtra]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Siemens]]></company>
-    <category>12</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-09T10:36:59.950Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6aa136c23e2c6e1d0a35945e]]></id>
     <title><![CDATA[Sales Manager, Partner Channel]]></title>
     <description><![CDATA[<p>We empower our people to stay resilient and relevant in a constantly changing world. We’re looking for people who are always searching for creative ways to grow and learn. People who want to make a real impact, now and in the future. Does that sound like you? Then it seems like you’d make a great addition to our vibrant international team.</p>
@@ -193153,50 +192754,6 @@
     <contract_type>contract</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-08T02:57:11.727Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6a9f7983b6fd783230eec643]]></id>
-    <title><![CDATA[Retail Consultant, Brisbane Airport]]></title>
-    <description><![CDATA[<p>Brisbane Airport, Australia</p>
-<p><b>Company:</b> Singtel Group</p>
-<p>Optus is one of Australia’s leading telecommunications providers, connecting more than 11 million customers every day across mobile, broadband and digital solutions.</p>
-<p>We’re looking for a vibrant and motivated <b>Casual Retail Service Consultant</b> to join our <b>Brisbane Aiport</b> team. If you love helping people, thrive in being a part of a supportive crew, and bring positive energy to every interaction, then we’d love to have you on board!</p>
-<p>At Optus, you’ll feel connected to what truly matters. We collaborate with purpose, lift each other up, take accountability, act with integrity, and celebrate as one team. Together, we learn, grow, tackle challenges and build genuine relationships with our customers and with each other.</p>
-<p><b>What you’ll do:</b></p>
-<ul>
-<li>Be the face of Optus, delivering standout customer experiences powered by optimism, curiosity and genuine care.</li>
-<li>Explore our range of tech products and services, and share your knowledge in a way that’s simple, helpful and accessible.</li>
-<li>Bring your personality and charm to uncover customer needs and deliver personalised solutions that make their day.</li>
-<li>Work as one team, crafting a warm, welcoming environment where customers feel supported and memorable moments happen.</li>
-</ul>
-<p><b>What you bring:</b></p>
-<ul>
-<li><b>Service Superpower:</b> You know how to understand customer needs, deliver genuine support, and let phenomenal service drive fantastic outcomes.</li>
-<li><b>Tech Explorer:</b> You enjoy helping customers make sense of tech by breaking things down simply and guiding them to the right solutions.</li>
-<li><b>Problem Solving Pro:</b> You listen with empathy, act with integrity, and turn challenges into opportunities to help with calm, practical solutions.</li>
-<li><b>Composure Under Pressure:</b> You’re confident in navigating difficult enquiries, ease tricky situations with empathy and respect, and work toward the best solution for the customer.</li>
-<li><b>Team Spirit:</b> You build strong connections with your teammates, support one another, stay accountable, and create a customer‑first environment where everyone succeeds.</li>
-</ul>
-<p><b>What’s in it for you?</b></p>
-<ul>
-<li>$35 p/h + super + applicable loadings.</li>
-<li>Phenomenal perks, including 25% off Optus products and exclusive access to unique discounts with our retail partners.</li>
-<li>Build meaningful connections through employee-led networks and diversity initiatives including Culture Connect, Elevate Women, Yarn First Nations, Disability Network and Express Yourself (LGBTQIA+).</li>
-<li>Put your wellbeing first with free access to counselling and support services, available 24/7 across multiple channels.</li>
-<li>Flexible rosters that work around the life you live outside of work.</li>
-</ul>
-<p><b>Intrigued, but not sure you tick every box?</b> That’s completely okay! We still encourage you to apply. We all grow, learn and develop together, and this role might be the perfect next step in your career journey.</p>
-<p>At Optus, we are strengthened by others and that means valuing diversity and saying ‘yes’ to embracing individual differences. We are committed to ensuring that our application process provides an equal employment opportunity to all job seekers, including individuals from diverse gender, cultural and linguistic backgrounds, individuals with a disability, individuals identifying as being part of the LGBTQIA+ community, individuals who may have served in the armed forces or who identify as Aboriginal and/or Torres Strait Islander. We also want to do our best to make our recruitment process inclusive. If you require any adjustments or accessibility support to participate fairly and equitably in the recruitment process, please email [AccessibleRecruitment@optus.com.au](mailto:accessiblerecruitment@optus.com.au) or call 1800 309 170.</p>
-<p>For more information on Diversity, Inclusion &amp; Belonging at Optus, please visit [https://www.optus.com.au/about/inclusion-diversity](https://www.optus.com.au/about/inclusion-diversity)</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a9f7983b6fd783230eec643?src=adzuna]]></url>
-    <location><![CDATA[Brisbane, Queensland]]></location>
-    <country><![CDATA[AU]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Singtel Digital InfraCo]]></company>
-    <category>3</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-08T02:57:07.952Z]]></date>
   </job>
   <job>
     <id><![CDATA[6a9f7972296fdec348deccc3]]></id>
@@ -233790,5 +233347,806 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-08-27T19:25:48.036Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a9089f98980f99b4d76de6b]]></id>
+    <title><![CDATA[Job Application for Senior AI Data Center Electrical Engineer at SUBMER]]></title>
+    <description><![CDATA[<h3>Qualifications</h3>
+<ul>
+<li>Experience with liquid-cooled, high-power-density racks (100+ kW) and rack-scale systems like NVIDIA NVL72 / SuperPOD.</li>
+<li>Familiarity with Grid-to-Rack power distribution, all MEP equipment in single-line power specification, 13.8kV/34.5kV to IT white spaces with 480V AC and/or  800V DC power distribution, BESS integration, and renewable/grid-tied systems.</li>
+<li>Background in hyperscale operators, colocation providers, or AI infrastructure projects.</li>
+<li>Knowledge of data center standards (Uptime Institute, TIA-942) and safety protocols (NFPA 70E, OSHA).</li>
+</ul>
+<h3>What we offer</h3>
+<ul>
+<li>Attractive compensation package reflecting your expertise and experience.</li>
+<li>Medical Insurance Plan.</li>
+<li>401k Employee volunteer contribution Plan.</li>
+<li>A great work environment characterized by friendliness, international diversity, flexibility, and a hybrid-friendly approach.</li>
+<li>You´ll be part of a fast-growing scale-up with a mission to make a positive impact, offering an exciting career evolution.</li>
+</ul>
+<p>Our job titles may span more than one job level. The actual base pay is dependent on a number of factors, such as transferable skills, work experience, business needs, and market demands.</p>
+<p><b>Our inclusive responsibility</b></p>
+<p>Submer is committed to creating a diverse and inclusive environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, veteran status, or any other protected category under applicable law.</p>
+<p>#MDC</p>
+<h3>Apply for this job</h3>
+<p>\*</p>
+<p>indicates a required field</p>
+<p>First Name\*</p>
+<p>Last Name\*</p>
+<p>Preferred First Name</p>
+<p>Email\*</p>
+<p>Phone</p>
+<p>Country\*</p>
+<p>Phone\*</p>
+<p>244 results found</p>
+<p>No results found</p>
+<ul>
+<li>Afghanistan+93</li>
+<li>Åland Islands+358</li>
+<li>Albania+355</li>
+<li>Algeria+213</li>
+<li>American Samoa+1</li>
+<li>Andorra+376</li>
+<li>Angola+244</li>
+<li>Anguilla+1</li>
+<li>Antigua &amp; Barbuda+1</li>
+<li>Argentina+54</li>
+<li>Armenia+374</li>
+<li>Aruba+297</li>
+<li>Ascension Island+247</li>
+<li>Australia+61</li>
+<li>Austria+43</li>
+<li>Azerbaijan+994</li>
+<li>Bahamas+1</li>
+<li>Bahrain+973</li>
+<li>Bangladesh+880</li>
+<li>Barbados+1</li>
+<li>Belarus+375</li>
+<li>Belgium+32</li>
+<li>Belize+501</li>
+<li>Benin+229</li>
+<li>Bermuda+1</li>
+<li>Bhutan+975</li>
+<li>Bolivia+591</li>
+<li>Bosnia &amp; Herzegovina+387</li>
+<li>Botswana+267</li>
+<li>Brazil+55</li>
+<li>British Indian Ocean Territory+246</li>
+<li>British Virgin Islands+1</li>
+<li>Brunei+673</li>
+<li>Bulgaria+359</li>
+<li>Burkina Faso+226</li>
+<li>Burundi+257</li>
+<li>Cambodia+855</li>
+<li>Cameroon+237</li>
+<li>Canada+1</li>
+<li>Cape Verde+238</li>
+<li>Caribbean Netherlands+599</li>
+<li>Cayman Islands+1</li>
+<li>Central African Republic+236</li>
+<li>Chad+235</li>
+<li>Chile+56</li>
+<li>China+86</li>
+<li>Christmas Island+61</li>
+<li>Cocos (Keeling) Islands+61</li>
+<li>Colombia+57</li>
+<li>Comoros+269</li>
+<li>Congo - Brazzaville+242</li>
+<li>Congo - Kinshasa+243</li>
+<li>Cook Islands+682</li>
+<li>Costa Rica+506</li>
+<li>Côte d’Ivoire+225</li>
+<li>Croatia+385</li>
+<li>Cuba+53</li>
+<li>Curaçao+599</li>
+<li>Cyprus+357</li>
+<li>Czechia+420</li>
+<li>Denmark+45</li>
+<li>Djibouti+253</li>
+<li>Dominica+1</li>
+<li>Dominican Republic+1</li>
+<li>Ecuador+593</li>
+<li>Egypt+20</li>
+<li>El Salvador+503</li>
+<li>Equatorial Guinea+240</li>
+<li>Eritrea+291</li>
+<li>Estonia+372</li>
+<li>Eswatini+268</li>
+<li>Ethiopia+251</li>
+<li>Falkland Islands+500</li>
+<li>Faroe Islands+298</li>
+<li>Fiji+679</li>
+<li>Finland+358</li>
+<li>France+33</li>
+<li>French Guiana+594</li>
+<li>French Polynesia+689</li>
+<li>Gabon+241</li>
+<li>Gambia+220</li>
+<li>Georgia+995</li>
+<li>Germany+49</li>
+<li>Ghana+233</li>
+<li>Gibraltar+350</li>
+<li>Greece+30</li>
+<li>Greenland+299</li>
+<li>Grenada+1</li>
+<li>Guadeloupe+590</li>
+<li>Guam+1</li>
+<li>Guatemala+502</li>
+<li>Guernsey+44</li>
+<li>Guinea+224</li>
+<li>Guinea-Bissau+245</li>
+<li>Guyana+592</li>
+<li>Haiti+509</li>
+<li>Honduras+504</li>
+<li>Hong Kong SAR China+852</li>
+<li>Hungary+36</li>
+<li>Iceland+354</li>
+<li>India+91</li>
+<li>Indonesia+62</li>
+<li>Iran+98</li>
+<li>Iraq+964</li>
+<li>Ireland+353</li>
+<li>Isle of Man+44</li>
+<li>Israel+972</li>
+<li>Italy+39</li>
+<li>Jamaica+1</li>
+<li>Japan+81</li>
+<li>Jersey+44</li>
+<li>Jordan+962</li>
+<li>Kazakhstan+7</li>
+<li>Kenya+254</li>
+<li>Kiribati+686</li>
+<li>Kosovo+383</li>
+<li>Kuwait+965</li>
+<li>Kyrgyzstan+996</li>
+<li>Laos+856</li>
+<li>Latvia+371</li>
+<li>Lebanon+961</li>
+<li>Lesotho+266</li>
+<li>Liberia+231</li>
+<li>Libya+218</li>
+<li>Liechtenstein+423</li>
+<li>Lithuania+370</li>
+<li>Luxembourg+352</li>
+<li>Macao SAR China+853</li>
+<li>Madagascar+261</li>
+<li>Malawi+265</li>
+<li>Malaysia+60</li>
+<li>Maldives+960</li>
+<li>Mali+223</li>
+<li>Malta+356</li>
+<li>Marshall Islands+692</li>
+<li>Martinique+596</li>
+<li>Mauritania+222</li>
+<li>Mauritius+230</li>
+<li>Mayotte+262</li>
+<li>Mexico+52</li>
+<li>Micronesia+691</li>
+<li>Moldova+373</li>
+<li>Monaco+377</li>
+<li>Mongolia+976</li>
+<li>Montenegro+382</li>
+<li>Montserrat+1</li>
+<li>Morocco+212</li>
+<li>Mozambique+258</li>
+<li>Myanmar (Burma)+95</li>
+<li>Namibia+264</li>
+<li>Nauru+674</li>
+<li>Nepal+977</li>
+<li>Netherlands+31</li>
+<li>New Caledonia+687</li>
+<li>New Zealand+64</li>
+<li>Nicaragua+505</li>
+<li>Niger+227</li>
+<li>Nigeria+234</li>
+<li>Niue+683</li>
+<li>Norfolk Island+672</li>
+<li>North Korea+850</li>
+<li>North Macedonia+389</li>
+<li>Northern Mariana Islands+1</li>
+<li>Norway+47</li>
+<li>Oman+968</li>
+<li>Pakistan+92</li>
+<li>Palau+680</li>
+<li>Palestinian Territories+970</li>
+<li>Panama+507</li>
+<li>Papua New Guinea+675</li>
+<li>Paraguay+595</li>
+<li>Peru+51</li>
+<li>Philippines+63</li>
+<li>Poland+48</li>
+<li>Portugal+351</li>
+<li>Puerto Rico+1</li>
+<li>Qatar+974</li>
+<li>Réunion+262</li>
+<li>Romania+40</li>
+<li>Russia+7</li>
+<li>Rwanda+250</li>
+<li>Samoa+685</li>
+<li>San Marino+378</li>
+<li>São Tomé &amp; Príncipe+239</li>
+<li>Saudi Arabia+966</li>
+<li>Senegal+221</li>
+<li>Serbia+381</li>
+<li>Seychelles+248</li>
+<li>Sierra Leone+232</li>
+<li>Singapore+65</li>
+<li>Sint Maarten+1</li>
+<li>Slovakia+421</li>
+<li>Slovenia+386</li>
+<li>Solomon Islands+677</li>
+<li>Somalia+252</li>
+<li>South Africa+27</li>
+<li>South Korea+82</li>
+<li>South Sudan+211</li>
+<li>Spain+34</li>
+<li>Sri Lanka+94</li>
+<li>St. Barthélemy+590</li>
+<li>St. Helena+290</li>
+<li>St. Kitts &amp; Nevis+1</li>
+<li>St. Lucia+1</li>
+<li>St. Martin+590</li>
+<li>St. Pierre &amp; Miquelon+508</li>
+<li>St. Vincent &amp; Grenadines+1</li>
+<li>Sudan+249</li>
+<li>Suriname+597</li>
+<li>Svalbard &amp; Jan Mayen+47</li>
+<li>Sweden+46</li>
+<li>Switzerland+41</li>
+<li>Syria+963</li>
+<li>Taiwan+886</li>
+<li>Tajikistan+992</li>
+<li>Tanzania+255</li>
+<li>Thailand+66</li>
+<li>Timor-Leste+670</li>
+<li>Togo+228</li>
+<li>Tokelau+690</li>
+<li>Tonga+676</li>
+<li>Trinidad &amp; Tobago+1</li>
+<li>Tunisia+216</li>
+<li>Turkey+90</li>
+<li>Turkmenistan+993</li>
+<li>Turks &amp; Caicos Islands+1</li>
+<li>Tuvalu+688</li>
+<li>U.S. Virgin Islands+1</li>
+<li>Uganda+256</li>
+<li>Ukraine+380</li>
+<li>United Arab Emirates+971</li>
+<li>United Kingdom+44</li>
+<li>United States+1</li>
+<li>Uruguay+598</li>
+<li>Uzbekistan+998</li>
+<li>Vanuatu+678</li>
+<li>Vatican City+39</li>
+<li>Venezuela+58</li>
+<li>Vietnam+84</li>
+<li>Wallis &amp; Futuna+681</li>
+<li>Western Sahara+212</li>
+<li>Yemen+967</li>
+<li>Zambia+260</li>
+<li>Zimbabwe+263</li>
+</ul>
+<p>Location (City)\*</p>
+<p>Locate me</p>
+<p>Resume/CV\*</p>
+<p>AttachAttach</p>
+<p>Dropbox</p>
+<p>Google Drive</p>
+<p>Enter manuallyEnter manually</p>
+<p>Accepted file types: pdf, doc, docx, txt, rtf</p>
+<p>Cover Letter</p>
+<p>AttachAttach</p>
+<p>Dropbox</p>
+<p>Google Drive</p>
+<p>Enter manuallyEnter manually</p>
+<p>Accepted file types: pdf, doc, docx, txt, rtf</p>
+<ul>
+<li><i> </i></li>
+</ul>
+<h3>Education</h3>
+<p>School</p>
+<p>Select...</p>
+<p>Degree</p>
+<p>Select...</p>
+<p>Discipline</p>
+<p>Select...</p>
+<p>Start date year</p>
+<p>Add another</p>
+<ul>
+<li><i> </i></li>
+</ul>
+<p>Do you have legal authorization to work in the US?\*</p>
+<p>Select...</p>
+<p>Will you require visa sponsorship now or in the future? \*</p>
+<p>Select...</p>
+<p>What are your salary expectations OTE? (Please provide a breakdown of base salary and variable compensation). \*</p>
+<p>Are you open to traveling as part of this role? (local, EMEA, US, APAC, global). Please specify your availability and any limitations. \*</p>
+<p>Do you have experience with electrical power systems?</p>
+<p>Do you have knowledge and experience with 11-22 kV transformers?</p>
+<ul>
+<li><i> </i></li>
+</ul>
+<p>Submit application</p>
+<p>reCAPTCHA</p>
+<p>Recaptcha requires verification.</p>
+<p>protected by <b>reCAPTCHA</b></p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a9089f98980f99b4d76de6b?src=adzuna]]></url>
+    <location><![CDATA[Singapore]]></location>
+    <country><![CDATA[SG]]></country>
+    <remote>1</remote>
+    <company><![CDATA[Submer]]></company>
+    <category>23</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-27T19:03:21.372Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a9089afd8311a340818baae]]></id>
+    <title><![CDATA[Staff Storage Platform Engineer (AI Storage) - Radian Arc]]></title>
+    <description><![CDATA[<p><b>About Radian Arc.</b></p>
+<p>Radian Arc provides an infrastructure-as-a-service (IaaS) platform for running cloud gaming, artificial intelligence and machine learning applications inside telecommunication carrier networks. Our teams across the USA, Australia, Central Europe, Malaysia, Singapore and Japan offer telecom operators a GPU-based edge computing platform without the need for capital expenditure, facilitating low latency and improved economics for value-added services and the monetization of 5G investments.</p>
+<p><b>What impact you will have</b></p>
+<p>Mission: Design, build, and operate the AI storage layer powering large-scale GPU infrastructure, enabling datasets, model artifacts, checkpoints, and inference state to be delivered to compute clusters with extremely high throughput and predictable latency.</p>
+<p>You will play a key role in architecting and evolving the storage platform across edge and core deployments, supporting the full lifecycle of AI workloads including distributed inference, fine-tuning, and large-scale model training. The role spans multiple storage architectures used across the platform, including hyperconverged storage currently based on StorPool, local NVMe storage for latency-sensitive workloads and edge deployments, and disaggregated AI storage platforms such as VAST Data and Weka.</p>
+<p>As the first dedicated storage platform role in the organization, this position combines Staff-level architectural ownership, technical direction, and cross-functional influence with hands-on execution across storage design, deployment, performance engineering, troubleshooting, platform integration, and operational improvement.</p>
+<p>A key responsibility of this role is designing and optimizing the storage architecture underlying distributed inference stacks such as NVIDIA Dynamo, llm-d, or similar inference orchestration frameworks. This includes ensuring that storage systems efficiently support inference workloads through optimized dataset access, model artifact distribution, checkpoint handling, and KV-cache persistence. You will design scalable storage systems capable of feeding thousands of GPUs while balancing throughput, latency, resilience, and cost efficiency, and work closely with compute, networking, and platform engineering teams to ensure seamless integration with the platform orchestration layer.</p>
+<p>Because this is currently the primary storage platform role in the company, the position is intentionally hybrid: you are expected to operate at L6 / Staff in terms of long-term design, standards, cross-team influence, and platform direction, while also directly executing critical storage work that, in a larger organization, would be distributed across multiple engineers.</p>
+<h3>What you'll need</h3>
+<h3>Core Experience</h3>
+<ul>
+<li>Strong hands-on experience designing and operating distributed storage systems for high-performance compute environments.</li>
+<li>Proven experience designing storage architectures for large-scale AI inference or training platforms, including dataset distribution, checkpointing, and KV-cache storage patterns.</li>
+<li>Deep knowledge of the Linux storage and I/O stack.</li>
+<li>Strong understanding of AI workload data access patterns.</li>
+<li>Experience optimizing storage for GPU-accelerated workloads.</li>
+<li>Familiarity with Kubernetes storage integrations such as CSI.</li>
+<li>Experience operating large-scale storage clusters.</li>
+<li>Experience owning both architecture and direct implementation in lean or fast-scaling environments is strongly preferred.</li>
+</ul>
+<h3>Advanced AI Storage Expertise</h3>
+<p>The candidate should have deep expertise in designing and operating storage platforms optimized for GPU-heavy environments and distributed AI workloads.</p>
+<p>This includes a strong understanding of how training, fine-tuning, and inference systems interact with storage, and how storage architecture affects throughput, latency, concurrency, checkpoint recovery, dataset distribution, and serving performance.</p>
+<p>Relevant expertise includes:</p>
+<ul>
+<li>Strong understanding of storage access patterns for distributed inference and training.</li>
+<li>Experience designing storage platforms that support large dataset ingestion and model artifact distribution at scale.</li>
+<li>Practical experience tuning storage architectures for checkpointing, distributed file access, object access, and high-concurrency inference.</li>
+<li>Familiarity with storage patterns for KV-cache persistence and retrieval.</li>
+<li>Experience optimizing data locality and reducing unnecessary network movement between storage and compute.</li>
+<li>Understanding of how storage performance affects large-scale AI frameworks, model-serving systems, and inference orchestration layers.</li>
+</ul>
+<h3>Systems &amp; Troubleshooting</h3>
+<ul>
+<li>Ability to debug complex cross-layer issues spanning:</li>
+</ul>
+<ul>
+<li>Storage hardware,</li>
+<li>Networking,</li>
+<li>Linux kernel and I/O paths,</li>
+<li>Filesystems,</li>
+<li>Object and block storage layers,</li>
+<li>Kubernetes integrations,</li>
+<li>Distributed workload behavior.</li>
+</ul>
+<ul>
+<li>Strong knowledge of storage hardware, NVMe devices, storage fabrics, and high-performance data paths.</li>
+<li>Experience designing storage observability systems.</li>
+<li>Strong ability to act as the senior escalation point for ambiguous, high-impact, and multi-domain technical issues.</li>
+</ul>
+<h3>Automation</h3>
+<ul>
+<li>Strong automation skills using Python and/or Bash.</li>
+<li>Experience applying software engineering practices to storage automation and operational tooling.</li>
+<li>Experience building reusable tooling, standards, validation patterns, or lifecycle automation that increase leverage across teams.</li>
+</ul>
+<h3>Leadership</h3>
+<ul>
+<li>Proven ability to lead complex technical initiatives across teams.</li>
+<li>Comfortable collaborating across engineering, operations, deployment teams, vendors, and platform stakeholders.</li>
+<li>Strong systems-level thinking balancing performance, reliability, scalability, operability, and cost efficiency.</li>
+<li>Demonstrated ability to set architectural direction and drive adoption of engineering standards across an organization.</li>
+<li>Proven ability to lead through technical influence across multiple teams and domains, without relying on formal people management authority.</li>
+<li>Strong mentoring capability and ability to raise the technical level of adjacent engineering teams.</li>
+<li>Able to balance short-term execution needs with long-term platform design, operational sustainability, and cost efficiency.</li>
+</ul>
+<p><b>What you’ll do</b></p>
+<h3>Storage Architecture</h3>
+<ul>
+<li>Design scalable AI storage architectures supporting both edge and core deployments.</li>
+<li>Define storage strategies for distributed inference, fine-tuning, and training workloads.</li>
+<li>Architect solutions across multiple storage models:</li>
+</ul>
+<ul>
+<li>Hyperconverged infrastructure such as StorPool,</li>
+<li>Local NVMe storage,</li>
+<li>Disaggregated storage systems such as VAST, Weka, and related architectures.</li>
+</ul>
+<ul>
+<li>Define reference architectures, design principles, and reusable patterns for storage platforms so future deployments follow standards rather than one-off implementations.</li>
+<li>Evaluate trade-offs across throughput, latency, resilience, data locality, cost, and operability, and make clear recommendations to engineering and leadership.</li>
+<li>Influence the long-term storage roadmap, including architecture choices for edge, core, hyperconverged, and disaggregated environments.</li>
+</ul>
+<h3>AI Workload Optimization</h3>
+<ul>
+<li>Optimize storage throughput and latency for GPU-heavy clusters.</li>
+<li>Design data locality strategies to minimize dataset movement across the network.</li>
+<li>Benchmark storage performance under real AI workloads.</li>
+<li>Optimize I/O patterns for large dataset ingestion, checkpointing, and model artifact distribution.</li>
+<li>Work directly with compute teams to ensure storage architecture matches the access patterns of distributed training, fine-tuning, and inference frameworks.</li>
+<li>Establish performance baselines and validation methods so storage platforms are tested against realistic AI workload behavior rather than only synthetic benchmarks.</li>
+</ul>
+<h3>Platform Integration</h3>
+<ul>
+<li>Implement and maintain CSI drivers.</li>
+<li>Integrate storage platforms with Kubernetes and orchestration systems.</li>
+<li>Integrate block, object, and shared file storage into the platform.</li>
+<li>Design multi-tenant storage architectures supporting isolated workloads.</li>
+<li>Ensure storage capabilities are correctly exposed into platform services, workload orchestration, and lifecycle automation.</li>
+<li>Define standards for how storage should be integrated into Kubernetes-based and platform-managed environments across different deployment models.</li>
+</ul>
+<h3>Distributed Storage Systems</h3>
+<ul>
+<li>Contribute to the design of exabyte-scale storage platforms.</li>
+<li>Support S3-compatible object storage, distributed file systems, and block storage.</li>
+<li>Integrate storage clusters into heterogeneous customer environments.</li>
+<li>Design storage systems with clear fault domains, lifecycle management approaches, scaling paths, and operational boundaries.</li>
+<li>Define reusable operating patterns for multi-cluster and multi-site storage environments.</li>
+</ul>
+<h3>Distributed Inference Storage Architecture</h3>
+<ul>
+<li>Design the storage architecture supporting distributed inference platforms such as NVIDIA Dynamo, llm-d, or similar frameworks.</li>
+<li>Optimize storage performance for large-scale LLM inference workloads.</li>
+<li>Design efficient strategies for KV-cache persistence and retrieval using distributed storage platforms such as VAST or Weka.</li>
+<li>Optimize storage access patterns for token generation pipelines and high-concurrency inference workloads.</li>
+<li>Ensure inference infrastructure scales efficiently across thousands of GPUs.</li>
+<li>Partner with platform and inference teams to ensure storage design supports evolving inference architectures and avoids becoming a bottleneck in throughput, latency, or concurrency.</li>
+</ul>
+<h3>AI Data Path Optimization</h3>
+<ul>
+<li>Design high-performance data paths between GPU clusters and distributed storage.</li>
+<li>Optimize performance using technologies such as:</li>
+</ul>
+<ul>
+<li>GPU Direct Storage,</li>
+<li>RDMA / RoCE,</li>
+<li>NVMe-oF.</li>
+</ul>
+<ul>
+<li>Ensure predictable latency for inference serving workloads.</li>
+<li>Define architectural approaches for storage-to-GPU data movement that balance performance gains with operational complexity and deployment practicality.</li>
+</ul>
+<h3>Performance Engineering</h3>
+<ul>
+<li>Work with technologies such as the following, to maximize data throughput to GPU clusters.:</li>
+</ul>
+<ul>
+<li>RDMA,</li>
+<li>RoCE,</li>
+<li>GPU Direct Storage,</li>
+<li>SPDK,</li>
+<li>NVMe-oF,</li>
+</ul>
+<ul>
+<li>Lead storage performance investigations across hardware, network, OS, filesystem, and workload interaction points.</li>
+<li>Drive systematic tuning of storage paths for large-scale GPU environments and define repeatable validation and benchmarking approaches for future deployments.</li>
+</ul>
+<h3>Reliability &amp; Operations</h3>
+<ul>
+<li>Improve the reliability, durability, and observability of the storage stack.</li>
+<li>Collaborate with operations teams to monitor storage systems using telemetry and metrics.</li>
+<li>Optimize performance, latency, and resilience of storage infrastructure.</li>
+<li>Lead incident response and root-cause analysis for major storage events and chronic performance issues.</li>
+<li>Translate operational pain points and incidents into durable design changes, standards, runbooks, and architectural improvements.</li>
+<li>Establish measurable benchmarks for storage reliability, performance consistency, recovery behavior, and operability across deployments.</li>
+</ul>
+<h3>Engineering Execution &amp; Delivery</h3>
+<ul>
+<li>Lead end-to-end engineering delivery of storage infrastructure from architecture and validation through production rollout.</li>
+<li>Support practical implementation of storage platforms in both new deployments and existing environments.</li>
+<li>Validate storage BOMs and architecture assumptions together with infrastructure, compute, and deployment teams.</li>
+<li>Contribute detailed input into datacenter layouts, node profiles, and storage topology decisions.</li>
+<li>Drive scaling strategies, capacity planning, and storage lifecycle decisions.</li>
+<li>Ensure storage changes are executed safely with minimal customer impact.</li>
+<li>Act as both the architectural owner and the practical execution lead for critical storage initiatives during the build-out phase of the storage function.</li>
+</ul>
+<h3>Cross-Team Collaboration</h3>
+<ul>
+<li>Work closely with compute, networking, platform, DevOps, and operations teams.</li>
+<li>Ensure storage integrates seamlessly into the AI platform architecture.</li>
+<li>Act as the primary storage design authority across the organization, guiding adjacent teams on how storage constraints and capabilities should shape platform decisions.</li>
+<li>Communicate architectural decisions, trade-offs, risks, and operational implications clearly to stakeholders.</li>
+<li>Share knowledge and mentor engineers on high-performance storage design.</li>
+<li>Raise the technical bar by helping adjacent teams better understand storage behavior in distributed AI environments.</li>
+</ul>
+<h3>Technical Stack</h3>
+<ul>
+<li>CSI.</li>
+<li>NVMe / NVMe-oF.</li>
+<li>Distributed file systems.</li>
+<li>Object storage.</li>
+<li>Linux storage stack.</li>
+<li>RDMA / RoCE.</li>
+<li>GPU Direct Storage.</li>
+<li>SPDK.</li>
+<li>StorPool.</li>
+<li>VAST Data.</li>
+<li>Weka.</li>
+<li>MinioFS.</li>
+<li>Rook Ceph.</li>
+</ul>
+<h3>What we offer</h3>
+<ul>
+<li>Attractive compensation package reflecting your expertise and experience.</li>
+<li>A great work environment characterised by friendliness, international diversity, flexibility, and a hybrid-friendly approach.</li>
+<li>You'll be part of a fast-growing scale-up with a mission to make a positive impact, offering an exciting career evolution.</li>
+</ul>
+<p>Our job titles may span more than one job level. The actual base pay is dependent on a number of factors, such as transferable skills, work experience, business needs and market demands.</p>
+<p><b>Our inclusive responsibility</b></p>
+<p>Radian Arc is committed to creating a diverse and inclusive environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, veteran status, or any other protected category under applicable law.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a9089afd8311a340818baae?src=adzuna]]></url>
+    <location><![CDATA[Singapore]]></location>
+    <country><![CDATA[SG]]></country>
+    <remote>1</remote>
+    <company><![CDATA[Submer]]></company>
+    <category>2</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-27T19:02:07.812Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a9089ae6b8257fee35a400b]]></id>
+    <title><![CDATA[Senior Technical Operations & Deployment Engineer (GPU Cloud Infrastructure)]]></title>
+    <description><![CDATA[<p><b>About Radian Arc.</b></p>
+<p>Radian Arc provides an infrastructure-as-a-service (IaaS) platform for running cloud gaming, artificial intelligence and machine learning applications inside telecommunication carrier networks. Our teams across the USA, Australia, Central Europe, Malaysia, Singapore and Japan offer telecom operators a GPU-based edge computing platform without the need for capital expenditure, facilitating low latency and improved economics for value-added services and the monetization of 5G investments.</p>
+<p><b>What impact you will have</b></p>
+<p>Mission: Install, validate, operate, and maintain regional and core GPU cloud deployments across datacenter environments<b>.</b></p>
+<p>This role owns the practical deployment and operational readiness of the platform stack in the field. It bridges infrastructure engineering, datacenter operations, networking, host systems, storage, and platform operations. The engineer is responsible for taking a validated architecture and BOM and turning it into a working production environment, including physical deployment coordination, rack and cabling validation, switch and host bring-up, firmware and BIOS validation, operating-system installation, GPU and DPU validation, storage integration, platform stack installation, acceptance testing, and operational handover.</p>
+<p>The role is intentionally hands-on and cross-domain. It is not a pure datacenter technician role, and it is not a pure platform engineering role. It is the person who can work in a datacenter, understand cabling and optics, debug host and network issues, validate GPU servers, support platform installation, and coordinate with engineering when problems arise.</p>
+<p>The role is especially important as the platform evolves from regional deployments toward HGX-based GPU systems, east-west fabrics, and core AI infrastructure. This profile is focused on actual installation, commissioning, maintenance, and operational readiness.</p>
+<p><b>What you’ll do</b></p>
+<h3><b>Datacenter deployment and commissioning</b></h3>
+<ul>
+<li>Coordinate physical deployment activities with datacenter providers, integrators, logistics teams, and internal engineering.</li>
+<li>Validate rack layouts, elevations, power feeds, airflow assumptions, cable paths, and labeling before installation.</li>
+<li>Support rack-and-stack activities for GPU nodes, CPU nodes, storage nodes, switches, firewalls, routers, serial/OOB equipment, PDUs, and supporting infrastructure.</li>
+<li>Validate fibre and copper cabling against the deployment design, including OOB, north-south, east-west, storage, and management networks.</li>
+<li>Validate optics, transceivers, link speeds, breakout cables, port mappings, and redundancy assumptions.</li>
+<li>Maintain accurate as-built documentation, including rack elevations, cable maps, port maps, serial numbers, asset records, IP allocations, and change records.</li>
+</ul>
+<h3><b>Host and hardware bring-up</b></h3>
+<ul>
+<li>Bring up GPU servers, platform servers, storage nodes, and supporting infrastructure.</li>
+<li>Validate BIOS, BMC, firmware, NIC, DPU, GPU, NVMe, RAID/HBA, and platform firmware versions.</li>
+<li>Configure and validate BMC access using Redfish/IPMI and OOB management networks.</li>
+<li>Validate GPU visibility, PCIe topology, NUMA layout, thermals, power behavior, and hardware health.</li>
+<li>Run hardware acceptance tests, burn-in tests, GPU stress tests, network tests, and storage validation before handover.</li>
+<li>Troubleshoot hardware issues across servers, GPUs, DPUs, NICs, optics, cables, disks, memory, firmware, and BIOS.</li>
+</ul>
+<h3><b>Network deployment support</b></h3>
+<ul>
+<li>Support deployment and validation of OOB, north-south, storage, and east-west networking.</li>
+<li>Work with networking engineering to apply and validate switch configurations.</li>
+<li>Validate BGP, ECMP, VLAN/VRF segmentation, EVPN/VXLAN where applicable, OVS/OVN integration, and routing reachability.</li>
+<li>Validate VyOS routers, OOB firewalls, transit routers, Citrix NetScaler/WAF, and customer connectivity.</li>
+<li>Support RoCE/RDMA fabric validation for distributed AI workloads where applicable.</li>
+<li>Troubleshoot practical network issues such as link flaps, optics issues, incorrect polarity, MTU mismatches, route leaks, VLAN errors, packet loss, PFC/ECN issues, and fabric congestion.</li>
+<li>Support integration with NVIDIA Cumulus / Spectrum-X environments, and assist with Cisco or SONiC-based alternatives if those become part of the roadmap.</li>
+</ul>
+<h3><b>Platform stack installation and validation</b></h3>
+<ul>
+<li>Support installation and validation of the platform stack across regional and core deployments.</li>
+<li>Install and validate host operating systems, kernel versions, NVIDIA drivers, Mellanox/NVIDIA OFED or inbox drivers, CUDA compatibility, Docker/containerd, KVM/QEMU, and platform agents.</li>
+<li>Support CloudStack-based deployments and Kubernetes/KubeVirt-based deployments.</li>
+<li>Validate GPU passthrough, SR-IOV, BlueField NIC/DPU behavior, VM networking, and container networking.</li>
+<li>Support Kubernetes node registration, GPU Operator validation, CSI validation, CNI validation, and node lifecycle workflows.</li>
+<li>Support storage integration with StorPool, Weka, local NVMe, or other supported storage platforms.</li>
+<li>Execute acceptance tests and produce deployment readiness reports.</li>
+</ul>
+<h3><b>Operational maintenance and Day-2 support</b></h3>
+<ul>
+<li>Perform controlled maintenance activities such as firmware upgrades, switch upgrades, host OS updates, GPU driver updates, BIOS changes, and hardware replacements.</li>
+<li>Support incident response for infrastructure issues affecting GPU nodes, hosts, networking, storage, or platform components.</li>
+<li>Perform root-cause analysis for deployment and operational failures.</li>
+<li>Maintain runbooks for installation, validation, upgrade, rollback, troubleshooting, and handover.</li>
+<li>Work with engineering to turn repeated operational issues into automation, better validation, or platform improvements.</li>
+<li>Participate in on-call or escalation rotations for regional and core environments where appropriate.</li>
+</ul>
+<h3><b>Platform observability and validation</b></h3>
+<ul>
+<li>Ensure telemetry is correctly configured for hosts, GPUs, DPUs, switches, storage, OOB devices, and platform components.</li>
+<li>Validate Zabbix, Prometheus, Grafana, Loki, DCGM/NVML, NVIDIA NetQ or equivalent telemetry sources.</li>
+<li>Confirm that deployment health checks, hardware alerts, performance dashboards, and operational alarms work before production handover.</li>
+<li>Support performance baseline testing for GPU, network, storage, and host layers.</li>
+<li>Assist with NCP-related validation and benchmarking.</li>
+</ul>
+<h3><b>Cross-team coordination</b></h3>
+<ul>
+<li>Work closely with the Senior Director of Infrastructure Operations.</li>
+<li>Work closely with Staff Network, Staff Storage, Sr Hardware/Infrastructure, Sr Platform, Sr Fleet Automation, Observability, Product Engineering, Sales Engineering, and Service Delivery roles.</li>
+<li>Provide field feedback into reference architectures, BOMs, rack layouts, cabling standards, deployment playbooks, and validation procedures.</li>
+<li>Coordinate with external vendors including datacenter providers, systems integrators, server vendors, storage vendors, NVIDIA, and networking vendors.</li>
+<li>Act as the practical field escalation point when architecture, BOM, datacenter conditions, and platform implementation do not align.</li>
+</ul>
+<h3><b>Technical Stack</b></h3>
+<h3><b>Hardware and datacenter</b></h3>
+<ul>
+<li>GPU servers: L40S, RTX 6000 Pro, H200, B200/B300-class systems, HGX systems, and future NVL72-style rack-scale systems.</li>
+<li>CPU/platform servers.</li>
+<li>Storage nodes and JBODs.</li>
+<li>PDUs, BMCs, serial/OOB, firewalls, routers, switches.</li>
+<li>Rack layouts, power feeds, airflow, cold/hot aisle containment, cabling, optics.</li>
+<li>DTC/DLC cooling.</li>
+</ul>
+<h3><b>Host and systems</b></h3>
+<ul>
+<li>Ubuntu Linux.</li>
+<li>Linux networking.</li>
+<li>BIOS/BMC/firmware lifecycle.</li>
+<li>Redfish, IPMI.</li>
+<li>NVIDIA drivers, CUDA, DCGM/NVML.</li>
+<li>Mellanox/NVIDIA NICs, BlueField DPUs.</li>
+<li>KVM/QEMU, VFIO, PCI passthrough.</li>
+<li>Docker/containerd.</li>
+</ul>
+<h3><b>Networking</b></h3>
+<ul>
+<li>NVIDIA Spectrum/Cumulus.</li>
+<li>VyOS.</li>
+<li>OVS/OVN.</li>
+<li>BGP, ECMP, VLAN, VRF, EVPN/VXLAN.</li>
+<li>RoCE/RDMA.</li>
+<li>SR-IOV.</li>
+<li>Citrix NetScaler / WAF.</li>
+<li>OOB and break-glass access.</li>
+</ul>
+<h3><b>Platform</b></h3>
+<ul>
+<li>CloudStack.</li>
+<li>Kubernetes.</li>
+<li>KubeVirt.</li>
+<li>NVIDIA GPU Operator.</li>
+<li>CSI/CNI integrations.</li>
+<li>StorPool, Weka, local NVMe.</li>
+<li>Terraform, Ansible, Bash, Python.</li>
+</ul>
+<h3><b>Observability</b></h3>
+<ul>
+<li>Zabbix.</li>
+<li>Prometheus.</li>
+<li>Grafana.</li>
+<li>Loki.</li>
+<li>DCGM Exporter.</li>
+<li>NVIDIA NetQ or equivalent.</li>
+<li>Logs, metrics, hardware health, and deployment validation dashboards.</li>
+</ul>
+<h3>What you'll need</h3>
+<ul>
+<li>Strong hands-on experience deploying and maintaining datacenter infrastructure.</li>
+<li>Experience with GPU, HPC, AI cloud, private cloud, or high-density compute environments, including both air-cooled and liquid-cooled (nice to have) deployments.</li>
+<li>Familiarity with NVL72-style rack-scale architecture, NVLink/NVSwitch domains, in-rack networking, high-density power delivery, and OEM/NVIDIA validation requirements.</li>
+<li>Comfortable working across physical infrastructure, Linux hosts, networking, storage, and platform software.</li>
+<li>Experience bringing up servers from bare metal through production readiness.</li>
+<li>Experience with rack layouts, cabling, optics, transceivers, power, OOB management, and datacenter handover.</li>
+<li>Strong Linux troubleshooting skills.</li>
+<li>Practical networking knowledge across VLANs, VRFs, BGP, ECMP, OVS/OVN, and routing.</li>
+<li>Experience with GPU servers, NVIDIA drivers, firmware, PCIe topology, and hardware validation..</li>
+<li>Strong documentation discipline and ability to produce accurate as-built records and runbooks.</li>
+<li>Ability to validate practical datacenter readiness for current and next-generation AI infrastructure, including power density, cooling model, rack depth/width, floor loading, containment, serviceability, and maintenance access.</li>
+</ul>
+<p>Personal qualities:</p>
+<ul>
+<li>Very hands-on and practical.</li>
+<li>Comfortable working in datacenters and remotely with smart-hands teams.</li>
+<li>Strong troubleshooting mindset across hardware, network, host, and platform layers.</li>
+<li>High attention to detail around cabling, labeling, asset records, and validation.</li>
+<li>Calm under pressure during deployment windows and customer-impacting incidents.</li>
+<li>Able to distinguish between a temporary field workaround and a permanent engineering fix.</li>
+<li>Good communicator who can explain field issues clearly to engineering and leadership.</li>
+</ul>
+<h3>What we offer</h3>
+<ul>
+<li>Attractive compensation package reflecting your expertise and experience.</li>
+<li>A great work environment characterised by friendliness, international diversity, flexibility, and a hybrid-friendly approach.</li>
+<li>You'll be part of a fast-growing scale-up with a mission to make a positive impact, offering an exciting career evolution.</li>
+</ul>
+<p>Our job titles may span more than one job level. The actual base pay is dependent on a number of factors, such as transferable skills, work experience, business needs and market demands.</p>
+<p><b>Our inclusive responsibility</b></p>
+<p>Radian Arc is committed to creating a diverse and inclusive environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, veteran status, or any other protected category under applicable law.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a9089ae6b8257fee35a400b?src=adzuna]]></url>
+    <location><![CDATA[Singapore]]></location>
+    <country><![CDATA[SG]]></country>
+    <remote>1</remote>
+    <company><![CDATA[Submer]]></company>
+    <category>2</category>
+    <contract_type>contract</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-27T19:02:06.919Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a908525e69988d1ee4bd57f]]></id>
+    <title><![CDATA[Process solution and Data Architect P2P]]></title>
+    <description><![CDATA[<p>At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world.</p>
+<p>This Position reports to:</p>
+<p>Head of Design,Architecture&amp;Integration ###</p>
+<p>As the Finance Process Solution and Data Architect, this individual is responsible for owning the end-to-end finance business process architecture and solution design for the Procure-to-Pay (P2P) domain across all relevant global finance applications. The role plays a critical part in bridging business and technology by translating finance business requirements into effective system solutions while collaborating closely with functional architects and application teams across the finance ecosystem. In addition to ensuring seamless process integration, standardization, and data governance throughout the P2P lifecycle, the individual is responsible for defining and driving the future-state architecture, identifying opportunities for process optimization and digital transformation, and developing strategic roadmaps that align technology capabilities with evolving business objectives. This visionary role ensures that finance processes, applications, and data structures are scalable, efficient, and positioned to support long-term organizational growth and innovation.</p>
+<p>The work model for the role is: #L1-Hybrid</p>
+<p><b>Your roles and responsibilitie</b><b>s</b></p>
+<ul>
+<li>Own the end-to-end Procure-to-Pay (P2P) process architecture and solution design across ABB’s global finance systems, including defining and driving the technology roadmap for future enhancements and transformation initiatives.</li>
+<li>Lead business requirements discussions and solution workshops, translating business needs into scalable system solutions while determining the optimal use of standard functionality, enhancements, and process workarounds.</li>
+<li>Review, approve, and govern new and existing finance application solutions, ensuring alignment with architecture standards, process integrity, security, compliance, and regulatory requirements.</li>
+<li>Collaborate with solution architects, application managers, service teams, and project stakeholders to ensure seamless integration across finance applications, prioritization of business demand, and alignment of functional and technical solutions.</li>
+<li>Drive continuous improvement by maintaining process design documentation, identifying and resolving recurring design issues, recommending architecture improvements and new technologies, and promoting adherence to corporate finance and IS standards and policies.</li>
+</ul>
+<p><b>Qualifications for the Role :</b></p>
+<ul>
+<li>Bachelor Degree or post graduation in Economics/Finance/Accounting/Business Engineering or similar field</li>
+<li>Certification in Basware, SAP FICO or S/4 HANA ideally in Central Finance is desired</li>
+<li>10&amp;#43; years of work experience in Finance and Accounting or business operations or with ERP Centre of Excellence, of which at least 5&amp;#43; years of process design and solutioning experience covering P2P.</li>
+<li>Proven track record of visualization and creating solution designs, leading design thinking sessions for a specific service line solution and leading implementation teams for respective solutions.</li>
+<li>SAP FSCM experience is critical for this role.</li>
+<li>Solid track record of collaborating with cross-functional teams, including P2P business process owners, IT teams, and external vendors, to deliver business-aligned technology solutions.</li>
+</ul>
+<p>Building a cleaner, smarter future takes all kinds of minds: the curious, the courageous, and the creative. We welcome people from all backgrounds and experiences.</p>
+<p>Ready to make an impact? Apply today or visit www.abb.com to learn more about the impact of our solutions across the globe.</p>
+<p>Recruitment Fraud Warning</p>
+<p>ABB never asks for payment from job applicants. All genuine job offers follow a formal application and interview process.</p>
+<p>View current job openings and apply at: [https://careers.abb/global/en/home](https://careers.abb/global/en/home)</p>
+<p>For more information, read our full fraud warning notice at: [https://global.abb/group/en/careers/how-to-apply/fraud-warning](https://global.abb/group/en/careers/how-to-apply/fraud-warning)</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a908525e69988d1ee4bd57f?src=adzuna]]></url>
+    <location><![CDATA[Bangalore, Karnataka]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>1</remote>
+    <company><![CDATA[ABB]]></company>
+    <category>2</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-27T18:42:45.995Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a908522ae026b44e09aa71b]]></id>
+    <title><![CDATA[Tech Lead - Sr. Full Stack Developer-Product development]]></title>
+    <description><![CDATA[<p>At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world.</p>
+<p>This Position reports to:</p>
+<p>R&amp;D Team Lead ###</p>
+<h3><b>What we believe in</b></h3>
+<p>ABB’s Process Automation business area enables customers to operate some of the world’s largest and most complex industrial infrastructures, helping them outrun – leaner and cleaner.</p>
+<p>We offer a broad range of automation, electrification and digital solutions for process, hybrid and maritime industries, including industry-specific integrated control and software as well as measurement and analytics solutions and services.</p>
+<h3><b>Your role and responsibilities</b></h3>
+<p>In this role, we are looking for an experienced Senior Full Stack Engineer to join our Industrial Automation Digital Organization. The role requires strong hands-on expertise in modern frontend and backend technologies to design, develop, and deliver scalable, high-quality industrial software applications.</p>
+<p>You will work with cross-functional teams to build and enhance cloud-native applications using modern technologies such as React/Angular, C# .NET, databases, Kubernetes, and Azure. You will contribute to technical discussions, architecture decisions, software quality, and continuous improvement while supporting and mentoring other engineers.</p>
+<p>The work model for the role is: Hybrid</p>
+<h3><b>You will be mainly accountable for:</b></h3>
+<ul>
+<li>Design, develop, and maintain scalable full-stack applications, leading frontend development using React and/or Angular and backend services using C# and .NET/.NET Core.</li>
+<li>Build and maintain robust application workflows involving APIs, relational and time-series databases, microservices, and cloud-native technologies, ensuring performance, scalability, and maintainability.</li>
+<li>Drive software quality through unit testing, code reviews, technical discussions, and adherence to engineering standards, while contributing to CI/CD processes and efficient software delivery.</li>
+<li>Collaborate with product owners, UX teams, architects, and other engineering stakeholders, while mentoring junior and mid-level engineers and contributing to continuous improvement and technical innovation.</li>
+</ul>
+<h3><b>Qualifications for the role:</b></h3>
+<ul>
+<li>6&amp;#43; years of professional software development experience with strong hands-on expertise in frontend development using React and/or Angular, along with experience in designing and developing enterprise-grade applications.</li>
+<li>Proven experience in backend development using C# and .NET/.NET Core, with strong knowledge of API development, application architecture, and software engineering fundamentals.</li>
+<li>Strong experience working with relational and/or time-series databases, including database design, development, integration, and validation.</li>
+<li>Professional experience with modern software development practices and technologies such as Kubernetes, microservices architecture, unit testing, CI/CD, Azure DevOps, GitHub, and Agile/Scrum methodologies.</li>
+<li>Exposure to cloud platforms, preferably Microsoft Azure, with an understanding of cloud-native application development and deployment.</li>
+<li>Strong problem-solving, communication, and collaboration skills, with the ability to participate in technical discussions, architecture decisions, and work effectively with cross-functional and global stakeholders.</li>
+<li>BE/BTech/ME/MTech in Computer Science or a related field, with exposure to Industrial Automation, IIoT, Energy, Manufacturing, or similar industrial domains preferred. Experience with Python would be an added advantage.</li>
+</ul>
+<h3><b>More about us</b></h3>
+<p>ABB is a leading global technology company that energizes the transformation of society and industry to achieve a more productive, sustainable future. The Process Automation business area automates, electrifies and digitalizes some of the most complex industrial infrastructures, helping customers operate safer, smarter, and more sustainably.</p>
+<p>Building a cleaner, smarter future takes all kinds of minds: the curious, the courageous, and the creative. We welcome people from all backgrounds and experiences.</p>
+<p>Ready to make an impact? Apply today or visit www.abb.com to learn more about the impact of our solutions across the globe.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a908522ae026b44e09aa71b?src=adzuna]]></url>
+    <location><![CDATA[Bangalore, Karnataka]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>1</remote>
+    <company><![CDATA[ABB]]></company>
+    <category>2</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-27T18:42:42.517Z]]></date>
   </job>
 </jobs>
