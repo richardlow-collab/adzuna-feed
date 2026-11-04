@@ -11968,32 +11968,6 @@
     <date><![CDATA[2026-10-31T19:07:13.795Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6ae63c6175c5258c69b825b9]]></id>
-    <title><![CDATA[Software Engineer, Content Safety, Core]]></title>
-    <description><![CDATA[<h3>About the job</h3>
-<p>Google's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.</p>
-<p>The Content Safety organization in Core provides safety solutions that protect Google’s users from exposure to offensive, sensitive or harmful content. The team unblock and accelerate Google's product launches by providing quality implementations of company-wide standards for Responsible Artificial Intelligence (AI). The team combines subject matter expertise in the content safety domain and a practice of machine learning and AI-based techniques with the production-grade experience in serving infrastructure and product integrations to protect users from harm, maintain Google’s engagement in the area of online safety across the industry, and make foundational models and the internet safer for society.</p>
-<p>The Core team builds the technical foundation behind Google’s flagship products. We are owners and advocates for the underlying design elements, developer platforms, product components, and infrastructure at Google. These are the essential building blocks for excellent, safe, and coherent experiences for our users and drive the pace of innovation for every developer. We look across Google’s products to build central solutions, break down technical barriers and strengthen existing systems. As the Core team, we have a mandate and a unique opportunity to impact important technical decisions across the company.</p>
-<h3>Responsibilities</h3>
-<ul>
-<li>Write and maintain high-quality, readable, and well-tested code for on-device and server-side content safety applications.</li>
-<li>Develop and test validation gates, routing logic, and tool-use schemas to ensure deterministic and compliant execution within our autonomous safety agent pipelines.</li>
-<li>Contribute to implementing and maintaining both stateless and stateful agentic flows, supporting multi-step AI orchestration pipelines that interact with Application Programming Interfaces (APIs), databases, and external tools to automate safety decisions.</li>
-<li>Support the team in delivering on commitments to clients, ensuring robust and performant solutions to user protection challenges.</li>
-<li>Collaborate closely with mentors and executive engineers to learn Google’s development processes, design patterns, and system architectures.</li>
-</ul>
-<p>Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google's [Applicant and Candidate Privacy Policy](./privacy-policy).</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6ae63c6175c5258c69b825b9?src=adzuna]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Google (Data Centers)]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-10-31T19:07:13.441Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6ae63c61e9339cf985be40cd]]></id>
     <title><![CDATA[Strategic Negotiator, Global Network Acquisition]]></title>
     <description><![CDATA[<h3>About the job</h3>
@@ -36589,128 +36563,6 @@
     <date><![CDATA[2026-10-23T18:12:14.767Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6adba37d273232b97e713f17]]></id>
-    <title><![CDATA[Design Engineer - Electrical]]></title>
-    <description><![CDATA[<h3>Job Description</h3>
-<p><b>Your Work Shapes the World at Caterpillar Inc.</b></p>
-<p>When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.</p>
-<h3>Job Summary</h3>
-<p>Caterpillar is seeking a highly motivated and experienced Senior Design Engineer to join our team focused on genset applications. This role is critical in delivering high-performance, compliant, and manufacturable solutions. The ideal candidate will bring strong technical expertise in mechanical design and a collaborative mindset to work effectively with global teams.</p>
-<p><b>Role Definition</b></p>
-<p>Serve as a senior technical individual contributor with full accountability for the end‑to‑end electrical design and development of large (&gt;2 MW) diesel genset packages. Lead and deliver complex, high‑impact engineering initiatives, driving technical excellence from concept definition through detailed design, rigorous validation, and successful global production release.</p>
-<h3>Responsibilities</h3>
-<ul>
-<li>Lead design and development of electrical Genset package from concept selection through detailed design, ensuring compliance with Caterpillar’s engineering standards and regional regulations.</li>
-<li><b>Technical Expertise:</b>Provide strong technical leadership with deep knowledge of electrical engineering fundamentals, electrical architecture design using complex technical principles.</li>
-<li><b>Manufacturing</b>: In-depth knowledge of electrical designs (schematics, harnesses, control panels, switchgear layouts), component selection, electrical assembly practices, engineering drawings, manufacturing processes and package Bill of Material (BOM).</li>
-<li><b>Interface &amp; Cross Functional Collaboration:</b>Lead interface management across global cross functional engineering teams and suppliers to ensure holistic electrical package fitment, system integration, and functional integrity throughout the product lifecycle.</li>
-<li><b>Design Optimization:</b>Apply engineering principles and analytical insights to optimize designs for manufacturability, performance, durability, cost effectiveness, and ease of assembly.</li>
-</ul>
-<p><b>Experience required</b></p>
-<ul>
-<li>As a Lead Engineer, you will directly conceive and provide practical product design applications using complex technical principles. Emphasis of this position is on creating concepts and directing the design and development of complex Electrical projects. Experience in Eplan, WSCAD, Creo, Creo Schematic, AutoCAD design tools, and Teamcenter is a must.</li>
-<li>Prepares concept, design, development, and feasibility studies of complex engineering projects. Prepares development plans and is responsible for meeting scheduled dates. Acts as the development team leader by interacting with plant/manufacturing locations and various engineering departments.</li>
-<li>Candidate will work with the Product Definition / Global Counterpart to understand the product requirements and collaborates within Engineering and other cross-functional teams to provide a solution that meets the form, fit and function. In doing so, the incumbent must have a sound knowledge on the electrical regulation and standards. Candidate will directly work with compliance and regulations team to ensure the product design meets the local regulations where the product will be destined to operate.</li>
-<li>Provide technical guidance to other engineers on product/project needs and to complete their portions of products project to ensure development schedules are met on time. Drive standardization, modular design and continuous improvement initiatives.</li>
-<li>Coordinate and oversee the creation of designs and models, analytical work, drawing packages, design guides, and other engineering-related documents as needed. Candidate must be able to articulate the Bill of Material changes to incorporate the new designs.</li>
-<li>Candidate is responsible for the Design Reviews of enclosure, main system, components, and sub-systems with the cross-functional teams at dedicated meetings and updating the concept or design as necessary to respond to customer specifications changes.</li>
-<li>Candidate must have good communication skills to work with the Global Cross functional teams, packagers and other channel partners to ensure the projects are delivered on time, meets quality and achieves cost targets.</li>
-<li>The applicant must also support Global Manufacturing facilities to address their queries on electrical design and resolve the quality issues in timely manner.</li>
-<li>Candidate to have sound knowledge on the Generator, Control Systems, Power Systems, AC/DC Distribution, Alternators, Breakers, etc. are preferred. Proven knowledge of different Electrical codes (CE, UL, NEC), FMEA development and experience with diesel and alternate fuels for engines and gensets are added advantages.</li>
-</ul>
-<h3>Required Qualifications</h3>
-<ul>
-<li>Requires a bachelor’s degree in electrical engineering / electrical &amp; Electronics Engineering with 5 years of relevant experience.</li>
-<li>Incumbent must be able to demonstrate the ability to gain a mastery of complex engineering and manufacturability concepts.</li>
-<li>Must have a good electrical aptitude with ability to develop product concepts. Requires strong leadership ability and good communications skills.</li>
-<li>Prior / Proven experience in containerized genset packaging industry.</li>
-</ul>
-<p><b>_Skill Descriptors_</b></p>
-<p><b>Analytical Thinking</b>: Knowledge of techniques and tools that promote effective analysis; ability to determine the root cause of organizational problems and create alternative solutions that resolve these problems.</p>
-<p>Level Extensive Experience:</p>
-<ul>
-<li>Seeks discrepancies and inconsistencies in available information; explains variances.</li>
-<li>Organizes and prioritizes the sequence of steps to be taken to remedy the situation.</li>
-<li>Identifies many possible causes for a problem based on prior experience and current research.</li>
-<li>Quantifies the costs, benefits, risks and chances for success before recommending a course of action.</li>
-<li>Approaches a complex problem by breaking it down into its component parts.</li>
-<li>Chooses among a diverse set of analytical tools according to the nature of the situation.</li>
-</ul>
-<p><b>Effective Communications</b>: Understanding of effective communication concepts, tools and techniques; ability to effectively transmit, receive, and accurately interpret ideas, information, and needs through the application of appropriate communication behaviors.</p>
-<p>Level Extensive Experience:</p>
-<ul>
-<li>Reviews others' writing or presentations and provides feedback and coaching.</li>
-<li>Adapts documents and presentations for the intended audience.</li>
-<li>Demonstrates both empathy and assertiveness when communicating a need or defending a position.</li>
-<li>Communicates well downward, upward, and outward.</li>
-<li>Employs appropriate methods of persuasion when soliciting agreement.</li>
-<li>Maintains focus on the topic at hand.</li>
-</ul>
-<p><b>Managing Multiple Priorities</b>: Knowledge of effective self-management practices; ability to manage multiple concurrent objectives, projects, groups, or activities, making effective judgments as to prioritizing and time allocation.</p>
-<p>Level Extensive Experience:</p>
-<ul>
-<li>Clarifies and handles multiple concurrent and diverse activities.</li>
-<li>Shifts focus among several efforts as required by changing priorities.</li>
-<li>Addresses potential conflicts that impact current delivery commitments.</li>
-<li>Works with or leads others to re-prioritize work and reschedule commitments as necessary.</li>
-<li>Responds to shifting priorities while maintaining progress of regularly scheduled work.</li>
-<li>Demonstrates an expectation that there will be ongoing shifts in demands and priorities.</li>
-</ul>
-<p><b>Technical Excellence</b>: Knowledge of a given technology and various application methods; ability to develop and provide solutions to significant technical challenges.</p>
-<p>Level Extensive Experience:</p>
-<ul>
-<li>Advises others on the assessment and provision of all technical solutions.</li>
-<li>Engages appropriate subject matter resources to effectively resolve technical issues.</li>
-<li>Mentors others to enhance their technical competence and its application to achieve more effective technical solutions.</li>
-<li>Coaches others in promoting, defining, analyzing, and providing superior technical solutions to business problems.</li>
-<li>Provides effective solutions to moderate technical challenges through strong technical competence, effectively examining implications of events and issues.</li>
-<li>Assumes accountability for personal technical performance and holds others responsible for theirs.</li>
-</ul>
-<p><b>Computer-Aided Design &amp; Engineering</b>: Knowledge of tools and techniques of specialized graphics programs; ability to produce, analyze, simulate and test product design drafts.</p>
-<p>Level Extensive Experience:</p>
-<ul>
-<li>Coaches others on orthographic, isometric and axonometric projections.</li>
-<li>Presents complex products and systems graphically.</li>
-<li>Performs manipulations on design objects, such as changing projections and managing drawing layers.</li>
-<li>Directs the matrix computations performed to transform objects in coordinate space.</li>
-<li>Consults on benefits and drawbacks of top-down design vs. bottom-up design.</li>
-<li>Compares and contrasts uses of bird's-eye views and worm's-eye views.</li>
-</ul>
-<p><b>Product Design - MFG</b>: Knowledge of processes, approaches, tools and techniques of product design; ability to convert customer and market requirements into product design.</p>
-<p>Level Extensive Experience:</p>
-<ul>
-<li>Develops improvement plans for senior management and evaluates the outcome of the design against the functionality.</li>
-<li>Advises others on the development of multiple products and their functionality.</li>
-<li>Trains others on advanced tools and approaches of product design.</li>
-<li>Monitors the processes and procedures of a complex product design to ensure functional requirements are met.</li>
-<li>Evaluates feedback from customers and consults on functional weaknesses.</li>
-<li>Controls design and development costs of a proposed product through effective resource coordination.</li>
-</ul>
-<p><b>Product Design and Developmen</b>t: Knowledge of product features; ability to design, build, and develop a new product, technology, or service from concept through to production.</p>
-<p>Level Extensive Experience:</p>
-<ul>
-<li>Develops organizational standards and processes in order to maximize complex product services' efficiency and effectiveness.</li>
-<li>Creates and introduces new techniques that expedite or simplify the development process.</li>
-<li>Supervises the management of multiple and diverse types of products or services.</li>
-<li>Develops proof-of-concept exercises to prove or disprove validity of proposed products.</li>
-<li>Advises on the appropriate solutions to complex product design and development problems.</li>
-<li>Designs working prototypes of a variety of proposed products or services.</li>
-</ul>
-<p>This Job Description is intended as a general guide to the job duties for this position and is intended for the purpose of establishing the specific salary grade. It is not designed to contain or be interpreted as an exhaustive summary of all responsibilities, duties and effort required of employees assigned to this job. At the discretion of management, this description may be changed at any time to address the evolving needs of the organization.</p>
-<p>Additional information: This job required 5days working from office.</p>
-<p><b>Posting Dates:</b></p>
-<p>October 23, 2026 - November 3, 2026 Caterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6adba37d273232b97e713f17?src=adzuna]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Caterpillar]]></company>
-    <category>23</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-10-23T18:12:13.735Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6adba2fed0d735863fb74ffe]]></id>
     <title><![CDATA[Senior Vice President-Corporate Finance]]></title>
     <description><![CDATA[<h3>Job Description</h3>
@@ -41855,159 +41707,6 @@
     <date><![CDATA[2026-10-22T18:40:12.254Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6ada588bdfac6740d2d43928]]></id>
-    <title><![CDATA[Finance Analyst Business Unit(Treasury)]]></title>
-    <description><![CDATA[<h3>Job Description</h3>
-<p><b>Your Work Shapes the World at Caterpillar Inc.</b></p>
-<p>When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.</p>
-<p><b>Your Impact Shapes the World at Caterpillar Inc</b></p>
-<p>When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.</p>
-<p><b>About Caterpillar</b></p>
-<p>Caterpillar Inc. is the world’s leading manufacturer of construction and mining equipment, off-highway diesel and natural gas engines, industrial gas turbines and diesel-electric locomotives.</p>
-<p>For nearly 100 years, we’ve been helping customers build a better, more sustainable world and are committed and contributing to a reduced-carbon future. Our innovative products and services, backed by our global dealer network, provide exceptional value that helps customers succeed.</p>
-<h3>Job Summary</h3>
-<p>We are seeking a skilled <b>Finance Analyst Business Unit(Treasury</b>)<b>_to join our Treasury Tower Operations -Global finance Services Division.</b></p>
-<p>The incumbent would play a key role within the Treasury team and support the Center of Excellence.</p>
-<p>The preference for this role is to be based out of <b>Bangalore, KA-India</b>and is 5-day work from Office</p>
-<h3>What you will do</h3>
-<ul>
-<li>To independently perform Treasury functions that deal with financial analysis issues of medium complexity, which support business processes and provide further experience to be promoted to positions of greater responsibility.</li>
-<li>From the outset, the Finance Analyst in a Treasury Center of Excellence is expected to be a contributing performer, using knowledge of finance and experience gained from previous positions to support Treasury processes &amp; tools utilizing analysis techniques.</li>
-<li>Ability to work in night shifts to support Global operations.</li>
-<li>Perform Treasury operation functions such as Payments, running data, extracting report, reconciliation, FX support, and month end closing activities.</li>
-<li>Participate in the improvement ideas and projects.</li>
-<li>The Finance Analyst will be exposed to a variety of Finance &amp; Treasury functions and will:</li>
-</ul>
-<ul>
-<li>Develop an expanded understanding of Caterpillar’s business and finance practices and procedures.</li>
-<li>Accomplish a high level of output with a broad range of basic analysis of Treasury Operations</li>
-<li>Advise employees and entry level finance professionals.</li>
-<li>Generate reports and provide commentary.</li>
-<li>The Finance Analyst in a Treasury COE identifies relevant function-related data, provides feedback, and influences decisions.</li>
-<li>Typically, decisions will impact medium risk issues.</li>
-<li>The Finance Analyst at a Treasury COE will be responsible for making front-line decisions within defined areas of responsibility.</li>
-<li>Work will be directed by a Treasury Supervisor/Manager, but this position does not require close supervision to be effective.</li>
-<li>Finance responsibilities are of medium complexity such as, Cash management activities, credit management, financial statement analysis, reconciliations, analysis of markets, reporting, recommending solutions to basic business issues.</li>
-<li>The Finance Analyst at a Treasury COE demonstrates knowledge and ability to independently resolve issues by following guidelines or previously used effective solutions.</li>
-<li>They are highly motivated and demonstrate good communication skills and have an expanded knowledge of Caterpillar’s businesses, products, suppliers, customers, and policies.</li>
-<li>This position manages the completion of its own work assignments and coordinates work with others.</li>
-</ul>
-<p><b>What you will have</b></p>
-<ul>
-<li>Strong business acumen with a high degree of process and functional knowledge of end-to-end Treasury processes, finance transformation, global business services</li>
-<li>Strong communication skills to effectively collaborate with multiple Business Units and teams across the globe.</li>
-<li>Experience supporting Cash Management processes in a shared services environment preferred.</li>
-<li>Strategic mindset, action-oriented, drive for continuous improvement, ability to manage change and embrace disruption.</li>
-<li>Ability to work with multiple teams and stakeholder groups to drive outcomes.</li>
-<li>Incumbent must demonstrate initiative, leadership, excellent analytical skills, problem solving, good judgment and superior communication skills. Highest level of integrity with attention to detail</li>
-<li>Knowledge of the decision-making process and associated tools and techniques; ability to accurately analyse situations and reach productive decisions based on informed judgment</li>
-<li>Microsoft Office365: strong knowledge of main applications (Excel, PowerPoint, Outlook, Teams)</li>
-<li>Skills in Power BI, Power Automate, and AI-driven tools for data analysis, reporting, and process automation.</li>
-<li><b>Shift Timing-US shift-06:00PM-03:00AM. Flexibility to work in US /EMEA Shift (01:00 10:00pm IST) hours if required.</b></li>
-<li><b>This position requires candidate to work a 5-day -a -week schedule in the Office.</b></li>
-</ul>
-<ul>
-<li>Requires a college degree in finance, economics, business administration related field, or equivalent experience in the areas of foreign exchange, commodity management, economics, cash management, banking, financial markets, or funding.</li>
-<li>Five to Seven years of progressively responsible job-related experience is typically required.</li>
-<li>Requires initiative, leadership, and ability to communicate effectively Incumbents are generally exposed to several areas of finance/treasury before promotion to this position.</li>
-<li>Other: Moderate travel may be required (between 0% to 5% of working time)</li>
-</ul>
-<p><b>Top Candidates will also have:</b> Prior experience in:</p>
-<ul>
-<li>Treasury management (Trax/Quantum/Kyriba)</li>
-<li>Cash management.</li>
-<li>Working in a Shared Service environment</li>
-</ul>
-<p><b>Skills desired:</b></p>
-<p><b>Accuracy and Attention to Detail</b>: Understanding the necessity and value of accuracy; ability to complete tasks with high levels of precision. Level Basic Understanding:</p>
-<ul>
-<li>Explains the importance of accuracy in own function or unit.</li>
-<li>Identifies tasks or outputs that require accuracy and detail-level attention.</li>
-<li>Identifies the procedures for making sure that results are mistake-free.</li>
-<li>Describes consequences of errors within own unit or function.</li>
-</ul>
-<p><b>Communicating Complex Concepts</b>: Knowledge of effective presentation tools and techniques to ensure clear understanding; ability to use summarization and simplification techniques to explain complex technical concepts in simple, clear language appropriate to the audience. Level Basic Understanding:</p>
-<ul>
-<li>Separates essential facts from peripheral or supporting facts in a body of information.</li>
-<li>Explains the value of analogies or comparisons in presenting new information and ideas.</li>
-<li>Differentiates concepts from technical detail.</li>
-<li>Contrasts industry jargon with standard language.</li>
-</ul>
-<p><b>Problem Solving:</b> Knowledge of approaches, tools, techniques for recognizing, anticipating, and resolving organizational, operational or process problems; ability to apply knowledge of problem solving appropriately to diverse situations. Level Extensive Experience:</p>
-<ul>
-<li>Ensures capture of lessons to be learned from a problem-solving effort.</li>
-<li>Organizes potential problem solvers and leads problem resolution efforts.</li>
-<li>Uses varying problem-solving approaches and techniques as appropriate.</li>
-<li>Contributes to standard practices for problem-solving approaches, tools, and processes.</li>
-<li>Analyzes and synthesizes information and devises alternative resolution strategies.</li>
-<li>Develops successful resolutions to critical or wide-impact problems.</li>
-</ul>
-<p><b>Relationship Management:</b> Knowledge of relationship management techniques; ability to establish and maintain healthy working relationships with clients, vendors, and peers. Level Basic Understanding:</p>
-<ul>
-<li>Provides examples of the characteristics of effective business relationships.</li>
-<li>Identifies key business relationships in own organization.</li>
-<li>Describes the nature of a productive business relationship.</li>
-<li>Explains the benefits of building business partnerships.</li>
-</ul>
-<p><b>Planning and Organizing</b>: Knowledge of the process of planning and arranging tasks and resources; ability to plan and organize both time and resources to get things completed while structuring and maintaining work in a systematic and highly methodical way. Level Working Knowledge:</p>
-<ul>
-<li>Raises awareness of potential bottlenecks and disruptions to the schedule.</li>
-<li>Breaks tasks into manageable steps that can be incorporated into a personal work plan.</li>
-<li>Escalates concerns over competing or conflicting priorities.</li>
-<li>Monitors progress continuously and adjusts tactics for handling situations on a case by case basis.</li>
-<li>Creates action plans that ensure the accomplishment of responsibilities.</li>
-</ul>
-<p><b>Financial Markets:</b> Knowledge of the products, types, competitors, customer base, major issues and regulatory considerations in the financial markets; ability to apply financial market knowledge to various business environments. Level Basic Understanding:</p>
-<ul>
-<li>Explains the differences between markets (stock market, bond market, derivatives market, etc.).</li>
-<li>Compiles a list of major professional publications and associations related to financial markets.</li>
-<li>Names key market players, institutions and participants and explains their roles in the financial markets.</li>
-<li>Explains the relationship between the national economy and financial markets.</li>
-</ul>
-<p><b>Financial Analysis:</b> Knowledge of tools and approaches of financial analysis; ability to read, interpret and draw accurate conclusions from financial and numerical material. Level Working Knowledge:</p>
-<ul>
-<li>Applies principles used to evaluate the economics of investment decisions.</li>
-<li>Interprets major types of financial statements issued by the organization.</li>
-<li>Utilizes basic qualitative and quantitative tools and techniques with proficiency.</li>
-<li>Works with a specific financial analysis tool set.</li>
-<li>Implements valid financial analysis aligned with key criteria.</li>
-</ul>
-<p><b>What you will get:</b></p>
-<ul>
-<li>Work Life Harmony</li>
-<li>Earned and medical leave.</li>
-<li>Relocation assistance</li>
-</ul>
-<p><b>Holistic Development</b></p>
-<ul>
-<li>Personal and professional development through Caterpillar ‘s employee resource groups across the globe</li>
-<li>Career developments opportunities with global prospects</li>
-</ul>
-<p><b>Health and Wellness</b></p>
-<ul>
-<li>Medical coverage -Medical, life and personal accident coverage</li>
-<li>Employee mental wellness assistance program</li>
-</ul>
-<p><b>Financial Wellness</b></p>
-<ul>
-<li>Employee investment plan</li>
-<li>Pay for performance -Annual incentive Bonus plan.</li>
-</ul>
-<p><b>Additional Information:</b></p>
-<p>Caterpillar is not currently hiring individuals for this position who now or in the future require sponsorship for employment visa status; however, as a global company, Caterpillar offers many job opportunities outside of the U.S. which can be found through our employment website at [www.caterpillar.com/careers](http://www.caterpillar.com/careers)</p>
-<p>This position requires working onsite five days a week.Visa Sponsorship is not available for this position. <b>Posting Dates:</b></p>
-<p>Caterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6ada588bdfac6740d2d43928?src=adzuna]]></url>
-    <location><![CDATA[Bangalore, Karnataka]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Caterpillar]]></company>
-    <category>1</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-10-22T18:40:11.772Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6ada587c4d9c4ad491b9286e]]></id>
     <title><![CDATA[Accountant (Invoice To Cash)]]></title>
     <description><![CDATA[<p>When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.</p>
@@ -46246,72 +45945,6 @@
     <contract_type>contract</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-10-21T18:14:52.639Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6ad9010d43823c80d049507c]]></id>
-    <title><![CDATA[Senior Engineer-Design]]></title>
-    <description><![CDATA[<h3>Job Description</h3>
-<p><b>Your Work Shapes the World at Caterpillar Inc.</b></p>
-<p>When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.</p>
-<p><b>Senior Design Engineer</b></p>
-<p>As a Senior Design Engineer for the Drivetrain Systems Team of Building Construction Products (BCP), you will be responsible for selection, design, integration, and improvement of transmissions, axles, and driveshafts for New Product Introduction (NPI) programs as well as supporting resolution of NPI and Continuous Process Improvement (CPI) issues. Other responsibilities will include component design, project management, systems integration, performance analysis, cost evaluation, and collaboration with suppliers, product groups, internal engineering experts, and the global strategic sourcing team.</p>
-<p><b>Job Duties / Responsibilities may include, but are not limited to:</b></p>
-<ul>
-<li>New product design and development including project planning, part design, systems integration, procurement of test bed and prototype iron, field follow of pilot machines, and production implementation.</li>
-<li>Design and select drivetrains based on performance, efficiency, fit, total cost of ownership and R&amp;D timeline.</li>
-<li>Provide technical leadership to define and validate drivetrain solutions for NPI, CPI and NTI projects.</li>
-<li>Technical support to the manufacturing teams at BCP facilities worldwide.</li>
-<li>Resolution and support of CPI issues.</li>
-<li>Interface with suppliers to improve quality while developing effective working relationships.</li>
-<li>Collaborate with internal process partners on technical, commercial, and program issues.</li>
-<li>Support cost reduction efforts with emphasis on value adjusted cost effectiveness.</li>
-</ul>
-<h3>Required Qualifications</h3>
-<ul>
-<li>Engineering degree or related experience with demonstrated competency.</li>
-<li>Demonstrated and relevant product development experience in machine or system area</li>
-<li>Strong Communication skills.</li>
-<li>Ability to self-direct without onsite supervision</li>
-<li>Ability to manage multiple projects concurrently and effectively prioritize work.</li>
-<li>Demonstrated ability to work effectively with internal and external process partners.</li>
-<li>Project Management experience</li>
-</ul>
-<p><b>Desired Qualifications</b></p>
-<ul>
-<li>Proficiency in Pro/Engineer or CREO.</li>
-<li>Knowledge of systems and tools including but not limited to CPI, HVC, PRWB, RWA, DATK, FMEA, APQP, BJA, Dynasty, and data acquisition.</li>
-<li>Supplier development and quality improvement experience.</li>
-<li>In depth knowledge of drivetrain industry including understanding of factors that influence cost and quality such as design, manufacturing techniques, sourcing, and assembly processes.</li>
-<li>Drivetrain component design, performance analysis, and/or validation.</li>
-<li>Machine systems integration, performance, or controls experience.</li>
-<li>Strong analytical skills.</li>
-<li>Emphasis on initiative and self-starting tasks.</li>
-</ul>
-<p><b>CATERPILLAR</b></p>
-<p>Caterpillar is a world leader in construction and mining equipment—creating innovative, cutting-edge products and services that help our customers build the world around us. With that level of impact comes the platform to care for the world, we work in. That’s why we lead sustainable green initiatives to preserve the environment, help reduce poverty with the Caterpillar Foundation and stay involved in the communities we help build.</p>
-<p><b>What will Caterpillar do for you?</b></p>
-<p>From day one, you’re set up to thrive at Caterpillar: helpful training, relatable mentors, global experience, competitive salary package, work-life balance and the growth opportunities you expect with a Fortune 100 company. You power is our success and we are committed to empowering yours. After all, when your work can impact the entire world, it’s important to do work that matters.</p>
-<p><b>Job Title:</b> Senior Design Engineer</p>
-<h3>Salary</h3>
-<p><b>Contract:</b>Permanent</p>
-<h3>Benefits</h3>
-<p><b>Location:</b> Thiravallur, India</p>
-<p><b>Hours:</b> Full Time</p>
-<p><b>Travel:</b> 10%-20%</p>
-<p><b>Relocation/Sponsorship:</b> Not supported with this role</p>
-<p><b>Closing Date:</b></p>
-<p><b>Job Reference:</b></p>
-<p>This position requires working onsite five days a week.Relocation is available for this position.Visa Sponsorship is not available for this position. <b>Posting Dates:</b></p>
-<p>October 21, 2026 - November 3, 2026 Caterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6ad9010d43823c80d049507c?src=adzuna]]></url>
-    <location><![CDATA[Thiravallur, India, Tamil Nadu]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Caterpillar]]></company>
-    <category>5</category>
-    <contract_type>contract</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-10-21T18:14:37.205Z]]></date>
   </job>
   <job>
     <id><![CDATA[6ad8fed7687539074271fc3f]]></id>
@@ -57205,44 +56838,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-10-15T22:11:47.244Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6ad14fa389c329098006e656]]></id>
-    <title><![CDATA[Cloud Sales Representative, Startups]]></title>
-    <description><![CDATA[<p>Trusted by more startups around the world, AWS makes the power of cloud computing accessible for all. We give founders everywhere access to the same technology that powers the world’s largest companies. With nearly 20 years of experience, gained from supporting hundreds of thousands of startups, the AWS Startups team helps founders prove that their world-changing ideas are possible, at any stage of growth, and any level of funding. This is why more startups, and over 80% of unicorns, choose to launch on AWS.</p>
-<p>AWS continues to rapidly grow and we seek a Cloud Sales Representative to earn trust and help drive growth with well-funded and high-potential startups. In this fast-moving business, the core responsibility is to ensure that startups and scaleups choose AWS as their cloud platform to transform and accelerate their business. We work backwards from the customer and partner with technical team members, business development, and stakeholders to lead scaled Go-to-Market strategies, accelerate adoption and drive customer success.</p>
-<p>The ideal candidate possesses strong sales acumen, knowledge of the startup ecosystem, and a passion for (and familiarity with) AI/ML. You will be working with startups building innovative solutions, so extensive collaboration with external contacts and internal teams will be key to build and execute on plans to meet and exceed sales quota. Your responsibilities will include driving revenue, crafting partnerships, accelerating innovation through service adoption, and ensuring these startups select AWS as their primary cloud provider.</p>
-<p>You will align closely with counterparts in business development, marketing, solution architecture and partner teams to lead execution of coordinated go-to-market strategies and sales plays. You will also work closely with business development teams who are driving strategic support, global co-programming, and portfolio engagement to help drive top-of-funnel customer acquisition and accelerate seller cycles in the field.</p>
-<p>Key job responsibilities Ensure customer success with emerging startups and scaleups Drive revenue and market share in a defined territory or industry vertical Accelerate customer adoption through well-developed sales engagements and successful GTM Strategy Meet or exceed revenue and goal targets Develop and execute against a comprehensive account/territory plan Create &amp; articulate compelling value propositions around AWS services Accelerate customer adoption by engaging Founders, CxO, Board of Directors and VC influencers Work with partners to extend reach &amp; drive adoption Develop long-term strategic relationships with key accounts</p>
-<p>About the team Diverse Experiences AWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.</p>
-<p>Why AWS? Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.</p>
-<p>Inclusive Team Culture AWS values curiosity and connection. Our employee-led and company-sponsored affinity groups promote inclusion and empower our people to take pride in what makes us unique. Our inclusion events foster stronger, more collaborative teams. Our continual innovation is fueled by the bold ideas, fresh perspectives, and passionate voices our teams bring to everything we do.</p>
-<p>Mentorship &amp; Career Growth We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.</p>
-<p>Work/Life Balance We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve.</p>
-<h3>Basic Qualifications</h3>
-<ul>
-<li>5+ years of technology-related sales, business development, or sales engineering/consulting experience</li>
-<li>Experience in technical sales for B2B or in solution-sales / technology-related environment</li>
-<li>Experience managing, analyzing and communicating results to senior leadership while working cross functionally across several teams</li>
-</ul>
-<h3>Preferred Qualifications</h3>
-<ul>
-<li>5+ years of Go-To-Market, Business Development, Sales, or Consulting experience</li>
-<li>Experience as a founder or executive focused on the digital marketing segment, or as a digital marketing practice leader or business unit owner</li>
-<li>Experience with sales CRM tools such as Salesforce or similar software</li>
-<li>Experience working in a fast-paced environment similar to a high-tech start-up</li>
-<li>Profound insights into the startup ecosystem, the main stakeholders and trends.</li>
-</ul>
-<p>Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit [https://amazon.jobs/content/en/how-we-hire/accommodations](https://amazon.jobs/content/en/how-we-hire/accommodations) for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6ad14fa389c329098006e656?src=adzuna]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Amazon Web Services]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-10-15T22:11:47.229Z]]></date>
   </job>
   <job>
     <id><![CDATA[6ad14cc3f0314a68578f6f00]]></id>
@@ -75699,147 +75294,6 @@
     <date><![CDATA[2026-10-08T18:24:05.140Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6ac7dd01cc4662ff977b0ac5]]></id>
-    <title><![CDATA[Manager Information Technology (SAP Security, SAP BTP, Archiving)]]></title>
-    <description><![CDATA[<h3>Job Description</h3>
-<p><b>Your Work Shapes the World at Caterpillar Inc.</b></p>
-<p>When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.</p>
-<h3>Job Summary</h3>
-<p>We are seeking an experienced <b>Manager Information Technology (SAP Security, SAP BTP, Archiving)</b>to join our <b>Design Eng Processes team - CAT IT Division.</b></p>
-<p><b>The preference for this role is to be based out of Bangalore – Caterpillar PSN</b></p>
-<p><b>This position requires candidate to work a 5-day -a -week schedule.</b></p>
-<p><b>Shift Timing: 01:00-10:00PM IST</b></p>
-<h3>Job Purpose</h3>
-<p>Your Work Shapes the World. Whether it be groundbreaking products, best in class solutions or creating a lifelong career, you can do the work that matters at Caterpillar. With a 95-year legacy of quality and innovation and 150 locations in countries around the world, your impact spans the globe.</p>
-<p>When you join Caterpillar, you are joining a team of makers, innovators, and doers. We are the people who roll up our sleeves and do the work to build a better world. We don’t just talk about progress and innovation. We make it happen. And we are proud of that because it helps our customers build and power the world we live in – the roads, hospitals, homes and infrastructure. Without a dedicated workforce Caterpillar could not effectively meet our customer’s needs. Join us.</p>
-<p>The Information Technology Manager is accountable for first-line support and the overall customer experience for the ERP Application Security team within Caterpillar IT. This role owns support service performance, strategic vendor management, and leadership of a global ERP Security organization supporting a diverse portfolio of FSA, non-FSA, and legacy ERP applications. This critical leadership position ensures end users have 24x7 access to a responsive, technology-forward support organization that delivers timely resolution while maintaining Caterpillar's commitments to security, risk management, and internal controls.</p>
-<p>In addition, this role will lead the establishment and maturation of enterprise support capabilities for SAP Business Technology Platform (BTP) and SAP Archiving solutions, expanding the organization's technical expertise and long-term support model.</p>
-<p><b>Job Duties:</b></p>
-<ul>
-<li>Own and drive all incidents, service tasks, problem tickets and system optimization for operations portfolio, ensuring delivery against commitments, SLAs, and outcomes.</li>
-<li>Establish, monitor, and continuously improve standard work; ensure progress, risks, and dependencies are communicated effectively to stakeholders and leadership.</li>
-<li>Manage and develop a multi-disciplinary organization delivering business and technical solutions, including process functionality, technical capability, and automation.</li>
-<li>Partner with business units and decision makers to support day-to-day operations, incident/problem resolution, and continuous service improvement.</li>
-<li>Implement and govern common operating procedures, controls, and metrics to strengthen quality, compliance, and operational resilience.</li>
-<li>Lead, mentor, and develop high-performing IT teams, foster a collaborative and results-oriented work environment.</li>
-<li>Execute multiple priorities &amp; business requirements. Develops solutions that best meet the needs of the enterprise, with options to meet differentiated business capabilities as needed.</li>
-<li>Develops &amp; manages IT budget for area of accountability.</li>
-<li>Delivers highly available, leading IT services through best-in-class service level management practices with the ability to flex with changing business demands.</li>
-</ul>
-<p><b>What You Will Have:</b></p>
-<ul>
-<li>Organizational Leadership: Knowledge of leadership concepts and ability to use strategies and skills to enlist others in setting, embracing and achieving objectives.</li>
-</ul>
-<ul>
-<li>In-depth functional and technical knowledge of ERP security including SAP GRC Access Control, Identity and Access Management (IAM) and role design</li>
-<li>undefined</li>
-<li>Knowledge of the software development life cycle (SDLC), change management, and ITIL practices.</li>
-</ul>
-<ul>
-<li>Gen AI Assisted Development or Support: Practical experience leveraging AI-assisted development tools (such as GitHub Copilot or automated agent workflows) to accelerate application development or support, cost or effort reduction, or support optimization. Demonstrated experience with AI tools</li>
-</ul>
-<ul>
-<li>Comprehensive knowledge of SOX, segregation of duties (SoD), and audit principles.</li>
-</ul>
-<ul>
-<li>Experience managing contracts and vendor relationships</li>
-<li>A Lean or Continuous Improvement background.</li>
-<li>An ability to translate between technical and business language, creating a bridge between the support organization and the Caterpillar business they serve.</li>
-<li>Experience as a leader in the IT space.</li>
-</ul>
-<p><b>Top Candidates Will Also Have:</b></p>
-<ul>
-<li>SAP Business Technology Platform (BTP) and SAP Archiving solution technical or functional experience</li>
-<li>Has the ability to lead, analyze and have a broader perspective on specific technology and related solutions. This requires a comprehensive understanding of application solutions, interfaces, security, data governance policies and procedures.</li>
-<li>Skilled in large scale application support and development</li>
-<li>Prior experience in driving innovation and automation</li>
-<li>Extensive experience in working with cross-functional teams, along with proven history of strong job-related result's</li>
-<li>Execute business objectives through collaboration and decisive action. Provide guidance to the team in resolving issues in a timely manner and lead technical teams with focus on innovation and continuous improvement.</li>
-<li>Lead and/or direct teams within or outside of discipline addressing complex problems. Experience in managing teams working across multiple locations working from satellite office location's</li>
-<li>Strong stakeholder management skills</li>
-</ul>
-<ul>
-<li>undefined</li>
-</ul>
-<p>**Additional Duties Perform other related duties as assigned to support organizational objectives. Education / Experience:**Requires a relevant computer science masters or graduate degree and 10 plus years of progressively complex Information Service experience including staff and supervisory assignments in Information Services and related areas. Requires general understanding of basic business operations including one or more of the following: general business processes, technical infrastructure, application development and support of major projects, and engineering functional applications. The incumbent must have ability to provide strategic direction for effectively managing staff, budgets, business plans, project plans and developing 2-5-year plans on Information Services. Requires ability to work with diversified departments along with effective oral and written communications skills. The incumbent must have a strong customer focus and business knowledge. The position also requires to work efficiently with integration partners, technology vendors, and managed service partners. <b>Additional Info:</b></p>
-<ul>
-<li>May require travel of up to 25%.</li>
-<li>This role requires 5 days onsite.</li>
-<li>Relocation is unavailable.</li>
-</ul>
-<p><b>Skill Descriptors</b>Business Acumen: Knowledge of business concepts, tools, and processes that are needed for making sound decisions in the context of the company's business; ability to apply this knowledge appropriately to diverse situations.<b>Level Basic Understanding:</b></p>
-<ul>
-<li>Works to understand the business priorities of internal and external clients.</li>
-<li>Describes profitability drivers and considerations.</li>
-<li>Describes desired or actual business results in measurable scales or terms.</li>
-<li>Explains how the organization makes money.<b>Information Technology Trends:</b>Knowledge of marketplace experience, developments and trends related to the organization's use of Information Technology (IT); ability to apply knowledge of IT appropriately to benefit the organization.</li>
-</ul>
-<p><b>Level Extensive Experience:</b></p>
-<ul>
-<li>Compares organization's technology practices to other organizations.</li>
-<li>Discusses organizational position in relation to technology-related trends.</li>
-<li>Cites examples of successful organization initiatives and underlying technologies.</li>
-<li>Presents alternative views of key technologies and their implications.</li>
-<li>Highlights organizational implications associated with major IT trends.</li>
-<li>Advises key lines of business on major advances in technology and implications**.</li>
-</ul>
-<p>Analytical Thinking:**Knowledge of techniques and tools that promote effective analysis; ability to determine the root cause of organizational problems and create alternative solutions that resolve these problems. <b>Level Extensive Experience:</b></p>
-<ul>
-<li>Seeks discrepancies and inconsistencies in available information; explains variances.</li>
-<li>Organizes and prioritizes the sequence of steps to be taken to remedy the situation.</li>
-<li>Identifies many possible causes for a problem based on prior experience and current research.</li>
-<li>Quantifies the costs, benefits, risks and chances for success before recommending a course of action.</li>
-<li>Approaches a complex problem by breaking it down into its component parts.</li>
-<li>Chooses among a diverse set of analytical tools according to the nature of the situation.<b>Talent Management:</b>Knowledge of the critical competencies required to achieve intended results; ability to generate consistent approaches for hiring, selection, retaining and leveraging talent across the organization.</li>
-</ul>
-<p><b>Level Working Knowledge:</b></p>
-<ul>
-<li>Recommends improvements to talent management initiatives based on analysis of data on their effectiveness.</li>
-<li>Maintains strong relationships with formal and informal mentors.</li>
-<li>Implements systems and methods for supporting talent management programs.</li>
-<li>Negotiates for key developmental experiences and transitional experiences.</li>
-<li>Introduces contacts from personal and professional networks to hiring managers.<b>Leadership:</b>Knowledge of leadership practices and processes; ability to use strategies and skills to enlist others in setting, embracing and achieving objectives while having a long-term perspective of the future state of things and how to get there.</li>
-</ul>
-<p><b>Level Extensive Experience:</b></p>
-<ul>
-<li>Translates vision into specific functional or departmental initiatives.</li>
-<li>Uses a normative decision model (with leadership styles and situational variables) to select style.</li>
-<li>Promotes efficacy through monitoring, coaching &amp; motivating subordinates, intervention, etc.</li>
-<li>Uses emotional contagion to affect the mood of group members, tone of group and group processes.</li>
-<li>Initiates structure: role clarification, setting standards, holding subordinates accountable, etc.</li>
-<li>Employs various group decision-making methods depending on the situation.<b>Vendor/Supplier Management:</b>Knowledge of external provider management processes and ability to effectively manage the business relationship with external providers (e.g. vendors, service providers, contractors, consultants and suppliers).</li>
-</ul>
-<p><b>Level Extensive Experience:</b></p>
-<ul>
-<li>Manages actual and perceived conflict of interest issues.</li>
-<li>Monitors and communicates vendor effectiveness, reliability and performance.</li>
-<li>Influences existing and new vendor relationships and the approved vendor list.</li>
-<li>Interprets documents detailing service provisions and financial arrangements.</li>
-<li>Explains case studies of effective and ineffective partnering relationships and lessons learned.</li>
-<li>Advises others on the issues and considerations for working with new vendors, suppliers or partners.<b>IT Service Management (ITSM):</b>Knowledge of Information Technology (IT) service; ability to manage IT services and oversee service operations.</li>
-</ul>
-<p><b>Level Expert:</b></p>
-<ul>
-<li>Oversees the establishment and use of best practices in IT service management.</li>
-<li>Leads in the development of information technology and personal technical skills.</li>
-<li>Promotes the use of standard procedures in each function of IT services.</li>
-<li>Creates criteria to measure professional services; ensures the quality of IT services.</li>
-<li>Forecasts technological industry trends and potential risks in IT service management.</li>
-<li>Provides insight into system optimization and development of process-focused IT services.</li>
-</ul>
-<p><b>Posting Dates:</b></p>
-<p>Caterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6ac7dd01cc4662ff977b0ac5?src=adzuna]]></url>
-    <location><![CDATA[Bangalore, Karnataka]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Caterpillar]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-10-08T18:12:17.597Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6ac7dcff1ece105f582b80b0]]></id>
     <title><![CDATA[Software Engineer (Business System Analyst)]]></title>
     <description><![CDATA[<h3>Job Description</h3>
@@ -76071,140 +75525,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-10-08T18:12:15.321Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6ac7dcef03bdd23a4e954cb4]]></id>
-    <title><![CDATA[Manager Information Technology (SAP Basis)]]></title>
-    <description><![CDATA[<h3>Job Description</h3>
-<p><b>Your Work Shapes the World at Caterpillar Inc.</b></p>
-<p>When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.</p>
-<h3>Job Summary</h3>
-<p>We are seeking an experienced <b>Manager Information Technoogy (SAP Basis)</b>to join our <b>Design Eng Processes team - CAT IT Division.</b></p>
-<p><b>The preference for this role is to be based out of Bangalore – Caterpillar PSN</b></p>
-<p><b>This position requires candidate to work a 5-day -a -week schedule.</b></p>
-<p><b>Shift Timing: 01:00-10:00PM IST</b></p>
-<p><b>Job Purpose</b>:</p>
-<p>Your Work Shapes the World. Whether it be groundbreaking products, best in class solutions or creating a lifelong career, you can do the work that matters at Caterpillar. With a 95-year legacy of quality and innovation and 150 locations in countries around the world, your impact spans the globe.</p>
-<p>When you join Caterpillar, you are joining a team of makers, innovators, and doers. We are the people who roll up our sleeves and do the work to build a better world. We don’t just talk about progress and innovation. We make it happen. And we are proud of that because it helps our customers build and power the world we live in – the roads, hospitals, homes and infrastructure. Without a dedicated workforce Caterpillar could not effectively meet our customer’s needs. Join us.</p>
-<p>The Information Technology Manager leads a global team of technical professionals responsible for stability, security, performance, compliance, continuous improvement of the organization's SAP &amp; QAD ecosystem and related enterprise platforms in alignment with business requirements. Accountabilities include SAP Basis administration, infrastructure support, incident and major issue management, technical escalations, vulnerability management, implementation of SAP Security Notes and Support Packages, backup and disaster recovery, system monitoring, automation, and operational excellence. The role also provides leadership for SAP ecosystem risk assessments, technical governance, platform modernization, upgrade and patching strategies, and the execution of SAP upgrades, enhancement packs, and technology refresh initiatives. The position is responsible for building organizational capabilities, establishing priorities, managing budgets and strategic vendor relationships, and serving as the primary technical leader for enterprise ERP infrastructure.</p>
-<p><b>Job Duties:</b></p>
-<ul>
-<li>Own and drive all incidents, service tasks, problem tickets and system optimization for operations portfolio, ensuring delivery against commitments, SLAs, and outcomes.</li>
-<li>Establish, monitor, and continuously improve standard work; ensure progress, risks, and dependencies are communicated effectively to stakeholders and leadership.</li>
-<li>Manage and develop a multi-disciplinary organization delivering business and technical solutions, including process functionality, technical capability, and automation.</li>
-<li>Partner with business units and decision makers to support day-to-day operations, incident/problem resolution, and continuous service improvement.</li>
-<li>Implement and govern common operating procedures, controls, and metrics to strengthen quality, compliance, and operational resilience.</li>
-<li>Lead, mentor, and develop high-performing IT teams, foster a collaborative and results-oriented work environment.</li>
-<li>Execute multiple priorities &amp; business requirements. Develops solutions that best meet the needs of the enterprise, with options to meet differentiated business capabilities as needed.</li>
-<li>Develops &amp; manages IT budget for area of accountability.</li>
-<li>Delivers highly available, leading IT services through best-in-class service level management practices with the ability to flex with changing business demands.</li>
-</ul>
-<p><b>What You Will Have:</b></p>
-<ul>
-<li><b>Organizational Leadership:</b>Knowledge of leadership concepts and ability to use strategies and skills to enlist others in setting, embracing and achieving objectives.</li>
-<li><b>Technical Leadership:</b>Leading global teams in enterprise application, infrastructure, or ERP support environments.</li>
-</ul>
-<ul>
-<li>Deep expertise across the SAP ecosystem, including SAP Basis, HANA, Security (GRC/IAM), Integration, Cloud technologies, and related infrastructure platforms.</li>
-</ul>
-<ul>
-<li><b>Gen AI Assisted Development or Support:</b> Practical experience leveraging AI-assisted development tools (such as GitHub Copilot or automated agent workflows) to accelerate application development or support, cost or effort reduction, or support optimization. Demonstrated experience with AI tools</li>
-</ul>
-<ul>
-<li>Experience managing contracts and vendor relationships</li>
-<li>A Lean or Continuous Improvement background.</li>
-<li>An ability to translate between technical and business language, creating a bridge between the support organization and the Caterpillar business they serve.</li>
-<li>Experience as a leader in the IT space.</li>
-</ul>
-<p><b>Top Candidates Will Also Have:</b></p>
-<ul>
-<li>Proven track record of leading SAP upgrades, support pack implementations, vulnerability remediation programs, disaster recovery planning, and platform modernization initiatives.</li>
-<li>Ability to establish and mature operating models, governance frameworks, service-level metrics, automation strategies, and continuous improvement programs that enhance customer experience while optimizing operational costs.</li>
-<li>Extensive experience in working with cross-functional teams, along with proven history of strong job-related results</li>
-<li>Execute business objectives through collaboration and decisive action. Provide guidance to the team in resolving issues in a timely manner and lead technical teams with focus on innovation and continuous improvement.</li>
-<li>Lead and/or direct teams within or outside of discipline addressing complex problems. Experience in managing teams working across multiple locations working from satellite office location's</li>
-<li>Strong stakeholder management skills</li>
-</ul>
-<p><b>People Leadership / Scope</b> Directly lead Technology Specialists, Information Systems Specialists, and application/technical/operations teams within the division; drive performance management, coaching, succession planning, and a culture of collaboration and accountability.</p>
-<p><b>Additional Duties</b> Perform other related duties as assigned to support organizational objectives.</p>
-<p><b>Education / Experience</b>: Requires a relevant computer science masters or graduate degree and 10 plus years of progressively complex Information Service experience including staff and supervisory assignments in Information Services and related areas. Requires general understanding of basic business operations including one or more of the following: general business processes, technical infrastructure, application development and support of major projects, and engineering functional applications. The incumbent must have ability to provide strategic direction for effectively managing staff, budgets, business plans, project plans and developing 2-5-year plans on Information Services. Requires ability to work with diversified departments along with effective oral and written communications skills. The incumbent must have a strong customer focus and business knowledge. The position also requires to work efficiently with integration partners, technology vendors, and managed service partners.</p>
-<p><b>Additional Info</b>:</p>
-<ul>
-<li>May require travel of up to 25%.</li>
-<li>This role requires 5 days onsite.</li>
-<li>Relocation is unavailable.</li>
-</ul>
-<p><b>Skill Descriptors</b>Business Acumen: Knowledge of business concepts, tools, and processes that are needed for making sound decisions in the context of the company's business; ability to apply this knowledge appropriately to diverse situations.<b>Level Basic Understanding:</b></p>
-<ul>
-<li>Works to understand the business priorities of internal and external clients.</li>
-<li>Describes profitability drivers and considerations.</li>
-<li>Describes desired or actual business results in measurable scales or terms.</li>
-<li>Explains how the organization makes money.<b>Information Technology Trends:</b>Knowledge of marketplace experience, developments and trends related to the organization's use of Information Technology (IT); ability to apply knowledge of IT appropriately to benefit the organization.</li>
-</ul>
-<p><b>Level Extensive Experience:</b></p>
-<ul>
-<li>Compares organization's technology practices to other organizations.</li>
-<li>Discusses organizational position in relation to technology-related trends.</li>
-<li>Cites examples of successful organization initiatives and underlying technologies.</li>
-<li>Presents alternative views of key technologies and their implications.</li>
-<li>Highlights organizational implications associated with major IT trends.</li>
-<li>Advises key lines of business on major advances in technology and implications**.</li>
-</ul>
-<p>Analytical Thinking:**Knowledge of techniques and tools that promote effective analysis; ability to determine the root cause of organizational problems and create alternative solutions that resolve these problems. <b>Level Extensive Experience:</b></p>
-<ul>
-<li>Seeks discrepancies and inconsistencies in available information; explains variances.</li>
-<li>Organizes and prioritizes the sequence of steps to be taken to remedy the situation.</li>
-<li>Identifies many possible causes for a problem based on prior experience and current research.</li>
-<li>Quantifies the costs, benefits, risks and chances for success before recommending a course of action.</li>
-<li>Approaches a complex problem by breaking it down into its component parts.</li>
-<li>Chooses among a diverse set of analytical tools according to the nature of the situation.<b>Talent Management:</b>Knowledge of the critical competencies required to achieve intended results; ability to generate consistent approaches for hiring, selection, retaining and leveraging talent across the organization.</li>
-</ul>
-<p><b>Level Working Knowledge:</b></p>
-<ul>
-<li>Recommends improvements to talent management initiatives based on analysis of data on their effectiveness.</li>
-<li>Maintains strong relationships with formal and informal mentors.</li>
-<li>Implements systems and methods for supporting talent management programs.</li>
-<li>Negotiates for key developmental experiences and transitional experiences.</li>
-<li>Introduces contacts from personal and professional networks to hiring managers.<b>Leadership:</b>Knowledge of leadership practices and processes; ability to use strategies and skills to enlist others in setting, embracing and achieving objectives while having a long-term perspective of the future state of things and how to get there.</li>
-</ul>
-<p><b>Level Extensive Experience:</b></p>
-<ul>
-<li>Translates vision into specific functional or departmental initiatives.</li>
-<li>Uses a normative decision model (with leadership styles and situational variables) to select style.</li>
-<li>Promotes efficacy through monitoring, coaching &amp; motivating subordinates, intervention, etc.</li>
-<li>Uses emotional contagion to affect the mood of group members, tone of group and group processes.</li>
-<li>Initiates structure: role clarification, setting standards, holding subordinates accountable, etc.</li>
-<li>Employs various group decision-making methods depending on the situation.<b>Vendor/Supplier Management:</b>Knowledge of external provider management processes and ability to effectively manage the business relationship with external providers (e.g. vendors, service providers, contractors, consultants and suppliers).</li>
-</ul>
-<p><b>Level Extensive Experience:</b></p>
-<ul>
-<li>Manages actual and perceived conflict of interest issues.</li>
-<li>Monitors and communicates vendor effectiveness, reliability and performance.</li>
-<li>Influences existing and new vendor relationships and the approved vendor list.</li>
-<li>Interprets documents detailing service provisions and financial arrangements.</li>
-<li>Explains case studies of effective and ineffective partnering relationships and lessons learned.</li>
-<li>Advises others on the issues and considerations for working with new vendors, suppliers or partners.<b>IT Service Management (ITSM):</b>Knowledge of Information Technology (IT) service; ability to manage IT services and oversee service operations.</li>
-</ul>
-<p><b>Level Expert:</b></p>
-<ul>
-<li>Oversees the establishment and use of best practices in IT service management.</li>
-<li>Leads in the development of information technology and personal technical skills.</li>
-<li>Promotes the use of standard procedures in each function of IT services.</li>
-<li>Creates criteria to measure professional services; ensures the quality of IT services.</li>
-<li>Forecasts technological industry trends and potential risks in IT service management.</li>
-<li>Provides insight into system optimization and development of process-focused IT services.</li>
-</ul>
-<p><b>Posting Dates:</b></p>
-<p>Caterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6ac7dcef03bdd23a4e954cb4?src=adzuna]]></url>
-    <location><![CDATA[Bangalore, Karnataka]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Caterpillar]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-10-08T18:11:59.231Z]]></date>
   </job>
   <job>
     <id><![CDATA[6ac7dcee39a1c0ad53649f67]]></id>
@@ -80075,59 +79395,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-10-07T18:11:55.854Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6ac68b6b83b3e9a271ea00d0]]></id>
-    <title><![CDATA[Trade Compliance Consultant]]></title>
-    <description><![CDATA[<h3>Job Description</h3>
-<p><b>Your Work Shapes the World at Caterpillar Inc.</b></p>
-<p>When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.</p>
-<p>At Caterpillar, trade compliance is more than meeting regulatory requirements - it is about enabling the business to move with confidence in a complex global environment. As part of the Trade Center of Excellence (TCOE) within Law, Security &amp; Public Policy, the Regional Trade Compliance Analyst will help turn trade requirements into practical solutions for Singapore and Australia.</p>
-<p>Working alongside world class compliance, legal, and business leaders, the successful candidate will act as a trusted business partner - strengthening controls, supporting strategic decisions, and embedding compliance into day-to-day operations.</p>
-<p>For a trade compliance professional looking to solve complex challenges and make a meaningful regional impact, this role offers the opportunity to help shape the future of trade compliance at Caterpillar.</p>
-<h3>What You Will Do</h3>
-<ul>
-<li><b>Risk assessment and mitigation:</b> Support customs and trade compliance risk assessments, identify potential gaps, and help implement appropriate mitigation actions.</li>
-<li><b>Compliance program support:</b> Assist in developing, implementing, and maintaining trade compliance policies, procedures, controls, and processes.</li>
-<li><b>Business partnership:</b> Work closely with business divisions, legal, and compliance teams to provide practical trade compliance guidance across the India region.</li>
-<li><b>Training and capability building:</b> Deliver training on applicable trade, customs, and regulatory requirements relevant to Caterpillar’s products, services, and technologies.</li>
-<li><b>Stakeholder communication:</b> Communicate risks, recommendations, progress, and outcomes clearly and effectively to relevant stakeholders.</li>
-</ul>
-<p><b>What You Have</b></p>
-<ul>
-<li><b>Trade and customs compliance:</b> Strong understanding of international trade regulations, customs processes, import/export controls, and compliance program requirements.</li>
-<li><b>Analytical judgment:</b> Ability to evaluate complex issues, identify root causes, assess risk, and recommend practical solutions.</li>
-<li><b>Problem solving:</b> Ability to resolve operational or compliance challenges and improve processes, controls, and ways of working.</li>
-<li><b>Stakeholder management:</b> Ability to build trusted relationships across business, legal, compliance, and external stakeholders.</li>
-<li><b>Communication and training:</b> Ability to explain regulatory requirements clearly, deliver effective training, and communicate recommendations across levels and functions.</li>
-</ul>
-<p><b>Top Candidate Will Also Have</b></p>
-<ul>
-<li>Demonstrated expertise in trade compliance, customs, import/export operations, or a related field.</li>
-<li>Experience supporting, developing, or managing compliance processes, controls, or procedures.</li>
-<li>Strong business judgment, intellectual curiosity, and ability to support leadership priorities.</li>
-</ul>
-<p><b>Additional Information</b></p>
-<ul>
-<li>This position requires <b>working onsite five days a week</b>.</li>
-</ul>
-<p><b>How We Support You (Employee Benefits)</b></p>
-<p>Our goal at Caterpillar is for you to have a rewarding career. Our teams are critical to the success of our customers who build a better world. Here you earn more than just wage, because we value your performance, we offer a total rewards package that provides day one benefits along with the potential of a variable bonus. Additional benefits include paid annual leave, flexi leave, medical and insurance. (prorated based upon hire date).</p>
-<p><b>Final Details</b></p>
-<p>Caterpillar is not currently hiring individuals for this position who now or in the future require sponsorship for employment visa status; however, as a global company, Caterpillar offers many job opportunities outside of Singapore which can be found through our employment website at [www.caterpillar.com/careers](http://www.caterpillar.com/careers).</p>
-<p><b>About Caterpillar</b></p>
-<p>Caterpillar Inc. is the world’s leading manufacturer of construction and mining equipment, off-highway diesel and natural gas engines, industrial gas turbines and diesel-electric locomotives. For 100 years, we’ve been helping customers build a better, more sustainable world and are committed and contributing to a reduced-carbon future. Our innovative products and services, backed by our global dealer network, provide exceptional value that helps customers succeed.</p>
-<p>This position requires working onsite five days a week.Visa Sponsorship is not available for this position. <b>Posting Dates:</b></p>
-<p>October 7, 2026 - October 12, 2026 Caterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6ac68b6b83b3e9a271ea00d0?src=adzuna]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Caterpillar]]></company>
-    <category>14</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-10-07T18:11:55.288Z]]></date>
   </job>
   <job>
     <id><![CDATA[6ac6894a9c5205e02f7fcfc5]]></id>
@@ -92264,43 +91531,6 @@
     <date><![CDATA[2026-09-30T21:57:06.926Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6abd8258fb01eb6c61d42de6]]></id>
-    <title><![CDATA[Senior Executive, Marketing Communications (A&P, Revenue) (Based in Singapore)]]></title>
-    <description><![CDATA[<h3>The Role</h3>
-<p>You will be responsible for maximizing revenue from the sales of atrium spaces, pushcarts, advertising spaces, rides and licenses in the mall in order to reach and exceed budgeted annual target for the different properties.</p>
-<h3><b>Job Responsibilities</b></h3>
-<ul>
-<li>Research and develop a list of potential exhibitors/vendors/tenant for each location that is in line with guidelines and mall’s image and branding.</li>
-<li>Tracking the space booking schedules and exhibitors to ensure maximum occupancy and revenue.</li>
-<li>Lead negotiations and managing of key exhibitors/ events.</li>
-<li>Meet with event organizers, government agencies etc. to co-ordinate large-scale events utilizing multiple spaces and promotional platforms in the mall to achieve revenue and footfall targets.</li>
-<li>Develop and maintain relationships with existing and potential tenants and exhibitors.</li>
-<li>Keep precise records of conversations with all clients, sponsors and exhibitors.</li>
-<li>Keep precise records of atrium bookings, revenue reports and forecast, license agreements, track monthly sales and formulate strategies to close any gaps.</li>
-<li>Deliver on target and maintain proper administration of paperwork and SOP at all times.</li>
-<li>Assist to develop sales strategy to achieve annual sales targets.</li>
-<li>Invoice sponsors and exhibitors once agreements are duly completed.</li>
-<li>Ensure compliance with internal audit.</li>
-<li>Professionally represent the mall at all times.</li>
-</ul>
-<h3>Job Requirements</h3>
-<ul>
-<li>You should possess a Marketing/Business Administration or equivalent degree/diploma, with minimum 4 years of experience in a similar role.</li>
-<li>You should be a team player, creative, meticulous, and possess excellent interpersonal and communication/presentation skills. You should possess pro-activeness and desire for more knowledge with a positive attitude, and, ability to multi-task as well as work independently in a fast pace environment with minimal supervision.</li>
-<li>The successful candidate will have a willingness to learn new software system.</li>
-<li>#LI-YT1</li>
-</ul>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6abd8258fb01eb6c61d42de6?src=adzuna]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Mapletree]]></company>
-    <category>11</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-30T21:42:48.398Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6abd81001a5ce80fe8d295bc]]></id>
     <title><![CDATA[Sr Solutions Architect, AWS Industries India - Strat Acc.]]></title>
     <description><![CDATA[<p>The AWS Industries team is committed to helping industry customers enable their digital transformation journeys. Our primary goal is to meet customers in their cloud journeys and work backwards from their industry-specific needs to transform their businesses and industries. Our team focuses on business outcomes and industry use cases on behalf of our customers, whether that is how we build products and solutions, how we sell, how we deliver, or how we partner.</p>
@@ -102334,30 +101564,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-26T20:24:28.254Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6ab812025910923848e64e58]]></id>
-    <title><![CDATA[Forward Deployed Engineer, GenAI]]></title>
-    <description><![CDATA[<h3>About the job</h3>
-<p>As a Generative Artificial Intelligence (GenAI) Forward Deployed Engineer (FDE) at Google Cloud, you are an embedded builder who bridges the gap between frontier AI products and production-grade reality within customers. Unlike traditional advisory roles, you will function as an innovator-builder, moving beyond high-level architecture to code, debug, and jointly ship bespoke agentic solutions directly within the customer’s environment. This role is designed for high-agency engineers with a founder’s mindset. You will address blockers to production including solving the integration complexities, data readiness issues, and state-management issues that prevent AI from reaching enterprise-grade maturity. By embedding with accounts, you will serve a dual purpose: providing white glove deployment of AI systems and acting as a critical feedback loop, transforming real-world field insights into Google Cloud’s future product roadmap.It's an exciting time to join Google Cloud’s Go-To-Market team, leading the AI revolution for businesses worldwide. You’ll excel by leveraging Google's brand credibility—a legacy built on inventing foundational technologies and proven at scale. We’ll provide you with the world's most advanced AI portfolio, including frontier Gemini models, and the complete Vertex AI platform, helping you to solve business problems. We’re a collaborative culture providing direct access to DeepMind's engineering and research minds, empowering you to solve customer challenges. Join us to be the catalyst for our mission, drive customer success, and define the new cloud era—the market is yours.</p>
-<h3>Responsibilities</h3>
-<ul>
-<li>Serve as a developer for AI applications, transitioning from rapid prototypes to production-grade agentic workflows (e.g., multi-agent systems, Model Context Protocol [MCP] servers) that drive measurable Return on Investment (ROI).</li>
-<li>Architect and code the connective tissue between Google’s AI products and customer's live infrastructure, including Application Programming Interfaces (APIs), legacy data silos, and security perimeters as part of an expert team.</li>
-<li>Build evaluation pipelines and observability frameworks to ensure agentic systems meet requirements for accuracy, safety, and latency.</li>
-<li>Identify repeatable field patterns and friction points in Google’s AI stack, converting them into reusable modules or formal product feature requests for the Engineering teams.</li>
-<li>Be able to co-build with customer engineering teams to instill Google-grade development best practices, ensuring long-term project success and high end-user adoption.</li>
-</ul>
-<p>Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google's [Applicant and Candidate Privacy Policy](./privacy-policy).</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6ab812025910923848e64e58?src=adzuna]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Google (Data Centers)]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-26T18:42:10.479Z]]></date>
   </job>
   <job>
     <id><![CDATA[6ab80f7ab39c751a307128b3]]></id>
@@ -234771,5 +233977,802 @@
     <contract_type>contract</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-08-28T19:21:02.839Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a91df63c02d1517152fe5d9]]></id>
+    <title><![CDATA[IT Data Analitics Specialist - Reporting]]></title>
+    <description><![CDATA[<h3>Job Description</h3>
+<p><b>Who are we?</b></p>
+<p>At Vertiv, we’re on a mission to empower the people that will power the future. From a simple swipe to life-changing medicines, from push notifications to generative AI. We design, manufacture, and service the products and solutions that keep the world connected. With $6.9 billion in sales, a strong customer base and global reach spanning nearly 70 countries, we are uniquely positioned to deliver greater value to our customers and create new opportunities for our people.</p>
+<p>We are currently seeking a <b>IT Data Analitics Specialist - Reporting</b> to join our dynamic team in Piove di Sacco (PD), Italy!</p>
+<p>This role is intended for a highly skilled <b>Senior Analytics &amp; Report Developer</b> with deep experience in Power BI, AWS QuickSight, Streamlit, strong mandatory SQL expertise, and modern data visualization practices.</p>
+<p>The ideal candidate will play a critical role in designing, developing, and optimizing analytical dashboards, interactive applications, and data products that support business decision-making across the organization.</p>
+<p>This role is central to our strategic journey from Power BI to AI-driven analytics, enabling broader Analytics capabilities alongside Power BI expertise for our relevant business use cases. <b>This position requires a strong blend of technical expertise, analytical thinking, data storytelling, and stakeholder management.</b></p>
+<p><b>What kind of work will you be doing?</b></p>
+<p>_Reporting &amp; Dashboard Development_</p>
+<ul>
+<li>Design, develop, and maintain advanced Power BI dashboards, reports, and datasets.</li>
+<li>Design, develop, and maintain AWS QuickSight dashboards, analyses, and datasets, leveraging the SPICE engine for high-performance analytics.</li>
+<li>Build interactive Streamlit applications to support advanced analytics and data-driven workflows.</li>
+<li>Translate business requirements into intuitive, visually compelling, and accurate reporting solutions.</li>
+<li>Optimize report performance, data models, measures, and queries for scalability and speed.</li>
+</ul>
+<p>_Data Modeling &amp; Integration_</p>
+<ul>
+<li>Develop efficient data models using best practices for semantic layers.</li>
+<li>Leverage mandatory strong SQL expertise to write complex queries, optimize performance, and ensure data accuracy across all integration layers.</li>
+<li>Integrate data from multiple sources (databases, APIs, Snowflake, AWS data services, etc.).</li>
+<li>Collaborate with Data Engineering teams to define and refine data structures enabling analytical consumption across both platforms.</li>
+</ul>
+<p>_Business Partnership_</p>
+<ul>
+<li>Partner with business users to understand needs, gather requirements, and translate them into technical solutions.</li>
+<li>Provide training, guidance, and best practices for self-service reporting.</li>
+<li>Present insights and analytical findings in clear, actionable terms to non-technical stakeholders.</li>
+<li>Support the organization's transition from traditional BI to AI-augmented analytics, identifying use cases where AI can enhance decision-making.</li>
+</ul>
+<p>_Governance, Quality &amp; Standards_</p>
+<ul>
+<li>Ensure adherence to data visualization standards, governance policies, and security protocols across environments.</li>
+<li>Implement version control, documentation, and lifecycle management for analytical assets.</li>
+<li>Proactively identify data issues and drive remediation initiatives with cross-functional teams.</li>
+</ul>
+<p>_Innovation &amp; Continuous Improvement_</p>
+<ul>
+<li>Evaluate and introduce new features in Power BI (Fabric, DAX advancements, etc.) and AWS QuickSight (ML Insights, QuickSight Q, Generative BI capabilities).</li>
+<li>Identify opportunities to automate manual reporting processes and leverage AI/ML for predictive and prescriptive analytics.</li>
+<li>Drive adoption of modern, scalable analytics patterns, supporting the company's PowerBI-to-AI transformation journey.</li>
+<li>Explore and implement generative AI capabilities within AWS QuickSight to enable natural language querying and automated insight generation for business users.</li>
+</ul>
+<p><b>What will make you successful?</b></p>
+<ul>
+<li>5+ years of experience in BI/report development, with proven expertise in Power BI.</li>
+<li>Hands-on experience with AWS QuickSight, including dashboard creation, dataset management, SPICE optimization, and analyses.</li>
+<li>Strong hands-on experience with Streamlit for building interactive Python-based applications.</li>
+<li>Expert-level knowledge of DAX, Power Query, data modeling, and visualization best practices.</li>
+<li>Strong SQL knowledge is mandatory — the candidate must demonstrate expert-level proficiency in writing complex queries, performance tuning, and working with enterprise data warehouses (e.g., Snowflake).</li>
+<li>Solid understanding of data governance, security, and report lifecycle management.</li>
+<li>Strong analytical and problem-solving skills with the ability to interpret complex datasets.</li>
+<li>Excellent communication skills and stakeholder management capabilities.</li>
+<li>Familiarity with cloud-based BI and AI/ML analytics platforms.</li>
+</ul>
+<h3>Nice to have</h3>
+<ul>
+<li>Experience with Python for data manipulation and integration with Streamlit.</li>
+<li>Knowledge of Microsoft Fabric ecosystems.</li>
+<li>AWS certifications (e.g., AWS Certified Data Analytics, AWS Certified Cloud Practitioner).</li>
+<li>Experience with AWS QuickSight Q (natural language querying) and ML Insights for automated anomaly detection and forecasting.</li>
+<li>Experience with generative AI tools and their application in business analytics.</li>
+<li>Experience working in agile environments and using CI/CD tools for BI assets.</li>
+<li>Background in enterprise reporting for Finance, Supply Chain, Commercial, or Operations.</li>
+</ul>
+<p><b>We are looking for someone who has:</b></p>
+<ul>
+<li>Strong sense of ownership and accountability.</li>
+<li>Ability to translate technical topics into business language.</li>
+<li>Attention to detail and passion for clean, intuitive design.</li>
+<li>Ability to manage multiple priorities and deliver high-quality output under tight timelines.</li>
+<li>Curiosity and enthusiasm for AI-driven innovation in analytics.</li>
+</ul>
+<p>If <b>YOU</b> are the person we are looking for, feel free to apply and let's start drafting your future career in a healthy and growing environment.</p>
+<p>The successful candidate will embrace Vertiv’s Core Principals &amp; Behaviors to help execute our Strategic Priorities.</p>
+<p><b>OUR CORE PRINCIPALS:</b> Safety. Integrity. Respect. Teamwork. Diversity &amp; Inclusion.</p>
+<h3>OUR STRATEGIC PRIORITIES</h3>
+<ul>
+<li>Customer Focus</li>
+<li>Operational Excellence</li>
+<li>High-Performance Culture</li>
+<li>Innovation</li>
+<li>Financial Strength</li>
+</ul>
+<h3>OUR BEHAVIORS</h3>
+<ul>
+<li>Own It</li>
+<li>Act With Urgency</li>
+<li>Foster a Customer-First Mindset</li>
+<li>Think Big and Execute</li>
+<li>Lead by Example</li>
+<li>Drive Continuous Improvement</li>
+<li>Learn and Seek Out Development</li>
+</ul>
+<p>The anticipated salary range for this role in Piove di Sacco (PD), Italy is between 43.000€ to 55.000€ gross per year (based on a full-time working week). Certain roles may be eligible for variable compensation and benefits. Where applicable, a comprehensive overview of the full benefits package and any additional compensation will be provided during the recruitment process in accordance with local legal requirements. Compensation is determined based on objective, gender-neutral criteria, including skills, experience, and job responsibilities.</p>
+<p>The applicable National Collective Bargaining Agreement (CCNL) for this role is Metalmeccanico Industria.</p>
+<p>#LI-FO1</p>
+<p>_Vertiv is an Equal Opportunity/Affirmative Action employer._</p>
+<p>We promote equal opportunities for all with respect to hiring, terms of employment, mobility, training, compensation, and occupational health, without discrimination as to age, race, color, religion, creed, sex, pregnancy status (including childbirth, breastfeeding, or related medical conditions), marital status, sexual orientation, gender identity / expression (including transgender status or sexual stereotypes), genetic information, citizenship status, national origin, protected veteran status, political affiliation, or disability.</p>
+<p>If you have a disability and are having difficulty accessing or using this website to apply for a position, you can request help by sending an email to [help.join@vertivco.com](mailto:help.join@vertivco.com)</p>
+<p>If you are interested in applying or learning more about this role, please visit the company’s career page located on Vertiv.com/Careers</p>
+<h3>About Us</h3>
+<p><b>The successful candidate will embrace Vertiv’s Core Principles &amp; Behaviors to help execute our Strategic Priorities.</b></p>
+<p><b>OUR CORE PRINCIPLES:</b> Safety. Integrity. Respect. Teamwork. Inclusion.</p>
+<h3>OUR STRATEGIC PRIORITIES</h3>
+<ul>
+<li>High-Performance Culture</li>
+<li>Customer Focus</li>
+<li>Operational Excellence</li>
+<li>Innovation</li>
+<li>Financial Strength</li>
+</ul>
+<h3>VERTIV BEHAVIORS</h3>
+<ul>
+<li>Own it</li>
+<li>Act with urgency</li>
+<li>Foster a customer-first mindset</li>
+<li>Think big and execute</li>
+<li>Lead by example</li>
+<li>Drive continuous improvement</li>
+<li>Learn and seek out development</li>
+<li>Promote transparent &amp; open communication</li>
+</ul>
+<p><b>About Vertiv</b></p>
+<p>Vertiv (NYSE: VRT) brings together hardware, software, analytics and ongoing services to enable its customers’ vital applications to run continuously, perform optimally and grow with their business needs. Vertiv solves the most important challenges facing today’s data centers, communication networks, and commercial and industrial facilities with a portfolio of power, cooling and IT infrastructure solutions and services that extend from the cloud to the edge of the network. Headquartered in Westerville, Ohio, USA, Vertiv employs around 34,000 people and does business in more than 130 countries. Visit Vertiv.com to learn more.</p>
+<p><b>Equal Opportunity Employer</b></p>
+<p>Vertiv is an Equal Opportunity/Affirmative Action employer. We promote equal opportunities for all with respect to hiring, terms of employment, mobility, training, compensation, and occupational health, without discrimination as to age, race, color, religion, creed, sex, pregnancy status (including childbirth, breastfeeding, or related medical conditions), marital status, sexual orientation, gender identity / expression (including transgender status or sexual stereotypes), genetic information, citizenship status, national origin, protected veteran status, political affiliation, or disability. If you have a disability and are having difficulty accessing or using this website to apply for a position, you can request help by sending an email to [help.join@vertiv.com](mailto:help.join@vertiv.com)</p>
+<h3>Job Info</h3>
+<ul>
+<li>Job Identification20279771</li>
+<li>Job CategoryData Analytics</li>
+<li>Posting Date08/27/2026, 10:45 AM</li>
+<li>LocationsTognana, Italy</li>
+</ul>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a91df63c02d1517152fe5d9?src=adzuna]]></url>
+    <location><![CDATA[Piove di Sacco, Veneto]]></location>
+    <country><![CDATA[SG]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Vertiv]]></company>
+    <category>2</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-28T19:20:03.856Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a91df34733935a615ce2c51]]></id>
+    <title><![CDATA[Project Manager Services Manager]]></title>
+    <description><![CDATA[<h3>Job Description</h3>
+<h3>Job Description</h3>
+<p><b>Experienced Project Management Professional for Data Center with Tier 04 I&amp;C Exp.</b></p>
+<p>Required a highly accomplished Project Manager, an Electrical Engineer with over 15 years of expertise in data center infrastructure and engineering, specialized in the execution and optimization of Tier 4 mission-critical facilities. Experienced in I&amp;C of PAC, CAC, and DG, Chiller, Electrical Panels, Liquid Cooling with a strong focus on implementing strategic project management frameworks to ensure seamless execution, regulatory compliance, and optimal resource utilization. With a comprehensive grasp of the full project lifecycle, from strategic planning and execution to commissioning with L1, L2, L3, L4, L5, ISAT Testing Experience is must. Should be conversant with execution in cost efficiency, risk mitigation, and uncompromising quality control and safety measures.</p>
+<p><b>Responsibilities: -</b></p>
+<p>•Spearheading the end-to-end execution of Tier 4 data center infrastructure projects, ensuring seamless design, construction, commissioning, and operations.</p>
+<p>•Managing critical facility components, including Advanced Modular Cooling (AMC), Precision Air Conditioning (PAC), Cold Aisle Containment, Comfort Air Conditioning (CAC), and Air-Cooled Water and Cold Chillers</p>
+<p>•Implementing best-in-class mission-critical facility management protocols to ensure 24/7 uptime, reliability, and energy efficiency.</p>
+<p>•Driving project risk management strategies, ensuring adherence to industry standards (TIA-942, Uptime Institute, ASHRAE guidelines, and ISO 9001/27001 compliance).</p>
+<p>•Leading cross-functional teams, vendor negotiations, and stakeholder coordination, ensuring seamless execution within scope, schedule, and budget constraints.</p>
+<p>•Enforcing rigorous health, safety, and environmental (HSE) standards, optimizing operational efficiency, sustainability, and regulatory compliance.</p>
+<p>Technical: -</p>
+<ul>
+<li>In-Depth knowledge of Electrical Engineering</li>
+<li>Provide On-the-Job training and on-site direction to associates for assigned projects</li>
+<li>Conduct field customer training for assigned projects as required</li>
+<li>Communicate with Technical Support on equipment issues</li>
+<li>integrating cutting-edge HVAC, electrical, and structural engineering solutions</li>
+</ul>
+<p><b>Safety (MUST): -</b></p>
+<ul>
+<li><b>Operate in a safe manner in accordance with published safety guidelines</b></li>
+<li><b>Must wear appropriate PPE as per company guidelines and accordance with job duties</b></li>
+<li><b>Report all work related accidents or injuries within 24 hours to the appropriate personnel</b></li>
+<li><b>Must be a role model to fellow associates with regards to safety by setting a positive example</b></li>
+<li><b>Point out potentially unsafe conditions to a customer or contractor, as necessary and based on extensive experience, with the authority to halt work on a project until conditions are corrected</b></li>
+</ul>
+<p>Administration: -</p>
+<ul>
+<li>Coordinate assigned project completion, customer training, and close-out</li>
+<li>Provide all commissioning reports in a final package to the customer</li>
+<li>Coordinate any additional training bought with the sales order</li>
+<li>Provide Time and Material quotes for customers or contractors for assigned projects, as necessary</li>
+<li>Coordinate subcontracted services and equipment rentals for assigned projects,</li>
+<li>Provide accurate and timely reporting in accordance with published guidelines</li>
+<li>Timecards, expense reports, ticket closure, forms etc.</li>
+</ul>
+<p>Customer Satisfaction: -</p>
+<ul>
+<li>Provide proper and adequate communication to internal and external customers</li>
+<li>Provide estimated time of arrival to the customer or contractor where applicable</li>
+<li>Coordinate and attend customer or contractor meetings as required</li>
+<li>Maintain customer satisfaction rates according to company guidelines</li>
+</ul>
+<p>Performance: -</p>
+<ul>
+<li>Excellent attention to detail, with the ability to work accurately in a busy and demanding environment.</li>
+<li>Complete all work in an efficient and timely manner</li>
+<li>Capable of making strong decisions, technical and commercial, under pressure</li>
+<li>Properly evaluate site and equipment for appropriate billing status</li>
+<li>Adhere to company dress code and safety regulations</li>
+<li>Understand and comply with company startup/escalation process and procedures</li>
+<li>In all aspects of job requirements, must lead by example, and conduct themselves in a higher standard.  Must act and perform as a role model to all field associates</li>
+<li>Maintain proper and adequate level of internal communications</li>
+<li>Ability to communicate with all levels within the organization: Managers, co-workers, Service Delivery Team, Sales, Plants, Application Engineering, Technical Support, electronic communications, et al.</li>
+<li>Conduct themselves in a high degree of professionalism, and of service delivery</li>
+<li>Ability to handle stressful situations and provide a calming effect to customer</li>
+<li>High level of diplomacy when interacting with internal and external customers</li>
+</ul>
+<p><b>Qualifications: -</b></p>
+<ul>
+<li>B.E./B. Tech Graduate of applicable University of Technology and fifteen years same and or similar work experience.</li>
+<li>Data Center Construction management experience, critical infrastructure expertise with Power and Colling equipment.</li>
+<li>Knowledge of construction, electrical and mechanical contracting.</li>
+<li>Knowledge of engineering, manufacturing processes, data center infrastructure and commissioning processes.</li>
+<li>Provide on-site customer consultation, must be able to present themselves as an expert in the field</li>
+<li>Expert analytical, problem-solving, and communication skills (verbal and written) required.</li>
+<li>Able to manage customer expectations during stressful situations</li>
+<li>A high degree of communication, organizational and management skills are required</li>
+<li>Valid driver’s license is required</li>
+<li>Must be able to read and interpret electrical line diagrams, drawings and blueprints</li>
+<li>Ability to summarize and report all work related tasks performed</li>
+<li>Ability to give technical assistance via the telephone to customers on a regular basis</li>
+<li>Independently evaluate, recognize, and recommend acceptable customer solutions based upon site evaluation.</li>
+<li>Recommend and direct activities at a customer site by leading technical activities of other technicians at a customer site</li>
+<li>Strong computer skills including editing, formatting and using templates in Microsoft Office, CAD,  use of Internet for standards/products/manufacturer research and operation of computer-controlled test equipment.</li>
+<li>Foster a Customer-First Mindset</li>
+</ul>
+<p><b>Time Travel Required: -</b></p>
+<ul>
+<li>30% travels in the Region as and when required</li>
+<li>Project Based Location duty place is to be acceptable</li>
+</ul>
+<h3>About Us</h3>
+<p><b>The successful candidate will embrace Vertiv’s Core Principles &amp; Behaviors to help execute our Strategic Priorities.</b></p>
+<p><b>OUR CORE PRINCIPLES:</b> Safety. Integrity. Respect. Teamwork. Inclusion.</p>
+<h3>OUR STRATEGIC PRIORITIES</h3>
+<ul>
+<li>High-Performance Culture</li>
+<li>Customer Focus</li>
+<li>Operational Excellence</li>
+<li>Innovation</li>
+<li>Financial Strength</li>
+</ul>
+<h3>VERTIV BEHAVIORS</h3>
+<ul>
+<li>Own it</li>
+<li>Act with urgency</li>
+<li>Foster a customer-first mindset</li>
+<li>Think big and execute</li>
+<li>Lead by example</li>
+<li>Drive continuous improvement</li>
+<li>Learn and seek out development</li>
+<li>Promote transparent &amp; open communication</li>
+</ul>
+<p><b>About Vertiv</b></p>
+<p>Vertiv (NYSE: VRT) brings together hardware, software, analytics and ongoing services to enable its customers’ vital applications to run continuously, perform optimally and grow with their business needs. Vertiv solves the most important challenges facing today’s data centers, communication networks, and commercial and industrial facilities with a portfolio of power, cooling and IT infrastructure solutions and services that extend from the cloud to the edge of the network. Headquartered in Westerville, Ohio, USA, Vertiv employs around 34,000 people and does business in more than 130 countries. Visit Vertiv.com to learn more.</p>
+<p><b>Equal Opportunity Employer</b></p>
+<p>Vertiv is an Equal Opportunity/Affirmative Action employer. We promote equal opportunities for all with respect to hiring, terms of employment, mobility, training, compensation, and occupational health, without discrimination as to age, race, color, religion, creed, sex, pregnancy status (including childbirth, breastfeeding, or related medical conditions), marital status, sexual orientation, gender identity / expression (including transgender status or sexual stereotypes), genetic information, citizenship status, national origin, protected veteran status, political affiliation, or disability. If you have a disability and are having difficulty accessing or using this website to apply for a position, you can request help by sending an email to [help.join@vertiv.com](mailto:help.join@vertiv.com)</p>
+<h3>Job Info</h3>
+<ul>
+<li>Job Identification20280210</li>
+<li>Job CategoryServices Project Mgmt.</li>
+<li>Posting Date08/28/2026, 01:45 AM</li>
+<li>LocationsChennai, India</li>
+</ul>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a91df34733935a615ce2c51?src=adzuna]]></url>
+    <location><![CDATA[Mumbai, Maharashtra]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Vertiv]]></company>
+    <category>12</category>
+    <contract_type>contract</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-28T19:19:16.639Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a91df09d5163ee796ad125b]]></id>
+    <title><![CDATA[Customer Relationship Specialist]]></title>
+    <description><![CDATA[<h3>Job Description</h3>
+<h3>JOB SUMMARY</h3>
+<p>The main function of this position is to ensure operational coverage and service coordination scheduling by reviewing, monitoring, and ensuring completion of all open work orders and service requests.  This includes assistance to the Manager, Customer Relationship Services and providing guidance and handling escalated scheduling / service issues.</p>
+<h3>RESPONSIBILITIES</h3>
+<ul>
+<li>Responsible for scheduling and dispatching all service events between Customer Engineers or Service Partners for an assigned territory.</li>
+<li>Be willing to lead by example – be accountable and dependable, maintain a positive attitude, inspire others to go the extra mile to take care of Customers (internal/external) and achieve Operational Key Results (OKR).</li>
+<li>Continuously monitor the scheduling efforts of the Regional scheduling team and report team statuses and action plans weekly to the Manager, Customer Relationship Services.</li>
+<li>Act as a coach/mentor when communicating or addressing performance issues with the team.</li>
+<li>Demonstrate the ability to remain calm and even-tempered during stressful situations.</li>
+<li>Close coordination with the Manager, Customer Relationship Services of any behavioral or operational related issues. Present recovery plan(s) with multiple options that will allow the Manager, Customer Relationship Services to make informed decisions.</li>
+<li>Actively seek and participate in continuous improvements initiatives that impact customer care and coordination of work.</li>
+<li>Assist the Manager, Customer Relationship Services in the implementation of new processes/policies and systems.</li>
+<li>Meet with scheduling team on a regular basis to review, coach and train on various Customer Service concerns and opportunities.</li>
+<li>Handle escalated scheduling issues within the region, including but not limited to sales inquiries and assisting Customer Success Management and Coordinated Services scheduling.</li>
+<li>Be available after hours to assist with escalations to meet customer/contract SLA (Service Level Agreement).</li>
+<li>Generate standard and custom reports to monitor workload.</li>
+<li>Proactively identify schedule risks and present options to resolve critical potential issues to the local team and Manager, Customer Relationship Services.</li>
+<li>Ensure all billable work is being scheduled and executed and tickets are closed out in a timely basis.</li>
+<li>Where practical, empower and direct the team to strategically schedule preventive maintenance visits to minimize/ cover costs for the company (take over Customer Engineer Scheduling or large account scheduling).</li>
+<li>Ensure accurate documentation of all scheduling correspondence in tickets.</li>
+<li>Maintain regional PTO schedule and ensure responsibilities are covered during absences.</li>
+<li>Ensure performance results in BetterWorks monthly.</li>
+<li>Provide content and assist Manager, Customer Relationship Services in quarterly BetterWorks one-on-one conversations related to job performance.</li>
+<li>Promote recognition and submit positive feedback in BetterWorks and to the Manager, Customer Relationship Services.</li>
+</ul>
+<p>Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee to perform this job.  Duties, responsibilities, and activities may change at any time with or without notice.</p>
+<h3>REQUIREMENTS</h3>
+<p><b>Minimum Qualifications:</b>(education, experience level, knowledge, skills, certifications).</p>
+<ul>
+<li>Bachelor’s degree in business administration OR High school education with 5 years minimum same or similar work experience.</li>
+<li>Minimum of 5 years customer service and coordination of service activities.</li>
+<li>Self-motivated and possess the ability to lead and direct a diverse team.</li>
+<li>Must be attentive, patient and strongly skilled in written and verbal communication; clear, professional, positive, and informative communication style.</li>
+<li>High-level competence in multitasking, time management, organization, critical and analytical thinking, problem solving, and the ability to influence others are required.</li>
+<li>Ability to thrive in a dynamic and collaborative environment and be comfortable with ambiguity.</li>
+<li>Adapt quickly to changing priorities and customer needs.</li>
+<li>Ability to persuade others in order to change undesirable behaviors and/or achieve the goals of the business.</li>
+<li>Must be proficient in the business tools used to perform the job and have extensive knowledge of the businesses processes, people, and products.</li>
+<li>Intermediate/advanced proficiency using Microsoft Excel software, including data analysis, pivot tables, etc.</li>
+</ul>
+<p><b>POSITIONS ELIGIBILITY REQUIREMENTS</b>(travel, location, etc.)</p>
+<ul>
+<li>Willing to work flexible hours, including before shift/after shift and weekends to support the business.</li>
+<li>Reports in office full-time Monday-Friday (Westerville, Ohio)</li>
+</ul>
+<h3>Job Info</h3>
+<ul>
+<li>Job Identification20280158</li>
+<li>Job CategoryService Support</li>
+<li>Posting Date08/28/2026, 08:37 AM</li>
+<li>LocationsWesterville, OH, United States</li>
+</ul>
+<p>-</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a91df09d5163ee796ad125b?src=adzuna]]></url>
+    <location><![CDATA[Singapore]]></location>
+    <country><![CDATA[SG]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Vertiv]]></company>
+    <category>11</category>
+    <contract_type>contract</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-28T19:18:33.877Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a91df09dfeb90d3db8df6d6]]></id>
+    <title><![CDATA[Regional Sales Manager, Channel]]></title>
+    <description><![CDATA[<h3>Job Description</h3>
+<h3>POSITION SUMMARY</h3>
+<p>The Regional Sales Manager, Channel is responsible for working with end users, partners, and local Vertiv offices in assigned territory to meet all goals and objectives.  Increase revenue via channel partners for edge solutions that include racks, rack power distribution, UPS systems, thermal solutions, Infrastructure Management Software, and Services. Work with our local Vertiv offices to engage and navigate all levels of an end user organization; with a focus on reaching executives, IT directors and decision makers for Data Center and Edge rollouts/deployments.  Develop go to market selling plans to include organizational structure, decision maker matrix, incumbent vendors, facility locations/potential, and partner ecosystem.  Identify and develop relationships with channel partners and end users to provide leadership towards the achievement of maximum profitability and growth in line with company vision and values. Establish plans and strategies to expand the customer base in the marketing area and contributes to the development of training and educational programs for clients and partners.</p>
+<h3>RESPONSIBILITIES</h3>
+<ul>
+<li>Develop, present, and execute on territory plan for market that ensures attainment of company goals and profitability.</li>
+<li>Initiate and coordinate development of action plans to penetrate verticals and new accounts.</li>
+<li>Develop and maintain sales by exploring and qualifying existing accounts.  (50% existing/50% new accounts)</li>
+<li>Work with local Vertiv offices and partners to maintain and manage pipeline in CRM</li>
+<li>Manage and lead Channel Account Managers at our local Vertiv offices.  (These CAMs are dotted lined to RSM)</li>
+<li>Participate in trade shows within assigned geographic region.</li>
+<li>Responsible for the performance and development of channel partners and local Vertiv offices.</li>
+<li>Maintains accurate records of all pricings, sales and activity reports.</li>
+<li>Controls expenses to meet budget guidelines.</li>
+<li>Provide accurate feedback to management on wins/losses and trends.</li>
+<li>Coordinate and lead activities with dedicated Inside Sales Rep to maximize our ability to close on new business opportunities.</li>
+<li>Consult with management in formulating a sales and marketing strategy.</li>
+<li>Interface with local, regional, and national distribution accounts management and sales.</li>
+<li>Determine and oversee local tradeshow selections, scheduling, and coverage.</li>
+<li>Customer Satisfaction:  Ensure a high caliber customer response and satisfaction</li>
+<li>Train and mentor less experienced RSMs as needed.</li>
+</ul>
+<h3>MINIMUM QUALIFICATIONS</h3>
+<ul>
+<li>Minimum of 8 years’ sales experience</li>
+<li>Strong communication skills in written, verbal, and visual media.</li>
+<li>Strong understanding of customer and market dynamics and requirements.</li>
+<li>Willingness to travel and work in a global team of professionals.</li>
+<li>Ability to learn and adapt to a rapidly changing market.</li>
+<li>Proven leadership and ability to achieve sales goals.</li>
+<li>Ability to manage multiple offices and personnel to achieve objectives.</li>
+<li>Strong organizational skills.</li>
+<li>Detail oriented with the ability to manage and prioritize leads through multiple channels.</li>
+<li>Excellent problem-solving abilities and capable of resolving contract and product issues.</li>
+<li>Understanding of Edge Solutions, UPS/Power Products, Racks, Thermal, critical space environments, and service offerings.</li>
+<li>Team player with outstanding verbal and written communication skills.</li>
+<li>Proven ability to handle multiple projects under a heavy travel schedule.</li>
+<li>High degree of independent judgment.</li>
+<li>Ability to work in a matrix management environment and with all levels within the organization.</li>
+</ul>
+<h3>PREFERRED QUALIFICATIONS</h3>
+<ul>
+<li>Working knowledge and/or sales experience within the data center industry.</li>
+<li>Understanding of Vertiv Representative selling structure.</li>
+</ul>
+<h3>PHYSICAL &amp; ENVIRONMENTAL DEMANDS</h3>
+<ul>
+<li>Frequent driving.</li>
+</ul>
+<h3>TIME TRAVEL REQUIRED</h3>
+<ul>
+<li>50-75% within territory</li>
+</ul>
+<p>_The successful candidate will embrace Vertiv’s Core Principles &amp; Behaviors to help execute our Strategic Priorities._</p>
+<p>_<b>OUR CORE PRINCIPLES:</b> Safety. Integrity. Respect. Teamwork. Inclusion._</p>
+<p>_<b>OUR STRATEGIC PRIORITIES</b>_</p>
+<ul>
+<li>_High-Performance Culture_</li>
+<li>_Customer Focus_</li>
+<li>_Operational Excellence_</li>
+<li>_Innovation_</li>
+<li>_Financial Strength_</li>
+</ul>
+<p>_<b>OUR BEHAVIORS</b>_</p>
+<ul>
+<li>_Own It_</li>
+<li>_Act With Urgency_</li>
+<li>_Foster a Customer-First Mindset_</li>
+<li>_Think Big and Execute_</li>
+<li>_Lead by Example_</li>
+<li>_Drive Continuous Improvement_</li>
+<li>_Learn and Seek Out Development_</li>
+<li>_Promote transparent &amp; open communication_</li>
+</ul>
+<p><b>About Vertiv</b></p>
+<p>Vertiv (NYSE: VRT) brings together hardware, software, analytics and ongoing services to enable its customers’ vital applications to run continuously, perform optimally, and grow with their business needs.  Vertiv solves the most important challenges facing today’s data centers, communication networks and commercial and industrial facilities with a portfolio of power, cooling and IT infrastructure solutions and services that extend from the cloud to the edge of the network. Headquartered in Westerville, Ohio, USA, Vertiv employs around 34,000 people and does business in more than 130 countries. Visit Vertiv.com to learn more.</p>
+<p><b>Work Authorization</b></p>
+<p>No calls or agencies please. Vertiv will only employ those who are legally authorized to work in the United States. This is not a position for which sponsorship will be provided. Individuals with temporary visas such as E, F-1, H-1, H-2, L, B, J, or TN or who need sponsorship for work authorization now or in the future, are not eligible for hire.</p>
+<p><b>Equal Opportunity Employer</b></p>
+<p>_Vertiv is an Equal Opportunity/Affirmative Action employer. We promote equal opportunities for all with respect to hiring, terms of employment, mobility, training, compensation, and occupational health, without discrimination as to age, race, color, religion, creed, sex, pregnancy status (including childbirth, breastfeeding, or related medical conditions), marital status, sexual orientation, gender identity / expression (including transgender status or sexual stereotypes), genetic information, citizenship status, national origin, protected veteran status, political affiliation, or disability. If you have a disability and are having difficulty accessing or using this website to apply for a position, you can request help by sending an email to_ [_help.join@vertiv.com_](mailto:help.join@vertiv.com) _._</p>
+<h3>About Us</h3>
+<p><b>The successful candidate will embrace Vertiv’s Core Principles &amp; Behaviors to help execute our Strategic Priorities.</b></p>
+<p><b>OUR CORE PRINCIPLES:</b> Safety. Integrity. Respect. Teamwork. Inclusion.</p>
+<h3>OUR STRATEGIC PRIORITIES</h3>
+<ul>
+<li>High-Performance Culture</li>
+<li>Customer Focus</li>
+<li>Operational Excellence</li>
+<li>Innovation</li>
+<li>Financial Strength</li>
+</ul>
+<h3>VERTIV BEHAVIORS</h3>
+<ul>
+<li>Own it</li>
+<li>Act with urgency</li>
+<li>Foster a customer-first mindset</li>
+<li>Think big and execute</li>
+<li>Lead by example</li>
+<li>Drive continuous improvement</li>
+<li>Learn and seek out development</li>
+<li>Promote transparent &amp; open communication</li>
+</ul>
+<p><b>About Vertiv</b></p>
+<p>Vertiv (NYSE: VRT) brings together hardware, software, analytics and ongoing services to enable its customers’ vital applications to run continuously, perform optimally and grow with their business needs. Vertiv solves the most important challenges facing today’s data centers, communication networks, and commercial and industrial facilities with a portfolio of power, cooling and IT infrastructure solutions and services that extend from the cloud to the edge of the network. Headquartered in Westerville, Ohio, USA, Vertiv employs around 34,000 people and does business in more than 130 countries. Visit Vertiv.com to learn more.</p>
+<p><b>Work Authorization</b></p>
+<p>No calls or agencies please. Vertiv will only employ those who are legally authorized to work in the United States. This is not a position for which sponsorship will be provided. Individuals with temporary visas such as E, F-1, H-1, H-2, L, B, J, or TN or who need sponsorship for work authorization now or in the future, are not eligible for hire.</p>
+<p><b>Equal Opportunity Employer</b></p>
+<p>Vertiv is an Equal Opportunity/Affirmative Action employer. We promote equal opportunities for all with respect to hiring, terms of employment, mobility, training, compensation, and occupational health, without discrimination as to age, race, color, religion, creed, sex, pregnancy status (including childbirth, breastfeeding, or related medical conditions), marital status, sexual orientation, gender identity / expression (including transgender status or sexual stereotypes), genetic information, citizenship status, national origin, protected veteran status, political affiliation, or disability. If you have a disability and are having difficulty accessing or using this website to apply for a position, you can request help by sending an email to [help.join@vertiv.com](mailto:help.join@vertiv.com)</p>
+<h3>Job Info</h3>
+<ul>
+<li>Job Identification20279552</li>
+<li>Job CategoryChannel Sales</li>
+<li>Posting Date08/28/2026, 12:27 PM</li>
+<li>LocationsSan Jose, CA, United StatesSacramento, CA, United States</li>
+</ul>
+<p>-</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a91df09dfeb90d3db8df6d6?src=adzuna]]></url>
+    <location><![CDATA[Singapore]]></location>
+    <country><![CDATA[SG]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Vertiv]]></company>
+    <category>3</category>
+    <contract_type>contract</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-28T19:18:33.645Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a91df0998d8dde5f766deff]]></id>
+    <title><![CDATA[Engineer I Electrical & Electronics Engineering IX]]></title>
+    <description><![CDATA[<h3>Job Description</h3>
+<h3>Job Description</h3>
+<p>Vertiv Infrastructure Solutions, Pune is looking for dynamic and experienced Controls Engineer in Design Engineering develops design of controls projects to satisfy all required inputs and requirements to produce sustainable and functional controls and building equipment monitoring design. Controls engineer models design in Revit and prepares standard controls documentation like plans, sections, elevation views, I/O lists, riser diagrams, sequence of operations, equipment technical specifications and material submittals. Controls engineer scope of work is:</p>
+<ul>
+<li>Supportive role during design of the BMS documentation set for design of modular buildings (small/medium scale)</li>
+<li>Specification of the control equipment and material</li>
+<li>Setting up the BMS equipment (field equipment, network switches and PLC’s, servers and operator working station)</li>
+<li>Making “As built documentation”</li>
+<li>Support during FAT</li>
+<li>Support during commissioning on site</li>
+</ul>
+<p>Design of the BMS system of modular buildings (<b>small/medium scale</b>) according to the input data, specification of the material and equipment and development of construction documentation at office in Delaware NA. Support internal testing and FAT in factory In India/USA. Supporting commissioning team at site during commissioning process (India/USA region).</p>
+<p><b>Job Specifications &amp; Responsibilities:</b></p>
+<ul>
+<li>Developing of project conceptual and detailed design</li>
+<li>Based on input data (information, requirements, standards), development of electrical project documentation: riser and network diagrams, I/O lists, application and functional diagrams, instructions, material submittals, presentations and marketing materials etc.</li>
+<li>During design follow and take into consideration international, national and company standards and good engineering practices</li>
+<li>Participating in kick-off meetings, regular project team meetings, and on-site coordination meetings</li>
+<li>Reporting project status to Project Lead Engineer</li>
+<li>Proactive cooperation with all team members during project execution</li>
+<li>Controlling and supporting controls integrators with support of lead Controls engineer</li>
+<li>Initiating RFI („Request for Information “) in cases where additional clarification is needed</li>
+<li>Development of defined documents according to Document list (DLIST)</li>
+<li>Specifying Bill of Material and services required for project execution</li>
+<li>Specification of necessary certificates for materials needed to be ordered</li>
+<li>Supporting suppliers with additional information during bidding phase of sourcing (offer submitting)</li>
+<li>Providing technical approval for received supplier offers</li>
+<li>Providing technical support to subcontractors and installers during production/assembly</li>
+<li>Cooperation with Manufacturing and Site deployment engineering team</li>
+<li>Cooperation with Site Manager during assembly, providing technical solutions to raised issues</li>
+<li>Cooperation with Quality Control during quality control of components/systems and assembly on Site</li>
+<li>Cooperation with Commissioning engineer on testing documentation development</li>
+<li>Supporting role on internal testing and FAT</li>
+<li>Development of installation and maintenance documentation</li>
+<li>In factory, on-site and/or remote commissioning and deployment of BMS</li>
+</ul>
+<p><b>Authorities:</b></p>
+<ul>
+<li>Review and approval of outsourced BMS design and commissioning with support of lead Controls engineer</li>
+<li>Approve or reject technically received supplier offer with support of lead Controls engineer</li>
+<li>Approve or reject suggested changes by subcontractor on approved workshop documentation with support of lead Controls engineer</li>
+</ul>
+<p><b>Education &amp; Certifications:</b></p>
+<ul>
+<li>Education – Electrical Engineer (Automation) with 3-5 years’ experience</li>
+<li>English language – fluent</li>
+<li>Software – AutoCAD, EPLAN, Revit (preferred)</li>
+<li>Technical skills – programming, SCADA, PLC, ethernet networks, DDC (preferred), Modbus (preferred)</li>
+<li>Other skills – independent, attention to details, problem solving, organization, creativity, teamwork</li>
+</ul>
+<h3>About Us</h3>
+<p><b>The successful candidate will embrace Vertiv’s Core Principles &amp; Behaviors to help execute our Strategic Priorities.</b></p>
+<p><b>OUR CORE PRINCIPLES:</b> Safety. Integrity. Respect. Teamwork. Inclusion.</p>
+<h3>OUR STRATEGIC PRIORITIES</h3>
+<ul>
+<li>High-Performance Culture</li>
+<li>Customer Focus</li>
+<li>Operational Excellence</li>
+<li>Innovation</li>
+<li>Financial Strength</li>
+</ul>
+<h3>VERTIV BEHAVIORS</h3>
+<ul>
+<li>Own it</li>
+<li>Act with urgency</li>
+<li>Foster a customer-first mindset</li>
+<li>Think big and execute</li>
+<li>Lead by example</li>
+<li>Drive continuous improvement</li>
+<li>Learn and seek out development</li>
+<li>Promote transparent &amp; open communication</li>
+</ul>
+<p><b>About Vertiv</b></p>
+<p>Vertiv (NYSE: VRT) brings together hardware, software, analytics and ongoing services to enable its customers’ vital applications to run continuously, perform optimally and grow with their business needs. Vertiv solves the most important challenges facing today’s data centers, communication networks, and commercial and industrial facilities with a portfolio of power, cooling and IT infrastructure solutions and services that extend from the cloud to the edge of the network. Headquartered in Westerville, Ohio, USA, Vertiv employs around 34,000 people and does business in more than 130 countries. Visit Vertiv.com to learn more.</p>
+<p><b>Equal Opportunity Employer</b></p>
+<p>Vertiv is an Equal Opportunity/Affirmative Action employer. We promote equal opportunities for all with respect to hiring, terms of employment, mobility, training, compensation, and occupational health, without discrimination as to age, race, color, religion, creed, sex, pregnancy status (including childbirth, breastfeeding, or related medical conditions), marital status, sexual orientation, gender identity / expression (including transgender status or sexual stereotypes), genetic information, citizenship status, national origin, protected veteran status, political affiliation, or disability. If you have a disability and are having difficulty accessing or using this website to apply for a position, you can request help by sending an email to [help.join@vertiv.com](mailto:help.join@vertiv.com)</p>
+<h3>Job Info</h3>
+<ul>
+<li>Job Identification 20270341</li>
+<li>Job Category Electrical &amp; Electronics Engineering</li>
+<li>Posting Date 08/28/2026, 09:09 AM</li>
+<li>Locations Pune, India</li>
+</ul>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a91df0998d8dde5f766deff?src=adzuna]]></url>
+    <location><![CDATA[Pune, Maharashtra]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>1</remote>
+    <company><![CDATA[Vertiv]]></company>
+    <category>23</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-28T19:18:33.439Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a91dc3ebd81b18f74bd6126]]></id>
+    <title><![CDATA[Data Centre Linux & HW Engineer, Data Center Operations]]></title>
+    <description><![CDATA[<p>AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we’re the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain — and we’re looking for talented people who want to help.</p>
+<p>You’ll join a diverse team of software, hardware, and network engineers, supply chain specialists, security experts, operations managers, and other vital roles. You’ll collaborate with people across AWS to help us deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers. And you’ll experience an inclusive culture that welcomes bold ideas and empowers you to own them to completion.</p>
+<p>Data Center Operations designs, installs &amp; maintains the world’s largest Cloud Computing Infrastructure. We are looking for skilled Data Centre Operation Technician at Amazon Data Services India Private Limited (“ADSIPL”) with a passion for technology to help us expand AWS Cloud offerings to the next level.</p>
+<p>To keep up with this demand on both disk and network capacity, we continue to expand our Data Centers in India. Also, our content delivery AWS service, CloudFront, has expanded its Data Centers presence by over 50% worldwide in the last 12 months and are expecting to increase by a similar number over the next 12 months. This requires talented people to build &amp; manage. We hope it is you! Come and work for the world’s most Customer Centric Company. The location for this job to be discussed, as there may be opportunities in several India locations.</p>
+<p>The Opportunity: Data Centre Operation Technician This role is a unique opportunity to work in some of the most advance data centers in the world. ADSIPL’s data centers are large-scale high-density centers where you will be working on changing the face of Cloud technology in India.</p>
+<p>A Data Centre Operations Tech at ADSIPL may be the primary point of contact for both internal customers (for example: Network Engineers, Systems Engineers, Software Developers, Database Engineers, Technical Operations) and external customers (Hardware Vendors, Contractors, Service Providers among others).</p>
+<p>There is never a dull moment as each day presents itself with different challenges. Some of the key responsibilities you will undertake are:</p>
+<p>Problem Solving: Maintain a high level of system reliability by prioritizing and resolving trouble tickets efficiently, these include:</p>
+<ul>
+<li>Escalation point and technical troubleshooter for all Systems and Network hardware problems</li>
+<li>Deep diving into Linux server issues</li>
+<li>XEN service virtualization troubleshooting</li>
+</ul>
+<p>Technical: Troubleshoot technical issues on various platforms ranging from Systems through Networking to Power/Mechanical</p>
+<ul>
+<li>Remediation of physical layer outages, both Systems &amp; Network</li>
+<li>Remediation or recovery of physical power issues on racks</li>
+<li>Participate in Data Center power &amp; cooling events</li>
+</ul>
+<p>Operations: Meet 24x7 On-Call requirements and response during shift rotations.</p>
+<ul>
+<li>Install &amp; configure racks of hosts in line with internal SLAs</li>
+<li>Triage &amp; resolve trouble tickets for all devices in your region</li>
+<li>Data Center point of contact for all High Severity issues</li>
+<li>Physical replacement of server and network device parts</li>
+<li>Ensure correct rotation of parts &amp; spares</li>
+<li>Help define metrics to increase our customer uptime</li>
+<li>Enforcing Security Best Practices at ADSIPL</li>
+<li>Interact with third party vendors &amp; contractors</li>
+<li>Contribute ideas to improve operational efficiency</li>
+<li>Project Management:</li>
+<li>Participate in and deliver on a number of high impact small to mid-scale projects</li>
+<li>Participate in internal team meetings at ADSIPL for metric analysis and project status updates</li>
+<li>Help build the world’s largest Cloud infrastructure in India</li>
+</ul>
+<p>Mentoring: Share knowledge and help educate less technical staff on the best practices related to all break fix issues Hiring: Contribute towards building a great team by getting involved in the ADSIPL’s hiring process/candidate interviews</p>
+<p>About the team Diverse Experiences AWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.</p>
+<p>Why AWS? Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.</p>
+<p>Inclusive Team Culture AWS values curiosity and connection. Our employee-led and company-sponsored affinity groups promote inclusion and empower our people to take pride in what makes us unique. Our inclusion events foster stronger, more collaborative teams. Our continual innovation is fueled by the bold ideas, fresh perspectives, and passionate voices our teams bring to everything we do.</p>
+<p>Mentorship &amp; Career Growth We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.</p>
+<p>Work/Life Balance We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve</p>
+<h3>Basic Qualifications</h3>
+<ul>
+<li>Bachelor's degree in Information Technology, Computer Science, or a related field</li>
+<li>2+ years of computer networking experience</li>
+<li>2+ years of Linux operating systems experience</li>
+</ul>
+<h3>Preferred Qualifications</h3>
+<ul>
+<li>Experience dealing effectively with customers during problem resolution and operating efficiently under pressure</li>
+<li>Experience managing work and priorities through a ticketing system</li>
+<li>Experience with cabling infrastructure best practices and methodologies</li>
+<li>Experience working in a data center environment (racking and stacking gear, cable management, hot/cold aisle containment)</li>
+</ul>
+<p>Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit [https://amazon.jobs/content/en/how-we-hire/accommodations](https://amazon.jobs/content/en/how-we-hire/accommodations) for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a91dc3ebd81b18f74bd6126?src=adzuna]]></url>
+    <location><![CDATA[Hyderabad, Telangana]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Amazon Web Services]]></company>
+    <category>2</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-28T19:06:38.689Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a91dc3e0eeb4dadbe58d06e]]></id>
+    <title><![CDATA[Optical Network Development Engineer , Capacity Restoration Team]]></title>
+    <description><![CDATA[<p>AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we’re the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain — and we’re looking for talented people who want to help.</p>
+<p>You’ll join a diverse team of software, hardware, and network engineers, supply chain specialists, security experts, operations managers, and other vital roles. You’ll collaborate with people across AWS to help us deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers. And you’ll experience an inclusive culture that welcomes bold ideas and empowers you to own them to completion.</p>
+<p>Network Development Engineers (NDEs) on CRT are Builders. You don't implement off-the-shelf solutions. You create new ones — solutions that go beyond traditional industry approaches.</p>
+<p>As an Optical NDE, you will work at the component level of CRT's optical transport restoration stack. You will troubleshoot, diagnose, and restore out-of-service DWDM capacity across Amazon's backbone and metro optical networks. You will build and improve automation that accelerates optical capacity restoration — from fiber fault isolation to amplifier recovery to wavelength re-provisioning.</p>
+<p>Your scope covers small to mid-size optical components, features, and processes. You will actively learn the team's optical architecture and apply it to build working solutions. You will create secure, stable, testable, and maintainable code with minimal defects.</p>
+<p>This role bridges optical operations and engineering. You will both operate the optical network and write code to make operations faster. NDEs on CRT do not depend on vendors for design or support.</p>
+<p>Key job responsibilities Optical Restoration &amp; Troubleshooting</p>
+<ul>
+<li>Troubleshoot and restore out-of-service optical capacity across DWDM backbone and metro networks, including coherent optics, amplifiers (EDFA/Raman), ROADMs, and mux/demux components.</li>
+<li>Diagnose optical impairments: fiber attenuation, connector/splice loss, chromatic dispersion, PMD, OSNR degradation, and nonlinear effects (FWM, SPM, XPM, SBS).</li>
+<li>Execute and interpret OTDR traces, optical spectrum analyzer (OSA) readings, and power meter measurements to isolate physical-layer faults.</li>
+<li>Develop link test plans and structured diagnostic output for optical circuits that enable system-guided troubleshooting.</li>
+<li>Coordinate with fiber operations and vendor teams for fiber splicing, connector cleaning, and hardware RMA workflows.</li>
+</ul>
+<p>Automation &amp; Tooling</p>
+<ul>
+<li>Build and improve automation components that accelerate optical link and device restoration (e.g., automated span loss validation, amplifier reset sequences, wavelength re-provisioning scripts).</li>
+<li>Extend and integrate with existing tooling to improve monitoring and alerting for out-of-service optical capacity.</li>
+<li>Develop scripts to parse and correlate optical alarms from network management systems and identify systemic patterns.</li>
+<li>Write clean, testable code (Python preferred) with documentation that supports future engineers.</li>
+</ul>
+<p>Metrics, Monitoring &amp; Operations</p>
+<ul>
+<li>Create and maintain team-level operational metrics, monitors, and processes tied to CRT KPIs: MTTR, restoration success rate, backlog depth, and optical capacity out-of-service burndown.</li>
+<li>Contribute to optical network health dashboards tracking OSNR trends, amplifier performance, and span loss baselines.</li>
+<li>Participate in on-call rotations. Support follow-the-sun coverage across Seattle and Bangalore.</li>
+<li>Document optical systems, tools, and runbooks clearly. Keep documentation current as systems evolve.</li>
+<li>Contribute to design reviews and operational improvement discussions.</li>
+<li>Actively learn team product architecture — both optical transport and IP layers — and apply that knowledge to deliver working solutions.</li>
+</ul>
+<p>A day in the life</p>
+<ul>
+<li>Troubleshoot out-of-service DWDM spans: diagnose optical power degradation, amplifier faults, fiber impairments, and coherent optic alarms across backbone and metro networks.</li>
+<li>Analyze OSNR, chromatic dispersion, and PMD data to identify root causes of optical circuit failures and determine restoration paths.</li>
+<li>Develop and improve automation scripts to accelerate optical capacity restoration workflows (e.g., wavelength re-provisioning, span validation, amplifier reset sequences).</li>
+<li>Coordinate with fiber operations teams on OTDR testing, fiber splicing, and physical layer fault isolation.</li>
+<li>Implement small-to-mid-scope optical tooling (e.g., automated span loss validation, optical health check scripts, amplifier monitoring dashboards).</li>
+<li>Integrate with existing tooling ecosystem (workflow orchestration engines, optical network management systems, link testing services).</li>
+<li>Participate in design reviews and operational improvement discussions for optical restoration processes.</li>
+<li>Document optical systems, troubleshooting runbooks, and restoration procedures clearly for future engineers.</li>
+<li>Participate in on-call rotations supporting follow-the-sun optical restoration coverage.</li>
+</ul>
+<p>About the team The Capacity Restoration Team (CRT) sits within Backbone, Enterprise, Regional Engineering (BERE) organization. Our mission is to own end-to-end restoration of out-of-service inter-metro and intra-metro network capacity.</p>
+<p>CRT reduces operational backlog, improves network health monitoring systems, and drives time-to-remediate (TTR) down. Today, a significant network capacity is out of service at any given time. The operational workload is capacity related and heavily manual and we are building the team and automation to change that.</p>
+<p>We operate across Seattle, Dublin, Bangalore, Hyderabad and Sydney for follow-the-sun coverage. CRT acts as the connective layer between Engineering, Operations, Tooling, and Software teams.</p>
+<h3>ABOUT AWS</h3>
+<p>Diverse Experiences AWS values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.</p>
+<p>Why AWS Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.</p>
+<p>Work/Life Balance We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why flexible work hours and arrangements are part of our culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.</p>
+<p>Inclusive Team Culture Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.</p>
+<p>Mentorship and Career growth We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.</p>
+<h3>Basic Qualifications</h3>
+<ul>
+<li>Bachelor's degree in Electrical Engineering, Photonics, Telecommunications, Computer Science, or equivalent experience.</li>
+<li>1+ years of experience in optical network engineering, DWDM operations, or optical transport systems.</li>
+<li>Understanding of DWDM technology fundamentals: wavelength multiplexing, optical amplification (EDFA, Raman), coherent detection, and modulation formats.</li>
+<li>Knowledge of fiber optic fundamentals: single-mode fiber types (G.652, G.654, G.655), attenuation, chromatic dispersion, and PMD.</li>
+<li>Familiarity with optical test and measurement: OTDR, OSA, power meters, and light sources.</li>
+<li>Experience with at least one programming or scripting language (Python preferred).</li>
+<li>Understanding of IP networking fundamentals: TCP/IP, routing, and switching concepts.</li>
+<li>Experience working in a Linux or Unix environment.</li>
+<li>Ability to read, modify, and extend existing code within a shared codebase.</li>
+</ul>
+<h3>Preferred Qualifications</h3>
+<ul>
+<li>Experience with coherent optic technologies: DP-QPSK, 16QAM, and higher-order modulation formats at 100G/200G/400G+ line rates.</li>
+<li>Experience with optical networking vendor platforms (e.g., Ciena, Infinera, Nokia, ADVA) including provisioning, alarm management, and firmware operations.</li>
+<li>Knowledge of OSNR analysis, optical link budgets, and span engineering for long-haul and metro DWDM systems.</li>
+<li>Understanding of FEC mechanisms (SD-FEC, HD-FEC) and their role in optical system margin management.</li>
+<li>Experience with OTN framing, multiplexing hierarchy, and fault management.</li>
+<li>Familiarity with ROADM architectures, CDC (Colorless/Directionless/Contentionless) designs, and wavelength switching.</li>
+<li>Experience with network automation tools or frameworks such as Ansible, Terraform, or similar platforms applied to optical networks.</li>
+<li>Exposure to Amazon internal tooling: workflow orchestration engines, optical network management systems, deployment automation tools, or link testing services.</li>
+<li>Experience with optical network planning and modeling tools.</li>
+<li>Knowledge of BGP or OSPF routing protocols in production network environments.</li>
+<li>Experience operating large-scale optical networks in ISP, CDN, submarine, or cloud provider environments.</li>
+<li>CCNA, JNCIA, or equivalent networking certification; vendor optical certifications (e.g., Ciena Certified Specialist) a plus.</li>
+</ul>
+<p>Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit [https://amazon.jobs/content/en/how-we-hire/accommodations](https://amazon.jobs/content/en/how-we-hire/accommodations) for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a91dc3e0eeb4dadbe58d06e?src=adzuna]]></url>
+    <location><![CDATA[Hyderabad, Telangana]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Amazon Web Services]]></company>
+    <category>2</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-28T19:06:38.635Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a91dc3e74493acf1839240e]]></id>
+    <title><![CDATA[Data Centre Linux & HW Engineer, Data Center Operations]]></title>
+    <description><![CDATA[<p>AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we’re the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain — and we’re looking for talented people who want to help.</p>
+<p>You’ll join a diverse team of software, hardware, and network engineers, supply chain specialists, security experts, operations managers, and other vital roles. You’ll collaborate with people across AWS to help us deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers. And you’ll experience an inclusive culture that welcomes bold ideas and empowers you to own them to completion.</p>
+<p>Data Center Operations designs, installs &amp; maintains the world’s largest Cloud Computing Infrastructure. We are looking for skilled Data Centre Operation Technician at Amazon Data Services India Private Limited (“ADSIPL”) with a passion for technology to help us expand AWS Cloud offerings to the next level.</p>
+<p>To keep up with this demand on both disk and network capacity, we continue to expand our Data Centers in India. Also, our content delivery AWS service, CloudFront, has expanded its Data Centers presence by over 50% worldwide in the last 12 months and are expecting to increase by a similar number over the next 12 months. This requires talented people to build &amp; manage. We hope it is you! Come and work for the world’s most Customer Centric Company. The location for this job to be discussed, as there may be opportunities in several India locations.</p>
+<p>The Opportunity: Data Centre Operation Technician This role is a unique opportunity to work in some of the most advance data centers in the world. ADSIPL’s data centers are large-scale high-density centers where you will be working on changing the face of Cloud technology in India.</p>
+<p>A Data Centre Operations Tech at ADSIPL may be the primary point of contact for both internal customers (for example: Network Engineers, Systems Engineers, Software Developers, Database Engineers, Technical Operations) and external customers (Hardware Vendors, Contractors, Service Providers among others).</p>
+<p>There is never a dull moment as each day presents itself with different challenges. Some of the key responsibilities you will undertake are:</p>
+<p>Problem Solving: Maintain a high level of system reliability by prioritizing and resolving trouble tickets efficiently, these include:</p>
+<ul>
+<li>Escalation point and technical troubleshooter for all Systems and Network hardware problems</li>
+<li>Deep diving into Linux server issues</li>
+<li>XEN service virtualization troubleshooting</li>
+</ul>
+<p>Technical: Troubleshoot technical issues on various platforms ranging from Systems through Networking to Power/Mechanical</p>
+<ul>
+<li>Remediation of physical layer outages, both Systems &amp; Network</li>
+<li>Remediation or recovery of physical power issues on racks</li>
+<li>Participate in Data Center power &amp; cooling events</li>
+</ul>
+<p>Operations: Meet 24x7 On-Call requirements and response during shift rotations.</p>
+<ul>
+<li>Install &amp; configure racks of hosts in line with internal SLAs</li>
+<li>Triage &amp; resolve trouble tickets for all devices in your region</li>
+<li>Data Center point of contact for all High Severity issues</li>
+<li>Physical replacement of server and network device parts</li>
+<li>Ensure correct rotation of parts &amp; spares</li>
+<li>Help define metrics to increase our customer uptime</li>
+<li>Enforcing Security Best Practices at ADSIPL</li>
+<li>Interact with third party vendors &amp; contractors</li>
+<li>Contribute ideas to improve operational efficiency</li>
+<li>Project Management:</li>
+<li>Participate in and deliver on a number of high impact small to mid-scale projects</li>
+<li>Participate in internal team meetings at ADSIPL for metric analysis and project status updates</li>
+<li>Help build the world’s largest Cloud infrastructure in India</li>
+</ul>
+<p>Mentoring: Share knowledge and help educate less technical staff on the best practices related to all break fix issues Hiring: Contribute towards building a great team by getting involved in the ADSIPL’s hiring process/candidate interviews</p>
+<p>About the team Diverse Experiences AWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.</p>
+<p>Why AWS? Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.</p>
+<p>Inclusive Team Culture AWS values curiosity and connection. Our employee-led and company-sponsored affinity groups promote inclusion and empower our people to take pride in what makes us unique. Our inclusion events foster stronger, more collaborative teams. Our continual innovation is fueled by the bold ideas, fresh perspectives, and passionate voices our teams bring to everything we do.</p>
+<p>Mentorship &amp; Career Growth We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.</p>
+<p>Work/Life Balance We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve</p>
+<h3>Basic Qualifications</h3>
+<ul>
+<li>Bachelor's degree in Information Technology, Computer Science, or a related field</li>
+<li>2+ years of computer networking experience</li>
+<li>2+ years of Linux operating systems experience</li>
+</ul>
+<h3>Preferred Qualifications</h3>
+<ul>
+<li>Experience dealing effectively with customers during problem resolution and operating efficiently under pressure</li>
+<li>Experience managing work and priorities through a ticketing system</li>
+<li>Experience with cabling infrastructure best practices and methodologies</li>
+<li>Experience working in a data center environment (racking and stacking gear, cable management, hot/cold aisle containment)</li>
+</ul>
+<p>Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit [https://amazon.jobs/content/en/how-we-hire/accommodations](https://amazon.jobs/content/en/how-we-hire/accommodations) for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.</p>
+<p>null</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a91dc3e74493acf1839240e?src=adzuna]]></url>
+    <location><![CDATA[Hyderabad, Telangana]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Amazon Web Services]]></company>
+    <category>2</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-08-28T19:06:38.602Z]]></date>
   </job>
 </jobs>
