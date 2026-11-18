@@ -3700,6 +3700,309 @@
     <date><![CDATA[2026-11-17T19:15:23.354Z]]></date>
   </job>
   <job>
+    <id><![CDATA[6afca7caa4326b6745db8631]]></id>
+    <title><![CDATA[Project Engineer-SIS]]></title>
+    <description><![CDATA[<p>At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world.</p>
+<h3>This Position reports to</h3>
+<p>Engineering Manager</p>
+<h3>Job Descriptions</h3>
+<p>This opportunity is to be a part of a global engineering team supporting 20&amp;#43; countries in delivering Control Systems projects (Design, Engineering, testing, commissioning and consulting).In this role, you will lead multiple projects of moderate size or major projects, cost effectively and in accordance with contract specifications, quality standards, and safety requirements.</p>
+<p>The work model for the role is: # LI Hybrid This role is contributing to the Process Automation business for Energy Industries division based in Bangalore, India.</p>
+<h3>You will be mainly accountable for</h3>
+<ul>
+<li>Execute assignments using established solutions. May act as a design authority and completes engineering assignments.</li>
+<li>Collaborates on project installation, commissioning and site activities, clarifying potential issues or providing solutions to correct engineering errors. Provides technical support to commissioning and start-up activities.</li>
+<li>Assists in creating proposals for projects.</li>
+<li>Supports Contract Manager in issuing claims.</li>
+<li>Creates work plans and cost estimates in one’s area of responsibility.</li>
+</ul>
+<p>Evaluates risks and opportunities, strategizes mitigation of one’s engineering projects/programs.</p>
+<ul>
+<li>Interact with customers, contractors, suppliers. Oversee the creation of subcontracts and manage subcontractors jointly with other involved functions.</li>
+</ul>
+<h3>Skills/Knowledge required</h3>
+<p>Minimum 6 to 8 years of design, engineering, testing, commissioning and consulting experience of Control and Safety Systems in oil &amp; gas production / refining / petrochemical /pharmaceutical industry.</p>
+<ul>
+<li>Experience in managing cross-functional teams.</li>
+<li>TUV Functional Safety Engineer Certification (or equivalent).</li>
+<li>Working knowledge of the Safety Lifecycle and participation in functional safety assessments.</li>
+<li>Working knowledge of IEC61508 and IEC61511.</li>
+<li>Proficiency in Safety System design, application programming, hardware design, and HMI graphics development.</li>
+<li>Experience in safety system hardware inspection, FAT, SAT, loop checks, start-up and commissioning.</li>
+<li>Must have good communication &amp; leadership capabilities.</li>
+<li>Must have strong team-building skills and Willingness to travel to customer sites.</li>
+</ul>
+<h3>More about us</h3>
+<p>ABB Energy Industries is enabling safe, smart and sustainable projects and operations for businesses across the oil, gas, chemicals, life sciences, power generation and water sectors. Driving integrated solutions that automate, digitalize and electrify industry we connect our people and technology to help our customers adapt and succeed. With over 50 years domain expertise, we continue to innovate and reshape traditional approaches across the energy sector with our technologies designed to improve operational efficiency, reduce risk, reduce energy consumption and waste.</p>
+<p>Building a cleaner, smarter future takes all kinds of minds: the curious, the courageous, and the creative. We welcome people from all backgrounds and experiences.</p>
+<p>Ready to make an impact? Apply today or visit www.abb.com to learn more about the impact of our solutions across the globe.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6afca7caa4326b6745db8631?src=adzuna]]></url>
+    <location><![CDATA[Bangalore, Karnataka, India, IN]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>1</remote>
+    <company><![CDATA[ABB]]></company>
+    <category>5</category>
+    <contract_type>contract</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-11-17T19:15:22.951Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6afca7c566102432438db070]]></id>
+    <title><![CDATA[Embedded Linux Engineer]]></title>
+    <description><![CDATA[<p>At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world.</p>
+<h3>This Position reports to</h3>
+<p>R&amp;D Team Lead</p>
+<h3>Your role and responsibilities</h3>
+<p>In this role, you will contribute to the design, development, integration and verification of embedded Linux software for industrial products. You will work across application software, system integration and platform-level components to deliver reliable, maintainable and high-quality embedded solutions.</p>
+<p>The work model for the role is: #LI-Hybrid</p>
+<p>This role contributes to the Electrification Business, Distribution Solutions Division in Bangalore, India.</p>
+<h3>You will be mainly accountable for</h3>
+<ul>
+<li>Develop, maintain and debug embedded Linux software using C and C++ for resource-constrained industrial embedded systems.</li>
+<li>Work with Linux kernel, device drivers, Board Support Packages (BSPs), device trees and bootloaders such as U-Boot to support platform integration.</li>
+<li>Configure, build and customize embedded Linux distributions using Yocto Project and/or Buildroot, including maintaining recipes, layers and build configurations.</li>
+<li>Develop and integrate software for hardware peripherals and interfaces such as UART, SPI, I²C, GPIO, USB and Ethernet.</li>
+<li>Implement and debug communication and networking features, including TCP/IP, UDP, sockets and relevant industrial communication interfaces.</li>
+<li>Analyze system behaviour using logs, traces, core dumps and debugging tools; perform root-cause analysis, optimize system performance and implement corrective actions.</li>
+<li>Perform unit, integration and system-level testing, support regression testing, maintain technical documentation and collaborate with cross-functional teams to deliver reliable software releases.</li>
+</ul>
+<h3>Qualifications for the role</h3>
+<ul>
+<li>Degree in Electronics and Communication Engineering, Electrical and Electronics Engineering, Computer Science, Instrumentation or a closely related discipline, with approximately <b>3 years of relevant experience</b> in embedded software development.</li>
+<li>Good programming skills in C and C++, with the ability to develop, review, debug and maintain production-quality embedded software.</li>
+<li>Working knowledge of Linux fundamentals, including process and thread management, inter-process communication, memory management, file systems, command-line tools and shell scripting.</li>
+<li>Exposure to Linux kernel concepts, device drivers, device trees, BSP integration and bootloaders such as U-Boot.</li>
+<li>Hands-on experience with Yocto Project or Buildroot for building and customizing embedded Linux distributions.</li>
+<li>Understanding of hardware interfaces such as UART, SPI, I²C, GPIO, USB and Ethernet, along with networking fundamentals including TCP/IP, UDP and socket programming.</li>
+<li>Familiarity with debugging and analysis tools such as GDB, strace, ltrace, Valgrind and perf, along with Git, software testing practices and coding standards. Exposure to Python/Bash scripting, cross-compilation and CI/build automation is an advantage.</li>
+</ul>
+<h3>More about us</h3>
+<p>ABB's Distribution Solutions Division facilitates the efficient and reliable distribution, protection and control of power by improving electric power quality while making the grid more resilient. The Division offers segment-specific products and solutions that largely serve utilities, industry and infrastructure segments, often providing the requisite medium-voltage link between high-voltage transmission systems and low-voltage users. With ABB Ability™ enabled connected solutions at its core, the offering includes medium-voltage air- and gas-insulated switchgear (1 to 66 kilovolts), indoor and outdoor circuit breakers, reclosers, fuses, contactors, relays, instrument transformers, sensors, motor control centers, as well as low-voltage switchgear for the ANSI standard markets.</p>
+<p>Building a cleaner, smarter future takes all kinds of minds: the curious, the courageous, and the creative. We welcome people from all backgrounds and experiences.</p>
+<p>Ready to make an impact? Apply today or visit www.abb.com to learn more about the impact of our solutions across the globe.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6afca7c566102432438db070?src=adzuna]]></url>
+    <location><![CDATA[Bangalore, Karnataka, India, IN]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>1</remote>
+    <company><![CDATA[ABB]]></company>
+    <category>2</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-11-17T19:15:17.932Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6afca7c5530560965fbe0ac4]]></id>
+    <title><![CDATA[Accounting&Reporting Analyst-Receivable( fixed term contract )]]></title>
+    <description><![CDATA[<p>At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world.</p>
+<h3>This Position reports to</h3>
+<p>Team Lead - Intercompany</p>
+<h3>Your role and responsibilities</h3>
+<p>In this role, you will have the opportunity to support account receivables and/or credit activities in line with defined strategies, policies, and procedures. Each day, you will be responsible for managing and analyzing accounts receivable data. You will also showcase your expertise by ensuring accurate financial reporting and compliance with the relevant accounting standards.</p>
+<p>The work model for the role is: #Hybrid</p>
+<h3>Your responsibilities</h3>
+<ul>
+<li><b>Processing accounts payable transactions, ensuring accurate tracking and processing. Performing necessary activities within the accounts payable area to ensure accurate and timely reporting.</b></li>
+<li><b>Executing analysis and reports as assigned and taking appropriate action as necessary. Compiling with and helping to achieve internal control over financial reporting compliance in accounts payable for applicable templates.</b></li>
+<li><b>Participating in internal control testing and prepares relevant documentation. Ensuring all relevant stakeholders are aware of progress and/or issues to maximize customer satisfaction.</b></li>
+<li><b>Checking invoices to verify that they comply with the fiscal and internal control requirements. Focusing on organizing and coordinating on a task, project or program basis in support of a process or internal team.</b></li>
+<li><b>Living ABB’s core values of safety and integrity, which means taking responsibility for your own actions while caring for your colleagues, and the business.</b></li>
+</ul>
+<h3>Qualification of the role</h3>
+<ul>
+<li>You hold a Bachelor’s/Master’s degree<b> in Accounting, Finance or Commerce</b> and have a demonstrated track record in financial management and comfortable working in English</li>
+<li><b>Freshers with post-graduation or 2 - 3 years of experience with a Degree in Commerce background </b>demonstrating advanced skills in managing end-to-end payment cycles and optimizing cash flow.</li>
+<li>You are immersed in SAP, Order to Cash (O2C) processes, including Accounts Payables and Procure to Pay (P2P) workflows. You enjoy working with Excel and PowerPoint to analyze and present financial data effectively.</li>
+<li>You are highly adept in Microsoft Excel and PowerPoint, ensuring accurate reporting and impactful presentations.</li>
+<li>You hold a valid India work permit, and you are comfortable working in Bangalore as work Location.</li>
+</ul>
+<h3>Transport Requirements</h3>
+<p>Kindly note that ABB provides transportation facilities only to employees residing within the designated ABB Transport Zone. Please verify whether your current location falls within the serviceable area by using the link below.</p>
+<p>[(GBS Transport Eligibility).](https://eur03.safelinks.protection.outlook.com/?url&amp;#61;https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1-qPNIKxlF71IEhkhBSc8WWBvcumVeq8%26ll%3D12.937432036607028%252C77.76645747025746%26z%3D11&amp;data&amp;#61;05%7C02%7Cdeepika.prasad%40in.abb.com%7Ca974426060134b4fc43708deebe89121%7C372ee9e09ce04033a64ac07073a91ecd%7C0%7C0%7C639207581278143316%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata&amp;#61;tcoLV9ENCk2hYHLpX4qEdOD6uMQwBBc2be9nbsWDmTQ%3D&amp;reserved&amp;#61;0)</p>
+<h3>More about us</h3>
+<p>ABB Finance is a trusted partner to the business and a world-class team who delivers forward-looking insights that drive sustainable long-term results and operates with the highest standards. We value people from diverse backgrounds. Apply today for your next career step within ABB and visit [www.abb.com](https://www.abb.com/) to learn about the impact of our solutions across the globe. #MyABBStory. It has come to our attention that the name of ABB is being used for asking candidates to make payments for job opportunities (interviews, offers). ABB makes no such requests. All our open positions are made available on our career portal for all fitting the criteria to apply. ABB does not charge any fee whatsoever for recruitment process. Please do not make payments to any individuals / entities in connection to recruitment with ABB, even if is claimed that the money is refundable. ABB is not liable for such transactions. Location Division Publication Start Date For current open positions you can visit our career website [https://global.abb/group/en/careers](https://global.abb/group/en/careers) and apply. Please refer to detailed recruitment fraud caution notice using the link [https://global.abb/group/en/careers/how-to-apply/fraud-warning](https://global.abb/group/en/careers/how-to-apply/fraud-warning)</p>
+<p>ABB Group | Helping industries outrun – leaner and cleaner | ABBGlobal technology leader in electrification and automation. ABB helps industries run at high performance, while becoming more efficient, productive and sustainable.</p>
+<p>Building a cleaner, smarter future takes all kinds of minds: the curious, the courageous, and the creative. We welcome people from all backgrounds and experiences.</p>
+<p>Ready to make an impact? Apply today or visit www.abb.com to learn more about the impact of our solutions across the globe.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6afca7c5530560965fbe0ac4?src=adzuna]]></url>
+    <location><![CDATA[Bangalore, Karnataka, India, IN]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>1</remote>
+    <company><![CDATA[ABB]]></company>
+    <category>1</category>
+    <contract_type>contract</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-11-17T19:15:17.131Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6afca7c452e12f3cee50d72a]]></id>
+    <title><![CDATA[Accounting & Reporting Analyst - Accounts Payable]]></title>
+    <description><![CDATA[<p>At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world.</p>
+<h3>This Position reports to</h3>
+<p>Accounting &amp; Reporting Manager - Account</p>
+<p>We are looking for Perform support activities within Accounts Payable and Credit in line with defined strategies, policies and procedures. will be responsible to process accounting transactions for Accounts Payable (AP) in a complete, accurate and timely manner while ensuring compliance with internal guidelines and procedures and external regulatory requirements.</p>
+<p>The work model for the role is: #LI-Onsite</p>
+<p>This role is contributing to the Finance Services business, the FAO-P2P division in Bangalore, India.</p>
+<h3>You will be mainly accountable for</h3>
+<ul>
+<li>Processing accounts payable transactions, ensuring accurate tracking and processing.</li>
+<li>Performing necessary activities within the accounts payable area to ensure accurate and timely reporting.</li>
+<li>Executing analysis and reports as assigned and taking appropriate action as necessary.</li>
+<li>Compiling with and helping to achieve internal control over financial reporting compliance in accounts payable for applicable templates.</li>
+<li>Participating in internal control testing and prepares relevant documentation.</li>
+<li>Ensuring all relevant stakeholders are aware of progress and/or issues to maximize customer satisfaction.</li>
+<li>Checking invoices to verify that they comply with the fiscal and internal control requirements. Focusing on organizing and coordinating on a task, project or program basis in support of a process or internal team.</li>
+<li>Living ABB’s core values of safety and integrity, which means taking responsibility for your own actions while caring for your colleagues, and the business.</li>
+</ul>
+<h3>Qualifications for the role (Mandatory)</h3>
+<ul>
+<li>Bachelor’s/Master’s degree in Accounting, Finance or Commerce.</li>
+<li>Freshers with post-graduation or 2 - 3 years of experience with a Degree in Commerce background.</li>
+<li>Good communication skills.</li>
+<li>SAP knowledge in Accounts payable domain is added advantage.</li>
+</ul>
+<h3>ABB Transport Zone limits</h3>
+<ul>
+<li>Kindly note that ABB provides transportation facilities only to employees residing within the designated ABB Transport Zone. Please verify whether your current location falls within the serviceable area by using the link below.</li>
+</ul>
+<p>[(GBS Transport Eligibility).](https://eur03.safelinks.protection.outlook.com/?url&amp;#61;https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1-qPNIKxlF71IEhkhBSc8WWBvcumVeq8%26ll%3D12.937432036607028%252C77.76645747025746%26z%3D11&amp;data&amp;#61;05%7C02%7Cvenkateswaran.l%40in.abb.com%7Cc9481bd8baf243ebfb5608deec77b9bc%7C372ee9e09ce04033a64ac07073a91ecd%7C0%7C0%7C639208196125537092%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata&amp;#61;goCu0Eqz94sU9IBxUZdElFcoeRNPp%2BW%2BSaTI4J3IlBs%3D&amp;reserved&amp;#61;0)</p>
+<h3>More about us</h3>
+<p>ABB Finance is a trusted partner to the business and a world-class team who delivers forward-looking insights that drive sustainable long-term results and operates with the highest standards. We value people from diverse backgrounds. Apply today for your next career step within ABB and visit [www.abb.com](https://www.abb.com/) to learn about the impact of our solutions across the globe. #MyABBStory. It has come to our attention that the name of ABB is being used for asking candidates to make payments for job opportunities (interviews, offers). ABB makes no such requests. All our open positions are made available on our career portal for all fitting the criteria to apply. ABB does not charge any fee whatsoever for recruitment process. Please do not make payments to any individuals / entities in connection to recruitment with ABB, even if is claimed that the money is refundable. ABB is not liable for such transactions. Location Division Publication Start Date For current open positions you can visit our career website [https://global.abb/group/en/careers](https://global.abb/group/en/careers) and apply. Please refer to detailed recruitment fraud caution notice using the link [https://global.abb/group/en/careers/how-to-apply/fraud-warning](https://global.abb/group/en/careers/how-to-apply/fraud-warning)</p>
+<p>ABB Group | Helping industries outrun – leaner and cleaner | ABB</p>
+<p>Global technology leader in electrification and automation. ABB helps industries run at high performance, while becoming more efficient, productive and sustainable.</p>
+<p>Building a cleaner, smarter future takes all kinds of minds: the curious, the courageous, and the creative. We welcome people from all backgrounds and experiences.</p>
+<p>Ready to make an impact? Apply today or visit www.abb.com to learn more about the impact of our solutions across the globe.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6afca7c452e12f3cee50d72a?src=adzuna]]></url>
+    <location><![CDATA[Bangalore, Karnataka, India, IN]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[ABB]]></company>
+    <category>1</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-11-17T19:15:16.722Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6afca7c43b5b97ba5058f5e7]]></id>
+    <title><![CDATA[Intercompany Analyst]]></title>
+    <description><![CDATA[<p>At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world.</p>
+<h3>This Position reports to</h3>
+<p>Team Lead - Intercompany</p>
+<h3>Your role and responsibilities</h3>
+<p>In this role, you will have the opportunity to support account receivables and/or credit activities in line with defined strategies, policies, and procedures. Each day, you will be responsible for managing and analyzing accounts receivable data. You will also showcase your expertise by ensuring accurate financial reporting and compliance with the relevant accounting standards.</p>
+<p>The work model for the role is: #Hybrid</p>
+<h3>Your responsibilities</h3>
+<ul>
+<li><b>Processing accounts payable transactions, ensuring accurate tracking and processing. Performing necessary activities within the accounts payable area to ensure accurate and timely reporting.</b></li>
+<li><b>Executing analysis and reports as assigned and taking appropriate action as necessary. Compiling with and helping to achieve internal control over financial reporting compliance in accounts payable for applicable templates.</b></li>
+<li><b>Participating in internal control testing and prepares relevant documentation. Ensuring all relevant stakeholders are aware of progress and/or issues to maximize customer satisfaction.</b></li>
+<li><b>Checking invoices to verify that they comply with the fiscal and internal control requirements. Focusing on organizing and coordinating on a task, project or program basis in support of a process or internal team.</b></li>
+<li><b>Living ABB’s core values of safety and integrity, which means taking responsibility for your own actions while caring for your colleagues, and the business.</b></li>
+</ul>
+<h3>Qualification of the role</h3>
+<ul>
+<li>You hold a Bachelor’s/Master’s degree<b> in Accounting, Finance or Commerce</b> and have a demonstrated track record in financial management and comfortable working in English</li>
+<li><b>Freshers with post-graduation or 3-5 years of experience with a Degree in Commerce background </b>demonstrating advanced skills in managing end-to-end payment cycles and optimizing cash flow.</li>
+<li>You are immersed in SAP, Order to Cash (O2C) processes, including Accounts Payables and Procure to Pay (P2P) workflows. You enjoy working with Excel and PowerPoint to analyze and present financial data effectively.</li>
+<li>You are highly adept in Microsoft Excel and PowerPoint, ensuring accurate reporting and impactful presentations.</li>
+<li>You hold a valid India work permit, and you are comfortable working in Bangalore as work Location.</li>
+</ul>
+<h3>Transport Requirements</h3>
+<p>Kindly note that ABB provides transportation facilities only to employees residing within the designated ABB Transport Zone. Please verify whether your current location falls within the serviceable area by using the link below.</p>
+<p>[(GBS Transport Eligibility).](https://eur03.safelinks.protection.outlook.com/?url&amp;#61;https%3A%2F%2Fwww.google.com%2Fmaps%2Fd%2Fu%2F0%2Fedit%3Fmid%3D1-qPNIKxlF71IEhkhBSc8WWBvcumVeq8%26ll%3D12.937432036607028%252C77.76645747025746%26z%3D11&amp;data&amp;#61;05%7C02%7Cdeepika.prasad%40in.abb.com%7Ca974426060134b4fc43708deebe89121%7C372ee9e09ce04033a64ac07073a91ecd%7C0%7C0%7C639207581278143316%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata&amp;#61;tcoLV9ENCk2hYHLpX4qEdOD6uMQwBBc2be9nbsWDmTQ%3D&amp;reserved&amp;#61;0)</p>
+<h3>More about us</h3>
+<p>ABB Finance is a trusted partner to the business and a world-class team who delivers forward-looking insights that drive sustainable long-term results and operates with the highest standards. We value people from diverse backgrounds. Apply today for your next career step within ABB and visit [www.abb.com](https://www.abb.com/) to learn about the impact of our solutions across the globe. #MyABBStory. It has come to our attention that the name of ABB is being used for asking candidates to make payments for job opportunities (interviews, offers). ABB makes no such requests. All our open positions are made available on our career portal for all fitting the criteria to apply. ABB does not charge any fee whatsoever for recruitment process. Please do not make payments to any individuals / entities in connection to recruitment with ABB, even if is claimed that the money is refundable. ABB is not liable for such transactions. Location Division Publication Start Date For current open positions you can visit our career website [https://global.abb/group/en/careers](https://global.abb/group/en/careers) and apply. Please refer to detailed recruitment fraud caution notice using the link [https://global.abb/group/en/careers/how-to-apply/fraud-warning](https://global.abb/group/en/careers/how-to-apply/fraud-warning)</p>
+<p>ABB Group | Helping industries outrun – leaner and cleaner | ABBGlobal technology leader in electrification and automation. ABB helps industries run at high performance, while becoming more efficient, productive and sustainable.</p>
+<p>Building a cleaner, smarter future takes all kinds of minds: the curious, the courageous, and the creative. We welcome people from all backgrounds and experiences.</p>
+<p>Ready to make an impact? Apply today or visit www.abb.com to learn more about the impact of our solutions across the globe.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6afca7c43b5b97ba5058f5e7?src=adzuna]]></url>
+    <location><![CDATA[Bangalore, Karnataka, India, IN]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>1</remote>
+    <company><![CDATA[ABB]]></company>
+    <category>1</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-11-17T19:15:16.346Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6afca7c3787aae5a76506a40]]></id>
+    <title><![CDATA[R2R Transformation Projects Lead]]></title>
+    <description><![CDATA[<p>At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world.</p>
+<h3>This Position reports to</h3>
+<p>Sen. Account.&amp;Report. Mgr-Gen.Accounting</p>
+<h3>Your role and responsibilities</h3>
+<p>The Record-to-Report (R2R) team is responsible for delivering standardized, compliant, and digital finance processes across ABB. We continuously improve the way we work to support business growth and operational excellence.</p>
+<p>As the R2R Transformation Projects Lead, you will manage key R2R initiatives within ABB’s global ERP transformation program. Partnering with business and finance leaders, you will manage process design, deployment, and transformation efforts that enhance efficiency, controls, and user experience.</p>
+<p>You will bring deep knowledge in finance processes, ERP implementations, and change management, ensuring effective delivery of complex transformation programs.</p>
+<p>The work model for the role is: <b>Hybrid</b></p>
+<h3>You will be mainly accountable for</h3>
+<ul>
+<li>Manage ERP Transformation Delivery by overseeing end-to-end R2R process design, governance, and deployment activities across large-scale SAP S/4HANA transformation programs.</li>
+<li>Ensure Governance, Compliance &amp; Controls by embedding robust internal controls, compliance requirements, and risk management principles into ERP process and solution design.</li>
+<li>Design Future-State Finance Processes through process analysis, gap assessments, and solution architecture, ensuring alignment with best practices, standardization objectives, and business requirements.</li>
+<li>Manage Senior Stakeholder Engagement by partnering with finance leadership, business process owners, project teams, and system integrators to support alignment, decision-making, and effective change adoption.</li>
+<li>Lead Cross-Functional Teams across finance, technology, and business functions, building collaboration, accountability, and execution excellence throughout the transformation lifecycle.</li>
+<li>Support Continuous Improvement &amp; Value Realization by leveraging digital capabilities, automation, and process optimization opportunities to enhance operational efficiency, reporting effectiveness, and business outcomes.</li>
+</ul>
+<h3>Qualifications &amp; Key Skills</h3>
+<ul>
+<li>Bachelor’s / master’s degree in accounting, Finance, Business Administration, Commerce, or a related discipline.</li>
+<li>Professional qualification such as <b>CA, CPA, ACCA, CMA</b>, or equivalent finance/accounting certification preferred.</li>
+<li>15&amp;#43; years of experience in Record-to-Report (R2R), Finance Transformation, Shared Services, Global Business Services (GBS), or ERP-enabled process transformation environments.</li>
+<li>Deep knowledge of SAP Finance (FI/CO) and SAP S/4HANA programs, with experience managing large-scale ERP deployments and finance transformation initiatives.</li>
+</ul>
+<h3>More about us</h3>
+<p>ABB Finance is a trusted partner to the business and a respected team who delivers forward-looking insights that support sustainable long-term results and operates with the highest standards. We value people from diverse backgrounds. Apply today for your next career step within ABB and visit [www.abb.com](https://www.abb.com) to learn about the impact of our solutions across the globe. #MyABBStory. It has come to our attention that the name of ABB is being used for asking candidates to make payments for job opportunities (interviews, offers). ABB makes no such requests. All our open positions are made available on our career portal for all fitting the criteria to apply. ABB does not charge any fee whatsoever for recruitment process. Please do not make payments to any individuals / entities in connection to recruitment with ABB, even if is claimed that the money is refundable. ABB is not liable for such transactions. Location Division Publication Start Date For current open positions you can visit our career website [https://global.abb/group/en/careers](https://global.abb/group/en/careers) and apply. Please refer to detailed recruitment fraud caution notice using the link [https://global.abb/group/en/careers/how-to-apply/fraud-warning](https://global.abb/group/en/careers/how-to-apply/fraud-warning)</p>
+<p>Building a cleaner, smarter future takes all kinds of minds: the curious, the engaged, and the creative. We welcome people from all backgrounds and experiences.</p>
+<p>Ready to contribute? Apply today or visit www.abb.com to learn more about the impact of our solutions across the globe.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6afca7c3787aae5a76506a40?src=adzuna]]></url>
+    <location><![CDATA[Bangalore, Karnataka, India, IN]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>1</remote>
+    <company><![CDATA[ABB]]></company>
+    <category>1</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-11-17T19:15:15.865Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6afca7c3d3dd0d28b1b8a3bb]]></id>
+    <title><![CDATA[R2R Process Owner, Accounting and Reporting]]></title>
+    <description><![CDATA[<p>At ABB, we help industries run leaner and cleaner—and every person here makes that happen. You’ll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world.</p>
+<h3>This Position reports to</h3>
+<p>Sen. Account.&amp;Report. Mgr-Gen.Accounting</p>
+<h3>Your role and responsibilities</h3>
+<p>In this role, you will have the opportunity to oversee the execution of internal strategic projects at multi-national, regional, or global function level using ABB and 3rd party resources. Each day, you will oversee project execution in accordance with procedures, regulations, standards, specifications and targets. You will also showcase your ability by effectively applying project management processes as applicable.</p>
+<p>The work model for the role is: <b>Hybrid</b></p>
+<h3>You will be mainly accountable for</h3>
+<ul>
+<li>Leading the project team, defining main guidelines, allocating project tasks, and motivating internal and/or external resources to accomplish all tasks and milestones.</li>
+<li>Developing a project charter and a project plan describing how the project will be executed, for communication to project team members, key stakeholders, and as the basis for execution.</li>
+<li>Organizing, monitoring, and controlling activities to ensure effective completion of planned stage-gates and efficient utilization of available resources.</li>
+<li>Establishing plans to mitigate and manage current and future risks on the project and make the most of associated opportunities developing during the execution of the project.</li>
+</ul>
+<h3>Qualifications &amp; Key Skills</h3>
+<ul>
+<li>B. Com, MBA (Finance), CA or equivalent advanced qualification having 15&amp;#43; years of experience, currently holding a leadership position.</li>
+<li>Demonstrated experience in R2R, Financial Reporting, and Finance Transformation within a Shared Services, GBS, or BPO environment.</li>
+<li>Demonstrated deep knowledge in process design, process optimization, automation, and end-to-end accounting solution delivery.</li>
+<li>Effective stakeholder management and communication skills, with experience partnering with FAO, FP&amp;A, and senior leadership teams in global, multicultural environments.</li>
+</ul>
+<h3>More about us</h3>
+<p>ABB Finance is a trusted partner to the business and a respected team who delivers forward-looking insights that support sustainable long-term results and operates with the highest standards. We value people from diverse backgrounds. Apply today for your next career step within ABB and visit [www.abb.com](https://www.abb.com) to learn about the impact of our solutions across the globe. #MyABBStory. It has come to our attention that the name of ABB is being used for asking candidates to make payments for job opportunities (interviews, offers). ABB makes no such requests. All our open positions are made available on our career portal for all fitting the criteria to apply. ABB does not charge any fee whatsoever for recruitment process. Please do not make payments to any individuals / entities in connection to recruitment with ABB, even if is claimed that the money is refundable. ABB is not liable for such transactions. Location Division Publication Start Date For current open positions you can visit our career website [https://global.abb/group/en/careers](https://global.abb/group/en/careers) and apply. Please refer to detailed recruitment fraud caution notice using the link [https://global.abb/group/en/careers/how-to-apply/fraud-warning](https://global.abb/group/en/careers/how-to-apply/fraud-warning)</p>
+<p>Building a cleaner, smarter future takes all kinds of minds: the curious, the engaged, and the creative. We welcome people from all backgrounds and experiences.</p>
+<p>Ready to contribute? Apply today or visit www.abb.com to learn more about the impact of our solutions across the globe.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6afca7c3d3dd0d28b1b8a3bb?src=adzuna]]></url>
+    <location><![CDATA[Bangalore, Karnataka, India, IN]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>1</remote>
+    <company><![CDATA[ABB]]></company>
+    <category>1</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-11-17T19:15:15.328Z]]></date>
+  </job>
+  <job>
     <id><![CDATA[6afca7463f3fdeb35b12ba91]]></id>
     <title><![CDATA[Industrial Engineer]]></title>
     <description><![CDATA[<h3>Hello Visionary!</h3>
@@ -12744,74 +13047,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-11-13T18:15:02.034Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6af75387b270f537a74ea7bc]]></id>
-    <title><![CDATA[Manager Site Technology (RG77)]]></title>
-    <description><![CDATA[<h3>Job Description</h3>
-<p><b>Your Work Shapes the World at Caterpillar Inc.</b></p>
-<p>When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.</p>
-<p>Caterpillar is seeking a <b>MineStar® Site Manager</b> to join our Underground Mining Technology team.</p>
-<p>Based in <b>Perth or Brisbane on an international FIFO roster</b>, this role supports MineStar® Fleet and Command for Underground systems at <b>Freeport Indonesia</b>. As Caterpillar’s senior representative on site, you will work closely with customer leadership teams to develop, implement and manage product support strategies, equipment management processes and technology adoption initiatives that deliver measurable operational outcomes.</p>
-<p>This is an exceptional opportunity for an experienced mining technology professional to lead customer engagement and drive the long-term success of autonomous and fleet management solutions at one of the world's largest underground mining operations.</p>
-<p><b>What you’ll be doing:</b></p>
-<ul>
-<li>Acting as Caterpillar's primary MineStar® representative and trusted advisor at site</li>
-<li>Developing strategies to improve technology performance, fleet utilisation and customer outcomes</li>
-<li>Monitoring key site performance metrics including availability, production, operating costs, utilisation and safety</li>
-<li>Identifying customer needs and supporting the deployment of new products, technologies and services</li>
-<li>Providing guidance on equipment management, technology adoption and operational improvement initiatives</li>
-<li>Leading the resolution of complex operational and technical issues</li>
-<li>Supporting system implementation, upgrades and continuous improvement activities</li>
-<li>Analysing performance data to identify optimisation opportunities</li>
-<li>Aligning Caterpillar support activities with customer objectives and recovery strategies</li>
-<li>Coaching and developing site personnel to maximise capability and system utilisation</li>
-</ul>
-<p><b>To be successful in this role, you will have:</b></p>
-<ul>
-<li>A bachelor’s degree in mining engineering, IT, Software Engineering or a related discipline, <b>required to meet Indonesian work visa</b> eligibility requirements</li>
-<li>Significant experience in mining technology, MineStar®, fleet management systems, automation or operational technology (OT)</li>
-<li>Strong knowledge of mining operations, equipment management and operational improvement</li>
-<li>Proven ability to build relationships and influence stakeholders across operational and leadership teams</li>
-<li>Strong analytical, problem-solving and communication skills, with a focus on customer success</li>
-<li>Australian Citizenship or Permanent Residency, and the ability to obtain and maintain all visas, work permits and approvals required to work in Indonesia</li>
-</ul>
-<p><b>Compensation &amp; Benefits</b></p>
-<p>Competitive salary based on qualifications and professional industry experience.</p>
-<p>The Total Rewards package includes:</p>
-<ul>
-<li>Competitive remuneration package</li>
-<li><b>Site, Shift and FIFO Allowances</b></li>
-<li>Attractive Bonus and Share options</li>
-<li>Career development with global prospects</li>
-<li>A strong commitment to safety and your wellbeing</li>
-<li>An inclusive workplace culture focused on quality, customer service and the environment</li>
-<li>A commitment to diversity and inclusion, equal opportunity and equal outcome</li>
-<li>SMART spending APP</li>
-<li>The opportunity to do truly meaningful work in a supportive, constructive culture that encourages you to make the most of your talents</li>
-</ul>
-<p><b>Additional Information</b></p>
-<ul>
-<li>FIFO roster</li>
-<li>Candidates <b>must be based</b> in Australia and meet the requirements to obtain an Indonesian work visa</li>
-</ul>
-<p><b>How to Apply</b></p>
-<p>If you're ready to take on a challenging and rewarding role with a global industry leader, apply via:</p>
-<p><b>www.caterpillar.com/careers</b></p>
-<p><b>Your road to success begins with Caterpillar.</b> Join a global leader and build a career with real impact.</p>
-<p>_Caterpillar is an Equal Opportunity Employer._</p>
-<p>_Caterpillar of Australia is not currently hiring applicants who require sponsorship. As a global company, opportunities may be available in other locations via our careers website._</p>
-<p>This position requires working onsite five days a week.Visa Sponsorship is not available for this position. <b>Posting Dates:</b></p>
-<p>Caterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6af75387b270f537a74ea7bc?src=adzuna]]></url>
-    <location><![CDATA[Perth, Western Australia]]></location>
-    <country><![CDATA[AU]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Caterpillar]]></company>
-    <category>5</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-11-13T18:14:31.405Z]]></date>
   </job>
   <job>
     <id><![CDATA[6af75386b593fc915be6a74a]]></id>
@@ -28962,32 +29197,6 @@
     <date><![CDATA[2026-11-06T18:36:12.349Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6aee1e1ba8bfc0a55f379bb9]]></id>
-    <title><![CDATA[Senior Data Engineer, Product Analytics, Payments]]></title>
-    <description><![CDATA[<h3>About the job</h3>
-<p>As a Technical Solutions Consultant, you will be responsible for the technical relationship of our largest advertising clients and/or product partners. You will lead cross-functional teams in Engineering, Sales and Product Management to leverage emerging technologies for our external clients/partners. From concept design and testing to data analysis and support, you will oversee the technical execution and business operations of Google's online advertising platforms and/or product partnerships.</p>
-<p>You will be able to balance business and partner needs with technical constraints, develop innovative solutions and act as a partner and consultant to those you are working with. You will also be able to build tools and automate products, oversee the technical execution and business operations of Google's partnerships, as well as develop product strategy and prioritize projects and resources.</p>
-<p>Whether it is paying online with Autofill, using tap and pay in stores, or using the Google Pay app, the Payments team at Google is focused on making payments simple, seamless, and secure. In addition to consumer payment technologies, the Payments team also powers the money movement between Google and its consumers and businesses.</p>
-<h3>Responsibilities</h3>
-<ul>
-<li>Design and build agentic analytics systems leveraging Large Language Models (LLMs) and AI to automate insight generation and workflows. Translate product needs into production-grade data systems (models, pipelines, and services).</li>
-<li>Lead the design and coordination of analytics infrastructure powering product analytics across payments.</li>
-<li>Build AI-native analytics workflows, embedding intelligence directly into data and decision systems.</li>
-<li>Partner with product, data science, and engineering to shape problem definitions and deliver the solutions.</li>
-<li>Drive data quality, reliability, and governance standards across critical analytics systems. Build internal tools and frameworks to enable self-serve analytics and faster iteration for product teams.</li>
-</ul>
-<p>Information collected and processed as part of your Google Careers profile, and any job applications you choose to submit is subject to Google's [Applicant and Candidate Privacy Policy](./privacy-policy).</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aee1e1ba8bfc0a55f379bb9?src=adzuna]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Google (Data Centers)]]></company>
-    <category>5</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-11-06T18:36:11.967Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6aee1e1b4e6bbf97f4e87184]]></id>
     <title><![CDATA[Technical Program Manager, DCNet Delivery, Global Network Delivery]]></title>
     <description><![CDATA[<h3>About the job</h3>
@@ -37019,73 +37228,6 @@
     <date><![CDATA[2026-11-04T18:23:02.711Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6aeb76d67103702474ec3353]]></id>
-    <title><![CDATA[Senior Design Engineer]]></title>
-    <description><![CDATA[<h3>Job Description</h3>
-<p><b>Your Work Shapes the World at Caterpillar Inc.</b></p>
-<p>When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.</p>
-<p><b>Job Purpose –</b></p>
-<p>The MTP L6 Project Leader will lead Medium Tractor Products programs and projects executed from India, partnering with global engineering, product, manufacturing, procurement, quality, validation, and commercial teams.</p>
-<p>The role translates program objectives into executable plans, driving and collaborating with the global team to deliver committed scope, timing, cost, and quality targets.</p>
-<p>As the key cross-functional integration point, the Project Leader manages risks, facilitates decisions, removes execution barriers, and keeps deliverables aligned with MTP business and product objectives.</p>
-<h3>Key Responsibilities</h3>
-<ul>
-<li><b>Program &amp; Project Leadership:</b> Lead NPI, NTI, NSI, cost, quality and product improvement projects from planning through implementation, defining scope, milestones, resources and success criteria.</li>
-</ul>
-<ul>
-<li><b>Global Cross-Functional Leadership:</b> Align India and global engineering, manufacturing, supply, quality, validation and commercial teams, influencing decisions without direct authority.</li>
-</ul>
-<ul>
-<li><b>Scope, Schedule, Cost &amp; Quality Management:</b> Control scope, track critical-path milestones and balance technical, cost and quality trade-offs, driving recovery plans when targets are at risk.</li>
-</ul>
-<ul>
-<li><b>Risk, Issue &amp; Decision Management:</b> Identify risks early, develop mitigation plans with functional owners, and escalate critical issues with clear options and recommendations, driving decisions to closure.</li>
-</ul>
-<ul>
-<li><b>Product Development Execution:</b> Execute within Caterpillar product-development processes, applying design reviews, APQP and validation rigor to deliver production-ready solutions that meet customer and business requirements.</li>
-</ul>
-<ul>
-<li><b>Stakeholder Communication &amp; Governance:</b> Provide concise project health reporting on status, cost, quality, risks and decisions required and run reviews with clear owners and due dates.</li>
-</ul>
-<ul>
-<li><b>Continuous Improvement &amp; Capability Building:</b> Apply Lean, CPI and structured problem-solving, capture lessons learned, and coach engineers to build project leadership capability in MTP India.</li>
-</ul>
-<p><b>Required Qualifications &amp; Experience</b></p>
-<ul>
-<li>Bachelor's or master’s degree in mechanical, Automobile, Production, Manufacturing, Electrical or a related engineering discipline.</li>
-<li>Proven experience leading complex, multi-functional engineering projects or workstreams.</li>
-<li>Strong understanding of product development from requirements through design, validation, release and production.</li>
-<li>Demonstrated ability to manage scope, schedule, cost, quality, risks and dependencies with global, distributed teams.</li>
-<li>Strong planning, communication, analytical and decision-making skills, with the ability to influence and drive accountability without direct authority.</li>
-</ul>
-<p><b>Top Candidates Will Also Have</b></p>
-<ul>
-<li>Experience with Caterpillar NPI, NTI and/or NSI program/project leadership.</li>
-<li>Experience leading machine or major subsystem development projects.</li>
-<li>Working knowledge of APQP, CPPD/LPPD, FMEA, validation and engineering release processes.</li>
-<li>Experience with product cost, value engineering, manufacturing readiness, supplier development, or product-quality improvement.</li>
-<li>CPI/Black Belt or equivalent structured project/problem-solving experience.</li>
-<li>Global experience with integrated engagement with India teams.</li>
-<li>Demonstrated ability to communicate effectively with senior technical and business leaders.</li>
-</ul>
-<p><b>Additional Details</b></p>
-<ul>
-<li>Work location: Chennai, WTC.</li>
-<li>This position may require travel up to 15%</li>
-</ul>
-<p>This position requires working onsite five days a week.Relocation is available for this position.Visa Sponsorship is not available for this position. <b>Posting Dates:</b></p>
-<p>November 4, 2026 - November 17, 2026 Caterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aeb76d67103702474ec3353?src=adzuna]]></url>
-    <location><![CDATA[Chennai, WTC., Tamil Nadu]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Caterpillar]]></company>
-    <category>12</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-11-04T18:17:58.462Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6aeb76d6dc7a841fd67b27bc]]></id>
     <title><![CDATA[Aftermarket Sales Representative - Power & Energy]]></title>
     <description><![CDATA[<h3>Job Description</h3>
@@ -37491,101 +37633,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-11-04T18:17:57.734Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6aeb76c0ec52c81a6606d7f5]]></id>
-    <title><![CDATA[Manager Technology]]></title>
-    <description><![CDATA[<h3>Job Description</h3>
-<p><b>Your Work Shapes the World at Caterpillar Inc.</b></p>
-<p>When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.</p>
-<h3>Job Purpose</h3>
-<p>The <b>Technology Manager – Electrical &amp; Cab Systems</b> will lead the MTP India engineering team responsible for <b>Electrical Lines Integration (ELI) and Cab systems</b>, providing people leadership, technical direction, system ownership, and execution excellence across current and future Medium Tractor Products.</p>
-<p>The role will build and develop a strong India-based systems engineering organization capable of partnering effectively with global MTP teams and delivering product-development commitments across <b>scope, timing, cost, quality, reliability and customer requirements</b>.</p>
-<p>The Technology Manager will be accountable for developing engineering capability, assuring technical quality, deploying resources against business priorities, strengthening global collaboration, and developing the next generation of technical and project leaders within the organization.</p>
-<p>The proposed organization already combines <b>Electrical Lines Integration &amp; Cab</b> under one SG24 Technology Manager and identifies the team as an L4 systems organization.</p>
-<h3>Key Responsibilities</h3>
-<p><b>Lead the Electrical &amp; Cab Systems Organization</b></p>
-<ul>
-<li>Lead the MTP India <b>Electrical Lines Integration and Cab Systems</b> team.</li>
-<li>Set priorities and align resources to NPI, NTI, NSI and current-product needs.</li>
-<li>Define India/global workshare and grow India system project ownership.</li>
-</ul>
-<p><b>Provide L4 Systems Leadership</b></p>
-<ul>
-<li>Own technical direction for <b>electrical installation and cab systems</b>.</li>
-<li>Ensure robust requirements, integration, FMEA, validation and release.</li>
-<li>Balance <b>reliability, cost, safety and customer needs</b>; resolve system issues.</li>
-</ul>
-<p><b>Deliver Program &amp; Product Commitments</b></p>
-<ul>
-<li>Deliver to <b>scope, timing, cost and quality targets</b>.</li>
-<li>Plan milestones and resources; mitigate technical and schedule risks.</li>
-<li>Close design, manufacturing, supplier and field issues on time.</li>
-</ul>
-<p><b>Global Cross-Functional Collaboration</b></p>
-<ul>
-<li>Act as primary India interface for global Electrical &amp; Cab stakeholders.</li>
-<li>Collaborate across <b>engineering, manufacturing, procurement, suppliers and quality</b>.</li>
-<li>Influence decisions and represent the team in global reviews.</li>
-</ul>
-<p><b>Build Technical Capability &amp; Engineering Excellence</b></p>
-<ul>
-<li>Build a capability roadmap and close critical skill gaps.</li>
-<li>Grow engineers toward <b>subsystem and L4 system ownership</b>.</li>
-<li>Drive mentoring, knowledge transfer, Lean/CPI and automation.</li>
-</ul>
-<p><b>People Leadership &amp; Talent Development</b></p>
-<ul>
-<li>Attract, develop and retain high-performing engineering talent.</li>
-<li>Coach on performance and build succession for critical roles.</li>
-<li>Foster <b>ownership, inclusion and continuous improvement</b>.</li>
-</ul>
-<p>The current organizational proposal anticipates Technology Managers with a focused L4 mandate and approximately <b>15 to 20 direct reports</b>.</p>
-<h3>Required Qualifications</h3>
-<ul>
-<li>Bachelor's/master’s in <b>electrical, Electronics, Mechanical, Mechatronics or Automotive Engineering</b>.</li>
-<li>Strong product-development experience in off-highway, automotive or similar complex products.</li>
-<li>Proven experience leading engineering teams.</li>
-<li>Solid grasp of systems engineering and product-development processes.</li>
-<li>Track record delivering to <b>scope, schedule, cost and quality</b>.</li>
-<li>Experience working with global, cross-functional teams.</li>
-<li>Strong leadership, communication, influencing and problem-solving skills.</li>
-</ul>
-<p><b>Preferred Experience</b></p>
-<ul>
-<li>Experience with <b>electrical installation, electrical architecture, harnessing, cab/operator environment or related machine systems</b>.</li>
-<li>Experience leading subsystem or machine-level engineering.</li>
-<li>Experience with <b>NPI, NTI, NSI and current-product engineering</b>.</li>
-<li>Working knowledge of <b>FMEA, APQP, validation, DFM&amp;A, engineering release and structured problem solving</b>.</li>
-<li>Experience with product cost, quality improvement and manufacturing/supplier collaboration.</li>
-<li>Experience leading geographically distributed engineering teams.</li>
-<li>Lean, CPI or Six Sigma experience.</li>
-</ul>
-<p><b>Top Candidates Will Also Have</b></p>
-<ul>
-<li>Proven record of <b>developing electrical and cab engineers</b> into subsystem and L4 owners.</li>
-<li>Experience building <b>skill matrices and development plans</b> for electrical and cab competencies.</li>
-<li>Strength in <b>setting clear goals</b> and running regular performance check-ins.</li>
-<li>Ability to <b>differentiate performance</b>, recognize top talent and address gaps promptly.</li>
-<li>Experience leading <b>15–20 direct reports</b>, including leads and engineers at mixed levels.</li>
-<li>Track record of <b>succession planning</b> and retaining critical technical talent.</li>
-</ul>
-<p><b>Additional Details</b></p>
-<ul>
-<li>Work location: Chennai, WTC</li>
-<li>This position may require travel up to 10%</li>
-</ul>
-<p>This position requires working onsite five days a week.Relocation is available for this position.Visa Sponsorship is not available for this position. <b>Posting Dates:</b></p>
-<p>November 4, 2026 - November 17, 2026 Caterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aeb76c0ec52c81a6606d7f5?src=adzuna]]></url>
-    <location><![CDATA[Chennai, WTC, Tamil Nadu]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Caterpillar]]></company>
-    <category>5</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-11-04T18:17:36.245Z]]></date>
   </job>
   <job>
     <id><![CDATA[6aeb76b8eb33221b6363e3f2]]></id>
@@ -62470,20 +62517,6 @@
     <date><![CDATA[2026-10-26T19:08:27.246Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6adfa51e14cedbe8775ab35e]]></id>
-    <title><![CDATA[Data Center Inventory & Asset Technician Manager]]></title>
-    <description><![CDATA[<p>Graduate with 5+ year(s) experience warehouse/supply chain in an information technology (IT) environment, inventory management, retail, warehouse management, logistics, or a related field. These requirements include, but are not limited to the following specialized security screenings: 5+ year(s) experience in warehouse/supply chain in an information technology (IT) environment, IT, and/or logistics, operating heavy-load movement equipment (e.g., forklift, pallet jacks, chassis lifts) for a large corporation OR equivalent experience. 1+ year(s) project management experience. Certification in American Production and Inventory Control Society (APICS)/Association for Supply Chain Management (ASCM), International Association of Information Technology Asset Managers (IAITAM), Inventory Control, OR equivalent. Customer Service Ensures that all issues are documented, tracked, discussed, and resolved with internal and external stakeholders as well as suppliers with consistent and complete communication. Drives focus on accurately and efficiently completing Inventory and Asset Management (IAM) tasks through a team up to headcount cap. Engages with internal and external stakeholders, maintaining relationships with vendors and providing oversight, to manage issues. Ensures all data bearing devices (DBDs) are destroyed within the allotted time, and all data bearing devices leaving premises do not contain customer information. Coordinates with and oversees any third-party vendors who perform DBD destruction as necessary, managing external vendor relationships. Responsible for overall day-to-day operations and ensures inbound and outbound measuring processes are running smoothly and effectively and inventory parts are properly stored. Ensures items logged within Intelligence Communication Manager (ICM) are resolved and deals with the escalated issues. Enables strategies for space optimization, driving identification of opportunities to improve inventory to address space constraints, driving new build design and availability of inventory or storage rooms. Ensures escalations are resolved, and clears blocking issues to enable continued delivery of Inventory and Asset Management (IAM) activities. Collaborates with internal stakeholders to influence workstreams towards a more simplified and/or automated approach by evolving processes, services, and solutions to increase efficiency and manage costs. Ensures completion of required security and data management training and complies with security and data management procedures/policies. Managers deliver success through empowerment and accountability by modeling, coaching, and caring. Enable success across boundaries. Manages and coordinates any escalated task risks and reported issues, establishing safety standard operating procedures for new equipment (e.g., server rack tugs, electric pallet jacks, forklifts). Works with internal stakeholders as needed related to finances around incorrectly handled RMA and non-RMA warranties.</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6adfa51e14cedbe8775ab35e?src=adzuna]]></url>
-    <location><![CDATA[Hyderabad, Telangana]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Microsoft (Datacenters)]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-10-26T19:08:14.114Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6adfa0dbd199a901975e85f5]]></id>
     <title><![CDATA[BIM Electrical Engineer]]></title>
     <description><![CDATA[<p><b>Build your best future with the Johnson Controls team</b></p>
@@ -64247,52 +64280,6 @@
     <contract_type>contract</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-10-23T20:22:19.823Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6adbc1fb1e1b14dc8cd539b7]]></id>
-    <title><![CDATA[Retail Consultant, Karingal]]></title>
-    <description><![CDATA[<p>Karingal, Australia</p>
-<h3>Company</h3>
-<p>Singtel Group</p>
-<p>Optus is one of Australia’s leading telecommunications providers, connecting more than 11 million customers every day across mobile, broadband and digital solutions.</p>
-<p>We’re looking for a vibrant and motivated <b>Casual Retail Service Consultant</b> to join our <b>Karingal</b> team. If you love helping people, thrive in being a part of a supportive crew, and bring positive energy to every interaction, then we’d love to have you on board!</p>
-<p>At Optus, you’ll feel connected to what truly matters. We collaborate with purpose, lift each other up, take accountability, act with integrity, and celebrate as one team. Together, we learn, grow, tackle challenges and build genuine relationships with our customers and with each other.</p>
-<h3>What you’ll do</h3>
-<ul>
-<li>Be the face of Optus, delivering standout customer experiences powered by optimism, curiosity and genuine care.</li>
-<li>Explore our range of tech products and services, and share your knowledge in a way that’s simple, helpful and accessible.</li>
-<li>Bring your personality and charm to uncover customer needs and deliver personalised solutions that make their day.</li>
-<li>Work as one team, crafting a warm, welcoming environment where customers feel supported and memorable moments happen.</li>
-</ul>
-<h3>What you bring</h3>
-<ul>
-<li><b>Service Superpower:</b> You know how to understand customer needs, deliver genuine support, and let phenomenal service drive fantastic outcomes.</li>
-<li><b>Tech Explorer:</b> You enjoy helping customers make sense of tech by breaking things down simply and guiding them to the right solutions.</li>
-<li><b>Problem Solving Pro:</b> You listen with empathy, act with integrity, and turn challenges into opportunities to help with calm, practical solutions.</li>
-<li><b>Composure Under Pressure:</b> You’re confident in navigating difficult enquiries, ease tricky situations with empathy and respect, and work toward the best solution for the customer.</li>
-<li><b>Team Spirit:</b> You build strong connections with your teammates, support one another, stay accountable, and create a customer‑first environment where everyone succeeds.</li>
-</ul>
-<h3>What’s in it for you?</h3>
-<ul>
-<li>$35 p/h + super + applicable loadings.</li>
-<li>Phenomenal perks, including 25% off Optus products and exclusive access to unique discounts with our retail partners.</li>
-<li>Build meaningful connections through employee-led networks and diversity initiatives including Culture Connect, Elevate Women, Yarn First Nations, Disability Network and Express Yourself (LGBTQIA+).</li>
-<li>Put your wellbeing first with free access to counselling and support services, available 24/7 across multiple channels.</li>
-<li>Flexible rosters that work around the life you live outside of work.</li>
-</ul>
-<p><b>Intrigued, but not sure you tick every box?</b> That’s completely okay! We still encourage you to apply. We all grow, learn and develop together, and this role might be the perfect next step in your career journey.</p>
-<p>At Optus, we are strengthened by others and that means valuing diversity and saying ‘yes’ to embracing individual differences. We are committed to ensuring that our application process provides an equal employment opportunity to all job seekers, including individuals from diverse gender, cultural and linguistic backgrounds, individuals with a disability, individuals identifying as being part of the LGBTQIA+ community, individuals who may have served in the armed forces or who identify as Aboriginal and/or Torres Strait Islander. We also want to do our best to make our recruitment process inclusive. If you require any adjustments or accessibility support to participate fairly and equitably in the recruitment process, please email [AccessibleRecruitment@optus.com.au](mailto:accessiblerecruitment@optus.com.au) or call 1800 309 170.</p>
-<p>For more information on Diversity, Inclusion &amp; Belonging at Optus, please visit [https://www.optus.com.au/about/inclusion-diversity](https://www.optus.com.au/about/inclusion-diversity)</p>
-<p>#LI-VH1</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6adbc1fb1e1b14dc8cd539b7?src=adzuna]]></url>
-    <location><![CDATA[Sydney, New South Wales]]></location>
-    <country><![CDATA[AU]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Singtel Digital InfraCo]]></company>
-    <category>13</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-10-23T20:22:19.346Z]]></date>
   </job>
   <job>
     <id><![CDATA[6adbc1fac0c4343fb2f0bc3e]]></id>
@@ -78350,84 +78337,6 @@
     <date><![CDATA[2026-10-16T21:17:05.337Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6ad294503bde7dbf043d9f03]]></id>
-    <title><![CDATA[Hyperscale Customer Program Manager 4 - Singapore - Hong Kong - Sydney]]></title>
-    <description><![CDATA[<h3>Job Summary</h3>
-<p>This is a senior, high-visibility role at the heart of Equinix’s most strategic growth engine. As a Hyperscale Customer Program Manager, you will own the end-to-end delivery of large, complex xScale deployments for some of the world’s largest cloud and AI customers, spanning multiple sites, regions and internal teams. You will be the single point of accountability for the customer programme: from contract handover and design, through construction and commissioning, to acceptance, billing and close-out. You will operate with significant autonomy, engage at executive level with customers and internal leadership, and help shape how Equinix delivers at hyperscale.</p>
-<h3>Responsibilities</h3>
-<p>Program Delivery &amp; Execution</p>
-<ul>
-<li>Lead large-scale, cross-functional, multi-site and cross-regional customer deployments from contract handover through to acceptance and closure.</li>
-<li>Own the integrated programme schedule, deployment plans and lifecycle milestones, aligning design, construction, commissioning and ready-for-service dates.</li>
-<li>Translate contract commitments (lease terms, technical specifications, delivery dates and SLAs) into a clear, baselined delivery plan.</li>
-<li>Track critical-path dependencies such as permits, utility power, long-lead equipment and customer fit-out, and drive mitigation plans.</li>
-<li>Identify, manage and mitigate delivery risks and in-flight changes, communicating impact clearly and early to customers and internal stakeholders.</li>
-</ul>
-<p>Commercial &amp; Financial Management</p>
-<ul>
-<li>Manage the change order process end to end: scope, impact assessment, pricing input, approval and contract alignment.</li>
-<li>Track billing and rent commencement milestones so revenue is recognised on time and invoicing is accurate.</li>
-<li>Support book-to-bill and backlog reporting with accurate forecast dates and delivery status.</li>
-<li>Protect Equinix’s commercial position by ensuring work only proceeds against agreed scope and approved changes.</li>
-</ul>
-<p>Customer &amp; Stakeholder Management</p>
-<ul>
-<li>Serve as the primary customer interface throughout delivery, maintaining an executive-level presence and trusted-advisor relationship.</li>
-<li>Run the programme governance rhythm: weekly delivery calls, monthly approval committees and executive reviews covering progress, risks, decisions and milestones.</li>
-<li>Produce clear, concise executive reporting, including status dashboards, risk registers, issue notices and close-out documentation.</li>
-<li>Build lasting relationships with customer stakeholders across construction, operations, procurement and leadership.</li>
-</ul>
-<p>Escalations &amp; Issue Resolution</p>
-<ul>
-<li>Independently manage standard and mid-level escalations; partner with senior leadership on complex or contractual issues.</li>
-<li>Drive resolution with professionalism and persistence, holding internal teams and vendors accountable for commitments and outcomes.</li>
-</ul>
-<p>Cross-Functional Leadership</p>
-<ul>
-<li>Coordinate across Sales, Legal, Design &amp; Construction, Engineering, Operations, Finance, Procurement and external vendors to align delivery.</li>
-<li>Lead without direct authority, setting clear ownership and actions and removing blockers proactively.</li>
-<li>Manage a smooth handover from construction to operations/customer, including commissioning, customer acceptance and onboarding.</li>
-</ul>
-<p>Continuous Improvement</p>
-<ul>
-<li>Capture and apply lessons learned through customer and internal debriefs to improve future deployments.</li>
-<li>Contribute to standard processes, templates, tooling and governance within the global Customer Service Delivery organisation.</li>
-<li>Mentor and support less experienced Customer Program Managers and contractors where needed.</li>
-</ul>
-<h3>Qualifications</h3>
-<p>Essential</p>
-<ul>
-<li>8+ years’ experience managing large, complex, customer-facing programmes in data centre, construction, technology or critical infrastructure environments.</li>
-<li>Proven ability to work with minimal supervision, exercise sound judgement and own delivery outcomes end to end.</li>
-<li>Experience engaging and influencing at executive level with enterprise or hyperscale customers.</li>
-<li>Strong understanding of data centre delivery: power, cooling, construction phases, commissioning and colocation or wholesale products.</li>
-<li>Commercial awareness, including change control, contract interpretation and milestone-based billing.</li>
-<li>Excellent written and verbal communication skills, including concise executive reporting.</li>
-<li>Highly organised, with strong attention to detail and the ability to run multiple concurrent workstreams.</li>
-</ul>
-<p>Desirable</p>
-<ul>
-<li>Previous experience in a hyperscale, xScale or cloud campus deployment.</li>
-<li>Background working with permitting authorities, utilities or general contractors.</li>
-<li>Familiarity with tools such as Smartsheet, Tableau, Salesforce or equivalent platforms.</li>
-<li>Formal project management qualification (PMP, PgMP, PRINCE2/MSP or equivalent).</li>
-<li>Experience with order management, book-to-bill processes or service delivery operations.</li>
-</ul>
-<p>Equinix is committed to ensuring that our employment process is open to all individuals, including those with a disability. If you are a qualified candidate and need assistance or an accommodation, please let us know by completing [this form](https://forms.office.com/pages/responsepage.aspx?id=cbKtcscv_kql7p3mpZ9r-50RYwLmhPpKtmEYPKOcl8hURTBBN0xMTllDRVc0VkJUSEYxMEk1V0NJQS4u&amp;origin=lprLink).</p>
-<p>Equinix is an Equal Employment Opportunity and, in the U.S., an Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to unlawful consideration of race, color, religion, creed, national or ethnic origin, ancestry, place of birth, citizenship, sex, pregnancy / childbirth or related medical conditions, sexual orientation, gender identity or expression, marital or domestic partnership status, age, veteran or military status, physical or mental disability, medical condition, genetic information, political / organizational affiliation, status as a victim or family member of a victim of crime or abuse, or any other status protected by applicable law.</p>
-<p><b>We use artificial intelligence in our hiring process. Learn more </b>[<b>here</b>](https://careers.equinix.com/equinix-ai-guidance-for-candidates)<b>.</b></p>
-<p>This posting is a new position within our organization.<i>*</i>*</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6ad294503bde7dbf043d9f03?src=adzuna]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Equinix]]></company>
-    <category>12</category>
-    <contract_type>contract</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-10-16T21:17:04.955Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6ad2932d57cc44aceef1164c]]></id>
     <title><![CDATA[Director, Security Operations, APAC]]></title>
     <description><![CDATA[<p>Led by an experienced management team and supported by a strong investor group, including large and experienced institutions and strategic partners, EdgeConneX offers a dynamic, fast-paced work environment where we are bringing flexibility, proximity, power, and connectivity to some of the world’s key businesses. With major offices in Herndon, Denver, Amsterdam, Singapore and Malaysia, we have a global footprint and a unified team of employees committed to providing a premier customer experience and delivering the full spectrum of data center solutions, from core to edge, like no other data center provider can do.</p>
@@ -79223,75 +79132,6 @@
     <contract_type>contract</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-10-16T20:26:28.076Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6ad28873502ad23bc01b52c3]]></id>
-    <title><![CDATA[Health & Safety Manager - Systems and Analytics]]></title>
-    <description><![CDATA[<h3>Who we are</h3>
-<p>Where performance meets sustainability, Digital Edge is a leading data center platform in Asia Pacific, delivering sustainable, next-generation, AI-ready digital infrastructure at scale. Headquartered in Singapore and backed by Stonepeak, we operate a rapidly expanding platform with over 30 data centers and 1.8GW of secured IT power across key markets.</p>
-<p>Our mission is to build the foundation for the world’s digital future, helping organizations to grow sustainably and empowering the populations they serve. We differentiate through execution – delivering at speed and at scale while combining global standards with deep local expertise. This enables us to provide consistent, sustainable and high-performance infrastructure for hyperscalers and enterprises across the region.</p>
-<p>As Asia Pacific’s digital transformation accelerates, Digital Edge is building the infrastructure that powers the next wave of AI and cloud growth. Joining Digital Edge means being part of a high-growth platform at the forefront of AI and cloud infrastructure, where you can make a tangible impact on Asia-Pacific’s digital future.</p>
-<p><b>Our values:</b></p>
-<ul>
-<li><b>Respect: We embrace diversity and collaboration.</b></li>
-</ul>
-<ul>
-<li><b>Innovation: We share ideas and solve problems.</b></li>
-</ul>
-<ul>
-<li><b>Strive: We are driven and determined.</b></li>
-</ul>
-<ul>
-<li><b>Excellence: We seek to deliver the best.</b></li>
-</ul>
-<ul>
-<li><b>Responsibility: We do what’s right for our people and the planet.</b></li>
-</ul>
-<p><b>What we need:</b></p>
-<p>Reporting to the Head of Health &amp; Safety (H&amp;S), this role leads the development, implementation and continuous improvement of H&amp;S management systems, programs, performance reporting and analytics across Digital Edge’s APAC portfolio.</p>
-<p>The role provides platform-level oversight of H&amp;S performance, including Permit to Work implementation and high-risk activity controls through digital dashboards, leading indicators and data-driven assurance, working closely with Regional, Country and Campus Health and Safety teams to identify systemic gaps, strengthen governance and drive continuous improvement.</p>
-<p>This role will be based in Singapore, with regular engagement across Digital Edge’s regional portfolio.</p>
-<h3>Key responsibilities</h3>
-<ul>
-<li>Lead the development, maintenance and continuous improvement of Health and Safety management systems, procedures, programs and reporting frameworks across the APAC portfolio.</li>
-<li>Manage and develop the H&amp;S Program Manager and H&amp;S Analyst, providing direction, priorities, coaching and performance oversight.</li>
-<li>Establish and maintain platform-level Health and Safety dashboards, leading and lagging indicators, performance scorecards and management reporting.</li>
-<li>Monitor Permit to Work implementation and performance across sites through digital dashboards and analytics, identifying gaps in permit compliance, implementation effectiveness, high-risk activity controls, trends and recurring weaknesses, and escalating systemic risks to relevant leadership teams.</li>
-<li>Work closely with Regional, Country and Campus Health and Safety teams to translate performance data, assurance findings and operational feedback into targeted improvements and corrective actions.</li>
-<li>Oversee the development, rollout and continuous improvement of Health and Safety programs, procedures, tools and guidance across construction, commissioning and operational environments.</li>
-<li>Lead the development, implementation and continuous improvement of the Office Health and Safety Program across Digital Edge’s APAC offices, including workplace risk assessments, ergonomics, emergency preparedness, employee awareness and compliance with applicable regulatory requirements.</li>
-<li>Define data governance, reporting requirements and performance measurement methodologies to ensure consistency, accuracy and reliability of Health and Safety information across markets.</li>
-<li>Coordinate platform-level Health and Safety performance reporting, including monthly management reports, leadership presentations, H&amp;S SteerCo materials and other governance requirements.</li>
-<li>Monitor incident trends, high-potential events, corrective action status and recurring findings, providing analytics and insights to support systemic learning, risk reduction and escalation of overdue or recurring corrective actions.</li>
-<li>Support the integration and improvement of digital Health and Safety platforms, reporting tools and workflows, including automation and analytics capabilities.</li>
-<li>Coordinate with the APAC Standards and Assurance team to align management systems, program requirements, dashboards and performance indicators with technical standards and assurance priorities.</li>
-<li>Support management system audits, ISO certification requirements and continual improvement initiatives, including ISO 45001 and relevant integrated management system requirements.</li>
-<li>Actively champion and implement the organization’s policies on health and safety, environment, energy, quality, information security, and business continuity, ensuring adherence to incident reporting, legal, and regulatory requirements.</li>
-</ul>
-<p><b>The successful candidate:</b></p>
-<ul>
-<li>Bachelor’s degree in Occupational Health and Safety or Engineering, Data Analytics, Information Systems, or a related discipline, with recognized professional Health and Safety qualifications or certifications.</li>
-<li>More than 10 years of progressive experience in Health and Safety management systems, performance reporting, programs, assurance or analytics, including experience leading teams or regional initiatives.</li>
-<li>Proven experience in complex, high-risk or mission-critical environments, including data centers, pharmaceutical, chemical, or process industries.</li>
-<li>Strong understanding of Health and Safety management systems, ISO 45001, risk management, high-risk activities and Permit to Work processes.</li>
-<li>Demonstrated experience developing and managing performance dashboards, leading and lagging indicators, reporting frameworks and data analytics.</li>
-<li>Proficiency in Power BI, Excel and other business intelligence or digital reporting tools, with the ability to interpret complex datasets and communicate actionable insights.</li>
-<li>Experience managing Health and Safety programs, procedures, digital systems and improvement initiatives across multiple sites or countries.</li>
-<li>Strong analytical capability, attention to data integrity and ability to identify systemic risks, trends and emerging performance issues.</li>
-<li>Proven ability to engage and influence senior leadership, Regional and Country teams, translating data into clear recommendations and management presentations.</li>
-<li>Experience managing and developing team members, with strong planning, prioritisation and stakeholder management skills.</li>
-<li>Strong written and verbal English communication skills, with the ability to work effectively across diverse cultures and regional teams.</li>
-</ul>
-<p><b>If you’re ready to help shape the next phase of a fast‑growing digital infrastructure platform, we’d like to hear from you.”</b></p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6ad28873502ad23bc01b52c3?src=adzuna]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Digital Edge]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-10-16T20:26:27.690Z]]></date>
   </job>
   <job>
     <id><![CDATA[6ad28873c433462164073823]]></id>
@@ -123611,106 +123451,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-24T20:52:19.879Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6ab58d83bf0dd3f541589354]]></id>
-    <title><![CDATA[Senior Critical Operations Technician (Australia)]]></title>
-    <description><![CDATA[<h3>Company Overview</h3>
-<p>STACK Infrastructure builds, owns, and operates hyperscale and colocation data centers that power the world’s most ambitious technology companies. With a rapidly expanding footprint across APAC, STACK combines deep development expertise, flexible capital, and operational discipline to deliver critical digital infrastructure at scale.</p>
-<p>Our clients include the largest hyperscale cloud platforms. We are building a regional platform defined by speed of delivery, power reliability, and long-term partnership — and we are assembling the team to lead that effort.</p>
-<h3>Summary/Objective</h3>
-<p>The Senior Critical Operations Technician is the senior on-shift technical role responsible for ensuring safe, stable and consistent operation of critical electrical, mechanical, cooling, controls and life-safety systems. The role provides elevated technical capability, supports first-response incident actions, verifies plant condition after maintenance or resets, and guides technicians in executing operational tasks with accuracy and discipline. This position supports STACK’s 100% uptime commitment through strong operational judgement, trend awareness, structured troubleshooting and the ability to stabilise plant conditions within authorised boundaries. The Senior Technician also enhances shift performance by coaching team members, refining documentation quality and maintaining a concierge-level customer service approach in all interactions with customers, visitors and stakeholders.</p>
-<h3>Essential Functions</h3>
-<p>Reasonable accommodations may be made to enable individuals with disabilities to perform these essential functions.</p>
-<h3>Critical Operations</h3>
-<ul>
-<li>Support STACK’s 100% uptime objective through disciplined operational control, proactive monitoring and accurate technical response.</li>
-<li>Maintain real-time awareness of plant condition through BMS/EPMS, alarms and inspections, taking timely actions within authorised limits.</li>
-<li>Provide senior technical support to shift technicians, assisting with prioritisation, procedural clarity and execution quality.</li>
-<li>Operate and monitor critical electrical and/or mechanical systems, including UPS, PDUs, switchboards, generators, CRAC/CRAH, CDU/FWU, chilled water systems, pumps and associated plant, strictly within approved procedures and authorisations.</li>
-<li>Perform structured diagnostics on abnormal conditions, apply permitted stabilisation actions and escalate with clear technical detail and recommended next steps.</li>
-<li>Support operational event response, including immediate containment actions, technical communication and accurate event documentation.</li>
-<li>Conduct enhanced rounds including thermal, capacity, vibration/noise, leak detection and set-point verification, ensuring findings are recorded and actioned.</li>
-<li>Identify trends, weak signals and reliability concerns using BMS/EPMS data and provide recommendations to prevent recurrence.</li>
-<li>Manage on-shift work execution with strict adherence to permit-to-work controls, isolations/LOTO, vendor access and operational handbacks.</li>
-<li>Coordinate vendor activities during shift, ensuring safe execution, clear understanding of plant impacts and thorough return-to-service verification.</li>
-<li>Validate operational readiness following maintenance, resets or configuration changes, confirming alarms, redundancy, load paths and expected operating conditions.</li>
-<li>Review and improve the quality of shift logs, event notes, CMMS entries and handovers to ensure accuracy, clarity and traceability.</li>
-<li>Raise and escalate recurring defects, reliability risks and improvement opportunities through appropriate channels.</li>
-<li>Contribute to procedure reviews, readiness activities, drills and documentation improvements with practical, shift-based insights.</li>
-<li>This role does not perform licensed electrical, mechanical or refrigeration work. All trade-restricted activities are completed by appropriately qualified and licensed personnel. The Senior Technician focuses on operational system management, first-response stabilisation, verification and coordination.</li>
-</ul>
-<h3>People</h3>
-<ul>
-<li>Set a high standard for safety behaviour, operational discipline and professional conduct across the shift.</li>
-<li>Support technicians through on-the-job coaching, demonstrations and constructive feedback to improve capability and consistency.</li>
-<li>Assist with onboarding and familiarisation of new team members, reinforcing authorised boundaries and operational expectations.</li>
-<li>Strengthen team communication by ensuring clear handovers, accurate escalation details and calm coordination during events.</li>
-<li>Participate actively in briefings, toolbox talks, training and operational discussions, offering practical observations and improvement ideas.</li>
-<li>Build collaborative relationships with Security, Projects and vendor personnel to support safe, coordinated site operations.</li>
-<li>Demonstrate a concierge-level customer service approach in all interactions with customers, visitors and stakeholders.</li>
-</ul>
-<h3>Competencies</h3>
-<ul>
-<li>Strong operational discipline and sound judgement in a critical facility environment.</li>
-<li>High technical capability in electrical and/or mechanical systems within authorised boundaries.</li>
-<li>Effective structured troubleshooting and stabilisation capability under pressure.</li>
-<li>Ability to interpret alarms, telemetry, trends and technical documentation.</li>
-<li>Proficiency with BMS/EPMS, CMMS and operational workflow tools.</li>
-<li>Strong written and verbal communication for shift documentation, incidents and customer updates.</li>
-<li>Contractor coordination skills with strong permit-to-work and LOTO awareness.</li>
-<li>Ability to coach others and improve team execution quality.</li>
-<li>Calm, methodical approach during alarms and operational events.</li>
-<li>Continuous improvement mindset with focus on reliability and operational quality.</li>
-</ul>
-<h3>Preferred Education and Experience</h3>
-<ul>
-<li>Experience in critical environments such as data centres, hospitals, utilities, defence or industrial facilities.</li>
-<li>Demonstrated capability operating and monitoring critical power and cooling systems, including UPS, generators, switchgear, PDUs/PMMs, ATS/STS, CRAC/CRAH, chilled water systems, pumps, controls and fire systems.</li>
-<li>Hands-on experience conducting operational inspections and first-response stabilisation actions.</li>
-<li>Experience using BMS/EPMS and CMMS/workflow tools for monitoring, work management and operational documentation.</li>
-<li>Ability to read and interpret single-line diagrams, technical drawings and OEM documentation.</li>
-<li>Familiarity with permit-to-work, isolations/LOTO and basic operational risk assessment.</li>
-<li>Strong written and verbal communication suitable for logs, handovers and customer-facing updates.</li>
-</ul>
-<h3>Work Environment / Conditions</h3>
-<ul>
-<li>Role operates on a 24/7 rotating shift roster including nights, weekends and public holidays.</li>
-<li>Work occurs in data halls, plant rooms, electrical/mechanical spaces and external plant areas; PPE is required in accordance with site policy.</li>
-<li>Participation in emergency response activities and incident exercises is required.</li>
-</ul>
-<h3>Travel Required</h3>
-<ul>
-<li>Minimal travel is expected; occasional travel between local STACK facilities may be required based on operational needs.</li>
-</ul>
-<h3>Additional Eligibility Requirements</h3>
-<ul>
-<li>Completion of STACK onboarding and required safety/compliance training.</li>
-<li>Ability to meet site authorisation requirements for system operation and system access.</li>
-<li>Physical capability to perform inspections, rounds and emergency response tasks.</li>
-<li>Ongoing compliance with STACK policies, procedures and behavioural standards.</li>
-</ul>
-<h3>Work Authorisation/Security Clearance Requirements</h3>
-<ul>
-<li>Legal entitlement to work in Australia.</li>
-<li>Ability to satisfy pre-employment screening requirements, as applicable, including right-to-work checks, background checks and reference checks.</li>
-<li>Ability to meet data centre security requirements, including badging, access control and adherence to customer-mandated security protocols.</li>
-<li>Security clearance is not required unless specified for a customer-specific facility.</li>
-</ul>
-<h3>Equal Opportunity Employer</h3>
-<p>STACK provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, colour, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by applicable federal, state or local laws.</p>
-<p>This policy applies to all terms and conditions of employment, including recruitment, hiring, placement, promotion, termination, redundancy, recall, transfer, leaves of absence, compensation and training.</p>
-<h3>Other Duties</h3>
-<p>Please note that this job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities required of the employee for this role. Duties, responsibilities and activities may change at any time with or without notice.</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6ab58d83bf0dd3f541589354?src=adzuna]]></url>
-    <location><![CDATA[Truganina, Victoria]]></location>
-    <country><![CDATA[AU]]></country>
-    <remote>0</remote>
-    <company><![CDATA[STACK]]></company>
-    <category>5</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-24T20:52:19.732Z]]></date>
   </job>
   <job>
     <id><![CDATA[6ab58c9ad3942e8feea2ff9d]]></id>
@@ -212921,40 +212661,6 @@
     <date><![CDATA[2026-09-07T19:25:19.696Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6a9f0ec81668619f6def5c6a]]></id>
-    <title><![CDATA[Accountant, Consolidation (12-month contract) (Based in Singapore)]]></title>
-    <description><![CDATA[<h3>The Role</h3>
-<p>This position will be responsible for the full spectrum of finance functions in accordance with statutory requirements, company policies and procedures.</p>
-<h3><b>Job Responsibilities</b></h3>
-<ul>
-<li>Responsible for timely preparation of monthly consolidated management accounts of a fund and accurate reporting of financial matters such as management reports, financial statements, analysis of results, budgeting and forecasting, EVA, audit schedules, intercompany reconciliation as well as checking of payment records.</li>
-<li>Supports management reporting for the fund through the preparation of monthly management reports, analysis and forecasts.</li>
-<li>Work closely with internal centres of excellence and review the work submitted.</li>
-<li>Liaise with local finance teams based in overseas for monthly, quarterly and yearly closing activities.</li>
-<li>Supports activities in relation to the administration of the fund including but not limited to the prepration of capital account statements, distributions etc.</li>
-<li>Assist in ad-hoc projects at both the Group and BU level.</li>
-</ul>
-<h3>Job Requirements</h3>
-<ul>
-<li>CPA/CA qualification and/or Degree in Accounting/Finance/Economics.</li>
-<li>Minimum 5 years’ relevant hands-on experience.</li>
-<li>Proficient in MS Excel.</li>
-<li>Able to communicate effectively with local stakeholders.</li>
-<li>Experience with SAP and Tagetik consolidation system would be advantageous.</li>
-<li>Responsible, meticulous, analytical, organized and able to work independently in a fast-paced environment.</li>
-</ul>
-<p>#LI-Hybrid #LI-HW</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6a9f0ec81668619f6def5c6a?src=adzuna]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>1</remote>
-    <company><![CDATA[Mapletree]]></company>
-    <category>1</category>
-    <contract_type>contract</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-07T19:21:44.508Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6a9f05e538ddcee98f9cf416]]></id>
     <title><![CDATA[Lead. Application Engineer I]]></title>
     <description><![CDATA[<h3>What you will do</h3>
@@ -225110,5 +224816,233 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-01T19:23:29.521Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a972631f4848538da18e07a]]></id>
+    <title><![CDATA[Data Center Operations Tech, Data Center Operations (DCO)]]></title>
+    <description><![CDATA[<p>AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we’re the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain — and we’re looking for talented people who want to help.</p>
+<p>You’ll join a diverse team of software, hardware, and network engineers, supply chain specialists, security experts, operations managers, and other vital roles. You’ll collaborate with people across AWS to help us deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers. And you’ll experience an inclusive culture that welcomes bold ideas and empowers you to own them to completion.</p>
+<p>Key job responsibilities As Data Centre Operations Tech, you will be the primary point of contact for internal customers. There is never a dull moment as each day presents itself with different challenges. Some of the key responsibilities you will undertake are:</p>
+<ul>
+<li>You will troubleshoot technical issues on advanced hardware, ranging from servers, storage and networking devices on a 24/7 basis.</li>
+<li>You will maintain a high level of system reliability and availability.</li>
+<li>You will participate in projects to enhance operational efficiencies with opportunities to share experiences and knowledge with our global network of technical experts.</li>
+<li>You will share knowledge and help train less technical staff on the best practices related to all service owner issues</li>
+<li>You will contribute towards building a great team by getting involved in the Amazon hiring process/candidate interviews</li>
+</ul>
+<p>A day in the life As Data Centre Operations Engineer, you will be the primary point of contact for internal customers. There is never a dull moment as each day presents itself with different challenges. Some of the key responsibilities you will undertake are:</p>
+<ul>
+<li>You will troubleshoot technical issues on advanced hardware, ranging from servers, storage and networking devices on a 24/7 basis.</li>
+<li>You will maintain a high level of system reliability and availability.</li>
+<li>You will participate in projects to enhance operational efficiencies with opportunities to share experiences and knowledge with our global network of technical experts.</li>
+<li>You will share knowledge and help train less technical staff on the best practices related to all service owner issues</li>
+<li>You will contribute towards building a great team by getting involved in the Amazon hiring process/candidate interviews</li>
+</ul>
+<p>About the team About AWS Diverse Experiences Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.</p>
+<p>Why AWS Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses. Work/Life Balance We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve. Inclusive Team Culture AWS values curiosity and connection. Our employee-led and company-sponsored affinity groups promote inclusion and empower our people to take pride in what makes us unique. Our inclusion events foster stronger, more collaborative teams. Our continual innovation is fueled by the bold ideas, fresh perspectives, and passionate voices our teams bring to everything we do.</p>
+<p>Mentorship and Career Growth We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.</p>
+<h3>Basic Qualifications</h3>
+<ul>
+<li>Bachelor's degree in Information Technology, Computer Science, or a related field</li>
+<li>Experience with computer hardware troubleshooting and repair</li>
+</ul>
+<h3>Preferred Qualifications</h3>
+<ul>
+<li>Experience dealing effectively with customers during problem resolution and operating efficiently under pressure</li>
+<li>Experience managing work and priorities through a ticketing system</li>
+<li>Experience working in a data center environment (racking and stacking gear, cable management, hot/cold aisle containment)</li>
+</ul>
+<p>Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit [https://amazon.jobs/content/en/how-we-hire/accommodations](https://amazon.jobs/content/en/how-we-hire/accommodations) for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.</p>
+<p>null</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a972631f4848538da18e07a?src=adzuna]]></url>
+    <location><![CDATA[Mumbai, Maharashtra]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Amazon Web Services]]></company>
+    <category>2</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-09-01T19:23:29.358Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a97263174eced9aceb83b0e]]></id>
+    <title><![CDATA[Data Center Technician L4, Data Center Operations (DCO)]]></title>
+    <description><![CDATA[<p>AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we’re the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain — and we’re looking for talented people who want to help.</p>
+<p>You’ll join a diverse team of software, hardware, and network engineers, supply chain specialists, security experts, operations managers, and other vital roles. You’ll collaborate with people across AWS to help us deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers. And you’ll experience an inclusive culture that welcomes bold ideas and empowers you to own them to completion.</p>
+<p>Key job responsibilities</p>
+<p>Design, implement, and maintain Linux-based server infrastructures with a focus on reliability and scalability. Perform comprehensive system monitoring, diagnostics, and performance optimization Configure and manage network hardware, including switches, routers, and complex cabling systems Develop and maintain robust backup and disaster recovery strategies. Collaborate with cross-functional teams to ensure seamless technological integration.</p>
+<p>A day in the life As Data Centre Operations Engineer, you will be the primary point of contact for internal customers. There is never a dull moment as each day presents itself with different challenges. Some of the key responsibilities you will undertake are:</p>
+<ul>
+<li>You will troubleshoot technical issues on advanced hardware, ranging from servers, storage and networking devices on a 24/7 basis.</li>
+<li>You will maintain a high level of system reliability and availability.</li>
+<li>You will participate in projects to enhance operational efficiencies with opportunities to share experiences and knowledge with our global network of technical experts.</li>
+<li>You will share knowledge and help train less technical staff on the best practices related to all service owner issues</li>
+<li>You will contribute towards building a great team by getting involved in the Amazon hiring process/candidate interviews</li>
+</ul>
+<p>About the team About AWS Diverse Experiences Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.</p>
+<p>Why AWS Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses. Work/Life Balance We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve. Inclusive Team Culture AWS values curiosity and connection. Our employee-led and company-sponsored affinity groups promote inclusion and empower our people to take pride in what makes us unique. Our inclusion events foster stronger, more collaborative teams. Our continual innovation is fueled by the bold ideas, fresh perspectives, and passionate voices our teams bring to everything we do.</p>
+<p>Mentorship and Career Growth We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.</p>
+<h3>Basic Qualifications</h3>
+<ul>
+<li>Bachelor's degree in Information Technology, Computer Science, or a related field</li>
+<li>2+ years of data center, critical environment, computer hardware repair, infrastructure cabling, network deployment, or data center operations experience</li>
+<li>Experience with computer hardware troubleshooting and repair</li>
+</ul>
+<h3>Preferred Qualifications</h3>
+<ul>
+<li>Experience dealing effectively with customers during problem resolution and operating efficiently under pressure</li>
+<li>Experience managing work and priorities through a ticketing system</li>
+<li>Experience with cabling infrastructure best practices and methodologies</li>
+<li>Experience working in a data center environment (racking and stacking gear, cable management, hot/cold aisle containment)</li>
+</ul>
+<p>Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit [https://amazon.jobs/content/en/how-we-hire/accommodations](https://amazon.jobs/content/en/how-we-hire/accommodations) for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a97263174eced9aceb83b0e?src=adzuna]]></url>
+    <location><![CDATA[Mumbai, Maharashtra]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Amazon Web Services]]></company>
+    <category>2</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-09-01T19:23:29.160Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a9726312ced0619ea441937]]></id>
+    <title><![CDATA[Data Center Operations Tech, Data Center Operations (DCO)]]></title>
+    <description><![CDATA[<p>AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we’re the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain — and we’re looking for talented people who want to help.</p>
+<p>You’ll join a diverse team of software, hardware, and network engineers, supply chain specialists, security experts, operations managers, and other vital roles. You’ll collaborate with people across AWS to help us deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers. And you’ll experience an inclusive culture that welcomes bold ideas and empowers you to own them to completion.</p>
+<p>Key job responsibilities As Data Centre Operations Tech, you will be the primary point of contact for internal customers. There is never a dull moment as each day presents itself with different challenges. Some of the key responsibilities you will undertake are:</p>
+<ul>
+<li>You will troubleshoot technical issues on advanced hardware, ranging from servers, storage and networking devices on a 24/7 basis.</li>
+<li>You will maintain a high level of system reliability and availability.</li>
+<li>You will participate in projects to enhance operational efficiencies with opportunities to share experiences and knowledge with our global network of technical experts.</li>
+<li>You will share knowledge and help train less technical staff on the best practices related to all service owner issues</li>
+<li>You will contribute towards building a great team by getting involved in the Amazon hiring process/candidate interviews</li>
+</ul>
+<p>A day in the life As Data Centre Operations Engineer, you will be the primary point of contact for internal customers. There is never a dull moment as each day presents itself with different challenges. Some of the key responsibilities you will undertake are:</p>
+<ul>
+<li>You will troubleshoot technical issues on advanced hardware, ranging from servers, storage and networking devices on a 24/7 basis.</li>
+<li>You will maintain a high level of system reliability and availability.</li>
+<li>You will participate in projects to enhance operational efficiencies with opportunities to share experiences and knowledge with our global network of technical experts.</li>
+<li>You will share knowledge and help train less technical staff on the best practices related to all service owner issues</li>
+<li>You will contribute towards building a great team by getting involved in the Amazon hiring process/candidate interviews</li>
+</ul>
+<p>About the team About AWS Diverse Experiences Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.</p>
+<p>Why AWS Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses. Work/Life Balance We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve. Inclusive Team Culture AWS values curiosity and connection. Our employee-led and company-sponsored affinity groups promote inclusion and empower our people to take pride in what makes us unique. Our inclusion events foster stronger, more collaborative teams. Our continual innovation is fueled by the bold ideas, fresh perspectives, and passionate voices our teams bring to everything we do.</p>
+<p>Mentorship and Career Growth We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.</p>
+<h3>Basic Qualifications</h3>
+<ul>
+<li>Bachelor's degree in Information Technology, Computer Science, or a related field</li>
+<li>Experience with computer hardware troubleshooting and repair</li>
+</ul>
+<h3>Preferred Qualifications</h3>
+<ul>
+<li>Experience dealing effectively with customers during problem resolution and operating efficiently under pressure</li>
+<li>Experience managing work and priorities through a ticketing system</li>
+<li>Experience working in a data center environment (racking and stacking gear, cable management, hot/cold aisle containment)</li>
+</ul>
+<p>Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit [https://amazon.jobs/content/en/how-we-hire/accommodations](https://amazon.jobs/content/en/how-we-hire/accommodations) for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.</p>
+<p>null</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a9726312ced0619ea441937?src=adzuna]]></url>
+    <location><![CDATA[Mumbai, Maharashtra]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Amazon Web Services]]></company>
+    <category>2</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-09-01T19:23:29.143Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a972631e0ad26950b51d314]]></id>
+    <title><![CDATA[Data Center Technician, Data Center Operations (DCO)]]></title>
+    <description><![CDATA[<p>AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we’re the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain — and we’re looking for talented people who want to help.</p>
+<p>You’ll join a diverse team of software, hardware, and network engineers, supply chain specialists, security experts, operations managers, and other vital roles. You’ll collaborate with people across AWS to help us deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers. And you’ll experience an inclusive culture that welcomes bold ideas and empowers you to own them to completion.</p>
+<p>Amazon Web Services (AWS) is growing rapidly, and we are looking for Data Center Technician to join our expanding Infrastructure Operations team. Data Center Operations designs, installs and maintains the world’s largest Computing Infrastructure. Our scope of work includes systems, repairing, dealing with issues, handling and tracking parts and assisting in Data Center maintenance. Amazon Data Centers are large-scale high-density centers where you will help change the face of Technology in the region.</p>
+<p>Key job responsibilities As Data Centre Operations Engineer, you will be the primary point of contact for internal customers. There is never a dull moment as each day presents itself with different challenges. Some of the key responsibilities you will undertake are:</p>
+<ul>
+<li>You will troubleshoot technical issues on advanced hardware, ranging from servers, storage and networking devices on a 24/7 basis.</li>
+<li>You will maintain a high level of system reliability and availability.</li>
+<li>You will participate in projects to enhance operational efficiencies with opportunities to share experiences and knowledge with our global network of technical experts.</li>
+<li>You will share knowledge and help train less technical staff on the best practices related to all service owner issues</li>
+<li>You will contribute towards building a great team by getting involved in the Amazon hiring process/candidate interviews</li>
+</ul>
+<p>A day in the life As a successful Data Center Operations engineer, your day-to-day work will include:</p>
+<ul>
+<li>Installation and configurations on Data center Servers and Network systems</li>
+<li>Installation, troubleshooting and replacement of internal and external hardware parts of Servers and Network devices</li>
+<li>Work within a ticket-based environment and work on systematic problem resolution</li>
+<li>Work on rotational shift-based schedule to maintain high system reliability</li>
+<li>Collaborate with internal teams and share ideas and contribute in innovative projects to improve DC work environment and overall efficiencies.</li>
+<li>This is a physically active role, we are always on the move onsite.</li>
+</ul>
+<p>About the team About AWS Diverse Experiences Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.</p>
+<p>Why AWS Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses. Work/Life Balance We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve. Inclusive Team Culture AWS values curiosity and connection. Our employee-led and company-sponsored affinity groups promote inclusion and empower our people to take pride in what makes us unique. Our inclusion events foster stronger, more collaborative teams. Our continual innovation is fueled by the bold ideas, fresh perspectives, and passionate voices our teams bring to everything we do.</p>
+<p>Mentorship and Career Growth We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.</p>
+<h3>Basic Qualifications</h3>
+<ul>
+<li>Bachelor's degree in Information Technology, Computer Science, or a related field</li>
+<li>Experience with computer hardware troubleshooting and repair</li>
+<li>2+ years of data center, critical environment, computer hardware repair, infrastructure cabling, network deployment, or data center operations experience</li>
+</ul>
+<h3>Preferred Qualifications</h3>
+<ul>
+<li>Experience dealing effectively with customers during problem resolution and operating efficiently under pressure</li>
+<li>Experience managing work and priorities through a ticketing system</li>
+<li>Experience with cabling infrastructure best practices and methodologies</li>
+<li>Experience working in a data center environment (racking and stacking gear, cable management, hot/cold aisle containment)</li>
+</ul>
+<p>Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit [https://amazon.jobs/content/en/how-we-hire/accommodations](https://amazon.jobs/content/en/how-we-hire/accommodations) for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a972631e0ad26950b51d314?src=adzuna]]></url>
+    <location><![CDATA[Mumbai, Maharashtra]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Amazon Web Services]]></company>
+    <category>2</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-09-01T19:23:29.091Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a972631979f306d86c27bc2]]></id>
+    <title><![CDATA[Data Center Technician , Data Center Operations (DCO)]]></title>
+    <description><![CDATA[<p>AWS Infrastructure Services owns the design, planning, delivery, and operation of all AWS global infrastructure. In other words, we’re the people who keep the cloud running. We support all AWS data centers and all of the servers, storage, networking, power, and cooling equipment that ensure our customers have continual access to the innovation they rely on. We work on the most challenging problems, with thousands of variables impacting the supply chain — and we’re looking for talented people who want to help.</p>
+<p>You’ll join a diverse team of software, hardware, and network engineers, supply chain specialists, security experts, operations managers, and other vital roles. You’ll collaborate with people across AWS to help us deliver the highest standards for safety and security while providing seemingly infinite capacity at the lowest possible cost for our customers. And you’ll experience an inclusive culture that welcomes bold ideas and empowers you to own them to completion.</p>
+<p>Key job responsibilities</p>
+<p>Design, implement, and maintain Linux-based server infrastructures with a focus on reliability and scalability. Perform comprehensive system monitoring, diagnostics, and performance optimization Configure and manage network hardware, including switches, routers, and complex cabling systems Develop and maintain robust backup and disaster recovery strategies. Collaborate with cross-functional teams to ensure seamless technological integration.</p>
+<p>A day in the life As Data Centre Operations Engineer, you will be the primary point of contact for internal customers. There is never a dull moment as each day presents itself with different challenges. Some of the key responsibilities you will undertake are:</p>
+<ul>
+<li>You will troubleshoot technical issues on advanced hardware, ranging from servers, storage and networking devices on a 24/7 basis.</li>
+<li>You will maintain a high level of system reliability and availability.</li>
+<li>You will participate in projects to enhance operational efficiencies with opportunities to share experiences and knowledge with our global network of technical experts.</li>
+<li>You will share knowledge and help train less technical staff on the best practices related to all service owner issues</li>
+<li>You will contribute towards building a great team by getting involved in the Amazon hiring process/candidate interviews</li>
+</ul>
+<p>About the team About AWS Diverse Experiences Amazon values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.</p>
+<p>Why AWS Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses. Work/Life Balance We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve. Inclusive Team Culture AWS values curiosity and connection. Our employee-led and company-sponsored affinity groups promote inclusion and empower our people to take pride in what makes us unique. Our inclusion events foster stronger, more collaborative teams. Our continual innovation is fueled by the bold ideas, fresh perspectives, and passionate voices our teams bring to everything we do.</p>
+<p>Mentorship and Career Growth We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.</p>
+<h3>Basic Qualifications</h3>
+<ul>
+<li>Bachelor's degree in Information Technology, Computer Science, or a related field</li>
+<li>Experience with computer hardware troubleshooting and repair</li>
+</ul>
+<h3>Preferred Qualifications</h3>
+<ul>
+<li>Experience dealing effectively with customers during problem resolution and operating efficiently under pressure</li>
+<li>Experience managing work and priorities through a ticketing system</li>
+<li>Experience with cabling infrastructure best practices and methodologies</li>
+<li>Experience working in a data center environment (racking and stacking gear, cable management, hot/cold aisle containment)</li>
+</ul>
+<p>Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit [https://amazon.jobs/content/en/how-we-hire/accommodations](https://amazon.jobs/content/en/how-we-hire/accommodations) for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.</p>
+<p>null</p>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a972631979f306d86c27bc2?src=adzuna]]></url>
+    <location><![CDATA[Mumbai, Maharashtra]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Amazon Web Services]]></company>
+    <category>2</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-09-01T19:23:29.071Z]]></date>
   </job>
 </jobs>
