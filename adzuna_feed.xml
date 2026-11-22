@@ -17590,75 +17590,6 @@
     <date><![CDATA[2026-11-16T20:34:35.561Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6afb68cb79f6e413c4d2cd6a]]></id>
-    <title><![CDATA[Senior AI Engineer #AIDA]]></title>
-    <description><![CDATA[<p>Singapore, Singapore</p>
-<h3>Company</h3>
-<p>Singtel Group</p>
-<h3>Powering the Future with AIDA</h3>
-<p>To lead the next phase of our AI evolution, we’ve launched a new business unit AIDA – Artificial Intelligence &amp; Data Analytics – a strategic engine driving our transformation designed to scale our AI ambitions with precision and purpose. This marks a pivotal shift in how we operate, innovate, and serve to embed intelligence into every layer of our business.</p>
-<p>At Singtel, this is more than a technology upgrade. It’s a strategic transformation that redefines how value is created across the enterprise core—augmenting human capabilities and unlocking entirely new potential. It is a transformation journey by aligning people, platforms, and processes under one cohesive strategy. Our mission is to build AI literacy and foster a culture where intelligence empowers people.</p>
-<p>We welcome you to join us on a transformational journey that’s reshaping the telecommunications industry — and redefining what’s possible with AI at its core. Grow with us in a workplace that champions innovation, embraces agility, and puts human potential at the heart of everything we do.</p>
-<p>We are seeking a highly skilled AI Engineer to design, build, and scale AI and Agentic AI solutions that drive real business impact. You will collaborate closely with solution architects and Lead AI Engineers to translate requirements into robust AI-driven systems, ensuring solutions are secure, scalable, and production-ready.</p>
-<p>This role requires a strong balance of applied AI development, full stack (front end/backend) software engineer, R&amp;D curiosity, and operational ownership.</p>
-<h3>How you will make an impact</h3>
-<ul>
-<li>Build end-to-end AI Agentic applications using Agents SDK or equivalents, frontier Large Language Models, and node.js/python runtimes</li>
-</ul>
-<ul>
-<li>Develop and maintain integration of AI Agentic solutions with enterprise systems via MCPs, A2A, and related frameworks.</li>
-<li>Work with architects to understand requirements and define solution approaches, while partnering with software engineers for system integration.</li>
-<li>Enhance and maintain user interfaces for usability and continuous improvement across various Channels including Voice/Telephony, Web Messaging, Mobile Applications, and WhatsApp</li>
-</ul>
-<ul>
-<li>Design hybrid solutions combining backend, frontend, LLM, prompting, A2A for agentic integration, MCP, and human-in- the-loop workflows</li>
-</ul>
-<ul>
-<li>Maintain middleware components including SSO, authentication, and authorization mechanisms.</li>
-<li>Monitor production AI agents, track KPIs, and proactively resolve performance or reliability issues.</li>
-<li>Implement security best practices, establish fallback/backup strategies, and mitigate potential risks in AI solutions.</li>
-<li>Maintain and enhance existing solution with right and relevant AI capabilities across Enterprise, Consumer, IT, Networks and Corporate Functions domain.</li>
-<li>Support and optimize the marketplace recommender system, ensuring updated offers and business rules are integrated smoothly.</li>
-<li>Monitor, troubleshoot, and improve production pipelines, backend and frontend application and AI services for reliability, performance, and scalability.</li>
-<li>Stay up to date with the latest advancements in Agentic AI and conduct applied research to enrich internal capabilities.</li>
-<li>Apply software engineering standards, including modular code design, reproducibility, and rigorous testing.</li>
-<li>Faced new problems which does not exist a tested approach and requires some level of R&amp;D</li>
-</ul>
-<ul>
-<li>Balancing between process and approval management vs project timelines</li>
-</ul>
-<h3>Skills for Success</h3>
-<ul>
-<li>Bachelor’s or Master’s degree in Computer Science, Engineering, Data, AI/ML, or related field.</li>
-<li>5 years of proven experience developing and deploying software and AI solutions, with exposure to agentic AI frameworks.</li>
-<li>Proficient in Python, and/or TypeScript/nodejs, or functional languages</li>
-</ul>
-<ul>
-<li>Hands-on experience with Agents SDK, LangChain, or similar AI frameworks.</li>
-<li>Good knowledge in LLM integration and orchestration.</li>
-<li>Knowledge in prompt engineering.</li>
-<li>Experience with system integration - RESTful, gRPC, MCP a plus.</li>
-<li>Knowledge of middleware systems, including SSO and access control (OAuth2, JWT, etc.).</li>
-<li>Familiar with version control (GitHub, GitLab, Bitbucket).</li>
-<li>Exposure to cloud platforms (Azure, AWS, GCP preferred).</li>
-<li>Passion for applied R&amp;D, staying ahead of AI advancements, and bringing innovative ideas into production.</li>
-<li>Strong problem-solving ability, attention to detail, and ability to collaborate effectively across teams.</li>
-<li>Comfortable working in a cross-functional team (Software/AI engineers, data platform, business users).</li>
-<li>Experience in building secure, enterprise-grade integrations.</li>
-</ul>
-<h3>Are you ready to say hello to BIG Possibilities?</h3>
-<p><b>Join Singtel to shape what's next and accelerate your career through meaningful work, continuous learning, and real impact.</b></p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6afb68cb79f6e413c4d2cd6a?src=adzuna]]></url>
-    <location><![CDATA[Singapore]]></location>
-    <country><![CDATA[SG]]></country>
-    <remote>1</remote>
-    <company><![CDATA[Singtel Digital InfraCo]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-11-16T20:34:19.489Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6afb68a8c442b427d9e81c37]]></id>
     <title><![CDATA[Senior System Engineer]]></title>
     <description><![CDATA[<p>Singapore, Singapore</p>
@@ -20885,62 +20816,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-11-15T18:22:23.393Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6af9f632ee38a99ad36a263f]]></id>
-    <title><![CDATA[Software Test Engineer]]></title>
-    <description><![CDATA[<h3>Job Description</h3>
-<p><b>Your Work Shapes the World at Caterpillar Inc.</b></p>
-<p>When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.</p>
-<h3>Role Summary</h3>
-<p>The Test Engineer is responsible for designing, implementing, and executing comprehensive testing strategies to ensure the highest quality of software and systems. This role involves leading test automation initiatives, mentoring junior engineers, and collaborating with cross-functional teams to deliver reliable, scalable, and secure products.</p>
-<h3>Key Responsibilities</h3>
-<ul>
-<li>Develop, maintain, and execute automated and manual test plans for software applications.</li>
-<li>Design and implement test frameworks and tools to improve efficiency and coverage.</li>
-<li>Perform functional, regression, integration, and performance testing across multiple platforms.</li>
-<li>Identify, document, and track defects using industry-standard tools (e.g., JIRA).</li>
-<li>Collaborate with developers, product managers, and QA teams to resolve issues and improve quality.</li>
-<li>Monitor and analyse test results, providing actionable insights for continuous improvement.</li>
-<li>Ensure compliance with organizational quality assurance standards and best practices.</li>
-<li>Mentor and guide junior test engineers in testing methodologies and tools.</li>
-</ul>
-<h3>Required Qualifications</h3>
-<ul>
-<li>Bachelor’s degree in computer science, Engineering, or related field.</li>
-<li>5+ years of experience in software testing, including automation and manual testing.</li>
-<li>Strong understanding of SDLC, QA methodologies, and Agile practices.</li>
-<li>Proficiency in test automation tools Playwright, Selenium, JUnit, LoadRunner.</li>
-<li>Hands-on experience with programming languages Python, Java.</li>
-<li>Familiarity with CI/CD pipelines and API testing.</li>
-<li>Excellent analytical, problem-solving, and communication skills.</li>
-</ul>
-<h3>Preferred Skills</h3>
-<ul>
-<li>ISTQB or equivalent certification.</li>
-<li>Experience with cloud-based testing environments.</li>
-<li>Knowledge of performance and security testing.</li>
-<li>Ability to work in multi-vendor and cross-functional environments.</li>
-</ul>
-<p><b>Tools &amp; Technologies</b></p>
-<ul>
-<li>Automation: Playwright, Selenium, JUnit, TestNG, Cucumber, Appian, WebDriver</li>
-<li>Bug Tracking: JIRA, Azure DevOps</li>
-<li>CI/CD: Jenkins, GitHub Actions</li>
-<li>Languages: Python, Java</li>
-<li>Performance Testing: LoadRunner, JMeter</li>
-</ul>
-<p><b>Posting Dates:</b></p>
-<p>November 15, 2026 - November 21, 2026 Caterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6af9f632ee38a99ad36a263f?src=adzuna]]></url>
-    <location><![CDATA[Bangalore, Karnātaka / Chennai, Tamil Nādu, India, Karnataka]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Caterpillar]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-11-15T18:13:06.708Z]]></date>
   </job>
   <job>
     <id><![CDATA[6af8bc737d467780c8a3d549]]></id>
@@ -54365,70 +54240,6 @@
     <date><![CDATA[2026-10-31T20:23:16.661Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6ae643ad66a2b7de8e1f8d0a]]></id>
-    <title><![CDATA[Specialist, Renewable Consulting]]></title>
-    <description><![CDATA[<h3>Job Description</h3>
-<p><b>Senior Consultant / Manager – RE Solar Project Developer Advisory</b></p>
-<p><b>Location:</b> India</p>
-<p><b>Department:</b> CleanTech &amp; Renewable Energy Advisory / Sustainability Business</p>
-<p><b>Employment Type:</b> Full-time</p>
-<h3>Position Overview</h3>
-<p>We are looking for an experienced <b>Solar Project Developer Advisory Consultant</b> to lead techno-commercial feasibility, detailed engineering consultancy, and technical due diligence for solar PV projects (Rooftop, Ground-Mounted, and Group Captive/Utility-Scale). You will serve as a trusted technical advisor, evaluating greenfield opportunities and conducting asset health assessments for operational plants.</p>
-<h3>Key Responsibilities</h3>
-<ul>
-<li>Conduct site surveys (rooftop, ground, structural) and shadow analysis. Perform energy yield modelling (PVsyst/Helioscope) and prepare detailed techno-commercial feasibility reports (NPV, ROI, payback).</li>
-<li>Develop and review Single Line Diagrams (SLDs) from array to point of coupling (LT/HT). Conduct short-circuit, cable sizing, earthing, and protection studies in compliance with regulatory norms.</li>
-<li>Evaluate roof/ground load-bearing capacities, dynamic wind loads, and structural integrity. Define specifications for module mounting structures (MMS), corrosion protection, and civil BOQs.</li>
-<li>Perform technical due diligence on operational plants to assess degradation, identify execution defects, and recommend yield-enhancement and retrofit strategies.</li>
-<li>Draft EPC tender packages, technically evaluate vendor bids, manage pre-award negotiations, and review Issued-For-Construction (IFC) drawings.</li>
-<li>Should have understanding of the  land conversion requirement, title verification, and Right-of-Way (RoW) risks. Navigate statutory clearances (e.g. CEIG, connectivity approvals, and local RE policies).</li>
-<li>Should Prepare ROI / payback / NPV / IRR calculations based on project cost, energy saving, tariff assumptions, banking / settlement charges if applicable, O&amp;M cost, degradation and statutory charges</li>
-</ul>
-<ul>
-<li>Prepare / review IFC drawings, layout drawings, SLDs, cable route drawings, cable schedules, earthing layouts, lightning protection layouts, civil / structural drawings, equipment layouts and installation details.</li>
-</ul>
-<p><b>Preferred / Good to Have</b></p>
-<ul>
-<li>Foundational knowledge of land acquisition, title verification, and RoW clearances.</li>
-<li>Exposure to corporate PPAs, Group Captive rules, and Virtual PPAs (vPPAs).</li>
-<li>PMP or Certified Energy Auditor (CEA) credential.</li>
-</ul>
-<p><b>Required Qualifications &amp; Experience</b></p>
-<ul>
-<li><b>Education:</b> Bachelor’s or Master’s in Electrical, Renewable Energy, or Civil Engineering.</li>
-<li><b>Experience:</b> 5–10 years in solar PV engineering consultancy, EPC project development advisory, or detailed engineering (DEC).</li>
-<li><b>Core Technical Skills:</b></li>
-</ul>
-<ul>
-<li>Proficiency in <b>PVsyst</b>, <b>AutoCAD</b>, and shadow analysis software.</li>
-<li>Deep knowledge of HT/LT electrical design, protection schemes, transformer sizing, and SCADA systems.</li>
-<li>Strong grasp of structural load calculations, wind dynamics, and civil foundation/anchoring techniques.</li>
-<li>Proven track record in operational plant due diligence and performance benchmarking.</li>
-<li><b>Standards &amp; Regulations:</b> Strong familiarity with national grid codes, CEA safety regulations, DISCOM norms, and IS/IEC standards.</li>
-</ul>
-<p>Rewards designed for you</p>
-<p>Our Total Rewards is our way of saying: We see you and we value you. It’s more than just pay and benefits—it’s a meaningful investment in you. It is designed to help you perform, grow, feel safe, and elevate your potential. The package helps you care for yourself and your family, plan your future, grow your skills and career, collaborate in an inclusive workplace, and contribute to your community. At Schneider Electric, we’re here for what matters most to you. Discover more at our [Career Page](https://www.se.com/careers).</p>
-<p>\\* Country-specific programs and initiatives may be available.</p>
-<p><b>Looking to make an IMPACT with your career?</b></p>
-<p>When you are thinking about joining a new team, culture matters. At Schneider Electric, our values and behaviors are the foundation for creating a great culture to support business success. We believe that our  IMPACT values – Inclusion, Mastery, Purpose, Action, Curiosity, Teamwork – starts with us.</p>
-<p>IMPACT is also your invitation to join Schneider Electric where you can contribute to turning sustainability ambition into actions, no matter what role you play. It is a call to connect your career with the ambition of achieving a more resilient, efficient, and sustainable world.</p>
-<p>We are looking for IMPACT Makers; exceptional people who turn sustainability ambitions into actions at the intersection of automation, electrification, and digitization. We celebrate IMPACT Makers and believe everyone has the potential to be one.</p>
-<p>Become an IMPACT Maker with Schneider Electric – apply today!</p>
-<p>€40 billion global revenue</p>
-<p>+9% organic growth</p>
-<p>150 000+ employees in 100+ countries</p>
-<p>Your Career, Your Way​ \| Schneider Electric Careers</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6ae643ad66a2b7de8e1f8d0a?src=adzuna]]></url>
-    <location><![CDATA[India, IN]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Schneider Electric]]></company>
-    <category>23</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-10-31T19:38:21.970Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6ae643ad0e7bf9318f3c5302]]></id>
     <title><![CDATA[Generalist Service Representative II ( Cooling)]]></title>
     <description><![CDATA[<h3>Job Description</h3>
@@ -83278,72 +83089,6 @@
     <date><![CDATA[2026-10-16T21:06:36.907Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6ad28ecd92b6e1491676fe39]]></id>
-    <title><![CDATA[24/7 Service Technician]]></title>
-    <description><![CDATA[<p><b>Make your mark in this exciting opportunity to work at Australia and New Zealand's leading data centres.</b></p>
-<ul>
-<li><b>Critical Infrastructure experience or HVAC or Electrical trades are desired</b></li>
-<li><b>Tailored CDC Academy and hands-on training provided</b></li>
-<li><b>24/7 Shift - 2 days, 2 nights- 4 days off</b></li>
-</ul>
-<h3>About Us</h3>
-<p>CDC Data Centres is Australia and New Zealand's leading operator of sovereign, secure, world-class data centre facilities. Headquartered in Canberra with multiple facilities across ACT, NSW, VIC and New Zealand, CDC’s diversified operations provide secure data centre configurations that support co-location, containerised and hyperscale compute environments with all campuses interconnected with high-speed carrier grade networks.</p>
-<p>At CDC we are passionate about creating an inclusive workplace that promotes and values diversity. We believe that everyone’s unique experiences enable us to deliver meaningful benefits for our people, our clients and communities. Our mission is to attract, retain and grow the world’s best data centre team. Our people are committed, tenacious and meticulous in supporting our customers. Together, we configure the landscape to meet the security, reliability, connectivity and sustainability needs for today and tomorrow.</p>
-<h3>About the Role</h3>
-<p>At CDC, our Service Technicians work in live data centre environments, supporting the operation of mission‑critical infrastructure.</p>
-<p>If you’ve spent time in electrical, HVAC, or industrial environments, a lot of this will feel familiar. Working to procedures, taking safety seriously, and understanding the impact of your work is critical. A data centre applies those same principles to power, cooling, fire systems and monitoring, all operating continuously. The difference is the environment, the scale, and the opportunity to apply your skills in a stable, growing industry.</p>
-<p>Data centre experience isn’t required. We welcome people from a range of hands‑on technical backgrounds and provide training and support to help you apply your existing skills in a more operational, monitoring‑focused environment.</p>
-<p><b>What you’ll be doing day‑to‑day:</b></p>
-<ul>
-<li>Monitoring and responding to alarms and alerts across power, cooling, and fire systems</li>
-<li>Performing physical inspections to ensure equipment and infrastructure are operating within defined parameters</li>
-<li>Responding to faults and incidents, prioritising actions, and determining when escalation or contractor support is required</li>
-<li>Carrying out operational switching and control activities to prevent unplanned outages</li>
-<li>Supporting planned maintenance and monitoring contractors on site, ensuring strict adherence to safety procedures and approved methods of operation</li>
-<li>Documenting incidents, maintenance activities, and observations to support continuous improvement</li>
-</ul>
-<p>This role works on a rotating <b>24/7 shift roster (2 days, 2 nights, 4 off)</b> and suits individuals who are comfortable making decisions, following defined processes, and working calmly in high‑reliability environments.</p>
-<p><b>Benefits, Training and Offerings:</b></p>
-<p>Our training program provides tailored content through our CDC Academy, specifically designed for individuals starting out in this role. You'll learn hands-on by shadowing and working alongside our experienced Service Technicians, gaining essential knowledge to develop your skillset.</p>
-<p>CDC offers excellent employment conditions and benefits such as:</p>
-<ul>
-<li><b>CDC Academy</b> - Make your mark by enhancing your professional development with the CDC Academy. Enrol in specialised training courses that will help you develop skills and ensure you thrive in your chosen career.</li>
-<li><b>CDC Day</b> - An additional day of paid leave dedicated to nurturing your health and wellbeing.</li>
-<li><b>Parental Leave</b> - Inclusive and above legislative tenure of parental leave entitlements to help you start, grow and care for your family.</li>
-<li><b>Volunteer Leave</b> - Make a meaningful difference with 2 days of volunteering leave for any cause or charity of your choice.</li>
-<li><b>Employment Assistance Program</b> - Be confident that you and your family are supported with access to our comprehensive Employee Assistance Program.</li>
-<li><b>CDC Social Events</b> - CDC’s offers staff and their family’s inclusive events that nurtures relationships, connection and friendships across the business. CDC hosts BBQs, family picnics and community events, bringing together CDC staff in different settings.</li>
-</ul>
-<p><b>About You and Requirements for the Role:</b></p>
-<p>You have experience working in electrical, HVAC, mechanical, or other critical infrastructure environments where safety, reliability, and process are critical.</p>
-<p>For those currently on the tools, this role represents a move into data centre operations. Rather than performing day-to-day trade work, you'll be monitoring critical infrastructure, coordinating activities, and following established operational procedures.</p>
-<p>The role also requires a level of computer literacy, as you'll be responsible for maintaining documentation, updating procedures, completing reports, and using site systems to support day-to-day operations.</p>
-<p>Desirable experience:</p>
-<ul>
-<li>A trade or technical background in Electrical, Refrigeration/HVAC, Mechanical, or a related field (highly desirable)</li>
-<li>Experience working in critical or high‑availability environments with strong safety and compliance requirements</li>
-<li>Exposure to monitoring or control systems such as BMS, EMS, or SCADA‑type platforms</li>
-<li>Familiarity with complex infrastructure or plant equipment (e.g. HVAC systems, power systems, generators, fire systems)</li>
-<li>Strong fault‑finding, problem‑solving, and situational awareness skills</li>
-<li>The ability to produce clear documentation, logs, and post‑incident reports</li>
-</ul>
-<p><b>Essential:</b></p>
-<p>New Zealand Citizenship or PR with the ability to obtain a government clearance.</p>
-<p><b>How to Apply:</b></p>
-<p>If you're looking to be part of Australia and New Zealand's leading large-scale data centre innovator, submit your resume and cover letter by clicking Apply.</p>
-<p>We are committed to fostering a diverse and inclusive workplace where all individuals are valued and respected. We believe that diversity of backgrounds, perspectives, and experiences leads to innovation and success. We actively promote equality and strive to create a welcoming environment for all employees. We are dedicated to building a team that reflects the diversity of our community and we encourage everyone to bring their authentic selves to work.</p>
-<p><b>Applications close for internal applicants on Friday 23rd October</b></p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6ad28ecd92b6e1491676fe39?src=adzuna]]></url>
-    <location><![CDATA[Auckland]]></location>
-    <country><![CDATA[NZ]]></country>
-    <remote>0</remote>
-    <company><![CDATA[CDC]]></company>
-    <category>5</category>
-    <contract_type>contract</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-10-16T20:53:33.691Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6ad28c531fd144aade3f9ef6]]></id>
     <title><![CDATA[Project Engineer – HV Infrastructure (Australia)]]></title>
     <description><![CDATA[<h3>Company Overview</h3>
@@ -100759,49 +100504,6 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-10-09T18:24:17.332Z]]></date>
-  </job>
-  <job>
-    <id><![CDATA[6ac92ee0ec76d1f5c4954162]]></id>
-    <title><![CDATA[Software Engineer- Performance Engineering]]></title>
-    <description><![CDATA[<h3>Job Description</h3>
-<p><b>Your Work Shapes the World at Caterpillar Inc.</b></p>
-<p>When you join Caterpillar, you're joining a global team who cares not just about the work we do – but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here – we make it happen, with our customers, where we work and live. Together, we are building a better world, so we can all enjoy living in it.</p>
-<p><b>Performance Engineer</b> – <b>Exp</b> 5-10 years</p>
-<h3>Job Description</h3>
-<p>Manage End to End Performance Engineering/Testing Delivery for Key Projects</p>
-<h3>Required skills</h3>
-<ul>
-<li>Strong experience in <b>performance testing and engineering</b> for web, mobile, and hybrid applications.</li>
-<li>Advanced proficiency in <b>JMeter</b> (Groovy, JSR223, Web HTTP, Selenium WebDriver).</li>
-<li>Hands-on scripting using <b>TypeScript/JavaScript</b> with Playwright.</li>
-<li>Expertise in <b>root cause analysis</b> of performance issues and providing recommendations through proof-of-concepts.</li>
-<li>Ability to evaluate performance across <b>UI, middleware, and backend layers</b>.</li>
-<li>Solid experience with <b>monitoring and profiling tools</b> such as AppDynamics, Grafana, Kibana, and other profiling utilities.</li>
-<li>Familiarity with <b>AWS Cloud monitoring</b> (CloudWatch) and <b>Azure/AWS key services</b> for performance monitoring and DevOps.</li>
-<li>Client-side performance testing using <b>Lighthouse</b> and <b>Sitespeed</b>.</li>
-<li>End-to-end ownership of performance testing projects, including <b>requirements gathering, test design, scripting, execution, analysis, and reporting</b>.</li>
-<li>Programming knowledge in <b>SQL</b> and at least one language such as <b>Java or Python</b>.</li>
-<li>Ability to adapt to evolving technologies and tools.</li>
-</ul>
-<p><b>Desired skills</b></p>
-<ul>
-<li>Experience creating <b>Sitespeed scripts</b>and conducting<b>Front-end performance analysis</b>.</li>
-<li>Usage of AI and ML for testing, analysis or reporting</li>
-<li>Knowledge of <b>K6 with Grafana</b> and <b>Artillery</b> for load testing.</li>
-<li>Ability to develop <b>in-house tools and enhancements</b>.</li>
-<li>Broader experience in <b>performance engineering</b> and additional profiling tools.</li>
-</ul>
-<p><b>Posting Dates:</b></p>
-<p>October 9, 2026 - October 15, 2026 Caterpillar is an Equal Opportunity Employer. Qualified applicants of any age are encouraged to apply</p>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6ac92ee0ec76d1f5c4954162?src=adzuna]]></url>
-    <location><![CDATA[Bangalore, Karnātaka / Chennai, Tamil Nādu, India, Karnataka/Tamil Nadu]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>1</remote>
-    <company><![CDATA[Caterpillar]]></company>
-    <category>2</category>
-    <contract_type>permanent</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-10-09T18:13:52.142Z]]></date>
   </job>
   <job>
     <id><![CDATA[6ac92ed2d0566b26927a97c9]]></id>
@@ -203878,46 +203580,6 @@
     <date><![CDATA[2026-09-10T08:09:14.879Z]]></date>
   </job>
   <job>
-    <id><![CDATA[6aa22c1c14367ef32b999e4a]]></id>
-    <title><![CDATA[Territory Manager - Sales (Project)]]></title>
-    <description><![CDATA[<h3>Job Description</h3>
-<p>As a Territory Manager - Sales (Project), you will be responsible for developing and executing sales strategies to achieve revenue targets. This role requires a self-starter with excellent communication and negotiation skills, who can build strong relationships with clients and stakeholders. The successful candidate will have the opportunity to make a significant impact on the company's growth and success.</p>
-<h3>Responsibilities</h3>
-<ul>
-<li>Lead and manage a team of sales executives, providing guidance and support to achieve sales targets.</li>
-<li>Develop and implement sales strategies and plans to penetrate the building, contractor, and architect markets.</li>
-<li>Identify and target potential clients, building a strong network and pipeline of opportunities.</li>
-<li>Negotiate and close deals, ensuring profitable and sustainable business relationships.</li>
-<li>Maintain and update accurate sales records and reports, providing regular updates to the management team.</li>
-<li>Stay updated with industry trends and competitor activities, and adapt sales approaches accordingly.</li>
-<li>Collaborate with marketing and product teams to develop effective sales collateral and proposals.</li>
-<li>Provide excellent customer service and after-sales support to ensure client satisfaction and retention.</li>
-<li>Attend industry events, conferences, and exhibitions to represent the company and build brand awareness.</li>
-</ul>
-<h3>Qualifications</h3>
-<ul>
-<li>Bachelor's degree in Business Administration, Marketing, or a related field.</li>
-<li>5-8 years of experience in B2B sales, with a proven track record in the building, contractor, and architect sectors.</li>
-<li>Strong leadership and management skills, with the ability to motivate and mentor a team.</li>
-<li>Excellent communication and interpersonal skills, with a customer-centric approach.</li>
-<li>Proven ability to negotiate and close deals, with a results-driven mindset.</li>
-<li>Analytical skills to interpret sales data and make informed decisions.</li>
-<li>Familiarity with sales CRM tools and software is preferred.</li>
-<li>Ability to travel within the territory as required for client meetings and events.</li>
-<li>Valid driving license and access to a vehicle for business travel.</li>
-<li>A self-motivated and proactive attitude, with a passion for sales and business development.</li>
-</ul>]]></description>
-    <url><![CDATA[https://sourceo.io/jobs/6aa22c1c14367ef32b999e4a?src=adzuna]]></url>
-    <location><![CDATA[Nagpur, Maharashtra]]></location>
-    <country><![CDATA[IN]]></country>
-    <remote>0</remote>
-    <company><![CDATA[Legrand]]></company>
-    <category>3</category>
-    <contract_type>contract</contract_type>
-    <contract_time>full_time</contract_time>
-    <date><![CDATA[2026-09-10T04:03:40.924Z]]></date>
-  </job>
-  <job>
     <id><![CDATA[6aa22c1c7567a257d65befa9]]></id>
     <title><![CDATA[Deputy Manager – Panel Assembly]]></title>
     <description><![CDATA[<h3>Job Description</h3>
@@ -222363,5 +222025,413 @@
     <contract_type>permanent</contract_type>
     <contract_time>full_time</contract_time>
     <date><![CDATA[2026-09-02T19:34:27.327Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a987a11e62f6c38f0e94587]]></id>
+    <title><![CDATA[Commissioning Technician - Thermal, VIC]]></title>
+    <description><![CDATA[<h3>Job Description</h3>
+<p>The Thermal Customer Engineer (Technician) – Commissioning is a highly specialised technical role within the APAC ANZ division, responsible for delivering end-to-end commissioning of precision cooling systems including Computer Room Air Conditioning (CRAC), Computer Room Air Handlers (CRAH), Fan Wall Units (FWU), and Coolant Distribution Units (CDU). Reporting directly to the Service Operations Manager – Start Up Services, ANZ, this role is pivotal in ensuring the reliable and efficient operation of mission critical Thermal Infrastructure across large-scale environments, including Tier 1 Data Centres.</p>
+<h3>Key Responsibilities</h3>
+<p><b>Planning &amp; Reporting:</b></p>
+<ul>
+<li>Time Sheets - Digital reporting tool to be used to accurately record hours worked each day.</li>
+<li>Commissioning/Service Reports - to be completed within set timeframes.</li>
+<li>Proactively communicate project progress and any site issues to the Project Manager &amp; Service Operations Manager.</li>
+</ul>
+<p><b>Operational Delivery:</b></p>
+<ul>
+<li><b>Own the commissioning process from start to finish -</b> You'll lead the full commissioning cycle across Vertiv's complete range of CDU, CRAC, CRAH, FWU &amp; TWU units, delivering critical infrastructure that keeps the world's most important facilities running.</li>
+<li><b>Work on landmark projects -</b> Carry out L2, L3, and L4 commissioning tasks alongside experienced Vertiv Project &amp; Commissioning Managers. If you've previously worked on Tier 1 Data Centre sites, you'll feel right at home here.</li>
+<li><b>Broaden your expertise -</b> This isn't a one-dimensional role. You'll also support the Service Team with maintenance and time &amp; material works, giving you exposure across the full asset lifecycle.</li>
+<li><b>Be the face of Vertiv -</b> Build trusted relationships with our customers through professional, solutions-focused interactions. Your feedback helps shape how we deliver for our clients.</li>
+<li><b>Never stop growing -</b> Access ongoing training across multiple Vertiv technologies, keeping your skills sharp and your career moving forward.</li>
+</ul>
+<p><b>Enjoy the perks -</b> A fully maintained company vehicle and the support you need to represent Vertiv at the highest standard, every day.</p>
+<p><b>Daily Work Duties and expectations:</b></p>
+<ul>
+<li>Travel to various sites, including remote locations, requiring a valid Driver's Licence.</li>
+<li>Undertake overnight or extended travel as project demands require.</li>
+<li>Working on and around Energised Electrical equipment, adhering strictly to safety protocols.</li>
+<li>Safely work on live refrigerant lines and pressure vessels, in compliance with refrigerant handling regulations and licensing requirements.</li>
+<li>Working and Heights (needs Work at Heights Training and refreshed every 5 years)</li>
+<li>Operate within HVAC mechanical systems, demonstrating physical adaptability including working in awkward body positions as required by the equipment configuration.</li>
+<li>Undertake manual handling tasks, including lifting, carrying, and relocating equipment and components in accordance with WHS guidelines (e.g Compressors, Gas Bottles etc.).</li>
+</ul>
+<p><b>WHS, Environment &amp; Quality:</b></p>
+<ul>
+<li>Comply with all Work, Health &amp; Safety, Environment and Quality obligations</li>
+<li>Actively champion a safety-first culture on all sites, leading by example and encouraging safe behaviours among colleagues and contractors.</li>
+<li><b>I</b> dentify, report, and mitigate workplace hazards promptly and effectively.</li>
+</ul>
+<h3>Job Info</h3>
+<ul>
+<li>Job Identification20279643</li>
+<li>Job CategoryField Service</li>
+<li>Posting Date09/01/2026, 10:45 PM</li>
+<li>LocationsMelbourne, Australia</li>
+</ul>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a987a11e62f6c38f0e94587?src=adzuna]]></url>
+    <location><![CDATA[Melbourne, Victoria]]></location>
+    <country><![CDATA[AU]]></country>
+    <remote>1</remote>
+    <company><![CDATA[Vertiv]]></company>
+    <category>12</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-09-02T19:33:37.972Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a987a11919dc6fe9643489d]]></id>
+    <title><![CDATA[Engineer I Mechanical Engineering IX]]></title>
+    <description><![CDATA[<h3>Job Description</h3>
+<p><b>Job Description for Mechanical Engineer - T9</b></p>
+<p>The candidate will focus on the design and development of sheet metal enclosures for Power - UPS applications. Candidate will work in cooperation with other design engineers and cross functional teams for developing proto type units &amp; factory, Will follow NPDI Gate processes &amp; release documents. Will support for pilot lot &amp; shopfloor issues.</p>
+<p><b>Location : Ambernath Factory</b></p>
+<p>Key Requirements</p>
+<ul>
+<li>Good knowledge of sheet metal design and sheet metal working processes</li>
+<li>Knowledge of 3D design and 2D drafting using CREO or any other CAD software</li>
+<li>Ability to work with speed and accuracy to deliver manufacturing drawings and other documents</li>
+<li>Experience in design of sheet metal enclosures for indoor applications</li>
+<li>Knowledge of enclosure design considering dust and water Ingress Protection</li>
+<li>Bachelor’s Degree in Mechanical Engineering</li>
+<li><b>7-8 years</b> of relevant work experience</li>
+</ul>
+<p>Desirable</p>
+<ul>
+<li>Hands on Experience on sheet metal prototype development</li>
+<li>Knowledge of busbar design considerations</li>
+<li>Ability to work independently with least supervision</li>
+</ul>
+<h3>Responsibilities</h3>
+<ul>
+<li>Design of complete sheet metal enclosure (3D design and manufacturing 2D drawings)</li>
+<li>Visit supplier and manufacturing plant for prototype development</li>
+<li>Handle all design related activities from product request till prototype development</li>
+<li>Responsible for timely and accurate delivery of drawings and other documents</li>
+<li>Perform detailed structural analysis and validation of designs to ensure safety, durability, and cost efficiency.</li>
+<li>Provide alternative solutions for mechanical designs that reduce costs without compromising quality or specifications.</li>
+<li>Evaluate and suggest alternative materials to enhance performance and reduce costs, ensuring compliance with both mechanical and electrical requirements.</li>
+<li>Collaborate with cross-functional teams (Electrical Engineers, Manufacturing, etc.) to optimize product designs.</li>
+<li>Ensure designs comply with industry standards and regulations.</li>
+<li>Prepare detailed reports and documentation for engineering projects.</li>
+</ul>
+<h3>About Us</h3>
+<p><b>The successful candidate will embrace Vertiv’s Core Principles &amp; Behaviors to help execute our Strategic Priorities.</b></p>
+<p><b>OUR CORE PRINCIPLES:</b> Safety. Integrity. Respect. Teamwork. Inclusion.</p>
+<h3>OUR STRATEGIC PRIORITIES</h3>
+<ul>
+<li>High-Performance Culture</li>
+<li>Customer Focus</li>
+<li>Operational Excellence</li>
+<li>Innovation</li>
+<li>Financial Strength</li>
+</ul>
+<h3>VERTIV BEHAVIORS</h3>
+<ul>
+<li>Own it</li>
+<li>Act with urgency</li>
+<li>Foster a customer-first mindset</li>
+<li>Think big and execute</li>
+<li>Lead by example</li>
+<li>Drive continuous improvement</li>
+<li>Learn and seek out development</li>
+<li>Promote transparent &amp; open communication</li>
+</ul>
+<p><b>About Vertiv</b></p>
+<p>Vertiv (NYSE: VRT) brings together hardware, software, analytics and ongoing services to enable its customers’ vital applications to run continuously, perform optimally and grow with their business needs. Vertiv solves the most important challenges facing today’s data centers, communication networks, and commercial and industrial facilities with a portfolio of power, cooling and IT infrastructure solutions and services that extend from the cloud to the edge of the network. Headquartered in Westerville, Ohio, USA, Vertiv employs around 34,000 people and does business in more than 130 countries. Visit Vertiv.com to learn more.</p>
+<p><b>Equal Opportunity Employer</b></p>
+<p>Vertiv is an Equal Opportunity/Affirmative Action employer. We promote equal opportunities for all with respect to hiring, terms of employment, mobility, training, compensation, and occupational health, without discrimination as to age, race, color, religion, creed, sex, pregnancy status (including childbirth, breastfeeding, or related medical conditions), marital status, sexual orientation, gender identity / expression (including transgender status or sexual stereotypes), genetic information, citizenship status, national origin, protected veteran status, political affiliation, or disability. If you have a disability and are having difficulty accessing or using this website to apply for a position, you can request help by sending an email to [help.join@vertiv.com](mailto:help.join@vertiv.com)</p>
+<h3>Job Info</h3>
+<ul>
+<li>Job Identification20279146</li>
+<li>Job CategoryMechanical Engineering</li>
+<li>Posting Date09/02/2026, 04:36 AM</li>
+<li>LocationsAmbernath, IndiaThane, India</li>
+</ul>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a987a11919dc6fe9643489d?src=adzuna]]></url>
+    <location><![CDATA[Ambernath, Maharashtra]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Vertiv]]></company>
+    <category>5</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-09-02T19:33:37.779Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a987a11aaa98902c41078d9]]></id>
+    <title><![CDATA[Sr. Engineer Reliability Engineering XI]]></title>
+    <description><![CDATA[<h3>Job Description</h3>
+<p><b>Senior Engineer – Code Compliance</b></p>
+<p>Electrical &amp; Thermal Products \| Vertiv Power and Thermal Management</p>
+<p>|     |     |     |     | | --- | --- | --- | --- | | <b>Experience</b>&lt;br&gt; 5–10 years | <b>Function</b>&lt;br&gt; Code Compliance | <b>Scope</b>&lt;br&gt; Power + Thermal | <b>Level</b>&lt;br&gt; Senior Engineer |</p>
+<h3>Position Summary</h3>
+<p>The Senior Engineer – Code Compliance, Electrical &amp; Thermal Products will support Vertiv Power and Thermal Management product lines by ensuring that product designs, engineering documentation, electrical systems, thermal systems, components, submittals, and certification deliverables comply with applicable product safety standards, electrical codes, thermal equipment requirements, customer specifications, and regional regulatory expectations.</p>
+<p>This role is intended for a senior engineer with 5–10 years of experience in electrical design, thermal product engineering, safety/compliance, certification support, design review, or code compliance for industrial, data center, HVAC, power, or critical infrastructure products.</p>
+<p>Product Scope</p>
+<p>|     |     | | --- | --- | | <b>Vertiv Power Products</b> | <b>Vertiv Thermal Products</b> | | UPS and power systems; power distribution units; switchgear/switchboards; electrical panels; energy storage/battery systems; integrated modular solutions; racks and site monitoring systems. | CRAC units; fan walls; AHUs; XDUs; chillers; air cooling; liquid cooling; heat rejection/reuse equipment; controls and related cooling-system documentation. |</p>
+<p>Key Responsibilities Electrical &amp; Power Product Compliance</p>
+<ul>
+<li>Review electrical schematics, single-line/three-line diagrams, wiring diagrams, power calculations, grounding and bonding systems, cable management, lighting/power distribution plans, monitoring/control systems, BOMs, installation documents, and maintenance documentation.</li>
+<li>Ensure electrical designs comply with applicable electrical codes, product safety requirements, customer specifications, and regional regulatory expectations.</li>
+<li>Support compliance for power products such as UPS, switchgear, switchboards, PDUs, power distribution systems, energy storage, integrated modular solutions, and site monitoring systems.</li>
+<li>Support standards alignment for power products such as UL891 switchboards and UL1558 switchgear where applicable.</li>
+</ul>
+<p>Thermal Product Compliance</p>
+<ul>
+<li>Review thermal product designs and documentation for CRAC, fan wall, AHU, XDU, chiller, air cooling, liquid cooling, heat rejection, and heat reuse systems.</li>
+<li>Support compliance review of submittals, airflow summaries, unit drawings, component performance, fan data, filter data, electrical cabinet heat calculations, safety notes, and component specification sheets.</li>
+<li>Support testing, commissioning, preventive maintenance, troubleshooting documentation, Method Statements, Risk Assessments, Site Acceptance Test procedures, and incident documentation where relevant to compliance deliverables.</li>
+<li>Support refrigerant and regulatory-readiness reviews for cooling products, including low-GWP refrigerant transition requirements when applicable.</li>
+</ul>
+<p>Cross-Product Standards &amp; Certification Support</p>
+<ul>
+<li>Interpret and apply product safety, electrical, thermal, environmental, and regional standards during NPD, sustaining engineering, customer projects, product changes, and product release activities.</li>
+<li>Participate in design reviews with engineering, product management, manufacturing, quality, sourcing, and business unit teams to identify compliance risks early and recommend corrective actions.</li>
+<li>Maintain compliance checklists, standards matrices, technical justifications, evidence packages, compliance reports, and audit-ready documentation.</li>
+<li>Coordinate with internal compliance teams, certification bodies, suppliers, and product teams for certification evidence, product approvals, component changes, and compliance documentation.</li>
+</ul>
+<h3>Required Qualifications</h3>
+<p>|     |     | | --- | --- | | <b>Area</b> | <b>Requirement</b> | | <b>Education</b> | Bachelor’s degree in Electrical Engineering, Electronics Engineering, Mechanical  Engineering, Thermal Engineering, HVAC Engineering, Power Systems, or related engineering discipline. | | <b>Experience</b> | 5–10 years of experience in electrical design, thermal/HVAC product engineering, compliance engineering, product safety, certification support, or code compliance. | | <b>Product exposure</b> | Experience with power systems, power distribution, switchgear/switchboards, UPS, PDUs, racks, electrical panels, HVAC systems, CRAC, AHU, fan wall, XDU, chiller, liquid cooling, or data center infrastructure products. | | <b>Electrical capability</b> | Ability to review schematics, wiring diagrams, power calculations, grounding/bonding, control panels, component selections, BOMs, and installation documents. | | <b>Thermal capability</b> | Understanding of thermal product operation, airflow, cooling performance, hydronic/hydraulic/pneumatic fundamentals, and data center cooling principles. | | <b>Standards knowledge</b> | Working knowledge of NEC, UL, CSA, IEC, CE, NFPA 70E, thermal/HVAC-related standards, and regional compliance requirements relevant to the product scope. | | <b>Documentation</b> | Ability to prepare compliance matrices, design review notes, certification evidence, risk assessments, test documentation, corrective-action records, and technical justifications. | | <b>Collaboration</b> | Ability to work with product engineering, electrical engineering, mechanical/thermal engineering, quality, manufacturing, sourcing, suppliers, certification agencies, and business unit teams. |</p>
+<p>Desirable Qualifications</p>
+<ul>
+<li>Prior experience in data center infrastructure, critical power, thermal management, cooling systems, industrial electrical equipment, or mission-critical products.</li>
+<li>Experience with power products such as UPS, switchgear, switchboards, PDUs, battery/energy storage systems, power distribution systems, and integrated modular solutions.</li>
+<li>Experience with thermal products such as CRAC, fan wall, AHU, XDU, chillers, direct expansion systems, chilled water systems, liquid cooling, heat rejection, and heat reuse systems.</li>
+<li>Familiarity with emerging high voltage data center and server rack standards.</li>
+<li>Familiarity with product certifications and regional compliance requirements across North America, Europe, and global markets.</li>
+<li>Refrigerant regulations, low-GWP refrigerant readiness, and LEED and BREAM sustainability documentation as applies to Data Centers where applicable.</li>
+</ul>
+<p>Main Compliance Standards / Codes to Focus On</p>
+<p>|     |     | | --- | --- | | <b>Category</b> | <b>Standards / Codes</b> | | <b>Electrical installation &amp; safety</b> | NEC / NFPA 70, NFPA 70E, OSHA electrical safety requirements, lockout/tagout/tryout, arc flash, energized-work controls. | | <b>Power product safety</b> | UL508A, UL1995, UL891, UL1558, applicable CSA requirements, NEMA, ANSI, IEEE, IEC, and CE depending on product and market. | | <b>Thermal / HVAC product compliance</b> | Product-specific HVAC and thermal equipment standards relevant to CRAC, fan wall, AHU, XDU, chillers, airflow, filters, heat rejection, cooling performance, electrical cabinet heat, and component performance documentation. | | <b>Quality / management systems</b> | ISO 9001, ISO 45001, and ISO 14001 where applicable to manufacturing, safety, and environmental management systems. | | <b>Data center / integrated systems</b> | Local/regional electrical and construction codes, customer specifications, interoperable power/thermal system integration requirements, and standards playbook alignment. |</p>
+<p>Technical Skills Required</p>
+<p>|     |     |     | | --- | --- | --- | |</p>
+<ul>
+<li>Electrical code interpretation |</li>
+<li>Thermal product compliance review |</li>
+<li>Product safety standards interpretation |</li>
+</ul>
+<p>|</p>
+<ul>
+<li>Power distribution and control panel review |</li>
+<li>HVAC/cooling system design review |</li>
+<li>Data center power and cooling architecture understanding |</li>
+</ul>
+<p>|</p>
+<ul>
+<li>Certification documentation and compliance matrix preparation |</li>
+<li>BOM/component compliance review |</li>
+<li>Submittal review and technical documentation |</li>
+</ul>
+<p>|</p>
+<ul>
+<li>Risk assessment and corrective action tracking |</li>
+<li>Supplier documentation review |</li>
+<li>Root-cause analysis and design issue resolution |</li>
+</ul>
+<p>|</p>
+<ul>
+<li>Cross-functional design review leadership |  |  |</li>
+</ul>
+<p>Behavioral Competencies</p>
+<ul>
+<li>Strong ownership and accountability</li>
+<li>Detail-oriented review mindset</li>
+<li>Ability to challenge design assumptions constructively</li>
+<li>Strong written and verbal communication</li>
+<li>Cross-functional collaboration</li>
+<li>Customer-first mindset</li>
+<li>Continuous improvement mindset</li>
+</ul>
+<h3>About Us</h3>
+<p><b>The successful candidate will embrace Vertiv’s Core Principles &amp; Behaviors to help execute our Strategic Priorities.</b></p>
+<p><b>OUR CORE PRINCIPLES:</b> Safety. Integrity. Respect. Teamwork. Inclusion.</p>
+<h3>OUR STRATEGIC PRIORITIES</h3>
+<ul>
+<li>High-Performance Culture</li>
+<li>Customer Focus</li>
+<li>Operational Excellence</li>
+<li>Innovation</li>
+<li>Financial Strength</li>
+</ul>
+<h3>VERTIV BEHAVIORS</h3>
+<ul>
+<li>Own it</li>
+<li>Act with urgency</li>
+<li>Foster a customer-first mindset</li>
+<li>Think big and execute</li>
+<li>Lead by example</li>
+<li>Drive continuous improvement</li>
+<li>Learn and seek out development</li>
+<li>Promote transparent &amp; open communication</li>
+</ul>
+<p><b>About Vertiv</b></p>
+<p>Vertiv (NYSE: VRT) brings together hardware, software, analytics and ongoing services to enable its customers’ vital applications to run continuously, perform optimally and grow with their business needs. Vertiv solves the most important challenges facing today’s data centers, communication networks, and commercial and industrial facilities with a portfolio of power, cooling and IT infrastructure solutions and services that extend from the cloud to the edge of the network. Headquartered in Westerville, Ohio, USA, Vertiv employs around 34,000 people and does business in more than 130 countries. Visit Vertiv.com to learn more.</p>
+<p><b>Equal Opportunity Employer</b></p>
+<p>Vertiv is an Equal Opportunity/Affirmative Action employer. We promote equal opportunities for all with respect to hiring, terms of employment, mobility, training, compensation, and occupational health, without discrimination as to age, race, color, religion, creed, sex, pregnancy status (including childbirth, breastfeeding, or related medical conditions), marital status, sexual orientation, gender identity / expression (including transgender status or sexual stereotypes), genetic information, citizenship status, national origin, protected veteran status, political affiliation, or disability. If you have a disability and are having difficulty accessing or using this website to apply for a position, you can request help by sending an email to [help.join@vertiv.com](mailto:help.join@vertiv.com)</p>
+<h3>Job Info</h3>
+<ul>
+<li>Job Identification20278765</li>
+<li>Job CategoryReliability Engineering</li>
+<li>Posting Date09/02/2026, 07:33 AM</li>
+<li>LocationsPune, India</li>
+</ul>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a987a11aaa98902c41078d9?src=adzuna]]></url>
+    <location><![CDATA[Pune, Maharashtra]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Vertiv]]></company>
+    <category>5</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-09-02T19:33:37.502Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a987a1134a6fc7ddf078732]]></id>
+    <title><![CDATA[Sustaining Engineer I (Ops)]]></title>
+    <description><![CDATA[<h3>Job Description</h3>
+<h3>POSITION SUMMARY</h3>
+<p>The Sustaining Engineer is responsible for providing immediate response to design-related production issues, managing the Product Lifecycle for Busbar designs, and improving Design for Manufacturability. Busbar is an Engineered-To-Order (ETO) product, which means each customer order is specifically engineered. This generally leads to higher complexity and variation for departments supporting this product family. This position is ideal for individuals seeking a fast-paced environment that fosters problem-solving and continuous improvement.</p>
+<h3>RESPONSIBILITIES</h3>
+<ul>
+<li>Identify and Cross-Functionally Coordinate Design for Manufacturability Improvements (Safety, Quality, and Efficiency)</li>
+<li>Provide design support for issues discovered during production</li>
+<li>Provide design support for supply chain constraints</li>
+<li>Support New Product Development and Introduction (NPDI)</li>
+<li>Ensure quality of ETO design before released to production</li>
+</ul>
+<h3>QUALIFICATIONS</h3>
+<ul>
+<li>1-3+ years of experience in product design</li>
+<li>1-3+ years of experience in 3D modeling / 2D drafting</li>
+<li>Excellent communications skills – written &amp; verbal</li>
+<li>Experience in Design for Manufacturability</li>
+<li>1-3+ years of experience in Sheet Metal and Copper Design</li>
+<li>Proficient in Microsoft Office Suite</li>
+<li>Bachelor’s degree in Mechanical Engineering</li>
+</ul>
+<h3>PHYSICAL &amp; ENVIRONMENTAL DEMANDS</h3>
+<ul>
+<li>No special physical requirements</li>
+</ul>
+<h3>TIME TRAVEL REQUIRED</h3>
+<ul>
+<li>10%</li>
+</ul>
+<h3>About Us</h3>
+<p><b>The successful candidate will embrace Vertiv’s Core Principles &amp; Behaviors to help execute our Strategic Priorities.</b></p>
+<p><b>OUR CORE PRINCIPLES:</b> Safety. Integrity. Respect. Teamwork. Inclusion.</p>
+<h3>OUR STRATEGIC PRIORITIES</h3>
+<ul>
+<li>High-Performance Culture</li>
+<li>Customer Focus</li>
+<li>Operational Excellence</li>
+<li>Innovation</li>
+<li>Financial Strength</li>
+</ul>
+<h3>VERTIV BEHAVIORS</h3>
+<ul>
+<li>Own it</li>
+<li>Act with urgency</li>
+<li>Foster a customer-first mindset</li>
+<li>Think big and execute</li>
+<li>Lead by example</li>
+<li>Drive continuous improvement</li>
+<li>Learn and seek out development</li>
+<li>Promote transparent &amp; open communication</li>
+</ul>
+<p><b>About Vertiv</b></p>
+<p>Vertiv (NYSE: VRT) brings together hardware, software, analytics and ongoing services to enable its customers’ vital applications to run continuously, perform optimally and grow with their business needs. Vertiv solves the most important challenges facing today’s data centers, communication networks, and commercial and industrial facilities with a portfolio of power, cooling and IT infrastructure solutions and services that extend from the cloud to the edge of the network. Headquartered in Westerville, Ohio, USA, Vertiv employs around 34,000 people and does business in more than 130 countries. Visit Vertiv.com to learn more.</p>
+<p><b>Equal Opportunity Employer</b></p>
+<p>Vertiv is an Equal Opportunity/Affirmative Action employer. We promote equal opportunities for all with respect to hiring, terms of employment, mobility, training, compensation, and occupational health, without discrimination as to age, race, color, religion, creed, sex, pregnancy status (including childbirth, breastfeeding, or related medical conditions), marital status, sexual orientation, gender identity / expression (including transgender status or sexual stereotypes), genetic information, citizenship status, national origin, protected veteran status, political affiliation, or disability. If you have a disability and are having difficulty accessing or using this website to apply for a position, you can request help by sending an email to [help.join@vertiv.com](mailto:help.join@vertiv.com)</p>
+<h3>Job Info</h3>
+<ul>
+<li>Job Identification20279308</li>
+<li>Job CategoryMechanical Engineering</li>
+<li>Posting Date09/02/2026, 04:38 AM</li>
+<li>LocationsAmbernath, IndiaThane, India</li>
+</ul>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a987a1134a6fc7ddf078732?src=adzuna]]></url>
+    <location><![CDATA[Ambernath, Maharashtra]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>0</remote>
+    <company><![CDATA[Vertiv]]></company>
+    <category>5</category>
+    <contract_type>permanent</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-09-02T19:33:37.329Z]]></date>
+  </job>
+  <job>
+    <id><![CDATA[6a987a118869e63ba6b4930c]]></id>
+    <title><![CDATA[Application Development & Support Specialist (Oracle Sales Cloud)]]></title>
+    <description><![CDATA[<h3>Job Description</h3>
+<p><b>Job Title:</b> <b>Application Development &amp; Support Specialist</b></p>
+<p><b>Function/Department:</b> IT / Sales Applications</p>
+<p><b>Reports to:</b> Manager Application Development &amp; Support</p>
+<p><b>Location:</b> Pune, India</p>
+<p>Vertiv, a $4.5B global organization with nearly 30,000 employees, designs, builds and services critical infrastructure that enables vital applications for data centers, communication networks, and commercial and industrial facilities. We support today’s growing mobile and cloud computing markets with a portfolio of power, thermal and infrastructure management solutions.</p>
+<p><b>Position Summary</b>:</p>
+<p>The <b>Application Development &amp; Support Specialist</b> will be responsible of the development of the Oracle Sales Cloud applications. He/She will be the subject matter expert of the Oracle Sales Cloud application including its integration with other digital tools.</p>
+<p>The role will provide in-depth application support for Oracle Sales Cloud applications, execute and monitor application enhancements requests, develop and configure front end application design, coordinate with DB and backend integrations, escalate issues to application providers, deliver instance for development regression testing and facilitate regular meetings with assigned group.</p>
+<h3>Key Duties</h3>
+<ul>
+<li>Contribute into the development and the deployment of Oracle Sales Cloud System Configuration particularly in the designing, building, testing, implementation and stabilization.</li>
+<li>Deploy system enhancements, service requests (change requests) ensuring solution is scalable and meets overall business requirements and identify/document functional gaps</li>
+<li>Support regression and integration testing when there is a new release as well as in any situation when quick or detailed testing is a must.</li>
+<li>Participate in root cause analysis / corrective action for critical issues and incidents</li>
+<li>Analyze production configuration issues and resolve any technical gaps</li>
+<li>Develop, support, maintain interfaces between Oracle Sales Cloud and related business critical systems.</li>
+<li>Generate and maintain documentation for changes made to systems.</li>
+<li>Collaborate with the Project Management Office to estimate the delivery timelines, estimate resourcing needs, and identify risks &amp; issues upfront</li>
+<li>Work system specifications and develop functioning programs using the Oracle Sales Cloud Platform or other Sales Enablement platforms</li>
+<li>Develop test plans to ensure proper system functionality and defects free release and meet business requirements. Maintain systems to ensure reliability and performance.</li>
+<li>Escalate issues and requests to vendor or implementation partner and ensure timely resolution.</li>
+<li>Work effectively with remote team members, outsourced resources, and users to complete tasks.</li>
+<li>Conduct ongoing quality reviews and analysis of data in Oracle Sales Cloud. Identifies data quality issues and escalates for corrective action</li>
+</ul>
+<p><b>School Background / Working Seniority</b></p>
+<ul>
+<li>Experience in Oracle Sales Cloud integrations with other sales platforms</li>
+<li>Bachelor’s degree or equivalent</li>
+<li>International experience</li>
+<li>Exposure /internship in an international System Integrator company is a plus</li>
+</ul>
+<p><b>Basic Skills</b></p>
+<ul>
+<li>Strong English language skills</li>
+<li>Analytical, and Problem-solving skills are required</li>
+</ul>
+<p><b>Technical / Functional skills</b></p>
+<ul>
+<li>Exposure to Oracle Sales Cloud platform, Oracle cloud CX (Sales and Service) and Redwood</li>
+<li>Exposure to Oracle ERP systems</li>
+<li>Exposure with Oracle Visual Builder (VBCS), VBS</li>
+<li>Exposure with PL/SQL or MS SQL, Java and Javascript is preferred</li>
+<li>Exposure creating Functional Requirement Documentation</li>
+<li>Excellent Communication and Teamwork skills</li>
+<li>Process Discipline and Documentation skills essential</li>
+<li>Ready to move beyond own area of comfort</li>
+<li>Ability to be adaptable and flexible while responding to deadlines on assignments and workflow fluctuations</li>
+</ul>
+<h3>About the Team</h3>
+<p>Equal Opportunity Employer</p>
+<p>We promote equal opportunities for all with respect to hiring, terms of employment, mobility, training, compensation, and occupational health, without discrimination as to age, race, color, religion, creed, sex, pregnancy status (including childbirth, breastfeeding, or related medical conditions), marital status, sexual orientation, gender identity / expression (including transgender status or sexual stereotypes), genetic information, citizenship status, national origin, protected veteran status, political affiliation, or disability.</p>
+<h3>Job Info</h3>
+<ul>
+<li>Job Identification20263352</li>
+<li>Job CategoryBusiness Applications</li>
+<li>Posting Date09/02/2026, 01:15 AM</li>
+<li>LocationsPune, India</li>
+</ul>]]></description>
+    <url><![CDATA[https://sourceo.io/jobs/6a987a118869e63ba6b4930c?src=adzuna]]></url>
+    <location><![CDATA[Pune, Maharashtra]]></location>
+    <country><![CDATA[IN]]></country>
+    <remote>1</remote>
+    <company><![CDATA[Vertiv]]></company>
+    <category>2</category>
+    <contract_type>contract</contract_type>
+    <contract_time>full_time</contract_time>
+    <date><![CDATA[2026-09-02T19:33:37.170Z]]></date>
   </job>
 </jobs>
